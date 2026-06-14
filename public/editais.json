@@ -364,20 +364,410 @@
   },
   {
     "id": "catapult-green-fintech-2026",
-    "titulo": "Catapult: Green Fintech 2026 – 3rd Edition",
-    "orgao": "LHoFT Foundation (Luxembourg House of Financial Technology)",
+    "titulo": "Catapult: Green Fintech 2026",
+    "orgao": "LHoFT Foundation / Governo de Luxemburgo",
     "origem": "Internacional",
     "areas": [
-      "Finanças sustentáveis",
-      "Green fintech",
+      "finanças sustentáveis",
+      "inovação financeira",
       "ESG",
-      "Tecnologias para sustentabilidade no agro"
+      "clima e meio ambiente",
+      "cadeias agroalimentares sustentáveis (soluções elegíveis)"
     ],
-    "publico": "Startups fintech de qualquer país com soluções em finanças sustentáveis, incluindo modelos voltados a gestão de riscos ESG e financiamento de cadeias agroalimentares sustentáveis",
-    "valor": "Financiamento de até €1.000, além de cobertura de hospedagem e refeições durante o bootcamp",
+    "publico": "Startups fintech de todo o mundo que desenvolvam soluções em finanças sustentáveis, incluindo aplicações para cadeias agroalimentares e agropecuária sustentável",
+    "valor": "Financiamento de até €1.000 para custeio local, com hospedagem e refeições durante o bootcamp cobertas",
     "prazo": "2026-07-08",
-    "desc": "Bootcamp internacional de uma semana em Luxemburgo para até 10 empresas fintech selecionadas, focado em soluções que integrem gestão de riscos ESG e finanças sustentáveis, com potencial aplicação em cadeias de valor agro e projetos de sustentabilidade ambiental ligados à agropecuária.[1]",
+    "desc": "Bootcamp internacional de uma semana em Luxemburgo para acelerar startups de green fintech que contribuam para integrar a gestão de riscos ESG, incluindo soluções que apoiem investimentos em agricultura e sistemas alimentares sustentáveis.",
     "url": "https://www.lhoft.com/programmes/catapult-green-fintech-2026",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "cnpq-bolsas-produtividade-2026",
+    "titulo": "Chamada CNPq – Bolsas de Produtividade em Pesquisa (PQ, PQ-Sr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT) – Vigência a partir de 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas do conhecimento",
+      "Agropecuária",
+      "Ciências Agrárias"
+    ],
+    "publico": "Pesquisadores doutores com destacada produção científica, tecnológica ou de inovação, com vínculo em ICTs brasileiras, interessados em bolsas de produtividade (PQ, PQ-Sr, DT)",
+    "valor": "Investimento global previsto de aproximadamente R$ 587,4 milhões para cerca de 5.762 bolsas (5.499 bolsas PQ/PQ-Sr e 263 bolsas DT); valores mensais de referência: PQ-Sr ~R$1.500 (5 anos); PQ/DT Nível A ~R$1.500 + R$1.560 (5 anos); PQ/DT Nível B ~R$1.320 + R$1.320 (4 anos); PQ/DT Nível C ~R$1.100 + R$1.000 (3 anos)",
+    "prazo": "2026-01-20",
+    "desc": "Chamada nacional do CNPq para concessão de bolsas de Produtividade em Pesquisa (PQ), Produtividade em Pesquisa Sênior (PQ-Sr) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), com início das bolsas em 2026, voltada a pesquisadores com produção de destaque em todas as áreas, incluindo ciências agrárias e agropecuária. Visa valorizar a produção de excelência, fomentar pesquisas com rigor científico e impacto em CT&I, e apoiar projetos individuais vinculados ao plano de trabalho do bolsista.",
+    "url": "https://www.gov.br/cnpq/pt-br",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "cnpq-mcti-fndct-12-2026-pci",
+    "titulo": "Chamada CNPq/MCTI/FNDCT Nº 12/2026 – Programa de Capacitação Institucional (PCI)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciência, Tecnologia e Inovação",
+      "Multidisciplinar",
+      "Agropecuária (quando vinculada a ICT do MCTI)"
+    ],
+    "publico": "Pesquisadores e profissionais vinculados ou a serem vinculados a Instituições Científicas, Tecnológicas e de Inovação (ICTs) do MCTI, para atuação em projetos de pesquisa, desenvolvimento e inovação no âmbito do PCI",
+    "valor": "Não há limite de valor por projeto; a recomendação depende da previsão de recursos por rubrica definida na chamada",
+    "prazo": "2026-06-27",
+    "desc": "Chamada que apoia projetos de pesquisa, desenvolvimento e inovação em ICTs vinculadas ao MCTI, no âmbito do Programa de Capacitação Institucional (PCI), com recursos do FNDCT operacionalizados pelo CNPq. Financia bolsas e itens de custeio para projetos alinhados às necessidades institucionais de CT&I, incluindo áreas relacionadas à agropecuária quando presentes na agenda das ICTs participantes.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "cnpq-mcti-11-2026-renama-nams",
+    "titulo": "Chamada CNPq/MCTI Nº 11/2026 – Rede Nacional de Métodos Alternativos (RENAMA) e New Approach Methodologies (NAMs)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Métodos alternativos à experimentação animal",
+      "Toxicologia",
+      "Biotecnologia",
+      "Ciências da Vida",
+      "Agropecuária (sanidade, insumos, toxicologia agroambiental)"
+    ],
+    "publico": "Grupos de pesquisa sediados em ICTs brasileiras interessados em desenvolver ou aplicar métodos alternativos e NAMs em rede nacional",
+    "valor": "Valores máximos e faixas de financiamento por proposta definidos na chamada (incluindo bolsas, custeio e capital), de acordo com linhas e metas da RENAMA",
+    "prazo": null,
+    "desc": "Chamada que visa apoiar a Rede Nacional de Métodos Alternativos (RENAMA) e o desenvolvimento e aplicação de New Approach Methodologies (NAMs), fortalecendo infraestrutura, redes colaborativas e projetos de P,D&I em métodos alternativos à experimentação animal. Inclui potencial aplicação em agropecuária, como avaliação de segurança de insumos agropecuários, toxicologia ambiental e sanidade animal em plataformas in vitro e in silico.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "cnpq-mcti-mec-09-2026-pop-ciencia-feiras",
+    "titulo": "Chamada CNPq/MCTI/MEC Nº 09/2026 – Feiras de Ciências e Mostras Científicas – POP CIÊNCIA",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Educação Científica",
+      "Popularização da Ciência",
+      "Todas as áreas do conhecimento",
+      "Agropecuária (temas de ciências agrárias em feiras e mostras)"
+    ],
+    "publico": "Instituições proponentes responsáveis pela organização de feiras e mostras científicas em âmbito municipal, estadual, distrital ou nacional, envolvendo educação básica e iniciação científica",
+    "valor": "Faixas de financiamento por plano de ação bienal definidas na chamada, contemplando custeio e bolsas de iniciação científica júnior conforme o porte e abrangência da feira",
+    "prazo": "2026-06-19",
+    "desc": "Chamada voltada ao apoio a planos de ação bienais para feiras de ciências e mostras científicas (POP CIÊNCIA), com abrangência municipal, estadual/distrital e nacional, visando consolidar o ecossistema de feiras e promover iniciação científica, formação continuada de professores e popularização da ciência. Admite projetos em todas as áreas, incluindo ciências agrárias e agropecuária, permitindo à Embrapa e parceiros apoiar ou articular eventos temáticos.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "cnpq-mcti-08-2026-pop-ciencia-snct-2026",
+    "titulo": "Chamada CNPq/MCTI Nº 08/2026 – POP CIÊNCIA – 23ª Semana Nacional de Ciência e Tecnologia (SNCT 2026)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Popularização da Ciência",
+      "Todas as áreas do conhecimento",
+      "Agropecuária (atividades de divulgação científica em ciências agrárias)"
+    ],
+    "publico": "Instituições que promovem eventos de divulgação científica presenciais ou híbridos, gratuitos e abertos à comunidade, no âmbito da SNCT 2026",
+    "valor": "Faixas de financiamento por proposta definidas na chamada, com recursos para custeio de eventos e ações de popularização",
+    "prazo": "2026-07-03",
+    "desc": "Chamada destinada ao apoio de eventos e atividades de divulgação e popularização da ciência durante a 23ª Semana Nacional de Ciência e Tecnologia (SNCT 2026), com tema \"Ciência delas\" e abrangência estadual/distrital, intermunicipal e municipal/escolar. Financia ações em todas as áreas, permitindo a proposição de atividades voltadas à agropecuária, inovação no campo e temas de ciências agrárias por instituições como a Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "cnpq-brics-sti-framework-2026",
+    "titulo": "Chamada CNPq – BRICS STI Framework Programme 2026 – Redes Temáticas e Projetos Flagship",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciência, Tecnologia e Inovação",
+      "Temas estratégicos definidos pelo BRICS",
+      "Agropecuária e segurança alimentar (quando contempladas nas prioridades anuais)"
+    ],
+    "publico": "Grupos de pesquisa brasileiros em cooperação com equipes de, no mínimo, dois outros países BRICS, interessados em projetos de pesquisa colaborativa ou flagship com impacto socioeconômico",
+    "valor": "Valores máximos de financiamento por projeto definidos na chamada, em diferentes linhas (redes temáticas e projetos flagship), com recursos para bolsas, custeio e capital",
+    "prazo": "2026-07-06",
+    "desc": "Chamada que apoia projetos de pesquisa, desenvolvimento e inovação no âmbito do BRICS STI Framework Programme, em duas linhas: redes temáticas de pesquisa e projetos flagship de larga escala e caráter transdisciplinar. Visa fortalecer a cooperação científica, tecnológica e de inovação entre os países BRICS, com foco em impacto socioeconômico e integração institucional. As agendas podem incluir temas de agropecuária, segurança alimentar, biotecnologia agrícola e sustentabilidade rural, dependendo das prioridades definidas para o ciclo.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "cnpq-proafrica-2026",
+    "titulo": "Chamada CNPq – ProÁfrica 2026 – Cooperação em Redes Brasil–África",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Desenvolvimento Sustentável",
+      "Ciência, Tecnologia e Inovação"
+    ],
+    "publico": "Redes de pesquisa formadas por grupos brasileiros e africanos em temas de interesse comum, interessados em cooperação científica, tecnológica e de inovação",
+    "valor": "Investimento total previsto de cerca de R$ 25 milhões, com valores máximos de financiamento por rede/projeto definidos na chamada",
+    "prazo": "2026-08-31",
+    "desc": "Chamada ProÁfrica 2026 destina-se a apoiar redes de pesquisadores brasileiros e africanos em projetos de pesquisa, desenvolvimento e inovação, com foco em temas estratégicos compartilhados, incluindo agropecuária, segurança alimentar, mudanças climáticas, uso sustentável da terra e biotecnologia. As ações envolvem financiamento de mobilidade, bolsas e despesas de pesquisa para fortalecer cooperação Sul–Sul.",
+    "url": "https://www.gov.br/cnpq/pt-br",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-prospam",
+    "titulo": "Programa Estratégico de Desenvolvimento do Setor Primário Produtivo Amazonense (Prospam)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "agropecuária",
+      "bioeconomia",
+      "desenvolvimento rural",
+      "Amazônia"
+    ],
+    "publico": "pesquisadores, grupos de pesquisa e instituições científicas do Amazonas",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Edital reeditado em 2026 voltado ao desenvolvimento do setor primário produtivo amazonense, com relevância direta para agropecuária e cadeias produtivas da Amazônia.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-articulabio",
+    "titulo": "Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável (Articula/BIO CT&I)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "bioeconomia",
+      "Amazônia",
+      "desenvolvimento sustentável",
+      "agropecuária"
+    ],
+    "publico": "pesquisadores e instituições de pesquisa",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Chamado em parceria com a Fapesp para articulação de pesquisas em bioeconomia e desenvolvimento sustentável, com pertinência para pesquisas na Amazônia e interfaces com produção agropecuária sustentável.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-painter-ecoturismo",
+    "titulo": "Programa de Apoio à Inovação Tecnológica Voltada ao Ecoturismo em Comunidades do Interior do Estado do Amazonas (Painter Ecoturismo)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Amazônia",
+      "inovação",
+      "desenvolvimento territorial",
+      "sustentabilidade"
+    ],
+    "publico": "pesquisadores, grupos de pesquisa e instituições científicas do Amazonas",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Edital inédito de 2026 para inovação tecnológica em comunidades do interior do Amazonas, com potencial de interesse para projetos integrados a cadeias produtivas e sustentabilidade territorial.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-provida-am",
+    "titulo": "Programa de Apoio à Pesquisa Integrada para a Qualidade de Vida no Amazonas (Provida-AM)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Amazônia",
+      "qualidade de vida",
+      "saúde",
+      "desenvolvimento regional"
+    ],
+    "publico": "pesquisadores, grupos de pesquisa e instituições científicas do Amazonas",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Edital inédito de 2026 voltado a pesquisa integrada para qualidade de vida no Amazonas, relevante para estudos aplicados ao interior e às realidades amazônicas.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-deep-tech",
+    "titulo": "Programa de Apoio à Startup Deep Tech para Inovação Científica e Tecnológica (DEEP TECH)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "inovação",
+      "tecnologia",
+      "Amazônia",
+      "agropecuária"
+    ],
+    "publico": "pesquisadores, grupos de pesquisa e instituições científicas do Amazonas",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Chamado inédito de 2026 para startups deep tech, com potencial de aplicação em soluções tecnológicas para agropecuária e bioeconomia na Amazônia.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-socio-tech",
+    "titulo": "Programa de Apoio à Pesquisa Inovadora para o Desenvolvimento e Aplicação de Tecnologias Sociais de Baixo Custo para Mitigação das Desigualdades no Estado do Amazonas (Socio Tech)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "tecnologia social",
+      "Amazônia",
+      "desenvolvimento regional",
+      "inclusão"
+    ],
+    "publico": "pesquisadores, grupos de pesquisa e instituições científicas do Amazonas",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Edital inédito de 2026 para tecnologias sociais de baixo custo, com interesse para soluções aplicáveis ao meio rural e às comunidades amazônicas.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-posgrad",
+    "titulo": "Programa de Apoio à Pós-Graduação Stricto Sensu (Posgrad)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "formação de recursos humanos",
+      "mestrado",
+      "doutorado",
+      "Amazônia"
+    ],
+    "publico": "estudantes de mestrado e doutorado, programas de pós-graduação e pesquisadores do Amazonas",
+    "valor": "R$ 35,6 milhões",
+    "prazo": null,
+    "desc": "Edital aberto em 2026 para bolsas e auxílios na pós-graduação stricto sensu no Amazonas, com grande volume de fomento para formação de pesquisadores.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-paic-am",
+    "titulo": "Programa de Apoio à Iniciação Científica do Amazonas (Paic-AM)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "iniciação científica",
+      "formação de pesquisadores",
+      "Amazônia"
+    ],
+    "publico": "estudantes de graduação, orientadores e instituições de CT&I do Amazonas",
+    "valor": "R$ 11,6 milhões",
+    "prazo": null,
+    "desc": "Edital aberto em 2026 para iniciação científica, com bolsas e auxílios para projetos de pesquisa em instituições de CT&I do Amazonas.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-pce",
+    "titulo": "Programa Ciência na Escola (PCE)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "educação básica",
+      "popularização da ciência",
+      "Amazônia"
+    ],
+    "publico": "professores e estudantes de escolas públicas do Amazonas",
+    "valor": "R$ 6,5 milhões",
+    "prazo": null,
+    "desc": "Edital aberto em 2026 para fomentar projetos de pesquisa na educação básica, com atuação na capital e no interior do Amazonas.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-papea-cti",
+    "titulo": "Programa de Apoio à Participação de Eventos Científicos, Tecnológicos, de Inovação e Artísticos (PAPEA CT&I)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "eventos científicos",
+      "inovação",
+      "Amazônia"
+    ],
+    "publico": "pesquisadores do Amazonas",
+    "valor": "R$ 900 mil",
+    "prazo": null,
+    "desc": "Edital inédito de 2026 para apoiar participação em eventos no Brasil e no exterior, destinado a apresentação de trabalhos resultantes de pesquisa desenvolvida no Amazonas.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-parev",
+    "titulo": "Programa de Apoio à Realização de Eventos Científicos e Tecnológicos no Estado do Amazonas (Parev)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "eventos científicos",
+      "divulgação científica",
+      "Amazônia"
+    ],
+    "publico": "pesquisadores, grupos de pesquisa e instituições científicas do Amazonas",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Edital aberto para realização de eventos científicos e tecnológicos no Amazonas, incluindo capital e interior.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "fapeam-2026-pop-cti",
+    "titulo": "Programa de Apoio à Popularização da Ciência, Tecnologia e Inovação (POP CT&I)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "popularização da ciência",
+      "divulgação científica",
+      "Amazônia"
+    ],
+    "publico": "pesquisadores, grupos de pesquisa e instituições científicas do Amazonas",
+    "valor": "não informado no resultado; edital vigente em 2026",
+    "prazo": null,
+    "desc": "Edital aberto para ações de popularização da ciência, tecnologia e inovação no Amazonas.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "bndes-bioinsumos-2026",
+    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
+    "orgao": "BNDES – Fundo Socioambiental",
+    "origem": "Nacional",
+    "areas": [
+      "bioinsumos",
+      "inovação agro",
+      "agricultura familiar",
+      "sustentabilidade"
+    ],
+    "publico": "Cooperativas e associações de agricultores familiares com projetos para produção de bioinsumos em estruturas industriais ou semi-industriais",
+    "valor": "Até R$ 5.000.000,00 por projeto",
+    "prazo": "2026-08-31",
+    "desc": "Chamada para apoiar projetos que fomentem a produção de bioinsumos por cooperativas e associações de agricultores familiares, promovendo a transição tecnológica para utilização de bioprodutos integrados a agroecossistemas na produção de alimentos saudáveis.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/financiamento/bndes-fundo-socioambiental-bioinsumos",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "mcti-finep-fndct-cadeias-socioprodutivas-2026",
+    "titulo": "Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "Ministério da Ciência, Tecnologia e Inovação (MCTI) / FINEP / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "desenvolvimento rural",
+      "agroecologia",
+      "inovação em cadeias produtivas"
+    ],
+    "publico": "ICTs brasileiras com projetos voltados a cadeias socioprodutivas da agricultura familiar",
+    "valor": "R$ 150.000.000,00 no total da chamada",
+    "prazo": "2026-06-19",
+    "desc": "Edital destinado a selecionar propostas institucionais de ICTs para desenvolvimento de soluções científicas e tecnológicas que fortaleçam cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis baseados na biodiversidade brasileira.",
+    "url": "https://www.gov.br/mcti/pt-br/assuntos/editais/fndct/finep-cadeias-socioprodutivas-agricultura-familiar-2026",
+    "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "brics-sti-framework-7th-call-2026",
+    "titulo": "BRICS STI Framework Programme – 7th Coordinated Call for BRICS Multilateral Projects 2026",
+    "orgao": "BRICS STI Framework Programme / CNPq (ponto focal Brasil)",
+    "origem": "Internacional",
+    "areas": [
+      "ciência, tecnologia e inovação",
+      "agricultura sustentável",
+      "segurança alimentar",
+      "mudanças climáticas",
+      "biotecnologia"
+    ],
+    "publico": "Equipes de pesquisa em consórcios multilaterais envolvendo instituições de, pelo menos, três países BRICS; participação de instituições de pesquisa brasileiras elegíveis ao CNPq/FINEP",
+    "valor": "Até R$ 15.000.000,00 em recursos de custeio para a participação brasileira",
+    "prazo": "2026-06-16",
+    "desc": "Chamada multilateral do BRICS STI para apoiar projetos de pesquisa e inovação com potencial de impacto estratégico entre países do bloco em áreas como agricultura sustentável, segurança alimentar, biotecnologia e mudanças climáticas, com financiamento de custeio para grupos de pesquisa brasileiros em consórcios BRICS.",
+    "url": "https://www.gov.br/cnpq/pt-br/assuntos/editais/lancados/2026/brics-sti-framework-programme-7th-coordinated-call-2026",
     "descobertoEm": "2026-06-14"
   }
 ]
