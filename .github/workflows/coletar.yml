@@ -1,0 +1,58 @@
+name: Coletar editais (diário 08h Manaus)
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 12:00 UTC = 08:00 Manaus (UTC-4)
+  workflow_dispatch: {}    # permite rodar na mão pelo botão "Run workflow"
+
+permissions:
+  contents: write   # commitar o editais.json atualizado
+  pages: write      # publicar no GitHub Pages
+  id-token: write
+
+concurrency:
+  group: coletar-editais
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rodar coletor (Perplexity Sonar Pro)
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          PPLX_MODEL: sonar-pro
+        run: python3 scripts/coletar.py
+
+      - name: Commitar editais.json se mudou
+        run: |
+          git config user.name  "coletor-bot"
+          git config user.email "coletor-bot@users.noreply.github.com"
+          git add public/editais.json
+          if git diff --cached --quiet; then
+            echo "Sem novos editais hoje."
+          else
+            git commit -m "chore: atualiza editais ($(date -u +%F))"
+            git push
+          fi
+
+      - name: Empacotar site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  publicar:
+    needs: coletar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

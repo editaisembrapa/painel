@@ -1,0 +1,7 @@
+# Monitor de Editais Embrapa — coleta diária às 08h (horário de Manaus).
+# CRON_TZ garante 08h local mesmo que a VPS esteja em UTC.
+# Instalar na VPS:  crontab -l > /tmp/c ; cat crontab.txt >> /tmp/c ; crontab /tmp/c
+CRON_TZ=America/Manaus
+0 8 * * * /CAMINHO/NA/VPS/EditaisEmbrapa/scripts/run-coletor.sh
+# (se sua VPS não suportar CRON_TZ, use a linha UTC abaixo no lugar — 08h Manaus = 12:00 UTC)
+# 0 12 * * * /CAMINHO/NA/VPS/EditaisEmbrapa/scripts/run-coletor.sh

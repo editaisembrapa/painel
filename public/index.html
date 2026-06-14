@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Editais · Pesquisa Embrapa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0b100d;
+    --panel:#0e1411;
+    --surface:#19221c;
+    --surface-2:#212c24;
+    --border:#2b3a2f;
+    --border-soft:#223029;
+    --ink:#edeee4;
+    --ink-soft:#aebaad;
+    --muted:#7d8c80;
+    --leaf:#84c06a;
+    --leaf-dim:#3f5a3a;
+    --amber:#e3a857;
+    --rust:#cc6f4f;
+    --teal:#5fb0a6;
+    --radius:14px;
+    --mono:'IBM Plex Mono',ui-monospace,monospace;
+    --disp:'Space Grotesk',system-ui,sans-serif;
+    --body:'Inter',system-ui,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--body);
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+    padding:0 0 80px;
+  }
+  /* faint topographic texture */
+  body::before{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+    background:
+      radial-gradient(900px 500px at 85% -5%, rgba(132,192,106,.06), transparent 60%),
+      radial-gradient(700px 400px at 0% 0%, rgba(95,176,166,.045), transparent 55%);
+  }
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px;position:relative;z-index:1}
+
+  /* ---- Header ---- */
+  header{padding:42px 0 26px;border-bottom:1px solid var(--border-soft)}
+  .eyebrow{
+    font-family:var(--mono);font-size:11.5px;letter-spacing:.28em;text-transform:uppercase;
+    color:var(--leaf);margin-bottom:14px;display:flex;align-items:center;gap:10px;
+  }
+  .eyebrow::before{content:"";width:26px;height:1px;background:var(--leaf-dim)}
+  h1{
+    font-family:var(--disp);font-weight:700;font-size:clamp(30px,5vw,46px);
+    letter-spacing:-.02em;line-height:1.02;
+  }
+  h1 .accent{color:var(--leaf)}
+  .sub{color:var(--ink-soft);font-size:15px;max-width:62ch;margin-top:14px}
+
+  /* ---- Stat strip ---- */
+  .stats{display:flex;flex-wrap:wrap;gap:30px;margin-top:26px}
+  .stat .num{font-family:var(--disp);font-weight:600;font-size:26px;line-height:1}
+  .stat .num.open{color:var(--leaf)}
+  .stat .num.soon{color:var(--amber)}
+  .stat .num.novo{color:var(--teal)}
+  .stat .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:7px}
+
+  /* ---- Controls ---- */
+  .controls{position:sticky;top:0;z-index:5;background:linear-gradient(var(--bg) 78%,transparent);padding:20px 0 14px;margin-top:8px}
+  .searchrow{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+  .search{flex:1;min-width:220px;position:relative}
+  .search svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);opacity:.5}
+  .search input{
+    width:100%;background:var(--surface);border:1px solid var(--border);
+    color:var(--ink);font-family:var(--body);font-size:15px;
+    padding:13px 14px 13px 42px;border-radius:11px;outline:none;transition:border-color .18s,box-shadow .18s;
+  }
+  .search input::placeholder{color:var(--muted)}
+  .search input:focus{border-color:var(--leaf-dim);box-shadow:0 0 0 3px rgba(132,192,106,.12)}
+  select{
+    background:var(--surface);border:1px solid var(--border);color:var(--ink-soft);
+    font-family:var(--mono);font-size:12.5px;padding:12px 14px;border-radius:11px;cursor:pointer;outline:none;max-width:240px;
+  }
+  select:focus{border-color:var(--leaf-dim)}
+
+  .chiprow{display:flex;gap:9px;flex-wrap:wrap;margin-top:14px;align-items:center}
+  .chip{
+    font-family:var(--mono);font-size:12px;letter-spacing:.02em;
+    padding:7px 13px;border-radius:999px;border:1px solid var(--border);
+    background:transparent;color:var(--ink-soft);cursor:pointer;transition:all .15s;white-space:nowrap;
+  }
+  .chip:hover{border-color:var(--leaf-dim);color:var(--ink)}
+  .chip.active{background:var(--leaf);border-color:var(--leaf);color:#0c130b;font-weight:600}
+  .chip .ct{opacity:.6;margin-left:4px}
+  .chip.active .ct{opacity:.75}
+  .chip.novo{border-color:var(--teal);color:var(--teal)}
+  .chip.novo.active{background:var(--teal);border-color:var(--teal);color:#08110f}
+  .chip-sep{width:1px;align-self:stretch;background:var(--border);margin:2px 4px}
+
+  .resultcount{font-family:var(--mono);font-size:11.5px;color:var(--muted);letter-spacing:.08em;margin-top:16px;text-transform:uppercase}
+
+  /* ---- Grid ---- */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px;margin-top:14px}
+  .card{
+    background:var(--surface);border:1px solid var(--border-soft);border-radius:var(--radius);
+    padding:20px 20px 18px;display:flex;flex-direction:column;gap:13px;position:relative;overflow:hidden;
+    transition:transform .18s ease,border-color .18s ease;
+    animation:rise .4s ease backwards;
+  }
+  .card:hover{transform:translateY(-3px);border-color:var(--border)}
+  .card::after{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--statuscolor,var(--leaf-dim))}
+  .card.is-novo{border-color:var(--teal);box-shadow:0 0 0 1px rgba(95,176,166,.25),0 0 30px -12px rgba(95,176,166,.4)}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+
+  .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+  .card-top .left{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .orgao{font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.08em;color:var(--ink-soft);
+    border:1px solid var(--border);padding:4px 9px;border-radius:6px;white-space:nowrap}
+  .badge-novo{font-family:var(--mono);font-size:9.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+    color:#08110f;background:var(--teal);padding:4px 8px;border-radius:6px;white-space:nowrap;
+    box-shadow:0 0 14px -4px var(--teal)}
+  .status{font-family:var(--mono);font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+    display:flex;align-items:center;gap:6px;white-space:nowrap}
+  .status .dot{width:7px;height:7px;border-radius:50%;background:currentColor}
+  .st-aberto{color:var(--leaf)} .st-breve{color:var(--amber)} .st-enc{color:var(--rust)} .st-conf{color:var(--muted)}
+
+  .card h3{font-family:var(--disp);font-weight:600;font-size:17px;line-height:1.25;letter-spacing:-.01em}
+  .desc{font-size:13.5px;color:var(--ink-soft);line-height:1.5}
+
+  .meta{display:flex;flex-direction:column;gap:7px;font-size:12.5px;margin-top:2px}
+  .meta .row{display:flex;gap:8px;align-items:baseline}
+  .meta .k{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);min-width:62px;flex-shrink:0}
+  .meta .v{color:var(--ink);font-weight:500}
+  .meta .v.val{color:var(--leaf)}
+
+  .tags{display:flex;flex-wrap:wrap;gap:6px}
+  .tag{font-family:var(--mono);font-size:10.5px;color:var(--ink-soft);background:var(--surface-2);
+    border:1px solid var(--border-soft);padding:3px 8px;border-radius:5px;cursor:pointer;transition:all .15s}
+  .tag:hover{border-color:var(--leaf-dim);color:var(--ink)}
+
+  /* deadline window bar — the signature element */
+  .window{margin-top:4px}
+  .window .track{height:5px;border-radius:3px;background:var(--surface-2);overflow:hidden;position:relative;border:1px solid var(--border-soft)}
+  .window .fill{height:100%;border-radius:3px;transition:width .5s ease}
+  .window .cap{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-top:6px;letter-spacing:.04em}
+
+  .card-foot{margin-top:auto;padding-top:6px}
+  .link{
+    display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:12px;font-weight:500;
+    color:var(--ink);text-decoration:none;border:1px solid var(--border);padding:8px 13px;border-radius:8px;
+    transition:all .15s;letter-spacing:.02em;
+  }
+  .link:hover{border-color:var(--leaf);color:var(--leaf);background:rgba(132,192,106,.06)}
+  .link svg{transition:transform .15s}
+  .link:hover svg{transform:translate(2px,-2px)}
+
+  /* empty state */
+  .empty{text-align:center;padding:70px 20px;color:var(--muted);font-family:var(--mono);font-size:13px;letter-spacing:.04em}
+  .empty strong{color:var(--ink-soft);display:block;font-size:15px;margin-bottom:8px;font-family:var(--disp);letter-spacing:0}
+
+  /* footer note */
+  .note{margin-top:34px;padding:20px 22px;border:1px dashed var(--border);border-radius:var(--radius);
+    background:rgba(95,176,166,.03);font-size:13px;color:var(--ink-soft);line-height:1.6}
+  .note b{color:var(--ink);font-weight:600}
+  .note code{font-family:var(--mono);font-size:11.5px;background:var(--surface-2);padding:2px 6px;border-radius:4px;color:var(--teal)}
+  .note .ttl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--teal);display:block;margin-bottom:10px}
+
+  @media (max-width:560px){
+    .grid{grid-template-columns:1fr}
+    .stats{gap:22px}
+    header{padding:32px 0 22px}
+  }
+  @media (prefers-reduced-motion:reduce){
+    .card{animation:none}
+    *{transition:none!important}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Monitor de fomento · Pesquisa agropecuária</div>
+    <h1>Editais <span class="accent">para pesquisa</span> da&nbsp;Embrapa</h1>
+    <p class="sub">Painel de busca para oportunidades de fomento relevantes a pesquisadores da Embrapa — CNPq, FINEP, FAPEAM, CAPES e chamadas internas de PD&amp;I, com foco em agropecuária, biodiversidade e Amazônia.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="controls">
+    <div class="searchrow">
+      <div class="search">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#edeee4" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="q" type="text" placeholder="Buscar por título, área, órgão, público-alvo…" autocomplete="off">
+      </div>
+      <select id="area">
+        <option value="">Todas as áreas</option>
+      </select>
+      <select id="sort">
+        <option value="prazo">Ordenar: prazo mais próximo</option>
+        <option value="novos">Ordenar: novidades primeiro</option>
+        <option value="orgao">Ordenar: órgão (A–Z)</option>
+      </select>
+    </div>
+    <div class="chiprow" id="filters"></div>
+    <div class="resultcount" id="count"></div>
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none">
+    <strong>Nenhum edital com esses filtros</strong>
+    Ajuste a busca ou limpe os filtros para ver as oportunidades.
+  </div>
+
+  <div class="note">
+    <span class="ttl">Sobre estes dados</span>
+    <b>Painel atualizado automaticamente por busca diária.</b> Prazos e valores precisam ser confirmados no portal oficial de cada órgão antes de qualquer submissão. Editais marcados <b>NOVO</b> foram detectados nos últimos 7 dias.
+    <br><br>
+    A camada de dados é o arquivo <code>editais.json</code>, lido pelo painel via <code>fetch</code>. O coletor diário (Perplexity + verificação de link) consulta as fontes (CNPq, FINEP, FAPEAM, CAPES, Embrapa) e reescreve esse arquivo — o resto do painel (busca, filtros, status por prazo, selo NOVO) funciona sozinho. Status, "dias restantes" e "NOVO" são calculados a partir dos campos <code>prazo</code> e <code>descobertoEm</code> em relação à data de hoje.
+  </div>
+</div>
+
+<script>
+// ============================================================
+//  CAMADA DE DADOS — carregada de editais.json (gerado pelo coletor).
+//  Formato por edital:
+//  { id, titulo, orgao, origem, areas:[], publico, valor,
+//    prazo (YYYY-MM-DD|null), statusFixo (opcional), desc, url,
+//    descobertoEm (YYYY-MM-DD) }
+// ============================================================
+let EDITAIS = [];
+
+// ---------- datas / constantes ----------
+const HOJE = new Date(); HOJE.setHours(0,0,0,0);
+const MS_DIA = 86400000;
+const JANELA = 120;       // dias de referência para a barra de prazo
+const NOVO_DIAS = 7;      // janela do selo NOVO
+
+function ehNovo(e){
+  if(!e.descobertoEm) return false;
+  const d = Math.round((HOJE - new Date(e.descobertoEm+'T00:00:00'))/MS_DIA);
+  return d >= 0 && d <= NOVO_DIAS;
+}
+
+function statusDe(e){
+  if(!e.prazo) return {key:"conf", label:"A confirmar", cls:"st-conf", color:"var(--muted)", dias:null};
+  const dias = Math.round((new Date(e.prazo+'T00:00:00') - HOJE)/MS_DIA);
+  if(dias < 0)  return {key:"enc",    label:"Encerrado",       cls:"st-enc",    color:"var(--rust)",  dias};
+  if(dias <= 30)return {key:"breve",  label:"Encerra em breve",cls:"st-breve",  color:"var(--amber)", dias};
+  return            {key:"aberto", label:"Aberto",          cls:"st-aberto", color:"var(--leaf)",  dias};
+}
+function fmtData(iso){
+  if(!iso) return "—";
+  const [y,m,d]=iso.split('-'); return `${d}/${m}/${y}`;
+}
+function janelaBar(st){
+  if(st.dias===null) return {pct:0, color:"var(--border)", cap:"Prazo a confirmar no portal", dashed:true};
+  if(st.dias<0)      return {pct:100,color:"var(--rust)",  cap:`Encerrado há ${Math.abs(st.dias)} dias`};
+  const pct = Math.max(6, 100 - Math.min(100, (st.dias/JANELA)*100));
+  const color = st.dias<=30 ? "var(--amber)" : "var(--leaf)";
+  return {pct, color, cap:`${st.dias} dias restantes · até ${fmtData(st._prazo)}`};
+}
+
+// ---------- estado de UI ----------
+let activeFilters = new Set();  // "orgao:CNPq" | "status:aberto" | "novo:1"
+let query = "";
+let sortBy = "prazo";
+let areaSel = "";
+
+const grid = document.getElementById('grid');
+const empty = document.getElementById('empty');
+const countEl = document.getElementById('count');
+
+// dropdown de áreas
+function buildAreas(){
+  const set = new Set();
+  EDITAIS.forEach(e=>(e.areas||[]).forEach(a=>set.add(a)));
+  const sel = document.getElementById('area');
+  [...set].sort((a,b)=>a.localeCompare(b)).forEach(a=>{
+    const o=document.createElement('option'); o.value=a; o.textContent=a; sel.appendChild(o);
+  });
+}
+
+// montar filtros (novidades + órgão + status)
+function buildFilters(){
+  const orgs = [...new Set(EDITAIS.map(e=>e.orgao))].sort();
+  const statuses = [
+    {v:"aberto",label:"Aberto"},{v:"breve",label:"Encerra em breve"},
+    {v:"enc",label:"Encerrado"},{v:"conf",label:"A confirmar"}
+  ];
+  const box = document.getElementById('filters');
+  const mk = (val,label,count,cls)=>`<button class="chip ${cls||''}" data-f="${val}">${label}${count!=null?`<span class="ct">${count}</span>`:''}</button>`;
+  let html = "";
+  const nNovos = EDITAIS.filter(ehNovo).length;
+  if(nNovos>0){ html+=mk("novo:1","✦ Novidades",nNovos,"novo"); html+=`<span class="chip-sep"></span>`; }
+  orgs.forEach(o=>html+=mk("orgao:"+o, o, EDITAIS.filter(e=>e.orgao===o).length));
+  html+=`<span class="chip-sep"></span>`;
+  statuses.forEach(s=>{
+    const c = EDITAIS.filter(e=>statusDe(e).key===s.v).length;
+    if(c>0) html+=mk("status:"+s.v, s.label, c);
+  });
+  box.innerHTML = html;
+  box.querySelectorAll('.chip').forEach(ch=>ch.addEventListener('click',()=>{
+    const f=ch.dataset.f;
+    if(activeFilters.has(f)){activeFilters.delete(f);ch.classList.remove('active');}
+    else{
+      // só um filtro por grupo (novo / orgao / status)
+      const grp=f.split(':')[0];
+      [...activeFilters].filter(x=>x.startsWith(grp+':')).forEach(x=>{
+        activeFilters.delete(x);
+        box.querySelector(`[data-f="${CSS.escape(x)}"]`)?.classList.remove('active');
+      });
+      activeFilters.add(f);ch.classList.add('active');
+    }
+    render();
+  }));
+}
+
+function passaFiltro(e){
+  const st=statusDe(e);
+  for(const f of activeFilters){
+    const [grp,val]=f.split(':');
+    if(grp==="orgao" && e.orgao!==val) return false;
+    if(grp==="status" && st.key!==val) return false;
+    if(grp==="novo" && !ehNovo(e)) return false;
+  }
+  if(areaSel && !(e.areas||[]).includes(areaSel)) return false;
+  if(query){
+    const hay=(e.titulo+' '+e.orgao+' '+e.origem+' '+e.publico+' '+e.desc+' '+(e.areas||[]).join(' ')).toLowerCase();
+    if(!hay.includes(query)) return false;
+  }
+  return true;
+}
+
+function ordenar(list){
+  const arr=[...list];
+  if(sortBy==="orgao") arr.sort((a,b)=>a.orgao.localeCompare(b.orgao));
+  else if(sortBy==="novos") arr.sort((a,b)=>{
+    const da=a.descobertoEm||'', db=b.descobertoEm||'';
+    if(da&&db) return db.localeCompare(da); if(da) return -1; if(db) return 1; return 0;
+  });
+  else { // prazo mais próximo; sem prazo vai pro fim
+    arr.sort((a,b)=>{
+      const da=a.prazo?new Date(a.prazo):null, db=b.prazo?new Date(b.prazo):null;
+      if(da&&db) return da-db; if(da) return -1; if(db) return 1; return 0;
+    });
+  }
+  return arr;
+}
+
+function card(e,i){
+  const st=statusDe(e); st._prazo=e.prazo; const w=janelaBar({...st,_prazo:e.prazo});
+  const novo=ehNovo(e);
+  const tags=(e.areas||[]).map(a=>`<span class="tag" data-area="${a.replace(/"/g,'&quot;')}">${a}</span>`).join('');
+  const delay=Math.min((i||0)*35,400);
+  return `<article class="card ${novo?'is-novo':''}" style="--statuscolor:${st.color};animation-delay:${delay}ms">
+    <div class="card-top">
+      <span class="left"><span class="orgao">${e.orgao}</span>${novo?'<span class="badge-novo">Novo</span>':''}</span>
+      <span class="status ${st.cls}"><span class="dot"></span>${st.label}</span>
+    </div>
+    <h3>${e.titulo}</h3>
+    <p class="desc">${e.desc}</p>
+    <div class="tags">${tags}</div>
+    <div class="meta">
+      <div class="row"><span class="k">Público</span><span class="v">${e.publico}</span></div>
+      <div class="row"><span class="k">Recursos</span><span class="v val">${e.valor}</span></div>
+      <div class="row"><span class="k">Origem</span><span class="v">${e.origem}</span></div>
+    </div>
+    <div class="window">
+      <div class="track"><div class="fill" style="width:${w.pct}%;background:${w.color}${w.dashed?';opacity:.35':''}"></div></div>
+      <div class="cap">${w.cap}</div>
+    </div>
+    <div class="card-foot">
+      <a class="link" href="${e.url}" target="_blank" rel="noopener">Ver no portal
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
+      </a>
+    </div>
+  </article>`;
+}
+
+function buildStats(){
+  const open=EDITAIS.filter(e=>statusDe(e).key==="aberto").length;
+  const soon=EDITAIS.filter(e=>statusDe(e).key==="breve").length;
+  const novos=EDITAIS.filter(ehNovo).length;
+  document.getElementById('stats').innerHTML=`
+    <div class="stat"><div class="num">${EDITAIS.length}</div><div class="lbl">Editais no painel</div></div>
+    <div class="stat"><div class="num open">${open}</div><div class="lbl">Abertos agora</div></div>
+    <div class="stat"><div class="num soon">${soon}</div><div class="lbl">Encerram em 30 dias</div></div>
+    <div class="stat"><div class="num novo">${novos}</div><div class="lbl">Novos esta semana</div></div>`;
+}
+
+function render(){
+  const list=ordenar(EDITAIS.filter(passaFiltro));
+  grid.innerHTML=list.map((e,i)=>card(e,i)).join('');
+  empty.style.display=list.length?'none':'block';
+  countEl.textContent=`${list.length} ${list.length===1?'edital':'editais'} ${activeFilters.size||query||areaSel?'· filtrado':''}`;
+  // clicar numa tag de área aplica o filtro de área
+  grid.querySelectorAll('.tag').forEach(t=>t.addEventListener('click',()=>{
+    areaSel=t.dataset.area; document.getElementById('area').value=areaSel; render();
+  }));
+}
+
+document.getElementById('q').addEventListener('input',e=>{query=e.target.value.toLowerCase().trim();render();});
+document.getElementById('sort').addEventListener('change',e=>{sortBy=e.target.value;render();});
+document.getElementById('area').addEventListener('change',e=>{areaSel=e.target.value;render();});
+
+// ---------- carga de dados ----------
+fetch('editais.json',{cache:'no-store'})
+  .then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+  .then(data=>{
+    EDITAIS = Array.isArray(data) ? data : (data.editais||[]);
+    buildAreas(); buildStats(); buildFilters(); render();
+  })
+  .catch(err=>{
+    document.getElementById('stats').innerHTML='';
+    grid.innerHTML='';
+    empty.style.display='block';
+    empty.innerHTML='<strong>Não foi possível carregar os editais</strong>Verifique se o arquivo <code>editais.json</code> está acessível ao lado da página. ('+err.message+')';
+  });
+</script>
+</body>
+</html>
