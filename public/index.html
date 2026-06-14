@@ -29,7 +29,7 @@
     --body:'Inter',system-ui,sans-serif;
   }
   *{box-sizing:border-box;margin:0;padding:0}
-  html{scroll-behavior:smooth}
+  html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
   body{
     background:var(--bg);
     color:var(--ink);
@@ -169,10 +169,45 @@
   .note code{font-family:var(--mono);font-size:11.5px;background:var(--surface-2);padding:2px 6px;border-radius:4px;color:var(--teal)}
   .note .ttl{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--teal);display:block;margin-bottom:10px}
 
-  @media (max-width:560px){
-    .grid{grid-template-columns:1fr}
-    .stats{gap:22px}
-    header{padding:32px 0 22px}
+  @media (max-width:600px){
+    .wrap{padding:0 16px}
+    body{padding-bottom:48px}
+    header{padding:26px 0 18px}
+    .eyebrow{letter-spacing:.18em;font-size:10.5px;margin-bottom:10px}
+    .sub{font-size:14px;margin-top:10px}
+
+    /* stats em grade 2x2 alinhada */
+    .stats{display:grid;grid-template-columns:1fr 1fr;gap:14px 18px;margin-top:20px}
+    .stat .num{font-size:23px}
+
+    /* controles compactos */
+    .controls{padding:13px 0 10px}
+    .searchrow{gap:8px}
+    .search{flex:1 1 100%;min-width:0}
+    .search input{font-size:16px;padding:13px 14px 13px 40px} /* 16px evita zoom no iOS */
+    select{flex:1 1 0;max-width:none;min-width:0;font-size:12px;padding:12px 10px}
+
+    /* filtros: faixa rolavel horizontal (1 linha) em vez de empilhar */
+    .chiprow{flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;
+      margin-top:12px;padding-bottom:6px;scrollbar-width:none}
+    .chiprow::-webkit-scrollbar{display:none}
+    .chip{flex:0 0 auto;padding:9px 14px;font-size:12px}
+    .chip-sep{flex:0 0 1px;height:auto;align-self:stretch;margin:0 3px}
+    .resultcount{margin-top:12px}
+
+    /* cards mais justos + quebra de texto longo */
+    .grid{grid-template-columns:1fr;gap:13px}
+    .card{padding:17px 16px 16px;gap:11px}
+    .card h3{font-size:16px;overflow-wrap:break-word}
+    .desc{font-size:13px;overflow-wrap:break-word}
+    .meta .k{min-width:54px}
+    .meta .v{overflow-wrap:anywhere}
+    .link{padding:10px 14px} /* alvo de toque maior */
+  }
+
+  @media (max-width:360px){
+    .stats{grid-template-columns:1fr 1fr;gap:12px}
+    h1{font-size:27px}
   }
   @media (prefers-reduced-motion:reduce){
     .card{animation:none}

@@ -3,11 +3,16 @@ name: Coletar editais (diário 08h Manaus)
 on:
   schedule:
     - cron: '0 12 * * *'   # 12:00 UTC = 08:00 Manaus (UTC-4)
-  workflow_dispatch: {}    # permite rodar na mão pelo botão "Run workflow"
+  workflow_dispatch: {}     # rodar na mão pelo botão "Run workflow"
+  push:                     # republica o site quando o painel/dados mudam (sem chamar Perplexity)
+    branches: [main]
+    paths:
+      - 'public/**'
+      - '.github/workflows/coletar.yml'
 
 permissions:
-  contents: write   # commitar o editais.json atualizado
-  pages: write      # publicar no GitHub Pages
+  contents: write
+  pages: write
   id-token: write
 
 concurrency:
@@ -24,13 +29,16 @@ jobs:
         with:
           python-version: '3.12'
 
+      # coleta REAL só no agendamento ou disparo manual — push não gasta Perplexity
       - name: Rodar coletor (Perplexity Sonar Pro)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           PPLX_MODEL: sonar-pro
         run: python3 scripts/coletar.py
 
       - name: Commitar editais.json se mudou
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name  "coletor-bot"
           git config user.email "coletor-bot@users.noreply.github.com"
