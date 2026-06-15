@@ -717,20 +717,21 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
-    "orgao": "BNDES – Fundo Socioambiental",
+    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos – Fundo Socioambiental",
+    "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "bioinsumos",
-      "inovação agro",
-      "agricultura familiar",
-      "sustentabilidade"
+      "Bioinsumos",
+      "Agroecologia",
+      "Agricultura familiar",
+      "Inovação tecnológica no agro",
+      "Sustentabilidade"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares com projetos para produção de bioinsumos em estruturas industriais ou semi-industriais",
-    "valor": "Até R$ 5.000.000,00 por projeto",
+    "publico": "Cooperativas e associações de agricultores familiares interessadas em estruturar produção de bioinsumos em nível industrial ou semi-industrial",
+    "valor": "Até R$ 5.000.000,00 por projeto (recursos do BNDES Fundo Socioambiental)",
     "prazo": "2026-08-31",
-    "desc": "Chamada para apoiar projetos que fomentem a produção de bioinsumos por cooperativas e associações de agricultores familiares, promovendo a transição tecnológica para utilização de bioprodutos integrados a agroecossistemas na produção de alimentos saudáveis.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/financiamento/bndes-fundo-socioambiental-bioinsumos",
+    "desc": "Chamada de projetos do 2º ciclo da iniciativa BNDES Bioinsumos, voltada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, apoiando estruturas industriais ou semi-industriais para transição tecnológica e uso integrado de bioprodutos em agroecossistemas, visando produção de alimentos saudáveis.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/financiamento/bndes-bioinsumos",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -769,5 +770,104 @@
     "desc": "Chamada multilateral do BRICS STI para apoiar projetos de pesquisa e inovação com potencial de impacto estratégico entre países do bloco em áreas como agricultura sustentável, segurança alimentar, biotecnologia e mudanças climáticas, com financiamento de custeio para grupos de pesquisa brasileiros em consórcios BRICS.",
     "url": "https://www.gov.br/cnpq/pt-br/assuntos/editais/lancados/2026/brics-sti-framework-programme-7th-coordinated-call-2026",
     "descobertoEm": "2026-06-14"
+  },
+  {
+    "id": "CNPq-Produtividade-2026",
+    "titulo": "Chamadas CNPq para Bolsas de Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQSr) – Vigência 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Multidisciplinar",
+      "Ciências Agrárias",
+      "Engenharias",
+      "Ciências Biológicas"
+    ],
+    "publico": "Pesquisadores doutores consolidados ou em consolidação com produção científica/tecnológica relevante, elegíveis às modalidades PQ, DT e PQSr",
+    "valor": "Bolsas mensais de produtividade em diferentes níveis (PQ, DT, PQSr), conforme tabela vigente do CNPq",
+    "prazo": "2026-01-20",
+    "desc": "Chamada nacional do CNPq para concessão de bolsas de produtividade em pesquisa, desenvolvimento tecnológico e extensão inovadora, com início das bolsas em 2026. As bolsas PQ, DT e PQSr apoiam pesquisadores com destacada produção científica e tecnológica em todas as áreas, incluindo ciências agrárias e agropecuária, com prazo de inscrição até 20 de janeiro de 2026.[4][8]",
+    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas",
+    "descobertoEm": "2026-06-15"
+  },
+  {
+    "id": "MCTI-FINEP-FNDCT-CTAgro-07-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – CT-Agro 07/2026: Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura Familiar",
+      "Sistemas Agroalimentares Sustentáveis",
+      "Bioeconomia",
+      "Bioinsumos",
+      "Sistemas de produção agroecológicos e orgânicos",
+      "Soluções digitais para a pequena propriedade rural",
+      "Aquicultura de espécies nativas"
+    ],
+    "publico": "Instituições Científicas, Tecnológicas e de Inovação (ICTs) brasileiras, em especial equipes de pesquisa e PD&I com atuação em agropecuária e agricultura familiar",
+    "valor": "Investimento nacional previsto de até R$ 150 milhões, com projetos individuais entre R$ 3 milhões e R$ 7 milhões e prazo de execução de até 36 meses",
+    "prazo": null,
+    "desc": "Chamada pública do MCTI/FINEP/FNDCT (CT-Agro 2026), identificada como Edital nº 07/2026, voltada ao fortalecimento de cadeias socioprodutivas da agricultura familiar e de sistemas agroalimentares sustentáveis, com foco em bioeconomia, sustentabilidade e geração de renda. Apoia projetos de pesquisa, desenvolvimento e inovação nas áreas de bioinsumos, sistemas de produção agroecológicos e orgânicos, soluções digitais para pequenas propriedades rurais e aquicultura de espécies nativas, entre outras, diretamente relevante para pesquisadores de agropecuária e Embrapa.[1][2][6]",
+    "url": "https://www.gov.br/finep/pt-br",
+    "descobertoEm": "2026-06-15"
+  },
+  {
+    "id": "fapeam-fapesp-articula-bio-cti-2026",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – ARTICULA BIO CT&I",
+    "orgao": "FAPEAM / FAPESP",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Desenvolvimento sustentável",
+      "Ciências agrárias",
+      "Meio ambiente",
+      "Biotecnologia",
+      "Inovação"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo",
+    "valor": "Até R$ 200.000,00 por projeto na FAPEAM e até R$ 600.000,00 por projeto na FAPESP; R$ 2.000.000,00 (FAPEAM) e R$ 6.000.000,00 (FAPESP) em recursos globais",
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para projetos colaborativos entre pesquisadores do Amazonas e de São Paulo focados em bioeconomia e desenvolvimento sustentável na Amazônia, incluindo cadeias produtivas sustentáveis, uso de recursos da biodiversidade, agricultura e sistemas agroflorestais, com vigência de 36 meses e apoio na forma de auxílio à pesquisa e bolsas.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-06-15"
+  },
+  {
+    "id": "fapeam-edital-010-2026-colecoes-biologicas-museus",
+    "titulo": "EDITAL Nº 010/2026 – Programa de Apoio à Organização, Restauração, Preservação e Divulgação de Coleções Biológicas e Museus do Estado do Amazonas – Coleções Biológicas/Museus",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Coleções biológicas",
+      "Museus",
+      "Biodiversidade amazônica",
+      "Conservação",
+      "Ciências biológicas",
+      "Ciências ambientais"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa sediadas no Estado do Amazonas",
+    "valor": "Até R$ 100.000,00 por projeto; valor global de R$ 1.500.000,00",
+    "prazo": "2026-04-15",
+    "desc": "Edital da FAPEAM para apoiar até 15 projetos voltados à organização, restauração, preservação e divulgação de coleções biológicas e museus do Amazonas, contemplando despesas de capital, custeio e bolsas de apoio técnico (AT-II, AT-III, AT-IV) por até 18 meses, com foco na biodiversidade amazônica e sua infraestrutura científica.",
+    "url": "https://www.fapeam.am.gov.br/editais/edital-no-0102026-programa-de-apoio-a-organizacao-restauracao-preservacao-e-divulgacao-de-colecoes-biologicas-e-museus-do-estado-do-amazonas-colecoes-biologicasmuseus/",
+    "descobertoEm": "2026-06-15"
+  },
+  {
+    "id": "fapeam-fundacao-araucaria-bioeconomia-inclusiva-2026",
+    "titulo": "CHAMADA PÚBLICA N.º 002/2026 – Programa de Apoio a Pesquisas e Ações Estratégicas para a Bioeconomia Inclusiva no Amazonas e no Paraná",
+    "orgao": "FAPEAM / Fundação Araucária",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia inclusiva",
+      "Desenvolvimento regional",
+      "Amazônia",
+      "Ciências agrárias",
+      "Sistemas produtivos sustentáveis",
+      "Políticas públicas"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa nos estados do Amazonas e do Paraná, conforme regras da chamada",
+    "valor": "Não explicitado no extrato consultado; consultar o texto completo da chamada para valores máximos por projeto e montante global",
+    "prazo": null,
+    "desc": "Chamada conjunta FAPEAM/Fundação Araucária para apoiar projetos de pesquisa e ações estratégicas em bioeconomia inclusiva nos estados do Amazonas e Paraná, com foco em cadeias produtivas sustentáveis, inclusão socioeconômica e uso sustentável de recursos naturais, incluindo temas de agropecuária sustentável em contexto amazônico.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-15"
   }
 ]
