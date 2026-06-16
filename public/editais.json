@@ -308,21 +308,21 @@
   },
   {
     "id": "fapeam-fapesp-2026-articula-bio-cti",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável (ARTICULA BIO CT&I)",
-    "orgao": "FAPEAM / FAPESP",
-    "origem": "Estadual · AM",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – ARTICULA BIO CT&I",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas; FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
+    "origem": "Nacional",
     "areas": [
-      "bioeconomia",
-      "desenvolvimento sustentável",
-      "biodiversidade amazônica",
-      "bioprodutos",
-      "bioprocessos",
-      "biotecnologia"
+      "Bioeconomia amazônica",
+      "Desenvolvimento sustentável",
+      "Ciência, tecnologia e inovação",
+      "Amazônia",
+      "Inovação",
+      "Meio ambiente"
     ],
-    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou de pesquisa do Amazonas e de São Paulo, com proposta colaborativa entre as duas unidades federativas",
-    "valor": "FAPEAM: R$ 2.000.000,00 no total; FAPESP: R$ 6.000.000,00 no total; até R$ 600.000,00 por projeto pela FAPESP",
+    "publico": "Pesquisadores responsáveis vinculados a instituições de ensino superior e/ou pesquisa nos estados do Amazonas e de São Paulo, com projetos cooperativos entre equipes dos dois estados",
+    "valor": "FAPEAM: valor global de R$ 2.000.000,00 para financiamento dos projetos; FAPESP: apoio na modalidade Auxílio à Pesquisa Regular, com orçamento definido segundo normas da Fundação",
     "prazo": "2026-03-23",
-    "desc": "Chamada de cooperação científica e tecnológica voltada à bioeconomia amazônica e ao desenvolvimento sustentável, com apoio a projetos colaborativos entre grupos do Amazonas e de São Paulo.",
+    "desc": "Chamada conjunta destinada a apoiar projetos colaborativos em bioeconomia e desenvolvimento sustentável, visando fortalecer parcerias interinstitucionais entre Amazonas e São Paulo e desenvolver soluções inovadoras para a bioeconomia amazônica, com duração dos projetos de até 36 meses.[1]",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-14"
   },
@@ -717,21 +717,21 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos – Fundo Socioambiental",
-    "orgao": "BNDES",
+    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
+    "orgao": "BNDES – Fundo Socioambiental",
     "origem": "Nacional",
     "areas": [
-      "Bioinsumos",
-      "Agroecologia",
-      "Agricultura familiar",
-      "Inovação tecnológica no agro",
-      "Sustentabilidade"
+      "bioinsumos",
+      "agroecossistemas",
+      "agricultura familiar",
+      "inovação tecnológica no agro",
+      "produção de alimentos saudáveis"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares interessadas em estruturar produção de bioinsumos em nível industrial ou semi-industrial",
-    "valor": "Até R$ 5.000.000,00 por projeto (recursos do BNDES Fundo Socioambiental)",
+    "publico": "Cooperativas e associações de agricultores familiares interessadas em estruturar produção de bioinsumos em escala industrial ou semi-industrial",
+    "valor": "Até R$ 5.000.000,00 por projeto, com recursos do BNDES Fundo Socioambiental",
     "prazo": "2026-08-31",
-    "desc": "Chamada de projetos do 2º ciclo da iniciativa BNDES Bioinsumos, voltada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, apoiando estruturas industriais ou semi-industriais para transição tecnológica e uso integrado de bioprodutos em agroecossistemas, visando produção de alimentos saudáveis.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/financiamento/bndes-bioinsumos",
+    "desc": "Chamada voltada a projetos de inovação e estruturação produtiva de bioinsumos, visando a transição tecnológica para uso integrado de bioprodutos em agroecossistemas, com foco na produção sustentável de alimentos e fortalecimento de organizações de agricultores familiares.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/projetos-especiais/bndes-bioinsumos",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -869,5 +869,67 @@
     "desc": "Chamada conjunta FAPEAM/Fundação Araucária para apoiar projetos de pesquisa e ações estratégicas em bioeconomia inclusiva nos estados do Amazonas e Paraná, com foco em cadeias produtivas sustentáveis, inclusão socioeconômica e uso sustentável de recursos naturais, incluindo temas de agropecuária sustentável em contexto amazônico.",
     "url": "https://www.fapeam.am.gov.br/editais/",
     "descobertoEm": "2026-06-15"
+  },
+  {
+    "id": "cnpq-2026-bolsas-produtividade",
+    "titulo": "Chamada CNPq para Bolsas de Produtividade em Pesquisa (PQ, PQSr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT) – início 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Agrárias",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Desenvolvimento Tecnológico",
+      "Inovação"
+    ],
+    "publico": "Pesquisadores doutores com produção científica/tecnológica relevante, elegíveis às modalidades PQ, PQSr e DT em todas as áreas do conhecimento, incluindo Ciências Agrárias e Agropecuária (Embrapa e ICTs afins).",
+    "valor": "Bolsas mensais de produtividade (valores por nível/modalidade conforme tabela vigente do CNPq, com duração típica de 36 a 60 meses, conforme a modalidade).",
+    "prazo": "2026-01-20",
+    "desc": "Chamada pública nacional do CNPq para concessão de bolsas de Produtividade em Pesquisa (PQ), Produtividade em Pesquisa Sênior (PQSr) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), com início das atividades em 2026. Aceita inscrições até 20 de janeiro de 2026 e é voltada a pesquisadores com destacada produção científica ou tecnológica, atuando em todas as áreas, inclusive ciências agrárias, agropecuária e PD&I em agricultura, sendo relevante para pesquisadores da Embrapa e instituições parceiras.[6]",
+    "url": "https://www2.uepg.br/propesp/cnpq-abre-inscricoes-para-bolsas-produtividade-2026/",
+    "descobertoEm": "2026-06-16"
+  },
+  {
+    "id": "finep-fndct-2026-agricultura-familiar-icts",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura Familiar",
+      "Bioinsumos",
+      "Sistemas de Produção Agroecológicos",
+      "Produção Orgânica",
+      "Soluções Digitais para Pequena Propriedade Rural",
+      "Aquicultura de Espécies Nativas",
+      "Sistemas Agroalimentares Sustentáveis",
+      "Bioeconomia"
+    ],
+    "publico": "Instituições Científicas e Tecnológicas (ICTs) públicas ou sem fins lucrativos, em especial universidades e centros de pesquisa com atuação em agricultura familiar, sistemas agroalimentares sustentáveis e cadeias produtivas baseadas na biodiversidade (inclui forte aderência a grupos de pesquisa ligados à agropecuária e potenciais parcerias com Embrapa).",
+    "valor": "Aporte total previsto de até R$ 150 milhões, com projetos institucionais entre R$ 3 milhões e R$ 7 milhões por proposta, prazo de execução de até 36 meses.[1][2][3]",
+    "prazo": "2026-06-26",
+    "desc": "Chamada pública nacional do MCTI/FINEP/FNDCT para seleção de projetos institucionais de pesquisa, desenvolvimento e inovação voltados ao fortalecimento de cadeias socioprodutivas da agricultura familiar e de sistemas agroalimentares sustentáveis, com foco em bioinsumos, sistemas de produção agroecológicos e orgânicos, soluções digitais para a pequena propriedade rural e aquicultura de espécies nativas. Os projetos devem propor soluções científicas e tecnológicas que agreguem valor nos elos iniciais das cadeias, promovam inclusão socioprodutiva e sustentabilidade em sistemas agroalimentares e florestais. A chamada prevê investimento de até R$ 150 milhões, com projetos entre R$ 3 e 7 milhões e execução de até 36 meses; instituições como universidades e centros de pesquisa podem submeter uma proposta institucional à Finep até 26 de junho de 2026.[1][2][3][9]",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/783",
+    "descobertoEm": "2026-06-16"
+  },
+  {
+    "id": "fapeam-009-2026-socio-tech",
+    "titulo": "EDITAL N.º 009/2026 – Programa de Apoio à Pesquisa Inovadora para o Desenvolvimento e Aplicação de Tecnologias Sociais de Baixo Custo para Mitigação das Desigualdades no Estado do Amazonas (SOCIO TECH)",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Tecnologias sociais",
+      "Desenvolvimento sustentável",
+      "Desigualdades sociais",
+      "Comunidades ribeirinhas e rurais",
+      "Amazônia",
+      "Políticas públicas",
+      "Inovação social"
+    ],
+    "publico": "Pesquisadores doutores residentes no Estado do Amazonas, vinculados a instituições de ensino superior e/ou pesquisa, institutos de pesquisa ou empresas públicas/privadas",
+    "valor": "Até R$ 80.000,00 por projeto (Linha 1) ou até R$ 120.000,00 por projeto (Linha 2), incluindo auxílio pesquisa (capital e custeio) e 1 bolsa AT I ou II",
+    "prazo": null,
+    "desc": "Apoia projetos de pesquisa, inovação, desenvolvimento e aplicação de tecnologias sociais de baixo custo voltadas à promoção da sustentabilidade, mitigação das desigualdades e melhoria da qualidade de vida de populações vulneráveis no Estado do Amazonas, com ênfase em comunidades ribeirinhas e rurais e na avaliação de impactos social, econômico, territorial, ambiental e tecnológico.[2]",
+    "url": "https://www.fapeam.am.gov.br/editais/edital-n-o-0092026-programa-de-apoio-a-pesquisa-inovadora-para-o-desenvolvimento-e-aplicacao-de-tecnologias-sociais-de-baixo-custo-para-mitigacao-das-desigualdades-no-estado-do-amazonas-soc/",
+    "descobertoEm": "2026-06-16"
   }
 ]
