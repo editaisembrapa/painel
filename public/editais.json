@@ -718,20 +718,20 @@
   {
     "id": "bndes-bioinsumos-2026",
     "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
-    "orgao": "BNDES – Fundo Socioambiental",
+    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
     "origem": "Nacional",
     "areas": [
-      "bioinsumos",
-      "agroecossistemas",
-      "agricultura familiar",
-      "inovação tecnológica no agro",
-      "produção de alimentos saudáveis"
+      "Bioinsumos",
+      "Agricultura familiar",
+      "Transição agroecológica",
+      "Inovação produtiva",
+      "Sustentabilidade"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares interessadas em estruturar produção de bioinsumos em escala industrial ou semi-industrial",
+    "publico": "Cooperativas e associações de agricultores familiares interessadas em produção de bioinsumos em estruturas industriais ou semi-industriais",
     "valor": "Até R$ 5.000.000,00 por projeto, com recursos do BNDES Fundo Socioambiental",
     "prazo": "2026-08-31",
-    "desc": "Chamada voltada a projetos de inovação e estruturação produtiva de bioinsumos, visando a transição tecnológica para uso integrado de bioprodutos em agroecossistemas, com foco na produção sustentável de alimentos e fortalecimento de organizações de agricultores familiares.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/projetos-especiais/bndes-bioinsumos",
+    "desc": "Chamada de fomento a projetos para implantação ou expansão de unidades industriais ou semi-industriais de produção de bioinsumos por cooperativas e associações de agricultores familiares, visando transição tecnológica para uso integrado de bioprodutos em agroecossistemas e produção de alimentos saudáveis.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/fundos/bndes-fundo-socioambiental/chamada-bndes-bioinsumos",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -931,5 +931,84 @@
     "desc": "Apoia projetos de pesquisa, inovação, desenvolvimento e aplicação de tecnologias sociais de baixo custo voltadas à promoção da sustentabilidade, mitigação das desigualdades e melhoria da qualidade de vida de populações vulneráveis no Estado do Amazonas, com ênfase em comunidades ribeirinhas e rurais e na avaliação de impactos social, econômico, territorial, ambiental e tecnológico.[2]",
     "url": "https://www.fapeam.am.gov.br/editais/edital-n-o-0092026-programa-de-apoio-a-pesquisa-inovadora-para-o-desenvolvimento-e-aplicacao-de-tecnologias-sociais-de-baixo-custo-para-mitigacao-das-desigualdades-no-estado-do-amazonas-soc/",
     "descobertoEm": "2026-06-16"
+  },
+  {
+    "id": "CNPq-02-2026-PROSUL",
+    "titulo": "Chamada Pública MCTI/CNPq nº 02/2026 – Programa de Cooperação Latino-Americana e Caribenha em Ciência, Tecnologia e Inovação – PROSUL Pepe Mujica",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ambiente e sustentabilidade",
+      "Alimentação e agricultura",
+      "Agricultura sustentável",
+      "Biotecnologia agrícola",
+      "Sistemas alimentares resilientes",
+      "Economia circular",
+      "Mudanças climáticas",
+      "Conservação da biodiversidade"
+    ],
+    "publico": "Grupos de pesquisa sediados no Brasil em cooperação com instituições de países da América Latina e Caribe",
+    "valor": "não informado no extrato; chamada nacional de apoio a projetos de pesquisa colaborativa",
+    "prazo": "2026-05-18",
+    "desc": "Chamada para apoiar projetos de pesquisa colaborativa que fortaleçam a cooperação científica, tecnológica e de inovação entre o Brasil e demais países da América Latina e do Caribe, com eixos temáticos que incluem ambiente e sustentabilidade, alimentação e agricultura (segurança alimentar, agricultura sustentável, biotecnologia agrícola, sistemas alimentares resilientes e combate à fome), energia e mineração, saúde, tecnologia da informação e ciências humanas e sociais.",
+    "url": "http://portal-adm.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&desc=chamadas&idDivulgacao=13365",
+    "descobertoEm": "2026-06-17"
+  },
+  {
+    "id": "fapeam-fapesp-2026-articula-bio",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – ARTICULA BIO CT&I",
+    "orgao": "FAPEAM / FAPESP",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Desenvolvimento sustentável",
+      "Ciências agrárias",
+      "Meio ambiente",
+      "Biotecnologia"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou de pesquisa do Estado do Amazonas ou de São Paulo, coordenando projetos colaborativos AM–SP",
+    "valor": "Até R$ 200.000,00 por projeto (cota FAPEAM), 36 meses de duração",
+    "prazo": "2026-03-23",
+    "desc": "Chamada de cooperação científica e tecnológica entre Amazonas e São Paulo para projetos colaborativos em bioeconomia amazônica e desenvolvimento sustentável, visando fortalecer parcerias interinstitucionais e desenvolver soluções inovadoras associadas à biodiversidade e à base produtiva regional, incluindo agropecuária sustentável.[1]",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-06-17"
+  },
+  {
+    "id": "fapeam-014-2026-lidera-cientista-am",
+    "titulo": "EDITAL N.º 014/2026 – Programa de Apoio à Liderança Feminina na Inovação e Sustentabilidade da Amazônia – LIDERA CIENTISTA/AM",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Inovação tecnológica",
+      "Empreendedorismo sustentável",
+      "Bioeconomia amazônica",
+      "Sustentabilidade ambiental",
+      "Agroindústria e cadeias produtivas da biodiversidade"
+    ],
+    "publico": "Pesquisadoras com título de doutorado, sem vínculo empregatício, residentes no Estado do Amazonas, com atuação vinculada a instituições de pesquisa/ensino, centros de pesquisa, empresas ou instituições sem fins lucrativos",
+    "valor": "Auxílio pesquisa de até R$ 150.000,00 por projeto, com vigência de até 18 meses; estimativa de apoio a até 10 projetos",
+    "prazo": "2026-05-14",
+    "desc": "Programa voltado a doutoras empreendedoras para desenvolvimento tecnológico e inovação que resultem em produtos, processos ou serviços inovadores, visando à criação ou fortalecimento de micro e pequenas empresas de base tecnológica, com foco na valorização da biodiversidade amazônica, conservação ambiental e impacto econômico e social sustentável.[4]",
+    "url": "https://www.fapeam.am.gov.br/editais/edital-n-o-0142026-programa-de-apoio-a-lideranca-feminina-na-inovacao-e-sustentabilidade-da-amazonia-lidera-cientistaam/",
+    "descobertoEm": "2026-06-17"
+  },
+  {
+    "id": "fapeam-002-2026-bioeconomia-inclusiva-am-pr",
+    "titulo": "CHAMADA PÚBLICA N.º 002/2026 – Programa de Apoio a Pesquisas e Ações Estratégicas para a Bioeconomia Inclusiva no Amazonas e no Paraná – FAPEAM / Fundação Araucária",
+    "orgao": "FAPEAM / Fundação Araucária",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Bioeconomia inclusiva",
+      "Desenvolvimento territorial",
+      "Cadeias produtivas agroextrativistas",
+      "Agricultura familiar",
+      "Sustentabilidade na Amazônia"
+    ],
+    "publico": "Pesquisadores vinculados a instituições científicas e tecnológicas dos Estados do Amazonas e do Paraná, em projetos cooperativos voltados à bioeconomia inclusiva",
+    "valor": "Valor total e por projeto definidos na chamada; apoio a projetos de pesquisa e ações estratégicas em bioeconomia inclusiva",
+    "prazo": null,
+    "desc": "Chamada cooperativa entre Amazonas e Paraná para apoiar pesquisas e ações estratégicas de bioeconomia inclusiva, envolvendo cadeias produtivas baseadas na biodiversidade, inclusão social e fortalecimento de arranjos produtivos locais, com potencial aplicação em sistemas agropecuários sustentáveis na Amazônia.[9]",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-17"
   }
 ]
