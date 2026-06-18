@@ -365,20 +365,20 @@
   {
     "id": "catapult-green-fintech-2026",
     "titulo": "Catapult: Green Fintech 2026",
-    "orgao": "LHoFT Foundation / Governo de Luxemburgo",
+    "orgao": "Luxembourg House of Financial Technology (LHoFT) – chamado divulgado via Embrapa",
     "origem": "Internacional",
     "areas": [
-      "finanças sustentáveis",
-      "inovação financeira",
-      "ESG",
-      "clima e meio ambiente",
-      "cadeias agroalimentares sustentáveis (soluções elegíveis)"
+      "Fintech verde",
+      "Finanças sustentáveis",
+      "Clima e agricultura",
+      "Inovação em cadeias agroalimentares",
+      "Tecnologias para sustentabilidade no agro"
     ],
-    "publico": "Startups fintech de todo o mundo que desenvolvam soluções em finanças sustentáveis, incluindo aplicações para cadeias agroalimentares e agropecuária sustentável",
-    "valor": "Financiamento de até €1.000 para custeio local, com hospedagem e refeições durante o bootcamp cobertas",
+    "publico": "Empresas fintech de qualquer país com soluções de finanças verdes, inclusive voltadas a agricultura e clima, interessadas em participar de bootcamp em Luxemburgo",
+    "valor": "Bootcamp internacional de uma semana em Luxemburgo, com suporte de capacitação, mentoria e conexão com investidores para até 10 fintechs selecionadas (sem bolsa direta de pesquisa declarada).[3]",
     "prazo": "2026-07-08",
-    "desc": "Bootcamp internacional de uma semana em Luxemburgo para acelerar startups de green fintech que contribuam para integrar a gestão de riscos ESG, incluindo soluções que apoiem investimentos em agricultura e sistemas alimentares sustentáveis.",
-    "url": "https://www.lhoft.com/programmes/catapult-green-fintech-2026",
+    "desc": "Programa internacional de aceleração em formato de bootcamp de uma semana em Luxemburgo, reunindo 10 fintechs verdes selecionadas globalmente. A edição de 2026 é voltada a soluções que contribuam para a transição sustentável, incluindo desafios relacionados ao financiamento da agricultura de baixo carbono e cadeias agroalimentares resilientes, oferecendo capacitação, mentoria e exposição a investidores.[3]",
+    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -717,21 +717,21 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
-    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
+    "titulo": "Iniciativa BNDES Bioinsumos – Fundo Socioambiental (Chamada 2026)",
+    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social – BNDES",
     "origem": "Nacional",
     "areas": [
       "Bioinsumos",
       "Agricultura familiar",
-      "Transição agroecológica",
-      "Inovação produtiva",
-      "Sustentabilidade"
+      "Agroecologia",
+      "Produção de bioprodutos",
+      "Sistemas alimentares sustentáveis"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares interessadas em produção de bioinsumos em estruturas industriais ou semi-industriais",
-    "valor": "Até R$ 5.000.000,00 por projeto, com recursos do BNDES Fundo Socioambiental",
+    "publico": "Cooperativas e associações de agricultores familiares que operem ou desejem implantar estruturas industriais ou semi-industriais para produção de bioinsumos",
+    "valor": "R$ 5.000.000,00 (valor total da chamada, com recursos do BNDES Fundo Socioambiental)[3]",
     "prazo": "2026-08-31",
-    "desc": "Chamada de fomento a projetos para implantação ou expansão de unidades industriais ou semi-industriais de produção de bioinsumos por cooperativas e associações de agricultores familiares, visando transição tecnológica para uso integrado de bioprodutos em agroecossistemas e produção de alimentos saudáveis.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/fundos/bndes-fundo-socioambiental/chamada-bndes-bioinsumos",
+    "desc": "Chamada da iniciativa BNDES Bioinsumos, apoiada com recursos do Fundo Socioambiental do BNDES, voltada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, em estruturas industriais ou semi-industriais, visando a transição tecnológica para utilização integrada de bioprodutos em agroecossistemas e a produção de alimentos saudáveis.[3]",
+    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -956,20 +956,20 @@
   },
   {
     "id": "fapeam-fapesp-2026-articula-bio",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – ARTICULA BIO CT&I",
-    "orgao": "FAPEAM / FAPESP",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável",
+    "orgao": "FAPEAM/FAPESP",
     "origem": "Estadual · AM",
     "areas": [
       "Bioeconomia amazônica",
-      "Desenvolvimento sustentável",
-      "Ciências agrárias",
+      "Sustentabilidade",
       "Meio ambiente",
-      "Biotecnologia"
+      "Ciências agrárias",
+      "Recursos naturais"
     ],
-    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou de pesquisa do Estado do Amazonas ou de São Paulo, coordenando projetos colaborativos AM–SP",
-    "valor": "Até R$ 200.000,00 por projeto (cota FAPEAM), 36 meses de duração",
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo",
+    "valor": "Auxílio à Pesquisa Regular FAPESP; valores conforme regras da modalidade APR e normas orçamentárias da FAPEAM na chamada",
     "prazo": "2026-03-23",
-    "desc": "Chamada de cooperação científica e tecnológica entre Amazonas e São Paulo para projetos colaborativos em bioeconomia amazônica e desenvolvimento sustentável, visando fortalecer parcerias interinstitucionais e desenvolver soluções inovadoras associadas à biodiversidade e à base produtiva regional, incluindo agropecuária sustentável.[1]",
+    "desc": "Chamada para projetos colaborativos entre pesquisadores do Amazonas e de São Paulo voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras em bioeconomia amazônica, incluindo uso sustentável de recursos naturais, cadeias produtivas e desenvolvimento sustentável na região.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-17"
   },
@@ -1010,5 +1010,62 @@
     "desc": "Chamada cooperativa entre Amazonas e Paraná para apoiar pesquisas e ações estratégicas de bioeconomia inclusiva, envolvendo cadeias produtivas baseadas na biodiversidade, inclusão social e fortalecimento de arranjos produtivos locais, com potencial aplicação em sistemas agropecuários sustentáveis na Amazônia.[9]",
     "url": "https://www.fapeam.am.gov.br/editais/",
     "descobertoEm": "2026-06-17"
+  },
+  {
+    "id": "fapeam-003-2026-parev-ii",
+    "titulo": "EDITAL N.º 003/2026 – PROGRAMA DE APOIO À REALIZAÇÃO DE EVENTOS CIENTÍFICOS E TECNOLÓGICOS NO ESTADO DO AMAZONAS – PAREV 2026 – CHAMADA II",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Ciência, tecnologia e inovação",
+      "Meio ambiente",
+      "Amazônia",
+      "Agropecuária",
+      "Desenvolvimento regional"
+    ],
+    "publico": "Instituições de ensino e pesquisa, sociedades científicas e entidades sem fins lucrativos responsáveis pela organização de eventos científicos e tecnológicos no Estado do Amazonas",
+    "valor": "Valor do apoio definido por faixa de tipo/porte de evento, conforme normas orçamentárias do edital PAREV 2026 – Chamada II",
+    "prazo": null,
+    "desc": "Edital que apoia a realização de eventos científicos e tecnológicos no Amazonas, em todas as áreas do conhecimento, incluindo temas relacionados à Amazônia e ao setor agropecuário, visando à difusão de resultados de pesquisa e à integração da comunidade científica local.",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-18"
+  },
+  {
+    "id": "fapeam-006-2026-pce",
+    "titulo": "EDITAL N.º 006/2026 – PROGRAMA CIÊNCIA NA ESCOLA – PCE",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Educação científica",
+      "Popularização da ciência",
+      "Temas Amazônia",
+      "Meio ambiente",
+      "Ciências agrárias (projetos em escolas)"
+    ],
+    "publico": "Professores e estudantes de escolas públicas estaduais do Amazonas",
+    "valor": "Concessão de bolsas e auxílio financeiro por projeto de iniciação científica júnior, conforme faixas e quantitativos previstos no edital PCE 2026",
+    "prazo": "2026-03-16",
+    "desc": "Programa de iniciação científica júnior voltado a professores e estudantes da rede pública estadual, que financia projetos de pesquisa em escolas com ênfase em temas científicos diversos, incluindo meio ambiente, Amazônia e agropecuária, visando à formação de recursos humanos e à popularização da ciência.",
+    "url": "https://www.fapeam.am.gov.br/editais/edital-n-o-0062026-programa-ciencia-na-escola-pce/",
+    "descobertoEm": "2026-06-18"
+  },
+  {
+    "id": "faperj-07-2026-agro-futuro",
+    "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (FoodTechs e Agritechs) – Edital FAPERJ Nº 07/2026",
+    "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Agricultura",
+      "Foodtech",
+      "Agritech",
+      "Inovação tecnológica",
+      "PD&I em cadeias agroalimentares"
+    ],
+    "publico": "Startups e empresas de base tecnológica em agritechs e foodtechs sediadas ou atuantes no Estado do Rio de Janeiro",
+    "valor": "R$ 25.000.000,00 (valor global do edital, estruturado em três faixas de apoio, da prova de conceito ao escalonamento comercial)[1]",
+    "prazo": null,
+    "desc": "Programa voltado a apoiar projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs no estado do Rio de Janeiro, estimulando a criação de novas empresas de base tecnológica, a ampliação de mercados e a consolidação de cadeias agroindustriais inteligentes, com foco em produtividade, sustentabilidade ambiental, eficiência logística e valor agregado ao longo da cadeia agroalimentar.[1]",
+    "url": "https://www.faperj.br/?id=978.7.4",
+    "descobertoEm": "2026-06-18"
   }
 ]
