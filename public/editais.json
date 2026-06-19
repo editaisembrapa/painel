@@ -1067,5 +1067,211 @@
     "desc": "Programa voltado a apoiar projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs no estado do Rio de Janeiro, estimulando a criação de novas empresas de base tecnológica, a ampliação de mercados e a consolidação de cadeias agroindustriais inteligentes, com foco em produtividade, sustentabilidade ambiental, eficiência logística e valor agregado ao longo da cadeia agroalimentar.[1]",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-18"
+  },
+  {
+    "id": "FAPEAM-FAPESP-2026-BIOECONOMIA",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Cooperação Científica em Bioeconomia Amazônica",
+    "orgao": "FAPEAM / FAPESP",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Bioeconomia",
+      "Amazônia",
+      "Desenvolvimento sustentável",
+      "Biotecnologia",
+      "Meio ambiente"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo, para projetos colaborativos em bioeconomia amazônica",
+    "valor": "Auxílios na modalidade Auxílio à Pesquisa Regular (FAPESP) e apoio FAPEAM conforme orçamento da chamada",
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta que apoia projetos colaborativos entre pesquisadores do AM e SP voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras em bioeconomia amazônica, com duração de até 36 meses.[1][5]",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-006-2026-PCE",
+    "titulo": "EDITAL N.º 006/2026 – Programa Ciência na Escola (PCE)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Educação científica",
+      "Popularização da ciência",
+      "Ciências agrárias",
+      "Ciências ambientais",
+      "Amazônia"
+    ],
+    "publico": "Professores e estudantes de escolas públicas estaduais do Amazonas, para desenvolvimento de projetos de iniciação científica na educação básica",
+    "valor": "Apoio a projetos de pesquisa em escolas públicas, com bolsas e recursos de custeio conforme faixas definidas no edital",
+    "prazo": "2026-03-16",
+    "desc": "Programa voltado à inserção da cultura científica em escolas públicas estaduais do Amazonas, por meio do desenvolvimento de projetos de pesquisa orientados em diferentes áreas, incluindo temáticas relacionadas à Amazônia e agropecuária.[2]",
+    "url": "https://www.fapeam.am.gov.br/editais/edital-n-o-0062026-programa-ciencia-na-escola-pce/",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-PAINTER-ECOTURISMO-2026",
+    "titulo": "Programa de Apoio à Inovação Tecnológica Voltada ao Ecoturismo em Comunidades do Interior do Estado do Amazonas (Painter Ecoturismo)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Ecoturismo",
+      "Inovação tecnológica",
+      "Bioeconomia",
+      "Desenvolvimento regional",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores e equipes de pesquisa interessados em desenvolver soluções tecnológicas para ecoturismo em comunidades do interior do Amazonas",
+    "valor": "Recursos de fomento à inovação tecnológica, compondo parte dos R$ 7 milhões destinados aos editais inéditos de 2026",
+    "prazo": null,
+    "desc": "Programa inédito de 2026 que apoia projetos de inovação tecnológica voltados ao ecoturismo em comunidades do interior do Amazonas, buscando articular conservação ambiental, geração de renda e desenvolvimento local.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-PROVIDA-AM-2026",
+    "titulo": "Programa de Apoio à Pesquisa Integrada para a Qualidade de Vida no Amazonas (PROVIDA-AM)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Saúde e ambiente",
+      "Qualidade de vida",
+      "Amazônia",
+      "Desenvolvimento sustentável"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e pesquisa interessados em projetos integrados sobre qualidade de vida no Amazonas",
+    "valor": "Fomento à pesquisa dentro do montante de R$ 7 milhões destinado aos editais inéditos de 2026",
+    "prazo": null,
+    "desc": "Edital inédito que apoia pesquisas integradas sobre qualidade de vida no Amazonas, considerando contextos ambientais, sociais e econômicos amazônicos, potencialmente incluindo dimensões rurais e agropecuárias.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-DEEP-TECH-2026",
+    "titulo": "Programa de Apoio à Startup Deep Tech para Inovação Científica e Tecnológica (DEEP TECH)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Startups",
+      "Deep tech",
+      "Inovação científica e tecnológica",
+      "Bioeconomia",
+      "Amazônia"
+    ],
+    "publico": "Empreendedores e pesquisadores envolvidos em startups de base científico-tecnológica com potencial de aplicação em contextos amazônicos",
+    "valor": "Parte do investimento de R$ 7 milhões destinado aos editais inéditos de 2026 para apoio a startups e inovação",
+    "prazo": null,
+    "desc": "Edital inédito destinado a apoiar startups de base científica e tecnológica (deep tech), com foco em soluções inovadoras e de alto impacto tecnológico, potencialmente aplicáveis à bioeconomia e setores produtivos amazônicos.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-SOCIO-TECH-2026",
+    "titulo": "Programa de Apoio à Pesquisa Inovadora para o Desenvolvimento e Aplicação de Tecnologias Sociais de Baixo Custo para Mitigação das Desigualdades no Estado do Amazonas (SOCIO TECH)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Tecnologias sociais",
+      "Desenvolvimento social",
+      "Amazônia rural",
+      "Sustentabilidade",
+      "Agropecuária familiar"
+    ],
+    "publico": "Pesquisadores interessados em desenvolver e aplicar tecnologias sociais de baixo custo para reduzir desigualdades no Amazonas",
+    "valor": "Fomento à pesquisa e inovação social dentro do pacote de editais inéditos de 2026",
+    "prazo": null,
+    "desc": "Edital inédito que apoia pesquisas e desenvolvimento de tecnologias sociais de baixo custo voltadas à mitigação de desigualdades no Amazonas, incluindo soluções para comunidades rurais e produtivas, com potencial interface com agropecuária e segurança alimentar.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-PROSPAM-2026",
+    "titulo": "Programa Estratégico de Desenvolvimento do Setor Primário Produtivo Amazonense (PROSPAM) – Edição 2026",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Agropecuária",
+      "Setor primário",
+      "Desenvolvimento rural",
+      "Amazônia",
+      "Aquicultura e pesca"
+    ],
+    "publico": "Pesquisadores e instituições interessados em projetos para fortalecimento do setor primário produtivo no Amazonas, incluindo agricultura, pecuária, pesca e atividades extrativistas",
+    "valor": "Fomento à pesquisa aplicada ao setor primário, com recursos definidos na edição 2026 do programa",
+    "prazo": null,
+    "desc": "Nova edição de programa estratégico que apoia projetos para o desenvolvimento do setor primário produtivo amazonense, fortemente alinhado a demandas de agropecuária, produção rural e cadeias produtivas amazônicas.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-PAMEQ-2026",
+    "titulo": "Programa de Apoio à Manutenção de Equipamentos (PAMEQ) – Edição 2026",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Infraestrutura de pesquisa",
+      "Ciências agrárias",
+      "Ciências ambientais",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores responsáveis por laboratórios e grupos de pesquisa no Amazonas que necessitam de apoio para manutenção de equipamentos científicos",
+    "valor": "Recursos destinados à manutenção e recuperação de equipamentos multiusuário e laboratoriais conforme faixas definidas no edital 2026",
+    "prazo": null,
+    "desc": "Edital de apoio à manutenção de equipamentos de pesquisa, fundamental para laboratórios que atuam com temas amazônicos e agropecuários, garantindo a continuidade de experimentos e análises em diferentes áreas.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-COLECOES-BIOLOGICAS-2026",
+    "titulo": "Programa de Apoio à Organização, Restauração, Preservação e Divulgação de Coleções Biológicas e Museus do Estado do Amazonas – Edição 2026",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Coleções biológicas",
+      "Biodiversidade",
+      "Amazônia",
+      "Sistemática e taxonomia",
+      "Conservação"
+    ],
+    "publico": "Pesquisadores e instituições responsáveis por coleções biológicas e museus científicos no Estado do Amazonas",
+    "valor": "Apoio financeiro para organização, restauração, preservação e divulgação de coleções biológicas e museus, conforme parâmetros do edital 2026",
+    "prazo": null,
+    "desc": "Programa que apoia a infraestrutura de coleções biológicas e museus no Amazonas, relevantes para pesquisas sobre biodiversidade amazônica, bioprospecção e base de dados para estudos agropecuários e ambientais.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-PROFIX-RH-INTERIOR-2026",
+    "titulo": "Programa de Fixação de Recursos Humanos para o Interior do Estado: Mestres e Doutores por Calha de Rio (PROFIX-RH – Edição 2026)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Formação de recursos humanos",
+      "Desenvolvimento regional",
+      "Amazônia",
+      "Agropecuária e gestão territorial"
+    ],
+    "publico": "Mestres e doutores interessados em atuar e desenvolver pesquisas no interior do Amazonas, organizados por calha de rio",
+    "valor": "Bolsas e auxílios para fixação de pesquisadores no interior, conforme regras da edição 2026",
+    "prazo": null,
+    "desc": "Programa que oferece apoio para fixação de mestres e doutores no interior do Amazonas, favorecendo a interiorização da pesquisa em áreas estratégicas como agropecuária, manejo de recursos naturais e desenvolvimento territorial amazônico.[5]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
+  },
+  {
+    "id": "FAPEAM-CREDENCIAMENTO-ESTIAGEM-2026",
+    "titulo": "Edital de Credenciamento de Instituições para Transferência não Onerosa de Tecnologias voltadas ao Enfrentamento da Estiagem e Eventos Climáticos e Ambientais do Estado do Amazonas – 2026",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Mudanças climáticas",
+      "Tecnologias para estiagem",
+      "Amazônia",
+      "Gestão de recursos hídricos",
+      "Agropecuária resiliente"
+    ],
+    "publico": "Instituições interessadas em transferência não onerosa de tecnologias para enfrentamento de eventos climáticos extremos e estiagem no Amazonas",
+    "valor": "Até 20 propostas apoiadas, totalizando R$ 1 milhão para transferência não onerosa de tecnologias",
+    "prazo": null,
+    "desc": "Edital de credenciamento que visa apoiar a transferência de tecnologias para enfrentamento de estiagens e eventos climáticos extremos no Amazonas, com forte pertinência para sistemas produtivos rurais e cadeias agropecuárias vulneráveis.[3]",
+    "url": "https://www.fapeam.am.gov.br/editais",
+    "descobertoEm": "2026-06-19"
   }
 ]
