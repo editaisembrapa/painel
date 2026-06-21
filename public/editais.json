@@ -121,17 +121,19 @@
     "id": "fapeam-prospam-2026",
     "orgao": "FAPEAM",
     "origem": "Estadual · AM",
-    "titulo": "FAPEAM Edital 004/2026 — PROSPAM (Setor Primário Produtivo Amazonense)",
+    "titulo": "Programa Estratégico de Desenvolvimento do Setor Primário Produtivo Amazonense – PROSPAM (Edição 2026)",
     "areas": [
       "Agropecuária",
-      "Manejo florestal/pesqueiro",
-      "Recuperação de áreas degradadas"
+      "Setor primário",
+      "Produção rural",
+      "Amazônia",
+      "Desenvolvimento produtivo"
     ],
-    "publico": "Doutores/mestres em instituições públicas de pesquisa do Amazonas",
-    "valor": "R$ 3 mi · até R$ 150 mil/projeto",
-    "prazo": "2026-04-17",
-    "desc": "Apoia pesquisa, tecnologia e inovação para o desenvolvimento sustentável do setor primário do AM (agricultura, pecuária, pesca, floresta). Chamada agro central da FAPEAM.",
-    "url": "https://www.fapeam.am.gov.br/editais/edital-no-0042026-programa-estrategico-de-desenvolvimento-do-setor-primario-produtivo-amazonense-prospamfapeam/",
+    "publico": "Pesquisadores e instituições de pesquisa que desenvolvam projetos voltados ao setor primário no estado do Amazonas",
+    "valor": "Programa estratégico incluído no pacote de 15 editais de 2026; montantes e número de propostas definidos no edital específico",
+    "prazo": null,
+    "desc": "Nova edição do programa voltado ao desenvolvimento do setor primário produtivo no Amazonas, apoiando projetos de pesquisa e inovação em agropecuária, produção rural e cadeias produtivas associadas à bioeconomia e ao uso sustentável dos recursos amazônicos.[4]",
+    "url": "https://www.fapeam.am.gov.br/editais/",
     "descobertoEm": "2026-02-20"
   },
   {
@@ -1055,16 +1057,17 @@
     "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
     "origem": "Estadual · AM",
     "areas": [
-      "Agricultura",
-      "Foodtech",
-      "Agritech",
-      "Inovação tecnológica",
-      "PD&I em cadeias agroalimentares"
+      "Inovação agro",
+      "Agritechs",
+      "Foodtechs",
+      "P,D&I em agropecuária",
+      "Cadeias agroindustriais inteligentes",
+      "Produtividade e sustentabilidade ambiental no agro"
     ],
-    "publico": "Startups e empresas de base tecnológica em agritechs e foodtechs sediadas ou atuantes no Estado do Rio de Janeiro",
-    "valor": "R$ 25.000.000,00 (valor global do edital, estruturado em três faixas de apoio, da prova de conceito ao escalonamento comercial)[1]",
+    "publico": "Startups de base tecnológica, empresas e instituições de pesquisa sediadas ou atuantes no Estado do Rio de Janeiro com projetos em agritechs e foodtechs",
+    "valor": "Até R$ 25.000.000,00 em recursos globais do programa, distribuídos em três faixas que vão da prova de conceito ao escalonamento comercial",
     "prazo": null,
-    "desc": "Programa voltado a apoiar projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs no estado do Rio de Janeiro, estimulando a criação de novas empresas de base tecnológica, a ampliação de mercados e a consolidação de cadeias agroindustriais inteligentes, com foco em produtividade, sustentabilidade ambiental, eficiência logística e valor agregado ao longo da cadeia agroalimentar.[1]",
+    "desc": "Programa estratégico para apoiar projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs fluminenses, estimulem a criação de novas empresas de base tecnológica e consolidem cadeias agroindustriais inteligentes, visando aumentar produtividade, sustentabilidade ambiental, eficiência logística e valor agregado ao longo da cadeia agroalimentar.",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-18"
   },
@@ -1481,5 +1484,261 @@
     "desc": "O Horizon Europe mantém em 2026 diversas chamadas dentro do Cluster 6 voltadas a alimentos, agricultura, bioeconomia, recursos naturais e meio ambiente, muitas com forte componente de inovação agropecuária, digitalização, sustentabilidade e resiliência climática. Grupos de pesquisa brasileiros podem integrar consórcios europeus como parceiros associados, desenvolvendo projetos de P,D&I em agropecuária alinhados às prioridades do programa quadro.",
     "url": "https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en",
     "descobertoEm": "2026-06-20"
+  },
+  {
+    "id": "finep-fndct-cadeias-agricultura-familiar-sistemas-agroalimentares-sustentaveis-2026-anuncio",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Bioinsumos",
+      "Sistemas de produção agroecológicos e orgânicos",
+      "Soluções digitais para a pequena propriedade rural",
+      "Aquicultura de espécies nativas"
+    ],
+    "publico": "ICTs públicas e privadas",
+    "valor": "R$ 150 milhões; até R$ 50 milhões para duas linhas e até R$ 25 milhões para duas linhas",
+    "prazo": "2026-06-19",
+    "desc": "Anúncio da abertura da chamada nacional com foco em cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/783",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "capes-premio-tese-2026",
+    "titulo": "Prêmio CAPES de Tese – Edição 2026",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "Pós-graduação",
+      "Teses"
+    ],
+    "publico": "Programas de pós-graduação stricto sensu no Brasil",
+    "valor": "Premiação institucional; valores não informados na fonte consultada",
+    "prazo": "2026-06-02",
+    "desc": "Edital de premiação de teses defendidas em programas de pós-graduação, relevante para pesquisadores com produção acadêmica em agropecuária e áreas correlatas.",
+    "url": "https://plone.ufcat.edu.br/propesq/pt-br/noticias/boletim-de-informacoes-propesq_ufcat-ndeg-18_2026.pdf/@@download/file/Boletim%20de%20Informa%C3%A7%C3%B5es%20PROPESQ_UFCAT%20N%C2%B0%2018_2026.pdf",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "capes-mes-cuba-docentes-2026",
+    "titulo": "Programa CAPES/MES-Cuba – Docentes – Edital nº 13/2026",
+    "orgao": "CAPES",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa",
+      "Cooperação internacional",
+      "Formação docente"
+    ],
+    "publico": "Docentes e instituições participantes de cooperação Brasil-Cuba",
+    "valor": "Fomento de até 2 anos, prorrogável por mais 2 anos; valores não informados na fonte consultada",
+    "prazo": "2026-06-12",
+    "desc": "Chamada de cooperação internacional da CAPES para apoio a projetos docentes em parceria com Cuba.",
+    "url": "https://plone.ufcat.edu.br/propesq/pt-br/noticias/boletim-de-informacoes-propesq_ufcat-ndeg-18_2026.pdf/@@download/file/Boletim%20de%20Informa%C3%A7%C3%B5es%20PROPESQ_UFCAT%20N%C2%B0%2018_2026.pdf",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "finep-fndct-cadeias-agricultura-familiar-sistemas-agroalimentares-sustentaveis-2026-interna-ufrrj",
+    "titulo": "Chamada Interna para Seleção de Proposta Institucional – FINEP 2026 – Cadeias Socioprodutivas da Agricultura Familiar",
+    "orgao": "UFRRJ / FINEP/FNDCT",
+    "origem": "Interno",
+    "areas": [
+      "Bioinsumos",
+      "Sistemas de produção agroecológicos e orgânicos",
+      "Soluções digitais para a pequena propriedade rural",
+      "Aquicultura de espécies nativas"
+    ],
+    "publico": "Pesquisadores da UFRRJ interessados em compor proposta institucional",
+    "valor": "Entre R$ 3.000.000,00 e R$ 7.000.000,00",
+    "prazo": "2026-04-10",
+    "desc": "Seleção interna da UFRRJ para escolha da proposta institucional a ser submetida à Finep na chamada de agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "url": "https://portalpesquisa.ufrrj.br/2026/03/chamada-interna-para-selecao-de-proposta-institucional-finep-2026-cadeias-socioprodutivas-da-agricultura-familiar/",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "fapeam-fapesp-2026-bioeconomia",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Cooperação Científica em Bioeconomia Amazônica",
+    "orgao": "FAPEAM · FAPESP",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Desenvolvimento sustentável",
+      "Ciências agrárias",
+      "Biotecnologia",
+      "Conservação da Amazônia"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior ou pesquisa nos estados do Amazonas e de São Paulo",
+    "valor": "Auxílios regulares FAPESP e apoio FAPEAM para projetos cooperativos de até 36 meses",
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta para projetos colaborativos entre grupos do Amazonas e de São Paulo, visando fortalecer parcerias interinstitucionais e desenvolver soluções inovadoras em bioeconomia amazônica e desenvolvimento sustentável, incluindo temas de recursos naturais, produção sustentável e cadeias produtivas na região amazônica.[1]",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "fapeam-articula-bio-cti-2026",
+    "titulo": "Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – Articula/BIO CT&I",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Bioeconomia",
+      "Amazônia",
+      "Desenvolvimento sustentável",
+      "Cadeias produtivas",
+      "Inovação em recursos naturais"
+    ],
+    "publico": "Pesquisadores e grupos de pesquisa sediados no Amazonas em parceria com outras instituições, conforme regulamento do edital",
+    "valor": "Parte do conjunto de 15 editais que totalizam mais de R$ 81 milhões em CT&I no Amazonas; valores e cotas definidos no edital específico",
+    "prazo": null,
+    "desc": "Edital inédito lançado em 2026 para apoiar a articulação de pesquisas em bioeconomia e desenvolvimento sustentável, integrando redes e projetos estratégicos voltados à valorização da sociobiodiversidade amazônica e ao uso sustentável de recursos naturais.[4]",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "fapeam-provida-am-2026",
+    "titulo": "Programa de Apoio à Pesquisa Integrada para a Qualidade de Vida no Amazonas – PROVIDA-AM",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Qualidade de vida",
+      "Saúde e ambiente",
+      "Amazônia",
+      "Desenvolvimento territorial",
+      "Interdisciplinar"
+    ],
+    "publico": "Pesquisadores e grupos de pesquisa sediados no Amazonas com projetos integrados sobre qualidade de vida, ambiente e desenvolvimento regional",
+    "valor": "Edital inédito de 2026, parte do bloco de cinco novos programas com investimento total de R$ 7 milhões; detalhes no edital específico",
+    "prazo": null,
+    "desc": "Programa inédito voltado a pesquisas integradas que abordem qualidade de vida no Amazonas, considerando contexto amazônico, aspectos ambientais, sociais e produtivos, com potencial interface com agropecuária e uso do território.[4]",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "fapeam-painter-ecoturismo-2026",
+    "titulo": "Programa de Apoio à Inovação Tecnológica Voltada ao Ecoturismo em Comunidades do Interior do Estado do Amazonas – PAINTER Ecoturismo",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Ecoturismo",
+      "Inovação tecnológica",
+      "Comunidades rurais",
+      "Amazônia",
+      "Desenvolvimento local"
+    ],
+    "publico": "Pesquisadores, instituições de pesquisa e parceiros locais que atuem com inovação para ecoturismo em comunidades do interior do Amazonas",
+    "valor": "Um dos cinco editais inéditos de 2026, dentro do montante de R$ 7 milhões; valores e número de propostas definidos no edital específico",
+    "prazo": null,
+    "desc": "Edital inédito que apoia desenvolvimento e aplicação de tecnologias e soluções inovadoras ligadas ao ecoturismo em comunidades do interior do Amazonas, com forte componente de bioeconomia, uso sustentável da floresta e atividades produtivas associadas.[4]",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "fapeam-socio-tech-2026",
+    "titulo": "Programa de Apoio à Pesquisa Inovadora para Tecnologias Sociais de Baixo Custo para Mitigação das Desigualdades no Estado do Amazonas – SOCIO TECH",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Tecnologias sociais",
+      "Desenvolvimento sustentável",
+      "Comunidades amazônicas",
+      "Inovação social",
+      "Bioeconomia inclusiva"
+    ],
+    "publico": "Pesquisadores e instituições que desenvolvam tecnologias sociais de baixo custo aplicáveis ao contexto amazônico",
+    "valor": "Edital inédito de 2026, integrado ao pacote de cinco novos programas com investimento de R$ 7 milhões; detalhes no edital específico",
+    "prazo": null,
+    "desc": "Chamada voltada a pesquisas inovadoras para desenvolvimento e aplicação de tecnologias sociais de baixo custo visando reduzir desigualdades no Amazonas, com potencial interface com produção rural familiar, cadeias agroextrativistas e uso sustentável da biodiversidade.[4]",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "fapeam-deep-tech-2026",
+    "titulo": "Programa de Apoio à Startup Deep Tech para Inovação Científica e Tecnológica – DEEP TECH",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Inovação tecnológica",
+      "Startups",
+      "Bioeconomia",
+      "Agropecuária de precisão",
+      "Tecnologias para Amazônia"
+    ],
+    "publico": "Startups e grupos de pesquisa com foco em deep tech vinculados ao ecossistema de CT&I do Amazonas, conforme critérios do edital",
+    "valor": "Edital inédito em 2026, compondo o conjunto de cinco novos programas com total de R$ 7 milhões em investimentos; detalhes no edital",
+    "prazo": null,
+    "desc": "Programa que apoia startups e projetos de deep tech com forte componente científico-tecnológico voltados a desafios do Amazonas, incluindo possíveis soluções em bioeconomia, monitoramento ambiental e agropecuária sustentável em contexto amazônico.[4]",
+    "url": "https://www.fapeam.am.gov.br/editais/",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "embrapa-2026-12",
+    "titulo": "Chamada nº 12/2026 - Seleção de Bolsistas para o Projeto ILPF Regenera",
+    "orgao": "Embrapa Agrossilvipastoril",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento tecnológico",
+      "Extensão",
+      "Sustentabilidade",
+      "Agropecuária de baixa emissão de carbono"
+    ],
+    "publico": "Especialistas e estudantes",
+    "valor": null,
+    "prazo": "2026-01-28",
+    "desc": "Chamada pública para concessão de Bolsas de Estímulo à Inovação no projeto ILPF Regenera: Indicadores Ambientais de Sustentabilidade para Agropecuária de Baixa Emissão de Carbono, em parceria com Monsanto/Bayer e Funarbe.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/106385473/chamada-n-122026---selecao-de-bolsistas-para-o-projeto-ilpf-regenera--embrapa-agrossilvipastoril",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "embrapa-maranhao-01-2026",
+    "titulo": "Edital Embrapa Maranhão nº 01/2026",
+    "orgao": "Embrapa Maranhão",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Inovação",
+      "Ciências Agrárias"
+    ],
+    "publico": "Candidatos com mestrado em Ciências Agrárias ou áreas afins",
+    "valor": "R$ 5.625,00/mês",
+    "prazo": "2026-03-27",
+    "desc": "Processo seletivo para bolsas de Acordo de Cooperação e Convênio (ACC), com implementação via FAPEMA.",
+    "url": "https://www.embrapa.br/documents/1354356/0/Edital+Embrapa+Maranh%C3%A3o+n%C2%BA+01-2026/e955a8c3-57ab-f81b-6b6e-c918cb9e44f7?version=1.0&download=true",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "embrapa-paic-fapeam-2026-2027",
+    "titulo": "Edital de Seleção nº 1/2026 - PAIC/FAPEAM",
+    "orgao": "Embrapa",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Pesquisa",
+      "Inovação",
+      "Formação de recursos humanos"
+    ],
+    "publico": "Estudantes vinculados ao PAIC/FAPEAM",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital de seleção para participação em programa de iniciação científica e tecnológica com apoio da FAPEAM.",
+    "url": "https://www.embrapa.br/documents/1354286/112750754/EDITAL_SELECAO+PAIC-FAPEAM_2026-2027.pdf/2f883f76-6ad3-bacb-e256-1ab601eb74e8?download=true",
+    "descobertoEm": "2026-06-21"
+  },
+  {
+    "id": "agrobrasilia-inova-startups-2026",
+    "titulo": "Seleção de Startups e Concurso AgroBrasília de Inovação no Campo – Inova AgroBrasília 2026",
+    "orgao": "Cooperativa Agropecuária da Região do Distrito Federal (COOPA-DF) / AgroBrasília",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Inovação agro",
+      "Tecnologias para o campo",
+      "Agtechs",
+      "Digitalização e automação no agro",
+      "Sustentabilidade na produção agropecuária"
+    ],
+    "publico": "Startups e empresas inovadoras com soluções tecnológicas voltadas ao agronegócio interessadas em participar do Concurso de Inovação no Campo e da seleção de startups da edição 2026 da feira",
+    "valor": "Benefícios de visibilidade, conexão com produtores e potenciais parcerias comerciais; a chamada enfatiza participação em espaço de inovação, não detalhando aporte financeiro direto",
+    "prazo": null,
+    "desc": "Chamada da edição 2026 do Inova AgroBrasília para seleção de startups e realização do Concurso AgroBrasília de Inovação no Campo, com inscrições abertas a partir de 26/02, voltada a soluções tecnológicas que promovam inovação no agronegócio em diferentes elos da cadeia produtiva.",
+    "url": "https://agrobrasilia.com.br/inova-agrobrasilia/",
+    "descobertoEm": "2026-06-21"
   }
 ]
