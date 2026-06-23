@@ -1576,21 +1576,21 @@
   },
   {
     "id": "fapeam-articula-bio-cti-2026",
-    "titulo": "Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – Articula/BIO CT&I",
-    "orgao": "FAPEAM",
+    "titulo": "Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável (Articula/BIO CT&I) – Chamada FAPEAM/FAPESP 2026",
+    "orgao": "FAPEAM · FAPESP",
     "origem": "Estadual · AM",
     "areas": [
-      "Bioeconomia",
-      "Amazônia",
+      "Bioeconomia amazônica",
       "Desenvolvimento sustentável",
-      "Cadeias produtivas",
-      "Inovação em recursos naturais"
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Tecnologia e Inovação"
     ],
-    "publico": "Pesquisadores e grupos de pesquisa sediados no Amazonas em parceria com outras instituições, conforme regulamento do edital",
-    "valor": "Parte do conjunto de 15 editais que totalizam mais de R$ 81 milhões em CT&I no Amazonas; valores e cotas definidos no edital específico",
-    "prazo": null,
-    "desc": "Edital inédito lançado em 2026 para apoiar a articulação de pesquisas em bioeconomia e desenvolvimento sustentável, integrando redes e projetos estratégicos voltados à valorização da sociobiodiversidade amazônica e ao uso sustentável de recursos naturais.[4]",
-    "url": "https://www.fapeam.am.gov.br/editais/",
+    "publico": "Pesquisadores vinculados a Instituições de Ensino Superior e/ou de Pesquisa dos estados do Amazonas e de São Paulo",
+    "valor": "Projetos apoiados na modalidade Auxílio à Pesquisa Regular pela FAPESP e modalidade correspondente da FAPEAM, com duração de até 36 meses",
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP destinada à submissão de projetos colaborativos entre pesquisadores do Amazonas e de São Paulo, voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras em bioeconomia amazônica e desenvolvimento sustentável, incluindo cadeias produtivas agropecuárias e uso sustentável de recursos naturais.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-21"
   },
   {
@@ -1922,5 +1922,43 @@
     "desc": "Diretrizes da FAPEAM para participação de pesquisadores do Amazonas na Chamada ERC–CONFAP 2026, que oferece oportunidades de cooperação e mobilidade para desenvolvimento de projetos com grupos do European Research Council. As áreas são de tema livre, permitindo propostas relacionadas à Amazônia, bioeconomia, agropecuária, recursos naturais, mudanças climáticas e sustentabilidade, com fomento articulado entre recursos europeus e apoio complementar das Fundações de Amparo à Pesquisa brasileiras.[6]",
     "url": "https://www.fapeam.am.gov.br/editais/",
     "descobertoEm": "2026-06-22"
+  },
+  {
+    "id": "fapesp-programa-research-on-amazon-2026",
+    "titulo": "Programa de Apoio à Pesquisa em Bioeconomia Amazônica e Sustentabilidade – Componentes FAPESP com foco Amazônia",
+    "orgao": "FAPESP",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Engenharias",
+      "Sustentabilidade"
+    ],
+    "publico": "Pesquisadores com vínculo em instituições de pesquisa do Estado de São Paulo em cooperação com pesquisadores do Amazonas",
+    "valor": "Auxílio à Pesquisa Regular com duração de 36 meses, conforme normas da FAPESP",
+    "prazo": "2026-03-23",
+    "desc": "Componente paulista da chamada FAPEAM/FAPESP 2026 que apoia projetos cooperativos em bioeconomia amazônica e desenvolvimento sustentável, incluindo temas de produção agropecuária de base florestal, cadeias de valor da biodiversidade e tecnologias de baixo impacto para uso de recursos naturais da Amazônia.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-06-23"
+  },
+  {
+    "id": "embrapa-cnpq-02-2026-meio-norte",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Bolsas em projetos aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "orgao": "Embrapa Meio-Norte / Embrapa – CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Agronomia",
+      "Engenharia Agrícola",
+      "Ciências Agrárias",
+      "Agropecuária de baixa emissão de carbono"
+    ],
+    "publico": "Graduados e pós-graduados em Agronomia, Engenharia Agrícola ou áreas afins para atuação em projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": "R$ 700,00/mês (exemplo de bolsa de iniciação científica; demais valores conforme chamadas específicas do Convênio Embrapa/CNPq)",
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atuação em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG), no âmbito do Convênio Embrapa/CNPq. As atividades incluem apoio à execução de projetos de PD&I internos da Embrapa Meio-Norte, com foco em tecnologias agropecuárias. O edital geral 02/2026 estrutura as chamadas ao longo de 2026, definindo critérios de elegibilidade, modalidades de bolsas de fomento e vínculo com projetos registrados no SEG.[3]",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-06-23"
   }
 ]
