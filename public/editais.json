@@ -814,21 +814,21 @@
   },
   {
     "id": "fapeam-fapesp-articula-bio-cti-2026",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – ARTICULA BIO CT&I",
-    "orgao": "FAPEAM / FAPESP",
-    "origem": "Nacional",
+    "titulo": "Chamada FAPEAM/FAPESP – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável (Articula/BIO CT&I) – 2026",
+    "orgao": "FAPEAM · FAPESP",
+    "origem": "Estadual · AM",
     "areas": [
       "Bioeconomia amazônica",
       "Desenvolvimento sustentável",
       "Ciências agrárias",
-      "Meio ambiente",
-      "Biotecnologia",
-      "Inovação"
+      "Agropecuária",
+      "Recursos naturais",
+      "Inovação tecnológica"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo",
-    "valor": "Até R$ 200.000,00 por projeto na FAPEAM e até R$ 600.000,00 por projeto na FAPESP; R$ 2.000.000,00 (FAPEAM) e R$ 6.000.000,00 (FAPESP) em recursos globais",
+    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior e/ou pesquisa nos estados do Amazonas e de São Paulo",
+    "valor": "Auxílio à Pesquisa Regular FAPESP; recursos FAPEAM para projetos cooperativos em bioeconomia amazônica (valores especificados nos sistemas SIGFAPEAM/SAGe da chamada)",
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta FAPEAM/FAPESP para projetos colaborativos entre pesquisadores do Amazonas e de São Paulo focados em bioeconomia e desenvolvimento sustentável na Amazônia, incluindo cadeias produtivas sustentáveis, uso de recursos da biodiversidade, agricultura e sistemas agroflorestais, com vigência de 36 meses e apoio na forma de auxílio à pesquisa e bolsas.",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para projetos colaborativos entre grupos de pesquisa do Amazonas e de São Paulo focados em bioeconomia amazônica e desenvolvimento sustentável, visando soluções inovadoras em cadeias produtivas, uso sustentável da biodiversidade, sistemas agroflorestais, agropecuária de baixa emissão e outras temáticas estratégicas para a Amazônia. Submissão via SIGFAPEAM (AM) e SAGe (SP); duração dos projetos de até 36 meses.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-15"
   },
@@ -1743,7 +1743,7 @@
   },
   {
     "id": "cnpq-06-2026-universal",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 - Universal",
+    "titulo": "Chamada CNPq/FNDCT Nº 06/2026 - Universal",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
@@ -1752,35 +1752,28 @@
       "Ciências Agrárias",
       "PD&I"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições científicas, tecnológicas e de inovação brasileiras",
-    "valor": "Valor global: não informado no extrato; apoio a projetos em qualquer área do conhecimento com recursos do FNDCT",
+    "publico": "Pesquisadores doutores com vínculo em ICTs brasileiras ou entidades sem fins lucrativos habilitadas, em qualquer área do conhecimento, incluindo agropecuária",
+    "valor": "Não há limite de valor por projeto; observar a previsão de recursos por rubrica da chamada",
     "prazo": null,
-    "desc": "Apoia projetos de pesquisa, desenvolvimento tecnológico e inovação em qualquer área do conhecimento, visando o desenvolvimento científico e tecnológico e a inovação do País, com recursos do FNDCT. É adequado para grupos de pesquisa de agropecuária e infraestrutura laboratorial em CT&I.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-fndct-no-06-2026-universal",
+    "desc": "Apoiar projetos de pesquisa, desenvolvimento e inovação em qualquer área do conhecimento que contribuam para o desenvolvimento científico, tecnológico e a inovação no País, com recursos do FNDCT, incluindo propostas em ciências agrárias e agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026",
     "descobertoEm": "2026-06-22"
   },
   {
     "id": "cnpq-14-2026-brics-sti",
-    "titulo": "7ª Chamada Pública MCTI/CNPq/BRICS-STI nº 14/2026",
+    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI Nº 14/2026",
     "orgao": "CNPq",
     "origem": "Internacional",
     "areas": [
       "PD&I",
-      "Recursos hídricos",
-      "Inteligência artificial",
-      "Computação quântica",
-      "Energia renovável",
-      "Biotecnologia",
-      "Saúde digital",
-      "Agricultura sustentável",
-      "Ciência dos materiais",
-      "Hidrogênio verde"
+      "Ciência e tecnologia",
+      "Temas estratégicos BRICS (incluindo agricultura, recursos naturais e sustentabilidade, conforme áreas definidas no edital)"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições científicas e tecnológicas, empresas brasileiras ou organizações sem fins lucrativos habilitadas, em cooperação com parceiros de países BRICS",
-    "valor": "Valor global: R$ 33.000.000,00; até ~R$ 650.000,00 por projeto em Redes Temáticas e até ~R$ 5.500.000,00 em Projetos Flagship",
+    "publico": "Grupos de pesquisa brasileiros em cooperação com instituições dos países BRICS, em temas elegíveis no BRICS STI Framework Programme",
+    "valor": "Faixas e valores definidos por tema no âmbito do BRICS STI Framework Programme, conforme especificado na chamada",
     "prazo": "2026-07-06",
-    "desc": "Financia projetos de pesquisa, desenvolvimento tecnológico e inovação no âmbito do BRICS STI Framework Programme, em redes temáticas de pesquisa e projetos estratégicos de grande escala. Inclui área de agricultura sustentável e temas correlatos de interesse direto para pesquisadores de agropecuária.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/7a-chamada-publica-mcti-cnpq-brics-sti-no-14-2026",
+    "desc": "Apoiar projetos de pesquisa, desenvolvimento e inovação no âmbito do BRICS STI Framework Programme, em cooperação multilateral entre Brasil e demais países BRICS, em temas estratégicos de CT&I que podem incluir agricultura, gestão de recursos naturais e sustentabilidade, com forte componente de PD&I.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-14-2026",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -1796,10 +1789,10 @@
       "Tecnologia da informação",
       "Ciências humanas e sociais"
     ],
-    "publico": "Pesquisadores doutores com vínculo institucional em ICT brasileira ou entidade privada sem fins lucrativos cadastrada no CNPq, em cooperação com instituições da América Latina e Caribe",
-    "valor": "Valor global: R$ 50.000.000,00; até R$ 1.500.000,00 (Redes Consolidadas), até R$ 600.000,00 (Redes Emergentes), até R$ 400.000,00 (Projetos Bilaterais)",
+    "publico": "Pesquisadores doutores com vínculo institucional no Brasil, em ICTs brasileiras ou entidades privadas sem fins lucrativos cadastradas no CNPq, em cooperação com instituições de pelo menos dois países da América Latina ou Caribe",
+    "valor": "Valor global R$ 50.000.000; Faixa A até R$ 1.500.000; Faixa B até R$ 600.000; Faixa C até R$ 400.000 por proposta",
     "prazo": "2026-04-30",
-    "desc": "Apoia projetos de pesquisa colaborativa para fortalecer a cooperação em ciência, tecnologia e inovação entre o Brasil e países da América Latina e Caribe. Uma das áreas apoiadas é alimentação e agricultura, com forte aderência a projetos de agropecuária e parcerias envolvendo Embrapa.",
+    "desc": "Programa de Cooperação Latino-Americana e Caribenha em CT&I para apoiar projetos de pesquisa colaborativa em redes consolidadas, emergentes e projetos bilaterais, com foco em temas estratégicos, incluindo alimentação e agricultura e ambiente e sustentabilidade, relevantes para pesquisadores da agropecuária.",
     "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13365",
     "descobertoEm": "2026-06-22"
   },
@@ -1822,18 +1815,19 @@
   },
   {
     "id": "cnpq-09-2026-pop-ciencia",
-    "titulo": "Chamada CNPq/MCTI/MEC N° 09/2026 - Feiras de Ciências e Mostras Científicas - POP CIÊNCIA",
+    "titulo": "Chamada CNPq/MCTI/MEC Nº 09/2026 – Feiras de Ciências e Mostras Científicas – POP CIÊNCIA",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
+      "Popularização da ciência",
       "Educação científica",
-      "Popularização da ciência"
+      "Divulgação científica em todas as áreas, incluindo ciências agrárias"
     ],
-    "publico": "Instituições de ensino e pesquisa e entidades qualificadas para organização de feiras de ciências e mostras científicas",
-    "valor": "Valor global: não informado no extrato; apoio a propostas para consolidar o ecossistema de feiras de ciência e mostras científicas",
+    "publico": "Instituições de educação e pesquisa que organizem feiras de ciências e mostras científicas, com foco na popularização da ciência no Brasil",
+    "valor": "Faixas de apoio financeiro por proposta definidas na chamada POP CIÊNCIA, conforme categoria e porte da feira ou mostra",
     "prazo": "2026-06-19",
-    "desc": "Apoia propostas que consolidem o ecossistema de feiras de ciência e mostras científicas no Brasil, incluindo ações em ciências agrárias e agropecuária, favorecendo a formação de jovens talentos e a divulgação de projetos de pesquisa.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-09-2026/chamada-publica-cnpq-n-09-2026",
+    "desc": "Apoiar propostas que visem consolidar o ecossistema de feiras de ciências e mostras científicas no Brasil, ampliando a popularização da ciência e tecnologia, incluindo iniciativas voltadas à agropecuária e ciências agrárias.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-09-2026",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -1842,65 +1836,68 @@
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Métodos alternativos",
-      "Ensaios não animais",
-      "Regulação sanitária"
+      "Métodos alternativos ao uso de animais",
+      "Toxicologia",
+      "Biologia",
+      "Ciências Agrárias (impactos regulatórios)"
     ],
-    "publico": "Instituições integrantes ou associadas à Rede Nacional de Métodos Alternativos – RENAMA e grupos de pesquisa que desenvolvam novos métodos alternativos",
-    "valor": "Não há limite de valor por projeto; recursos totais distribuídos por rubrica conforme orçamento da chamada",
+    "publico": "Instituições e grupos de pesquisa integrantes ou candidatos à Rede Nacional de Métodos Alternativos – RENAMA, em áreas relacionadas a métodos alternativos ao uso de animais",
+    "valor": "Sem limite de valor por projeto, condicionado à previsão de recursos por rubrica na chamada",
     "prazo": null,
-    "desc": "Apoia a Rede Nacional de Métodos Alternativos e o desenvolvimento, validação e implementação de métodos alternativos ao uso de animais, com potencial aplicação em pesquisa agropecuária (sanidade animal, toxicologia de insumos, etc.).",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-mcti-no-11-2026-renama-e-nams",
+    "desc": "Apoiar a Rede Nacional de Métodos Alternativos – RENAMA e laboratórios de métodos alternativos (NAMs), fomentando PD&I em métodos que reduzam ou substituam o uso de animais em pesquisa e ensaios, com potencial impacto sobre pesquisa regulatória em agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-11-2026",
     "descobertoEm": "2026-06-22"
   },
   {
     "id": "cnpq-15-2026-proafrica",
-    "titulo": "Chamada CNPq/MCTI nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia - PROÁFRICA",
+    "titulo": "Chamada CNPq/MCTI Nº 15/2026 – Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia – PROÁFRICA",
     "orgao": "CNPq",
     "origem": "Internacional",
     "areas": [
       "Ciência e tecnologia",
-      "Cooperação internacional",
-      "Temas estratégicos Brasil-África"
+      "Desenvolvimento sustentável",
+      "Produção de alimentos",
+      "Agropecuária (quando temática se enquadrar)"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras em cooperação com instituições africanas",
-    "valor": "Valor global: não informado no extrato; financiamento de projetos de pesquisa, desenvolvimento e inovação em áreas prioritárias definidas no programa",
+    "publico": "Pesquisadores com vínculo institucional no Brasil em cooperação com instituições de países africanos, em temas elegíveis de CT&I",
+    "valor": "Valores máximos por projeto definidos por faixa de financiamento, conforme a chamada oficial PROÁFRICA",
     "prazo": "2026-08-31",
-    "desc": "Financia projetos de pesquisa, desenvolvimento tecnológico e inovação no âmbito da cooperação científica entre Brasil e países africanos. Podem ser apoiados temas em ciências agrárias e agropecuária, relevantes para parcerias Embrapa-África.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-mcti-no-15-2026-programa-de-cooperacao-afro-brasileira-em-ciencia-e-tecnologia-proafrica",
+    "desc": "Apoiar projetos de pesquisa colaborativa que contribuam para o fortalecimento da cooperação científica, tecnológica e de inovação entre o Brasil e países africanos, em áreas de CT&I com potencial de incluir temas de produção agrícola, segurança alimentar e desenvolvimento rural.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026",
     "descobertoEm": "2026-06-22"
   },
   {
     "id": "cnpq-17-2026-incubadoras-economia-criativa",
-    "titulo": "Chamada CNPq/MinC nº 17/2026 - Apoio ao funcionamento de incubadoras voltadas à Economia Criativa",
+    "titulo": "Chamada CNPq/MinC Nº 17/2026 – Apoio ao funcionamento de incubadoras voltadas à Economia Criativa",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Inovação",
       "Economia criativa",
-      "Empreendedorismo"
+      "Inovação",
+      "Empreendedorismo",
+      "PD&I em cadeias produtivas culturais e criativas"
     ],
-    "publico": "Instituições que mantenham ou pretendam estruturar incubadoras voltadas à economia criativa",
-    "valor": "Valor global: não informado no extrato; apoio a projetos de pesquisa e desenvolvimento para fortalecimento de incubadoras de economia criativa",
+    "publico": "Instituições que mantenham incubadoras voltadas à economia criativa, com foco em projetos de pesquisa e inovação em setores culturais e criativos",
+    "valor": "Valores de apoio por incubadora e por projeto definidos por faixa na chamada oficial",
     "prazo": "2026-08-10",
-    "desc": "Apoia projetos de pesquisa e ações para viabilizar o funcionamento de incubadoras de economia criativa. Pode ser explorado por grupos de agropecuária que atuem em design, alimentos, turismo rural e outras iniciativas de economia criativa associadas ao agro.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-minc-no-17-2026-apoio-ao-funcionamento-de-incubadoras-voltadas-a-economia-criativa",
+    "desc": "Apoiar projetos de pesquisa e ações de funcionamento de incubadoras voltadas à economia criativa, fomentando inovação, desenvolvimento de negócios e cadeias produtivas criativas, com possibilidade de articulação com produtos e serviços vinculados à agroindústria e territórios rurais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-17-2026",
     "descobertoEm": "2026-06-22"
   },
   {
     "id": "capes-augm-2026",
-    "titulo": "Programa CAPES/AUGM",
+    "titulo": "Programa CAPES/AUGM – Bolsas e Auxílios Internacionais",
     "orgao": "CAPES",
     "origem": "Internacional",
     "areas": [
       "Todas as áreas",
       "Ciências Agrárias",
-      "Mobilidade acadêmica"
+      "Agropecuária"
     ],
-    "publico": "Programas de pós-graduação e docentes vinculados a instituições brasileiras participantes da Associação de Universidades Grupo Montevidéu (AUGM)",
-    "valor": "Concessão de bolsas e auxílios de mobilidade acadêmica internacional em todas as áreas do conhecimento",
+    "publico": "Docentes e discentes de instituições brasileiras participantes da Associação de Universidades Grupo Montevidéu (AUGM), em mobilidade acadêmica internacional",
+    "valor": "Bolsas e auxílios definidos pela CAPES para mobilidade internacional (valores de mensalidade, auxílio instalação e seguro, conforme categoria)",
     "prazo": "2026-07-02",
-    "desc": "Programa de cooperação acadêmica internacional entre instituições brasileiras e universidades da AUGM, com oferta de bolsas e auxílios para mobilidade e projetos conjuntos. Pode ser utilizado por programas de pós-graduação em ciências agrárias e equipes ligadas à Embrapa em parceria com universidades.",
+    "desc": "Programa de cooperação internacional CAPES/AUGM que concede bolsas e auxílios para mobilidade acadêmica entre instituições brasileiras e universidades da AUGM, aberto a todas as áreas de conhecimento, incluindo ciências agrárias e agropecuária, com foco em formação e cooperação em pesquisa.",
     "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
     "descobertoEm": "2026-06-22"
   },
@@ -1960,5 +1957,42 @@
     "desc": "Seleção de bolsistas para atuação em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG), no âmbito do Convênio Embrapa/CNPq. As atividades incluem apoio à execução de projetos de PD&I internos da Embrapa Meio-Norte, com foco em tecnologias agropecuárias. O edital geral 02/2026 estrutura as chamadas ao longo de 2026, definindo critérios de elegibilidade, modalidades de bolsas de fomento e vínculo com projetos registrados no SEG.[3]",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-06-23"
+  },
+  {
+    "id": "capes-rede-pesquisa-amazonia-legal-2026",
+    "titulo": "Programa CAPES Rede de Pesquisa e Desenvolvimento da Amazônia Legal",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia Legal",
+      "Desenvolvimento regional",
+      "Recursos naturais",
+      "Agropecuária tropical",
+      "Ciências Agrárias"
+    ],
+    "publico": "Programas de pós-graduação e redes de pesquisa voltados à Amazônia Legal, em instituições de ensino superior e pesquisa brasileiras",
+    "valor": "Valores de bolsas e custeio definidos na chamada (bolsas de pós-graduação, auxílio à pesquisa e apoio à cooperação em rede)",
+    "prazo": "2026-10-02",
+    "desc": "Programa da CAPES que apoia redes de pesquisa e desenvolvimento na Amazônia Legal, com foco em formação de recursos humanos, pesquisa aplicada e desenvolvimento regional em temas como recursos naturais, produção agrícola, agropecuária tropical e sustentabilidade.",
+    "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/editais/parcerias-estrategicas/programa-capes-rede-de-pesquisa-e-desenvolvimento-da-amazonia-legal",
+    "descobertoEm": "2026-06-24"
+  },
+  {
+    "id": "abdi-agro40-2026",
+    "titulo": "Edital ABDI Agro 4.0 - AgroBrasília 2026",
+    "orgao": "Agência Brasileira de Desenvolvimento Industrial (ABDI)",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agro",
+      "Tecnologias 4.0",
+      "Agricultura de precisão",
+      "Transformação digital no agro"
+    ],
+    "publico": "Empresas, startups e cooperativas com projetos-piloto de implantação, adoção ou difusão de tecnologias 4.0 no setor agropecuário",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital voltado à seleção de projetos-pilotos para implantação, adoção e difusão de tecnologias 4.0 no agronegócio, com foco em aumento de produtividade, sustentabilidade e competitividade no campo, no contexto da AgroBrasília 2026.",
+    "url": "https://agrobrasilia.com.br/inovacao/",
+    "descobertoEm": "2026-06-24"
   }
 ]
