@@ -1557,20 +1557,20 @@
   },
   {
     "id": "fapeam-fapesp-2026-bioeconomia",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável (Articula/BIO CT&I)",
-    "orgao": "FAPEAM · FAPESP",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Cooperação em Bioeconomia Amazônica",
+    "orgao": "FAPEAM/FAPESP",
     "origem": "Estadual · AM",
     "areas": [
-      "Bioeconomia amazônica",
+      "Bioeconomia",
+      "Amazônia",
       "Desenvolvimento sustentável",
-      "Agropecuária sustentável",
-      "Ciências agrárias",
-      "Ciências ambientais"
+      "Inovação tecnológica",
+      "Ciências agrárias"
     ],
-    "publico": "Pesquisadores doutores vinculados a Instituições de Ensino Superior e/ou de Pesquisa dos estados do Amazonas e de São Paulo, coordenando projetos colaborativos em bioeconomia amazônica",
-    "valor": "Modalidade FAPESP: Auxílio à Pesquisa Regular (APR); duração dos projetos: até 36 meses; valores conforme normas FAPEAM/FAPESP no edital",
+    "publico": "Pesquisadores doutores vinculados a Instituições de Ensino Superior e/ou de Pesquisa dos estados do Amazonas e de São Paulo, interessados em projetos colaborativos em bioeconomia amazônica",
+    "valor": "Auxílio à Pesquisa Regular FAPESP e apoio FAPEAM; duração dos projetos: até 36 meses",
     "prazo": "2026-03-23",
-    "desc": "Chamada pública conjunta FAPEAM/FAPESP para financiamento de projetos de cooperação científica e tecnológica entre grupos de pesquisa do Amazonas e de São Paulo, visando fortalecer parcerias interinstitucionais e desenvolver soluções inovadoras em bioeconomia amazônica e desenvolvimento sustentável, incluindo cadeias produtivas agropecuárias, uso sustentável da biodiversidade, sistemas agroflorestais, tecnologias para produção rural de baixo impacto e valorização de produtos da sociobiodiversidade da Amazônia.[1]",
+    "desc": "Chamada de cooperação científica e tecnológica entre FAPEAM e FAPESP para apoio a projetos colaborativos que fortaleçam parcerias interinstitucionais e desenvolvam soluções inovadoras na área da bioeconomia amazônica, incluindo cadeias produtivas sustentáveis e uso de recursos naturais da região.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-21"
   },
@@ -1815,19 +1815,19 @@
   },
   {
     "id": "cnpq-09-2026-pop-ciencia",
-    "titulo": "Chamada CNPq/MCTI/MEC Nº 09/2026 – Feiras de Ciências e Mostras Científicas – POP CIÊNCIA",
+    "titulo": "Chamada CNPq/MCTI/MEC Nº 09/2026 - Feiras de Ciências e Mostras Científicas - POP CIÊNCIA",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Popularização da ciência",
-      "Educação científica",
-      "Divulgação científica em todas as áreas, incluindo ciências agrárias"
+      "Ciências Agrárias",
+      "Difusão científica",
+      "Educação científica"
     ],
-    "publico": "Instituições de educação e pesquisa que organizem feiras de ciências e mostras científicas, com foco na popularização da ciência no Brasil",
-    "valor": "Faixas de apoio financeiro por proposta definidas na chamada POP CIÊNCIA, conforme categoria e porte da feira ou mostra",
-    "prazo": "2026-06-19",
-    "desc": "Apoiar propostas que visem consolidar o ecossistema de feiras de ciências e mostras científicas no Brasil, ampliando a popularização da ciência e tecnologia, incluindo iniciativas voltadas à agropecuária e ciências agrárias.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-09-2026",
+    "publico": "Instituições de ensino e pesquisa, secretarias de educação e entidades que organizem feiras e mostras científicas em qualquer área, incluindo agropecuária",
+    "valor": "Não explicitado no extrato consultado",
+    "prazo": "2026-08-05",
+    "desc": "Chamada para apoiar propostas voltadas à consolidação do ecossistema de feiras de ciências e mostras científicas POP CIÊNCIA, financiando ações de popularização e difusão da ciência e tecnologia em todas as áreas do conhecimento, com potencial interesse para programas de divulgação em agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -1994,5 +1994,153 @@
     "desc": "Edital voltado à seleção de projetos-pilotos para implantação, adoção e difusão de tecnologias 4.0 no agronegócio, com foco em aumento de produtividade, sustentabilidade e competitividade no campo, no contexto da AgroBrasília 2026.",
     "url": "https://agrobrasilia.com.br/inovacao/",
     "descobertoEm": "2026-06-24"
+  },
+  {
+    "id": "cnpq-11-2026-renama-nams",
+    "titulo": "Chamada CNPq/MCTI Nº 11/2026 – RENAMA e NAMs",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Métodos alternativos",
+      "Ensaios laboratoriais",
+      "Inovação tecnológica em CT&I"
+    ],
+    "publico": "Grupos e instituições de pesquisa integrantes ou candidatos à Rede Nacional de Métodos Alternativos (RENAMA) e laboratórios NAMs",
+    "valor": "Sem limite de valor por projeto, condicionado à disponibilidade por rubrica",
+    "prazo": "2026-08-10",
+    "desc": "Chamada para apoiar a Rede Nacional de Métodos Alternativos e laboratórios NAMs, com foco em pesquisa, desenvolvimento e inovação em métodos alternativos ao uso de animais em experimentação, relevante para grupos de toxicologia, sanidade e áreas correlatas que atuem em agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "cnpq-17-2026-economia-criativa-incubadoras",
+    "titulo": "Chamada CNPq/MinC nº 17/2026 - Apoio ao funcionamento de incubadoras voltadas à Economia Criativa",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Economia Criativa",
+      "Empreendedorismo inovador",
+      "Incubadoras tecnológicas"
+    ],
+    "publico": "Instituições que mantenham incubadoras voltadas à economia criativa e empreendimentos culturais e criativos",
+    "valor": "Não explicitado no extrato consultado",
+    "prazo": "2026-08-10",
+    "desc": "Chamada para apoiar projetos de pesquisa, desenvolvimento e inovação na área de economia criativa e fortalecer empreendimentos culturais e criativos por meio de incubadoras, podendo interessar iniciativas de design, comunicação, mídias e serviços relacionados a produtos agroalimentares e territórios rurais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "embrapa-licenciamento-05-2026-brs-fs318",
+    "titulo": "Oferta Pública 05/2026 – Seleção de parceiro para desenvolvimento tecnológico e licenciamento da cultivar de feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão",
+    "origem": "Interno",
+    "areas": [
+      "PD&I em melhoramento de plantas",
+      "Produção de sementes",
+      "Feijão comum (Phaseolus vulgaris L.)",
+      "Parcerias tecnológicas",
+      "Licenciamento de cultivares"
+    ],
+    "publico": "Empresa produtora de sementes de feijão comum registrada no RENASEM, interessada em estabelecer parceria estratégica com a Embrapa para finalizar o desenvolvimento tecnológico e licenciar a cultivar BRS FS318",
+    "valor": null,
+    "prazo": "2026-03-09",
+    "desc": "Oferta pública da Embrapa para seleção de 1 produtor de sementes para firmar Acordo de Cooperação Técnica e Financeira (ACTF) com vistas à conclusão do desenvolvimento tecnológico, lançamento comercial e licenciamento para multiplicação de sementes básicas e subsequentes da cultivar de feijão comum tipo roxinho BRS FS318.",
+    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento/-/asset_publisher/bAm8YE8Ljj9I/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "embrapii-2026-01",
+    "titulo": "Chamada Pública EMBRAPII para Projetos de Inovação em Agroindústria e Agropecuária 2026",
+    "orgao": "EMBRAPII – Empresa Brasileira de Pesquisa e Inovação Industrial",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agro",
+      "Agropecuária de precisão",
+      "Biotecnologia agrícola",
+      "Automação e máquinas agrícolas",
+      "Sustentabilidade e baixa emissão de carbono no agro"
+    ],
+    "publico": "Empresas brasileiras (inclusive startups) em parceria com Unidades EMBRAPII credenciadas na área de agroindústria/agropecuária",
+    "valor": "Co-financiamento não reembolsável de até 1/3 do valor total do projeto (demais recursos aportados por empresa e unidade EMBRAPII); valores típicos por projeto entre R$ 500.000 e R$ 3.000.000",
+    "prazo": null,
+    "desc": "Chamada contínua da EMBRAPII em 2026 para apoio à P&D e inovação em agroindústria e agropecuária, por meio de cooperação entre empresas e Unidades EMBRAPII. Os projetos podem envolver desenvolvimento de produtos, processos e serviços inovadores para o setor agro, incluindo agricultura de precisão, transformação digital no campo, biotecnologia e sustentabilidade. A submissão ocorre diretamente às Unidades EMBRAPII credenciadas nas temáticas agro, com apoio financeiro não reembolsável da EMBRAPII combinado com contrapartida empresarial.",
+    "url": "https://embrapii.org.br/chamadas-publicas",
+    "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "bndes-2026-01",
+    "titulo": "BNDES Fundo Clima – Linha Agricultura Sustentável e Inovação no Agro",
+    "orgao": "BNDES – Banco Nacional de Desenvolvimento Econômico e Social",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura de baixo carbono",
+      "Inovação tecnológica no campo",
+      "Eficiência hídrica e energética",
+      "Recuperação de áreas degradadas",
+      "Digitalização de cadeias agropecuárias"
+    ],
+    "publico": "Empresas brasileiras, cooperativas e produtores rurais organizados, em parceria ou não com instituições de pesquisa",
+    "valor": "Financiamento reembolsável com recursos do Fundo Clima, com valores variáveis conforme projeto; tipicamente acima de R$ 1.000.000",
+    "prazo": null,
+    "desc": "Linha de apoio do BNDES com recursos do Fundo Clima voltada a projetos de inovação e investimentos em agricultura sustentável, incluindo tecnologias de baixa emissão de carbono, sistemas de produção resilientes e digitalização de cadeias produtivas. Em 2026, a linha permanece aberta em fluxo contínuo para projetos de empresas brasileiras, podendo envolver parcerias com instituições de pesquisa agropecuária para desenvolvimento e demonstração tecnológica.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/projetos/fundo-clima",
+    "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "fndct-2026-01",
+    "titulo": "Chamadas Setoriais FNDCT/CNPq para Pesquisa, Desenvolvimento e Inovação em Agropecuária",
+    "orgao": "CNPq – Conselho Nacional de Desenvolvimento Científico e Tecnológico (recursos FNDCT)",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa agropecuária",
+      "Tecnologias digitais para o agro",
+      "Biotecnologia e melhoramento",
+      "Sustentabilidade e adaptação climática",
+      "Inovação em sistemas produtivos"
+    ],
+    "publico": "Grupos de pesquisa de instituições científicas, tecnológicas e de inovação brasileiras (ICTs), em parceria opcional com empresas do setor agro",
+    "valor": "Auxílios e projetos de pesquisa com valores variáveis por chamada; tipicamente entre R$ 300.000 e R$ 2.000.000 por projeto",
+    "prazo": null,
+    "desc": "Em 2026, o FNDCT financia por meio do CNPq diversas chamadas setoriais voltadas à pesquisa, desenvolvimento e inovação em agropecuária, envolvendo temas como digitalização do campo, biotecnologia, sustentabilidade e adaptação climática. As chamadas são publicadas ao longo do ano e permitem a participação de grupos de pesquisa brasileiros, incluindo parcerias com empresas para projetos de PD&I alinhados às demandas do setor agro.",
+    "url": "https://www.gov.br/cnpq/pt-br/servicos/chamadas-publicas",
+    "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "horizon-2026-01",
+    "titulo": "Horizon Europe – Cluster 6 ‘Food, Bioeconomy, Natural Resources, Agriculture and Environment’ Calls 2026",
+    "orgao": "Comissão Europeia – Programa Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "Agropecuária sustentável",
+      "Sistemas alimentares",
+      "Bioeconomia circular",
+      "Gestão de recursos naturais",
+      "Digitalização e dados no agro"
+    ],
+    "publico": "Consórcios internacionais de pesquisa e inovação envolvendo instituições europeias e parceiros de países associados ou terceiros (incluindo instituições brasileiras em algumas chamadas cooperativas)",
+    "valor": "Projetos típicos entre € 3.000.000 e € 10.000.000 por consórcio, com financiamento a 100% para instituições de pesquisa",
+    "prazo": null,
+    "desc": "As chamadas de 2026 do Cluster 6 do Horizon Europe financiam projetos de pesquisa e inovação em agricultura, sistemas alimentares, bioeconomia e meio ambiente. Certas chamadas permitem a participação de parceiros de países terceiros, incluindo instituições brasileiras, em consórcios internacionais. Os projetos visam desenvolver soluções inovadoras para agropecuária sustentável, gestão de recursos naturais, redução de impactos ambientais e transformação digital dos sistemas agroalimentares.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon",
+    "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "fao-2026-01",
+    "titulo": "FAO – Innovation and Digitalization in Agriculture Grants and Partnerships 2026",
+    "orgao": "FAO – Organização das Nações Unidas para Alimentação e Agricultura",
+    "origem": "Internacional",
+    "areas": [
+      "Inovação agropecuária",
+      "Digitalização e dados agrícolas",
+      "Segurança alimentar",
+      "Adaptação climática no agro",
+      "Gestão sustentável de recursos"
+    ],
+    "publico": "Instituições de pesquisa, governos, organizações da sociedade civil e parceiros privados em países em desenvolvimento, incluindo o Brasil",
+    "valor": "Apoios financeiros e parcerias com valores variáveis por iniciativa e país",
+    "prazo": null,
+    "desc": "Em 2026 a FAO mantém programas e chamadas para projetos de inovação e digitalização na agricultura, voltados a segurança alimentar, adaptação climática e gestão sustentável de recursos. Parte dessas iniciativas é aberta à participação de instituições de pesquisa e parceiros brasileiros, em cooperação com governos e organizações internacionais, por meio de projetos piloto, demonstrações tecnológicas e desenvolvimento de capacidades no setor agro.",
+    "url": "https://www.fao.org/innovation/en",
+    "descobertoEm": "2026-06-25"
   }
 ]
