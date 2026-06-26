@@ -1890,14 +1890,14 @@
     "orgao": "CAPES",
     "origem": "Internacional",
     "areas": [
-      "Todas as áreas",
+      "Todas as áreas do conhecimento",
       "Ciências Agrárias",
       "Agropecuária"
     ],
-    "publico": "Docentes e discentes de instituições brasileiras participantes da Associação de Universidades Grupo Montevidéu (AUGM), em mobilidade acadêmica internacional",
-    "valor": "Bolsas e auxílios definidos pela CAPES para mobilidade internacional (valores de mensalidade, auxílio instalação e seguro, conforme categoria)",
+    "publico": "Docentes e discentes de universidades brasileiras participantes da Associação de Universidades Grupo Montevidéu (AUGM), em programas de mobilidade e cooperação acadêmica",
+    "valor": "Valores de bolsas de mobilidade e auxílios definidos pela CAPES para o programa",
     "prazo": "2026-07-02",
-    "desc": "Programa de cooperação internacional CAPES/AUGM que concede bolsas e auxílios para mobilidade acadêmica entre instituições brasileiras e universidades da AUGM, aberto a todas as áreas de conhecimento, incluindo ciências agrárias e agropecuária, com foco em formação e cooperação em pesquisa.",
+    "desc": "Programa internacional CAPES/AUGM de bolsas e auxílios para mobilidade acadêmica e cooperação em pesquisa entre universidades da AUGM, com possibilidade de participação de pesquisadores em temas ligados à agropecuária.",
     "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
     "descobertoEm": "2026-06-22"
   },
@@ -2050,40 +2050,39 @@
   },
   {
     "id": "embrapii-2026-01",
-    "titulo": "Chamada Pública EMBRAPII para Projetos de Inovação em Agroindústria e Agropecuária 2026",
-    "orgao": "EMBRAPII – Empresa Brasileira de Pesquisa e Inovação Industrial",
+    "titulo": "Chamadas EMBRAPII para Projetos de Inovação com Empresas (Programa de Cooperação com Unidades EMBRAPII)",
+    "orgao": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovação Industrial",
     "origem": "Nacional",
     "areas": [
-      "Inovação agro",
-      "Agropecuária de precisão",
-      "Biotecnologia agrícola",
-      "Automação e máquinas agrícolas",
-      "Sustentabilidade e baixa emissão de carbono no agro"
+      "Inovação agroindustrial",
+      "Agro 4.0",
+      "Biotecnologia",
+      "Máquinas e equipamentos agropecuários",
+      "TI aplicada ao agronegócio"
     ],
-    "publico": "Empresas brasileiras (inclusive startups) em parceria com Unidades EMBRAPII credenciadas na área de agroindústria/agropecuária",
-    "valor": "Co-financiamento não reembolsável de até 1/3 do valor total do projeto (demais recursos aportados por empresa e unidade EMBRAPII); valores típicos por projeto entre R$ 500.000 e R$ 3.000.000",
+    "publico": "Empresas brasileiras em parceria com unidades EMBRAPII; aplicável a instituições de pesquisa agropecuária como Embrapa e universidades associadas às unidades credenciadas",
+    "valor": "Cooperação não reembolsável com aporte EMBRAPII normalmente entre 1/3 e 2/3 do valor total do projeto, tipicamente na faixa de R$ 500.000 a R$ 3.000.000 por projeto, a depender da unidade e do escopo",
     "prazo": null,
-    "desc": "Chamada contínua da EMBRAPII em 2026 para apoio à P&D e inovação em agroindústria e agropecuária, por meio de cooperação entre empresas e Unidades EMBRAPII. Os projetos podem envolver desenvolvimento de produtos, processos e serviços inovadores para o setor agro, incluindo agricultura de precisão, transformação digital no campo, biotecnologia e sustentabilidade. A submissão ocorre diretamente às Unidades EMBRAPII credenciadas nas temáticas agro, com apoio financeiro não reembolsável da EMBRAPII combinado com contrapartida empresarial.",
-    "url": "https://embrapii.org.br/chamadas-publicas",
+    "desc": "Mecanismo contínuo de fomento à inovação que financia projetos de PD&I desenvolvidos entre empresas e unidades EMBRAPII, incluindo diversas unidades com foco em agro, biotecnologia, sensores, automação e tecnologias digitais para o campo. Embora não seja um edital único com prazo fixo, trata-se de chamadas permanentes organizadas por cada unidade para projetos aderentes às agendas estratégicas da EMBRAPII, amplamente aplicáveis à pesquisa agropecuária brasileira.",
+    "url": "https://embrapii.org.br/chamadas-publicas/",
     "descobertoEm": "2026-06-25"
   },
   {
     "id": "bndes-2026-01",
-    "titulo": "BNDES Fundo Clima – Linha Agricultura Sustentável e Inovação no Agro",
-    "orgao": "BNDES – Banco Nacional de Desenvolvimento Econômico e Social",
+    "titulo": "BNDES Fundo Clima – Linha Máquinas e Equipamentos Eficientes – Agronegócio",
+    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
     "origem": "Nacional",
     "areas": [
-      "Agricultura de baixo carbono",
-      "Inovação tecnológica no campo",
-      "Eficiência hídrica e energética",
-      "Recuperação de áreas degradadas",
-      "Digitalização de cadeias agropecuárias"
+      "Agropecuária de baixa emissão",
+      "Eficiência energética rural",
+      "Maquinário agrícola sustentável",
+      "Tecnologias de mitigação de GEE no agro"
     ],
-    "publico": "Empresas brasileiras, cooperativas e produtores rurais organizados, em parceria ou não com instituições de pesquisa",
-    "valor": "Financiamento reembolsável com recursos do Fundo Clima, com valores variáveis conforme projeto; tipicamente acima de R$ 1.000.000",
+    "publico": "Empresas e produtores rurais, cooperativas e associações, inclusive projetos em parceria com instituições de pesquisa para desenvolvimento e demonstração tecnológica",
+    "valor": "Financiamento reembolsável, com participação BNDES que pode chegar a até 80% do investimento, normalmente em faixas de centenas de milhares a dezenas de milhões de reais conforme porte do projeto",
     "prazo": null,
-    "desc": "Linha de apoio do BNDES com recursos do Fundo Clima voltada a projetos de inovação e investimentos em agricultura sustentável, incluindo tecnologias de baixa emissão de carbono, sistemas de produção resilientes e digitalização de cadeias produtivas. Em 2026, a linha permanece aberta em fluxo contínuo para projetos de empresas brasileiras, podendo envolver parcerias com instituições de pesquisa agropecuária para desenvolvimento e demonstração tecnológica.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/projetos/fundo-clima",
+    "desc": "Linha do Fundo Clima operada pelo BNDES voltada à aquisição e desenvolvimento de máquinas e equipamentos mais eficientes e sustentáveis, incluindo aplicações no agronegócio. Embora seja uma linha contínua e não um edital clássico, ela se encontra aberta em 2026 e é utilizável para projetos inovadores na agropecuária que envolvam pesquisa, desenvolvimento e adoção tecnológica voltada à redução de emissões e eficiência ambiental.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/bndes-fundo-clima",
     "descobertoEm": "2026-06-25"
   },
   {
@@ -2142,5 +2141,185 @@
     "desc": "Em 2026 a FAO mantém programas e chamadas para projetos de inovação e digitalização na agricultura, voltados a segurança alimentar, adaptação climática e gestão sustentável de recursos. Parte dessas iniciativas é aberta à participação de instituições de pesquisa e parceiros brasileiros, em cooperação com governos e organizações internacionais, por meio de projetos piloto, demonstrações tecnológicas e desenvolvimento de capacidades no setor agro.",
     "url": "https://www.fao.org/innovation/en",
     "descobertoEm": "2026-06-25"
+  },
+  {
+    "id": "cnpq-chamada-universal-2026",
+    "titulo": "Chamada Universal CNPq 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Agropecuária",
+      "Ciências Agrárias",
+      "Engenharias",
+      "Ciências Biológicas"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino brasileiras, incluindo unidades da Embrapa",
+    "valor": "Valor global de R$ 300.000.000,00; faixas de projeto conforme chamada (auxílio à pesquisa)",
+    "prazo": "2026-08-03",
+    "desc": "Chamada Universal para apoio a projetos de pesquisa científica e tecnológica em qualquer área do conhecimento, incluindo ciências agrárias e agropecuária, com recursos do CNPq para custeio, capital e bolsas vinculadas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-universal-2026",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "cnpq-metodos-alternativos-2026",
+    "titulo": "Chamada CNPq/MCTI Métodos Alternativos à Experimentação Animal em Pesquisas 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências Biológicas",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Bem-estar animal"
+    ],
+    "publico": "Grupos de pesquisa e pesquisadores vinculados a ICTs brasileiras que desenvolvam métodos alternativos à experimentação animal",
+    "valor": "Valor global de R$ 50.000.000,00 em recursos do FNDCT; valores máximos por projeto definidos na chamada",
+    "prazo": "2026-07-03",
+    "desc": "Chamada pública para apoio a projetos de pesquisa, desenvolvimento e inovação voltados a métodos alternativos à experimentação animal, com potencial aplicação em agropecuária, saúde animal e produção animal, financiada com recursos do FNDCT.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-xx-2026-metodos-alternativos-experimentacao-animal",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "cnpq-brics-sti-14-2026",
+    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI Nº 14/2026",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciência, Tecnologia e Inovação",
+      "Agricultura sustentável",
+      "Biotecnologia",
+      "Energia",
+      "Mudanças climáticas"
+    ],
+    "publico": "Grupos de pesquisa de instituições brasileiras em parceria com instituições dos países BRICS, em áreas temáticas definidas na chamada",
+    "valor": "Valores por projeto e por país conforme regras da chamada BRICS-STI",
+    "prazo": "2026-07-06",
+    "desc": "Chamada internacional multilateral no âmbito BRICS-STI para apoio a projetos de PD&I colaborativos entre países BRICS, incluindo temas de agricultura sustentável, biotecnologia e áreas de interesse estratégico que podem envolver pesquisadores da agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/7a-chamada-mcti-cnpq-brics-sti-no-14-2026",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "cnpq-proafrica-15-2026",
+    "titulo": "Chamada CNPq/MCTI nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia (PROÁFRICA)",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciência e Tecnologia",
+      "Desenvolvimento sustentável",
+      "Agricultura e segurança alimentar",
+      "Meio ambiente"
+    ],
+    "publico": "Pesquisadores brasileiros em parceria com instituições africanas, em projetos conjuntos de pesquisa e desenvolvimento científico e tecnológico",
+    "valor": "Valores globais e por projeto definidos na chamada PROÁFRICA",
+    "prazo": "2026-08-31",
+    "desc": "Programa de cooperação internacional Afro-Brasileira em ciência e tecnologia para apoio a projetos colaborativos com países africanos, incluindo temas de agricultura, segurança alimentar, recursos naturais e inovação de interesse para a agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026-programa-de-cooperacao-afro-brasileira-em-ciencia-e-tecnologia-proafrica",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "cnpq-premio-mercosul-2026",
+    "titulo": "Prêmio MERCOSUL de Ciência, Tecnologia e Inovação – 19ª Edição",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Descarbonização",
+      "Transição energética",
+      "Sustentabilidade",
+      "Ciência, Tecnologia e Inovação"
+    ],
+    "publico": "Pesquisadores e estudantes da região do MERCOSUL nas categorias Iniciação Científica, Estudante Universitário, Jovem Pesquisador, Pesquisador Sênior e Integração",
+    "valor": "Prêmios financeiros e reconhecimento conforme categorias definidas no regulamento do prêmio",
+    "prazo": "2026-08-31",
+    "desc": "Prêmio de CT&I do MERCOSUL com tema \"Descarbonização e Transição Energética para um Mundo mais Sustentável\", que pode envolver projetos e pesquisas em agropecuária de baixo carbono e sustentabilidade.",
+    "url": "https://www.gov.br/cnpq/pt-br/assuntos/premios/premio-mercosul-de-ciencia-tecnologia-e-inovacao-19a-edicao",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "embrapa-meio-norte-edital-02-2026-chamada-2",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Bolsas em projetos aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "orgao": "Embrapa Meio-Norte / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Agronomia",
+      "Engenharia Agrícola",
+      "Pesquisa, Desenvolvimento e Inovação em Agricultura"
+    ],
+    "publico": "Seleção de bolsistas para atuação em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG), em unidades da Embrapa Meio-Norte",
+    "valor": "R$ 700,00 mensais (exemplo de bolsa de nível superior; demais valores definidos nas chamadas específicas ao longo de 2026)",
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas no âmbito do Convênio Embrapa/CNPq para atuar em atividades de projetos de pesquisa, desenvolvimento e inovação previamente aprovados pelo Sistema Embrapa de Gestão (SEG), com atuações em unidades da Embrapa Meio-Norte, incluindo a UEP-Parnaíba (PI). O edital estabelece que, ao longo de 2026, serão divulgadas chamadas com vagas específicas, cada uma com seu período de inscrição, sendo a chamada apresentada com inscrições de 14 a 30 de abril de 2026 para bolsa de 10 meses, voltada a graduados em Agronomia, Engenharia Agrícola ou áreas afins.[2]",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "embrapa-maranhao-edital-01-2026",
+    "titulo": "Edital Embrapa Maranhão nº 01/2026 – Seleção de bolsistas em parceria com FAPEMA para projetos de PD&I",
+    "orgao": "Embrapa Maranhão / FAPEMA",
+    "origem": "Interno",
+    "areas": [
+      "Ciências Agrárias",
+      "Agronomia",
+      "Sistemas de produção agropecuária",
+      "Pesquisa, Desenvolvimento e Inovação"
+    ],
+    "publico": "Profissionais com título de mestrado em Ciências Agrárias ou áreas afins para bolsas vinculadas a projetos de PD&I da Embrapa Maranhão implementadas via FAPEMA",
+    "valor": "R$ 5.625,00 mensais, por 12 meses, para bolsas de Acordo de Cooperação e Convênio (ACC)",
+    "prazo": null,
+    "desc": "Chamada interna da Embrapa Maranhão para seleção de bolsistas vinculados a projetos de pesquisa, desenvolvimento e inovação, com implementação das bolsas pela FAPEMA, a partir da lista de candidatos aprovados encaminhada pela Embrapa. O edital define critérios mínimos de elegibilidade (como possuir título de mestrado em Ciências Agrárias ou áreas afins) e prevê bolsas do tipo Acordo de Cooperação e Convênio (ACC), com duração de 12 meses e valor mensal de R$ 5.625,00. O cronograma contempla divulgação de candidaturas homologadas até 27/03/2026 e divulgação de resultados a partir de 06/04/2026, configurando apoio a PD&I em parceria institucional.[3]",
+    "url": "https://www.embrapa.br/documents/1354356/0/Edital+Embrapa+Maranh%C3%A3o+n%C2%BA+01-2026/e955a8c3-57ab-f81b-6b6e-c918cb9e44f7?version=1.0&download=true",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "embrapa-amazonia-ocidental-edital-1-2026-2027-paic-fapeam",
+    "titulo": "Edital de Seleção nº 1/2026 – PAIC-FAPEAM 2026-2027 – Cotas de Iniciação Científica em parceria Embrapa/FAPEAM",
+    "orgao": "Embrapa Amazônia Ocidental / FAPEAM",
+    "origem": "Interno",
+    "areas": [
+      "Agrárias",
+      "Ambientais",
+      "Agropecuária na Amazônia",
+      "Pesquisa, Desenvolvimento e Inovação"
+    ],
+    "publico": "Estudantes de graduação para bolsas de Iniciação Científica (PAIC-FAPEAM) em projetos de pesquisa da Embrapa Amazônia Ocidental",
+    "valor": "Valor da bolsa de Iniciação Científica definido pelo Programa PAIC-FAPEAM para o período 2026-2027",
+    "prazo": null,
+    "desc": "Edital de seleção nº 1/2026 da Embrapa Amazônia Ocidental para distribuição de cotas de bolsas de Iniciação Científica do Programa PAIC-FAPEAM 2026-2027, vinculadas a projetos de pesquisa da unidade em parceria com a Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM). O edital estipula divulgação em 11/03/2026, período de inscrições com envio de documentação pelos orientadores após entrevistas e pré-seleção, cronograma de recursos ao CIBE e divulgação do resultado da 1ª chamada no site da Embrapa Amazônia Ocidental, com convocação para assinatura de documentos entre 15 e 24/04/2026, caracterizando apoio à PD&I e formação de recursos humanos.[4]",
+    "url": "https://www.embrapa.br/documents/1354286/112750754/EDITAL_SELECAO+PAIC-FAPEAM_2026-2027.pdf/2f883f76-6ad3-bacb-e256-1ab601eb74e8?download=true",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "fundos-setoriais-2026-01",
+    "titulo": "Programas de Fomento CNPq/FINEP com Recursos dos Fundos Setoriais – Agronegócio e Agroindústria",
+    "orgao": "CNPq e FINEP – utilizando recursos dos Fundos Setoriais (como CT-Agro e outros)",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa agropecuária",
+      "Agroindústria",
+      "Ciência e tecnologia para o agronegócio",
+      "Sustentabilidade e agricultura de precisão"
+    ],
+    "publico": "Instituições científicas e tecnológicas brasileiras (universidades, Embrapa, institutos estaduais), em parceria com empresas do agronegócio",
+    "valor": "Auxílios e convênios variando geralmente de algumas centenas de milhares até alguns milhões de reais por projeto ou rede de pesquisa",
+    "prazo": null,
+    "desc": "Conjunto de chamadas lançadas de forma recorrente por CNPq e FINEP utilizando recursos dos Fundos Setoriais de Ciência e Tecnologia, especialmente o Fundo Setorial do Agronegócio (CT-Agro). Em 2026, a programação típica inclui editais para redes de pesquisa, projetos cooperativos ICT–empresa e infraestrutura de pesquisa agropecuária, amplamente aplicáveis à pesquisa brasileira. Os editais específicos são publicados ao longo do ano e devem ser acompanhados nas páginas oficiais.",
+    "url": "https://www.gov.br/cnpq/pt-br/servicos/fomento/chamadas-publicas",
+    "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "abdi-agro4-2026-01",
+    "titulo": "2º Edital ABDI Agro 4.0 – AgroBrasília 2026",
+    "orgao": "Agência Brasileira de Desenvolvimento Industrial (ABDI)",
+    "origem": "Nacional",
+    "areas": [
+      "Agro 4.0",
+      "Digitalização de processos agropecuários",
+      "IoT e automação no campo",
+      "Dados e inteligência artificial aplicada ao agro"
+    ],
+    "publico": "Empresas e startups com projetos-pilotos em parceria com cooperativas e produtores rurais, com potencial interface com instituições de pesquisa agropecuária para desenvolvimento e validação tecnológica",
+    "valor": "Apoio financeiro e técnico a projetos-pilotos; valores específicos por projeto são definidos no edital, geralmente na faixa de dezenas a centenas de milhares de reais",
+    "prazo": null,
+    "desc": "Edital lançado na AgroBrasília 2026 com o objetivo de selecionar projetos-pilotos de implantação, adoção e difusão de tecnologias 4.0 no agronegócio. O foco é promover inovação digital no campo, sendo diretamente aplicável a iniciativas de pesquisa, demonstração e transferência de tecnologia agropecuária em parceria com produtores e cooperativas.",
+    "url": "https://agrobrasilia.com.br/inovacao/",
+    "descobertoEm": "2026-06-26"
   }
 ]
