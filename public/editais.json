@@ -1279,20 +1279,22 @@
   },
   {
     "id": "cnpq-mcti-02-2026-prosul",
-    "titulo": "Chamada Pública MCTI/CNPq nº 02/2026 – Programa de Cooperação Latino-Americana e Caribenha em Ciência, Tecnologia e Inovação (PROSUL Pepe Mujica)",
+    "titulo": "Chamada Pública MCTI/CNPq Nº 02/2026 - Programa de Cooperação Latino-Americana e Caribenha em CT&I – PROSUL Pepe Mujica",
     "orgao": "CNPq",
-    "origem": "Nacional",
+    "origem": "Internacional",
     "areas": [
-      "Alimentação",
-      "Agricultura",
-      "Ciência, tecnologia e inovação",
-      "Cooperação internacional"
+      "Meio Ambiente",
+      "Recursos Naturais",
+      "Agricultura Sustentável",
+      "Energia",
+      "Ciências Agrárias",
+      "Inovação Tecnológica"
     ],
-    "publico": "Pesquisadores doutores com vínculo institucional no Brasil, em ICTs ou entidades privadas sem fins lucrativos cadastradas no CNPq, em cooperação com instituições de pelo menos dois países da América Latina ou Caribe",
-    "valor": "Investimento global previsto de R$ 50.000.000,00; até R$ 400.000,00 por proposta na faixa C",
+    "publico": "Pesquisadores doutores com vínculo institucional no Brasil, em ICTs ou entidades privadas sem fins lucrativos de pesquisa, em cooperação com instituições de pelo menos dois países da América Latina ou Caribe",
+    "valor": "Até R$ 400.000,00 por proposta na Faixa C (Projetos Bilaterais); outras faixas com valores maiores para redes de pesquisa; orçamento global de R$ 50 milhões do FNDCT",
     "prazo": "2026-04-30",
-    "desc": "Fomentar projetos de cooperação científica, tecnológica e de inovação entre Brasil e países da América Latina e do Caribe, incluindo eixo de alimentação e agricultura, por meio de projetos multilaterais e bilaterais financiados com recursos do FNDCT.",
-    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas",
+    "desc": "Financiamento de projetos de cooperação científica e tecnológica entre grupos do Brasil e da América Latina/Caribe, em eixos estratégicos como ambiente, recursos naturais, produção sustentável e inovação. Fortemente alinhado a redes de pesquisa em agropecuária, mudanças climáticas, sistemas produtivos e bioeconomia.",
+    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13265",
     "descobertoEm": "2026-06-20"
   },
   {
@@ -2050,39 +2052,38 @@
   },
   {
     "id": "embrapii-2026-01",
-    "titulo": "Chamadas EMBRAPII para Projetos de Inovação com Empresas (Programa de Cooperação com Unidades EMBRAPII)",
+    "titulo": "Edital de Credenciamento de Unidades EMBRAPII em Agroindustriais e Alimentos",
     "orgao": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovação Industrial",
     "origem": "Nacional",
     "areas": [
       "Inovação agroindustrial",
-      "Agro 4.0",
-      "Biotecnologia",
-      "Máquinas e equipamentos agropecuários",
-      "TI aplicada ao agronegócio"
+      "Alimentos",
+      "Biotecnologia aplicada ao agro",
+      "Tecnologias digitais para o agronegócio"
     ],
-    "publico": "Empresas brasileiras em parceria com unidades EMBRAPII; aplicável a instituições de pesquisa agropecuária como Embrapa e universidades associadas às unidades credenciadas",
-    "valor": "Cooperação não reembolsável com aporte EMBRAPII normalmente entre 1/3 e 2/3 do valor total do projeto, tipicamente na faixa de R$ 500.000 a R$ 3.000.000 por projeto, a depender da unidade e do escopo",
+    "publico": "Instituições de ciência e tecnologia brasileiras (ICTs) interessados em credenciamento como Unidade EMBRAPII nas áreas de agroindústria e alimentos",
+    "valor": "Co-financiamento de projetos de P,D&I com empresas, com recursos EMBRAPII típicos de até dezenas de milhões de reais ao longo da vigência da unidade, conforme capacidade de contratação",
     "prazo": null,
-    "desc": "Mecanismo contínuo de fomento à inovação que financia projetos de PD&I desenvolvidos entre empresas e unidades EMBRAPII, incluindo diversas unidades com foco em agro, biotecnologia, sensores, automação e tecnologias digitais para o campo. Embora não seja um edital único com prazo fixo, trata-se de chamadas permanentes organizadas por cada unidade para projetos aderentes às agendas estratégicas da EMBRAPII, amplamente aplicáveis à pesquisa agropecuária brasileira.",
-    "url": "https://embrapii.org.br/chamadas-publicas/",
+    "desc": "Chamada pública para credenciamento de novas Unidades EMBRAPII focadas em agroindústria e alimentos, visando apoiar projetos cooperativos de pesquisa, desenvolvimento e inovação com empresas do agronegócio brasileiro. Abrange temas como processamento de alimentos, tecnologias de produção agroindustrial, biotecnologia e transformação digital aplicada à cadeia agroalimentar.",
+    "url": "https://embrapii.org.br/chamadas-publicas",
     "descobertoEm": "2026-06-25"
   },
   {
     "id": "bndes-2026-01",
-    "titulo": "BNDES Fundo Clima – Linha Máquinas e Equipamentos Eficientes – Agronegócio",
-    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
+    "titulo": "BNDES Fundo de Inovação em Agronegócio – apoio a projetos de inovação agropecuária",
+    "orgao": "BNDES - Banco Nacional de Desenvolvimento Econômico e Social",
     "origem": "Nacional",
     "areas": [
-      "Agropecuária de baixa emissão",
-      "Eficiência energética rural",
-      "Maquinário agrícola sustentável",
-      "Tecnologias de mitigação de GEE no agro"
+      "Inovação no agronegócio",
+      "Agtech",
+      "Sustentabilidade no agro",
+      "Digitalização de cadeias agropecuárias"
     ],
-    "publico": "Empresas e produtores rurais, cooperativas e associações, inclusive projetos em parceria com instituições de pesquisa para desenvolvimento e demonstração tecnológica",
-    "valor": "Financiamento reembolsável, com participação BNDES que pode chegar a até 80% do investimento, normalmente em faixas de centenas de milhares a dezenas de milhões de reais conforme porte do projeto",
+    "publico": "Empresas brasileiras e fundos de investimento com projetos de inovação no agronegócio, incluindo agtechs e empresas de base tecnológica",
+    "valor": "Investimentos variáveis em participação societária ou fundos, tipicamente na faixa de milhões de reais por projeto ou cota de fundo, conforme análise do BNDES",
     "prazo": null,
-    "desc": "Linha do Fundo Clima operada pelo BNDES voltada à aquisição e desenvolvimento de máquinas e equipamentos mais eficientes e sustentáveis, incluindo aplicações no agronegócio. Embora seja uma linha contínua e não um edital clássico, ela se encontra aberta em 2026 e é utilizável para projetos inovadores na agropecuária que envolvam pesquisa, desenvolvimento e adoção tecnológica voltada à redução de emissões e eficiência ambiental.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/bndes-fundo-clima",
+    "desc": "Instrumento do BNDES para apoio financeiro a projetos inovadores no agronegócio brasileiro via participação em fundos de investimento e operações estruturadas. Abrange soluções tecnológicas para produção agropecuária, logística, serviços financeiros, sustentabilidade e transformação digital no setor.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/inovacao/fundos-de-investimento",
     "descobertoEm": "2026-06-25"
   },
   {
@@ -2321,5 +2322,42 @@
     "desc": "Edital lançado na AgroBrasília 2026 com o objetivo de selecionar projetos-pilotos de implantação, adoção e difusão de tecnologias 4.0 no agronegócio. O foco é promover inovação digital no campo, sendo diretamente aplicável a iniciativas de pesquisa, demonstração e transferência de tecnologia agropecuária em parceria com produtores e cooperativas.",
     "url": "https://agrobrasilia.com.br/inovacao/",
     "descobertoEm": "2026-06-26"
+  },
+  {
+    "id": "embrapa-meio-norte-02-2026-convenio-cnpq",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq (bolsas em projetos aprovados no Sistema Embrapa de Gestão – SEG)",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Agronomia",
+      "Engenharia Agrícola",
+      "Ciências Agrárias",
+      "Sistemas de produção agropecuária"
+    ],
+    "publico": "Estudantes e profissionais para atuação como bolsistas em projetos de PD&I aprovados no Sistema Embrapa de Gestão (SEG)",
+    "valor": "Até R$ 700,00 mensais (exemplo de vaga de iniciação científica com 10 meses de duração; demais valores variam por modalidade de bolsa no âmbito do convênio Embrapa/CNPq)",
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas no âmbito do convênio Embrapa/CNPq para atuação em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG), com vagas divulgadas ao longo de 2026 e inscrições em chamadas específicas, incluindo período de 14 a 30 de abril de 2026 para determinadas oportunidades.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-06-27"
+  },
+  {
+    "id": "agrobrasilia-2026-01",
+    "titulo": "Concurso Inova AgroBrasília 2026 – Seleção de Startups e Inovação no Campo",
+    "orgao": "AgroBrasília / FAP-DF – Fundação de Apoio à Pesquisa do Distrito Federal",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Agtechs",
+      "Inovação no campo",
+      "Tecnologias digitais para agricultura",
+      "Soluções sustentáveis para produção agropecuária"
+    ],
+    "publico": "Startups e empresas inovadoras com soluções tecnológicas aplicáveis ao agronegócio, incluindo atuação em propriedades rurais brasileiras",
+    "valor": "Premiações financeiras e apoio em serviços de inovação e visibilidade, com valores definidos no regulamento do concurso",
+    "prazo": null,
+    "desc": "Concurso e seleção de startups realizado no espaço de inovação da feira AgroBrasília 2026, com foco em tecnologias para aumentar a produtividade, incentivar práticas sustentáveis e ampliar a competitividade do setor agropecuário.",
+    "url": "https://agrobrasilia.com.br/inova-agrobrasilia/",
+    "descobertoEm": "2026-06-27"
   }
 ]
