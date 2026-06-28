@@ -1054,20 +1054,22 @@
   {
     "id": "faperj-07-2026-agro-futuro",
     "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (FoodTechs e Agritechs) – Edital FAPERJ Nº 07/2026",
-    "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+    "orgao": "FAPERJ",
     "origem": "Estadual · AM",
     "areas": [
       "Inovação agro",
       "Agritechs",
       "Foodtechs",
-      "P,D&I em agropecuária",
+      "Tecnologia e soberania alimentar",
+      "P&D em agropecuária",
       "Cadeias agroindustriais inteligentes",
-      "Produtividade e sustentabilidade ambiental no agro"
+      "Produtividade e sustentabilidade ambiental",
+      "Logística agroalimentar"
     ],
-    "publico": "Startups de base tecnológica, empresas e instituições de pesquisa sediadas ou atuantes no Estado do Rio de Janeiro com projetos em agritechs e foodtechs",
-    "valor": "Até R$ 25.000.000,00 em recursos globais do programa, distribuídos em três faixas que vão da prova de conceito ao escalonamento comercial",
-    "prazo": null,
-    "desc": "Programa estratégico para apoiar projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs fluminenses, estimulem a criação de novas empresas de base tecnológica e consolidem cadeias agroindustriais inteligentes, visando aumentar produtividade, sustentabilidade ambiental, eficiência logística e valor agregado ao longo da cadeia agroalimentar.",
+    "publico": "Startups de base tecnológica, empresas consolidadas, grupos de pesquisa e instituições científicas, tecnológicas e de inovação com atuação no setor agroalimentar do Estado do Rio de Janeiro",
+    "valor": "R$ 25.000.000,00 (montante global, em três faixas de apoio da prova de conceito ao escalonamento comercial)",
+    "prazo": "2026-05-01",
+    "desc": "Chamada pública da FAPERJ para apoiar projetos de pesquisa, desenvolvimento e inovação voltados à transformação produtiva do agro fluminense, fortalecendo o ecossistema de agritechs e foodtechs, estimulando a criação de novas empresas de base tecnológica, ampliando mercados e consolidando cadeias agroindustriais inteligentes com foco em produtividade, sustentabilidade ambiental, eficiência logística e aumento de valor agregado em toda a cadeia agroalimentar.",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-18"
   },
@@ -1559,20 +1561,21 @@
   },
   {
     "id": "fapeam-fapesp-2026-bioeconomia",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Cooperação em Bioeconomia Amazônica",
-    "orgao": "FAPEAM/FAPESP",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos Colaborativos em Bioeconomia Amazônica",
+    "orgao": "FAPEAM · FAPESP",
     "origem": "Estadual · AM",
     "areas": [
-      "Bioeconomia",
-      "Amazônia",
+      "Bioeconomia amazônica",
       "Desenvolvimento sustentável",
       "Inovação tecnológica",
-      "Ciências agrárias"
+      "Ciências agrárias",
+      "Recursos naturais",
+      "Meio ambiente"
     ],
-    "publico": "Pesquisadores doutores vinculados a Instituições de Ensino Superior e/ou de Pesquisa dos estados do Amazonas e de São Paulo, interessados em projetos colaborativos em bioeconomia amazônica",
-    "valor": "Auxílio à Pesquisa Regular FAPESP e apoio FAPEAM; duração dos projetos: até 36 meses",
+    "publico": "Pesquisadores vinculados a Instituições de Ensino Superior e/ou de Pesquisa dos estados do Amazonas e de São Paulo",
+    "valor": "Auxílio à Pesquisa Regular FAPESP (APR) + financiamento FAPEAM; duração dos projetos: até 36 meses",
     "prazo": "2026-03-23",
-    "desc": "Chamada de cooperação científica e tecnológica entre FAPEAM e FAPESP para apoio a projetos colaborativos que fortaleçam parcerias interinstitucionais e desenvolvam soluções inovadoras na área da bioeconomia amazônica, incluindo cadeias produtivas sustentáveis e uso de recursos naturais da região.",
+    "desc": "Chamada conjunta da FAPEAM e FAPESP para projetos colaborativos voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras na área da bioeconomia amazônica, incluindo pesquisa aplicada em uso sustentável de recursos da Amazônia, cadeias produtivas e inovação em setores como agropecuária e floresta em pé.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-21"
   },
@@ -2150,15 +2153,17 @@
     "origem": "Nacional",
     "areas": [
       "Agropecuária",
+      "Agronomia",
+      "Ciência Animal",
       "Ciências Agrárias",
-      "Engenharias",
-      "Ciências Biológicas"
+      "Biotecnologia",
+      "Meio Ambiente"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino brasileiras, incluindo unidades da Embrapa",
-    "valor": "Valor global de R$ 300.000.000,00; faixas de projeto conforme chamada (auxílio à pesquisa)",
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino no Brasil",
+    "valor": "Valor global de aproximadamente R$ 300.000.000,00 em recursos de fomento à pesquisa",
     "prazo": "2026-08-03",
-    "desc": "Chamada Universal para apoio a projetos de pesquisa científica e tecnológica em qualquer área do conhecimento, incluindo ciências agrárias e agropecuária, com recursos do CNPq para custeio, capital e bolsas vinculadas.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-universal-2026",
+    "desc": "Chamada pública nacional para apoio a projetos de pesquisa em diversas áreas do conhecimento, incluindo ciências agrárias, agropecuária e temas associados à produção agrícola, inovação tecnológica e sustentabilidade, com diferentes faixas de financiamento para projetos individuais ou em rede.",
+    "url": "https://www.gov.br/cnpq/pt-br",
     "descobertoEm": "2026-06-26"
   },
   {
@@ -2359,5 +2364,103 @@
     "desc": "Concurso e seleção de startups realizado no espaço de inovação da feira AgroBrasília 2026, com foco em tecnologias para aumentar a produtividade, incentivar práticas sustentáveis e ampliar a competitividade do setor agropecuário.",
     "url": "https://agrobrasilia.com.br/inova-agrobrasilia/",
     "descobertoEm": "2026-06-27"
+  },
+  {
+    "id": "cnpq-metodos-alternativos-experimentacao-animal-2026",
+    "titulo": "Chamada CNPq – Métodos alternativos à experimentação animal em pesquisas 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia",
+      "Ciências Agrárias",
+      "Ciência Animal",
+      "Saúde Animal",
+      "Bem-estar Animal"
+    ],
+    "publico": "Grupos de pesquisa e pesquisadores vinculados a instituições científicas, tecnológicas e de inovação (ICTs) no Brasil",
+    "valor": "Valor global de aproximadamente R$ 50.000.000,00 com recursos do FNDCT para projetos de PD&I",
+    "prazo": "2026-07-03",
+    "desc": "Chamada pública para apoio a projetos de pesquisa, desenvolvimento e inovação que desenvolvam, validem ou utilizem métodos alternativos ao uso de animais em experimentação, abrangendo áreas como toxicologia, farmacologia, saúde e produção animal, com potencial aplicação em sistemas agropecuários.",
+    "url": "https://www.gov.br/cnpq/pt-br",
+    "descobertoEm": "2026-06-28"
+  },
+  {
+    "id": "cnpq-capes-fapitec-se-07-2026-profix",
+    "titulo": "EDITAL CNPq/CAPES/FAPITEC/SE Nº 07/2026 – Programa de Apoio à Fixação de Doutores no Brasil (PROFIX Conhecimento Brasil)",
+    "orgao": "CNPq/CAPES/FAPITEC-SE",
+    "origem": "Estadual · SE",
+    "areas": [
+      "Meio Ambiente",
+      "Recursos Hídricos",
+      "Energias Renováveis",
+      "Saúde",
+      "Educação",
+      "Pesca e Aquicultura",
+      "Cadeias produtivas sergipanas",
+      "Turismo"
+    ],
+    "publico": "Doutores para execução de projetos de pesquisa, desenvolvimento científico e inovação em ICTs, universidades e instituições sem fins lucrativos situadas em Sergipe",
+    "valor": "Valor global de R$ 20.563.200,00 para bolsas e apoio a projetos, com R$ 14.976.000,00 destinados a bolsas",
+    "prazo": "2026-07-10",
+    "desc": "Edital voltado à atração e fixação de pesquisadores doutores para desenvolver projetos de pesquisa, desenvolvimento científico e inovação em instituições sergipanas, com áreas estratégicas que incluem meio ambiente, recursos hídricos, pesca, aquicultura e cadeias produtivas, relevantes para agropecuária e sistemas produtivos locais.",
+    "url": "https://fapitec.se.gov.br/editais-abertos/edital-cnpq-capes-fapitec-se-n-07-2026-programa-de-apoio-a-fixacao-dedoutores-no-brasil-profix-conhecimento-brasil/",
+    "descobertoEm": "2026-06-28"
+  },
+  {
+    "id": "propesp-ufpa-10-2026-selecao-interna-finep-fndct-agricultura-familiar",
+    "titulo": "Edital nº 10/2026 PROPESP/UFPA – Seleção interna para Chamada Pública MCTI/FINEP/FNDCT cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis",
+    "orgao": "UFPA (PROPESP) / FINEP/FNDCT",
+    "origem": "Interno",
+    "areas": [
+      "Bioinsumos",
+      "Sistemas de Produção Agroecológicos e Orgânicos",
+      "Soluções Digitais para Pequena Propriedade Rural",
+      "Aquicultura de Espécies Nativas",
+      "Agricultura Familiar",
+      "Bioeconomia",
+      "Desenvolvimento Sustentável"
+    ],
+    "publico": "Docentes e pesquisadores da UFPA interessados em compor a proposta institucional para a chamada nacional MCTI/FINEP/FNDCT",
+    "valor": "Projetos na chamada nacional entre R$ 3.000.000,00 e R$ 7.000.000,00; investimento global até R$ 150.000.000,00",
+    "prazo": "2026-05-06",
+    "desc": "Seleção interna da UFPA para escolha de proposta institucional a ser submetida à chamada pública MCTI/FINEP/FNDCT voltada às cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, contemplando temas como bioinsumos, produção agroecológica e orgânica, soluções digitais para pequenas propriedades rurais e aquicultura de espécies nativas.",
+    "url": "https://www.propesp.ufpa.br/index.php/editais-da-propesp/413-editais-da-propesp-2026/2025-edital-10-2026-propesp-finep-fndct-cadeias-socioprodutivas-da-agricultura-familiar-e-sistemas-agroalimentares-sustentaveis",
+    "descobertoEm": "2026-06-28"
+  },
+  {
+    "id": "embrapa-12-2026-ilpf-regenera",
+    "titulo": "Chamada Pública nº 12/2026 – Bolsas de Estímulo à Inovação para o Projeto \"ILPF Regenera: Indicadores Ambientais de Sustentabilidade para Agropecuária de Baixa Emissão de Carbono\"",
+    "orgao": "Embrapa Agrossilvipastoril",
+    "origem": "Interno",
+    "areas": [
+      "Integração Lavoura-Pecuária-Floresta",
+      "Sustentabilidade ambiental",
+      "Agropecuária de baixa emissão de carbono",
+      "PD&I em sistemas agrossilvipastoris"
+    ],
+    "publico": "Especialistas e estudantes para atuação em pesquisa, desenvolvimento tecnológico e extensão no âmbito do projeto ILPF Regenera",
+    "valor": null,
+    "prazo": "2026-01-28",
+    "desc": "Chamada interna da Embrapa Agrossilvipastoril, em parceria com Monsanto/Bayer e Funarbe, para concessão de bolsas de estímulo à inovação visando selecionar bolsistas que atuarão em atividades de PD&I e extensão relacionadas a indicadores ambientais de sustentabilidade para agropecuária de baixa emissão de carbono no projeto ILPF Regenera.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/106385473/chamada-n-122026---selecao-de-bolsistas-para-o-projeto-ilpf-regenera--embrapa-agrossilvipastoril",
+    "descobertoEm": "2026-06-28"
+  },
+  {
+    "id": "embrapa-ma-01-2026-bolsas-acc",
+    "titulo": "Edital Embrapa Maranhão nº 01/2026 – Seleção de bolsistas em Acordos de Cooperação e Convênios (ACC)",
+    "orgao": "Embrapa Maranhão",
+    "origem": "Interno",
+    "areas": [
+      "Ciências Agrárias",
+      "Sistemas de produção agrícola",
+      "PD&I em agricultura tropical",
+      "Transferência de tecnologia em arranjos produtivos locais"
+    ],
+    "publico": "Profissionais com título de mestrado em Ciências Agrárias ou áreas afins para atuação em projetos de pesquisa, desenvolvimento e inovação vinculados a acordos de cooperação e convênios da Embrapa Maranhão",
+    "valor": "R$ 5.625,00/mês",
+    "prazo": null,
+    "desc": "Chamada interna da Embrapa Maranhão para seleção de bolsistas vinculados a Acordos de Cooperação e Convênios (ACC), com bolsas implementadas via FAPEMA, voltada a atividades de PD&I e apoio à transferência de tecnologia em projetos da unidade. O edital estabelece critérios de elegibilidade, cronograma de seleção e submissão de candidatura por formulário eletrônico.",
+    "url": "https://www.embrapa.br/documents/1354356/0/Edital+Embrapa+Maranh%C3%A3o+n%C2%BA+01-2026/e955a8c3-57ab-f81b-6b6e-c918cb9e44f7?version=1.0&download=true",
+    "descobertoEm": "2026-06-28"
   }
 ]
