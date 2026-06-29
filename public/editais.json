@@ -1054,22 +1054,22 @@
   {
     "id": "faperj-07-2026-agro-futuro",
     "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (FoodTechs e Agritechs) – Edital FAPERJ Nº 07/2026",
-    "orgao": "FAPERJ",
+    "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
     "origem": "Estadual · AM",
     "areas": [
       "Inovação agro",
       "Agritechs",
       "Foodtechs",
-      "Tecnologia e soberania alimentar",
+      "Agroalimentar",
       "P&D em agropecuária",
-      "Cadeias agroindustriais inteligentes",
       "Produtividade e sustentabilidade ambiental",
-      "Logística agroalimentar"
+      "Logística agro",
+      "Cadeias agroindustriais inteligentes"
     ],
-    "publico": "Startups de base tecnológica, empresas consolidadas, grupos de pesquisa e instituições científicas, tecnológicas e de inovação com atuação no setor agroalimentar do Estado do Rio de Janeiro",
-    "valor": "R$ 25.000.000,00 (montante global, em três faixas de apoio da prova de conceito ao escalonamento comercial)",
-    "prazo": "2026-05-01",
-    "desc": "Chamada pública da FAPERJ para apoiar projetos de pesquisa, desenvolvimento e inovação voltados à transformação produtiva do agro fluminense, fortalecendo o ecossistema de agritechs e foodtechs, estimulando a criação de novas empresas de base tecnológica, ampliando mercados e consolidando cadeias agroindustriais inteligentes com foco em produtividade, sustentabilidade ambiental, eficiência logística e aumento de valor agregado em toda a cadeia agroalimentar.",
+    "publico": "Startups de base tecnológica, empresas consolidadas, grupos de pesquisa e instituições científicas e tecnológicas com atuação em agritechs e foodtechs no Estado do Rio de Janeiro",
+    "valor": "Até R$ 25.000.000,00 em recursos totais do programa, distribuídos em três faixas de apoio (da prova de conceito ao escalonamento comercial)",
+    "prazo": null,
+    "desc": "Programa de fomento à pesquisa, desenvolvimento e inovação voltado à transformação produtiva do agro fluminense por meio de ciência, tecnologia e inovação, fortalecendo o ecossistema de agritechs e foodtechs, estimulando a criação de novas empresas de base tecnológica, ampliando mercados e consolidando cadeias agroindustriais inteligentes, com foco em produtividade, sustentabilidade ambiental, eficiência logística e aumento de valor agregado em toda a cadeia agroalimentar.[1]",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-18"
   },
