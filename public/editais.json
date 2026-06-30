@@ -1748,20 +1748,24 @@
   },
   {
     "id": "cnpq-06-2026-universal",
-    "titulo": "Chamada CNPq/FNDCT Nº 06/2026 - Universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 - Universal",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas",
-      "Agropecuária",
       "Ciências Agrárias",
-      "PD&I"
+      "Agropecuária",
+      "Zootecnia",
+      "Agronomia",
+      "Ciência e Tecnologia de Alimentos",
+      "Ciências Biológicas",
+      "Engenharias",
+      "Ciências Exatas e da Terra"
     ],
-    "publico": "Pesquisadores doutores com vínculo em ICTs brasileiras ou entidades sem fins lucrativos habilitadas, em qualquer área do conhecimento, incluindo agropecuária",
-    "valor": "Não há limite de valor por projeto; observar a previsão de recursos por rubrica da chamada",
+    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, incluindo pesquisadores da Embrapa, para projetos de pesquisa em qualquer área do conhecimento",
+    "valor": "Sem limite máximo por projeto; apoio com recursos do FNDCT conforme rubricas previstas na chamada",
     "prazo": null,
-    "desc": "Apoiar projetos de pesquisa, desenvolvimento e inovação em qualquer área do conhecimento que contribuam para o desenvolvimento científico, tecnológico e a inovação no País, com recursos do FNDCT, incluindo propostas em ciências agrárias e agropecuária.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026",
+    "desc": "Chamada de âmbito nacional destinada a apoiar projetos de pesquisa, desenvolvimento e inovação em qualquer área do conhecimento, com foco no fortalecimento da capacidade científica e tecnológica do País. Abrange propostas em ciências agrárias e agropecuária, sendo elegíveis grupos de pesquisa e profissionais de instituições de ciência e tecnologia como a Embrapa. Os recursos são provenientes do FNDCT e contemplam custeio e, conforme regras específicas, itens de capital e bolsas vinculadas às propostas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -2462,5 +2466,42 @@
     "desc": "Chamada interna da Embrapa Maranhão para seleção de bolsistas vinculados a Acordos de Cooperação e Convênios (ACC), com bolsas implementadas via FAPEMA, voltada a atividades de PD&I e apoio à transferência de tecnologia em projetos da unidade. O edital estabelece critérios de elegibilidade, cronograma de seleção e submissão de candidatura por formulário eletrônico.",
     "url": "https://www.embrapa.br/documents/1354356/0/Edital+Embrapa+Maranh%C3%A3o+n%C2%BA+01-2026/e955a8c3-57ab-f81b-6b6e-c918cb9e44f7?version=1.0&download=true",
     "descobertoEm": "2026-06-28"
+  },
+  {
+    "id": "embrapa-02-2026-meio-norte-seg-pdi",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq (bolsas em projetos PD&I aprovados pelo SEG)",
+    "orgao": "Embrapa Meio-Norte / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação em Agricultura",
+      "Agronomia",
+      "Engenharia Agrícola",
+      "Ciências Agrárias"
+    ],
+    "publico": "Estudantes e profissionais para atuação como bolsistas em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": "R$ 700,00 mensais (exemplo de bolsa citada no edital; valores variam conforme a vaga)",
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas no âmbito do Convênio Embrapa/CNPq para atuação em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG), com inscrições no período de 14 a 30 de abril de 2026 e duração típica de 10 meses nas unidades da Embrapa Meio-Norte.[2]",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-06-30"
+  },
+  {
+    "id": "faperj-07-2026-agro-do-futuro",
+    "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (FoodTechs e Agritechs) – Edital FAPERJ Nº 07/2026",
+    "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Inovação agro",
+      "Foodtech",
+      "Agritech",
+      "Tecnologia para agroalimentar",
+      "Produtividade e sustentabilidade no agro"
+    ],
+    "publico": "Startups de base tecnológica, empresas consolidadas e grupos de pesquisa que desenvolvam soluções em foodtechs e agritechs com atuação no Estado do Rio de Janeiro[1]",
+    "valor": "R$ 25.000.000,00 (valor global do programa, distribuído em três faixas de apoio)[1]",
+    "prazo": null,
+    "desc": "Programa estratégico voltado à transformação produtiva do agro fluminense por meio de ciência, tecnologia e inovação, apoiando projetos de pesquisa, desenvolvimento e inovação em agritechs e foodtechs, da prova de conceito ao escalonamento comercial, visando produtividade, sustentabilidade ambiental, eficiência logística e maior valor agregado nas cadeias agroalimentares[1].",
+    "url": "https://www.faperj.br/?id=978.7.4",
+    "descobertoEm": "2026-06-30"
   }
 ]
