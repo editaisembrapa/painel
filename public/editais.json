@@ -419,21 +419,20 @@
   },
   {
     "id": "cnpq-mcti-11-2026-renama-nams",
-    "titulo": "Chamada CNPq/MCTI Nº 11/2026 – Rede Nacional de Métodos Alternativos (RENAMA) e New Approach Methodologies (NAMs)",
+    "titulo": "Chamada CNPq/MCTI nº 11/2026 – RENAMA e NAMs",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Métodos alternativos à experimentação animal",
-      "Toxicologia",
       "Biotecnologia",
-      "Ciências da Vida",
-      "Agropecuária (sanidade, insumos, toxicologia agroambiental)"
+      "Ciências Biológicas",
+      "Ciências Agrárias"
     ],
-    "publico": "Grupos de pesquisa sediados em ICTs brasileiras interessados em desenvolver ou aplicar métodos alternativos e NAMs em rede nacional",
-    "valor": "Valores máximos e faixas de financiamento por proposta definidos na chamada (incluindo bolsas, custeio e capital), de acordo com linhas e metas da RENAMA",
-    "prazo": null,
-    "desc": "Chamada que visa apoiar a Rede Nacional de Métodos Alternativos (RENAMA) e o desenvolvimento e aplicação de New Approach Methodologies (NAMs), fortalecendo infraestrutura, redes colaborativas e projetos de P,D&I em métodos alternativos à experimentação animal. Inclui potencial aplicação em agropecuária, como avaliação de segurança de insumos agropecuários, toxicologia ambiental e sanidade animal em plataformas in vitro e in silico.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "publico": "Grupos de pesquisa e instituições integrantes ou interessadas na Rede Nacional de Métodos Alternativos – RENAMA",
+    "valor": "Valor global de cerca de R$ 50 milhões em recursos do FNDCT",
+    "prazo": "2026-07-03",
+    "desc": "Fomenta projetos que desenvolvam e consolidem métodos alternativos à experimentação animal, apoiando infraestrutura, pesquisa e formação de recursos humanos em RENAMA e laboratórios associados, com potencial interface com pesquisas agropecuárias.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-mcti-no-11-2026-renama-e-nams",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -719,20 +718,21 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "Iniciativa BNDES Bioinsumos – Fundo Socioambiental (Chamada 2026)",
-    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social – BNDES",
+    "titulo": "BNDES Bioinsumos – Chamada 2026 do BNDES Fundo Socioambiental",
+    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
     "origem": "Nacional",
     "areas": [
       "Bioinsumos",
       "Agricultura familiar",
-      "Agroecologia",
-      "Produção de bioprodutos",
-      "Sistemas alimentares sustentáveis"
+      "Transição tecnológica para bioprodutos",
+      "Agroecossistemas",
+      "Produção de alimentos saudáveis",
+      "Inovação em insumos biológicos"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares que operem ou desejem implantar estruturas industriais ou semi-industriais para produção de bioinsumos",
-    "valor": "R$ 5.000.000,00 (valor total da chamada, com recursos do BNDES Fundo Socioambiental)[3]",
+    "publico": "Cooperativas e associações de agricultores familiares que desejam instalar ou modernizar estruturas industriais ou semi-industriais voltadas à produção de bioinsumos",
+    "valor": "R$ 5.000.000,00 (valor total previsto para apoio financeiro na chamada 2026 BNDES Bioinsumos)[3]",
     "prazo": "2026-08-31",
-    "desc": "Chamada da iniciativa BNDES Bioinsumos, apoiada com recursos do Fundo Socioambiental do BNDES, voltada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, em estruturas industriais ou semi-industriais, visando a transição tecnológica para utilização integrada de bioprodutos em agroecossistemas e a produção de alimentos saudáveis.[3]",
+    "desc": "Iniciativa do BNDES Fundo Socioambiental destinada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, apoiando estruturas industriais ou semi-industriais que viabilizem a transição tecnológica para uso integrado de bioprodutos em agroecossistemas voltados à produção de alimentos saudáveis.[3]",
     "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-06-14"
   },
@@ -1060,16 +1060,15 @@
       "Inovação agro",
       "Agritechs",
       "Foodtechs",
-      "Agroalimentar",
-      "P&D em agropecuária",
+      "PD&I em agroalimentar",
       "Produtividade e sustentabilidade ambiental",
       "Logística agro",
       "Cadeias agroindustriais inteligentes"
     ],
-    "publico": "Startups de base tecnológica, empresas consolidadas, grupos de pesquisa e instituições científicas e tecnológicas com atuação em agritechs e foodtechs no Estado do Rio de Janeiro",
-    "valor": "Até R$ 25.000.000,00 em recursos totais do programa, distribuídos em três faixas de apoio (da prova de conceito ao escalonamento comercial)",
+    "publico": "Empresas e startups de base tecnológica (agritechs e foodtechs) atuantes no Estado do Rio de Janeiro",
+    "valor": "R$ 25.000.000,00 (total do programa, estruturado em três faixas de apoio da prova de conceito ao escalonamento comercial)[1]",
     "prazo": null,
-    "desc": "Programa de fomento à pesquisa, desenvolvimento e inovação voltado à transformação produtiva do agro fluminense por meio de ciência, tecnologia e inovação, fortalecendo o ecossistema de agritechs e foodtechs, estimulando a criação de novas empresas de base tecnológica, ampliando mercados e consolidando cadeias agroindustriais inteligentes, com foco em produtividade, sustentabilidade ambiental, eficiência logística e aumento de valor agregado em toda a cadeia agroalimentar.[1]",
+    "desc": "Programa estratégico da FAPERJ voltado à transformação produtiva do agronegócio fluminense por meio de ciência, tecnologia e inovação, apoiando projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs, estimulem a criação de novas empresas de base tecnológica e consolidem cadeias agroindustriais inteligentes em toda a cadeia agroalimentar.[1]",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-18"
   },
@@ -1895,18 +1894,17 @@
   },
   {
     "id": "capes-augm-2026",
-    "titulo": "Programa CAPES/AUGM – Bolsas e Auxílios Internacionais",
+    "titulo": "Programa CAPES/AUGM - Edição 2026",
     "orgao": "CAPES",
     "origem": "Internacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Ciências Agrárias",
-      "Agropecuária"
+      "Todas as áreas de conhecimento contempladas pela AUGM",
+      "Ciências Agrárias"
     ],
-    "publico": "Docentes e discentes de universidades brasileiras participantes da Associação de Universidades Grupo Montevidéu (AUGM), em programas de mobilidade e cooperação acadêmica",
-    "valor": "Valores de bolsas de mobilidade e auxílios definidos pela CAPES para o programa",
+    "publico": "Docentes e discentes vinculados a universidades brasileiras participantes da Asociación de Universidades Grupo Montevideo (AUGM)",
+    "valor": "Auxílios e bolsas de mobilidade internacional conforme parâmetros do programa",
     "prazo": "2026-07-02",
-    "desc": "Programa internacional CAPES/AUGM de bolsas e auxílios para mobilidade acadêmica e cooperação em pesquisa entre universidades da AUGM, com possibilidade de participação de pesquisadores em temas ligados à agropecuária.",
+    "desc": "Programa de cooperação acadêmica internacional CAPES/AUGM que concede bolsas e auxílios para mobilidade de estudantes e professores entre universidades da rede AUGM, abrangendo áreas como ciências agrárias e agropecuária.",
     "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
     "descobertoEm": "2026-06-22"
   },
@@ -2190,20 +2188,18 @@
   },
   {
     "id": "cnpq-brics-sti-14-2026",
-    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI Nº 14/2026",
+    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI nº 14/2026",
     "orgao": "CNPq",
     "origem": "Internacional",
     "areas": [
       "Ciência, Tecnologia e Inovação",
-      "Agricultura sustentável",
-      "Biotecnologia",
-      "Energia",
-      "Mudanças climáticas"
+      "Temas estratégicos BRICS",
+      "Agropecuária e Segurança Alimentar (entre temas elegíveis conforme a chamada)"
     ],
-    "publico": "Grupos de pesquisa de instituições brasileiras em parceria com instituições dos países BRICS, em áreas temáticas definidas na chamada",
-    "valor": "Valores por projeto e por país conforme regras da chamada BRICS-STI",
+    "publico": "Grupos de pesquisa brasileiros em cooperação com parceiros dos países BRICS",
+    "valor": "Valor global definido em conjunto pelos organismos dos países BRICS, com financiamento a projetos colaborativos",
     "prazo": "2026-07-06",
-    "desc": "Chamada internacional multilateral no âmbito BRICS-STI para apoio a projetos de PD&I colaborativos entre países BRICS, incluindo temas de agricultura sustentável, biotecnologia e áreas de interesse estratégico que podem envolver pesquisadores da agropecuária.",
+    "desc": "Financia projetos de pesquisa colaborativa entre países BRICS em áreas prioritárias de ciência, tecnologia e inovação, incluindo possíveis temas em agricultura, alimentos, recursos naturais e sustentabilidade, conforme linhas específicas da chamada.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/7a-chamada-mcti-cnpq-brics-sti-no-14-2026",
     "descobertoEm": "2026-06-26"
   },
@@ -2503,5 +2499,90 @@
     "desc": "Programa estratégico voltado à transformação produtiva do agro fluminense por meio de ciência, tecnologia e inovação, apoiando projetos de pesquisa, desenvolvimento e inovação em agritechs e foodtechs, da prova de conceito ao escalonamento comercial, visando produtividade, sustentabilidade ambiental, eficiência logística e maior valor agregado nas cadeias agroalimentares[1].",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-30"
+  },
+  {
+    "id": "cnpq-fndct-06-2026-universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 - Universal",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas do conhecimento",
+      "Agropecuária",
+      "Ciências Agrárias"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino no Brasil",
+    "valor": "Valor global de aproximadamente R$ 300 milhões em recursos do FNDCT, com faixas de financiamento por projeto",
+    "prazo": "2026-08-03",
+    "desc": "Apoiar projetos de pesquisa em qualquer área do conhecimento que contribuam para o desenvolvimento científico, tecnológico e a inovação do País, incluindo projetos em agropecuária e PD&I relevantes para Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-fndct-no-06-2026",
+    "descobertoEm": "2026-07-01"
+  },
+  {
+    "id": "cnpq-mcti-15-2026-proafrica",
+    "titulo": "Chamada CNPq/MCTI nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia (PROÁFRICA)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciência e Tecnologia",
+      "Cooperação Internacional",
+      "Agricultura e Recursos Naturais"
+    ],
+    "publico": "Redes de pesquisadores de instituições brasileiras e de países africanos",
+    "valor": "Investimento de aproximadamente R$ 25 milhões em redes de pesquisa",
+    "prazo": "2026-08-31",
+    "desc": "Apoia projetos de pesquisa colaborativa que fortaleçam a cooperação científica, tecnológica e de inovação entre o Brasil e países africanos em temas estratégicos, incluindo agricultura, segurança alimentar, recursos naturais e desenvolvimento rural.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-mcti-no-15-2026-proafrica",
+    "descobertoEm": "2026-07-01"
+  },
+  {
+    "id": "cnpq-minc-17-2026-economia-criativa",
+    "titulo": "Chamada CNPq/MinC nº 17/2026 - Apoio ao funcionamento de incubadoras voltadas à Economia Criativa",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Economia Criativa",
+      "Inovação",
+      "Empreendedorismo"
+    ],
+    "publico": "Instituições responsáveis por incubadoras voltadas à economia criativa, em parceria com a Escola de Formação Solano Trindade e PRONINC",
+    "valor": "Valor global definido na chamada para projetos de incubadoras e apoio a empreendimentos culturais e criativos",
+    "prazo": "2026-08-10",
+    "desc": "Seleciona projetos para apoiar o funcionamento de incubadoras voltadas à economia criativa, fortalecendo empreendimentos culturais e criativos por meio de formação, orientação técnica, apoio à formalização e sustentabilidade das iniciativas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-minc-no-17-2026-incubadoras-economia-criativa",
+    "descobertoEm": "2026-07-01"
+  },
+  {
+    "id": "cnpq-mcti-mec-09-2026-pop-ciencia",
+    "titulo": "Chamada CNPq/MCTI/MEC nº 09/2026 - Feiras de Ciências e Mostras Científicas - POP CIÊNCIA",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Popularização da ciência",
+      "Educação científica",
+      "Todas as áreas, incluindo ciências agrárias"
+    ],
+    "publico": "Instituições e entidades que organizam feiras de ciências e mostras científicas em território nacional",
+    "valor": "Recursos de fomento definidos na chamada para apoio à realização de feiras e mostras",
+    "prazo": "2026-06-19",
+    "desc": "Apoia a realização de feiras de ciências e mostras científicas em todo o País, visando à popularização da ciência, tecnologia e inovação e à formação de vocações científicas, abrangendo iniciativas em diversas áreas, inclusive agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-09-2026/chamada-publica-cnpq-n-09-2026",
+    "descobertoEm": "2026-07-01"
+  },
+  {
+    "id": "cnpq-programa-pos-graduacao-2026",
+    "titulo": "Programa de Bolsas de Pós-Graduação 2026 - CNPq",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas do conhecimento",
+      "Ciências Agrárias",
+      "Agropecuária"
+    ],
+    "publico": "Programas de pós-graduação e estudantes de mestrado e doutorado no Brasil",
+    "valor": "Investimento de cerca de R$ 430 milhões, com oferta de aproximadamente 5 mil bolsas de mestrado e doutorado",
+    "prazo": "2026-08-05",
+    "desc": "Programa nacional de bolsas de pós-graduação do CNPq que oferta bolsas de mestrado e doutorado em todas as áreas, incluindo ciências agrárias e temas de interesse de Embrapa, fortalecendo formação de recursos humanos para pesquisa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/programa-bolsas-pos-graduacao-2026",
+    "descobertoEm": "2026-07-01"
   }
 ]
