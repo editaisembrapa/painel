@@ -718,21 +718,20 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "BNDES Bioinsumos – Chamada 2026 do BNDES Fundo Socioambiental",
+    "titulo": "BNDES Bioinsumos – Fundo Socioambiental",
     "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
     "origem": "Nacional",
     "areas": [
       "Bioinsumos",
-      "Agricultura familiar",
-      "Transição tecnológica para bioprodutos",
       "Agroecossistemas",
       "Produção de alimentos saudáveis",
-      "Inovação em insumos biológicos"
+      "Indústria de bioprodutos",
+      "Agricultura familiar"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares que desejam instalar ou modernizar estruturas industriais ou semi-industriais voltadas à produção de bioinsumos",
-    "valor": "R$ 5.000.000,00 (valor total previsto para apoio financeiro na chamada 2026 BNDES Bioinsumos)[3]",
+    "publico": "Cooperativas e associações de agricultores familiares interessadas em estruturar produção de bioinsumos em plantas industriais ou semi-industriais[4]",
+    "valor": "R$ 5.000.000,00 (recursos do BNDES Fundo Socioambiental)[4]",
     "prazo": "2026-08-31",
-    "desc": "Iniciativa do BNDES Fundo Socioambiental destinada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, apoiando estruturas industriais ou semi-industriais que viabilizem a transição tecnológica para uso integrado de bioprodutos em agroecossistemas voltados à produção de alimentos saudáveis.[3]",
+    "desc": "Chamada que fomenta a produção de bioinsumos por cooperativas e associações de agricultores familiares, apoiando estruturas industriais ou semi-industriais que possibilitem a transição tecnológica para o uso integrado de bioprodutos em agroecossistemas voltados à produção de alimentos saudáveis.[4]",
     "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-06-14"
   },
@@ -2487,16 +2486,18 @@
     "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
     "origem": "Estadual · AM",
     "areas": [
-      "Inovação agro",
-      "Foodtech",
-      "Agritech",
-      "Tecnologia para agroalimentar",
-      "Produtividade e sustentabilidade no agro"
+      "Agritechs",
+      "Foodtechs",
+      "Inovação agroalimentar",
+      "Produtividade agropecuária",
+      "Sustentabilidade ambiental",
+      "Logística agro",
+      "Cadeias agroindustriais inteligentes"
     ],
-    "publico": "Startups de base tecnológica, empresas consolidadas e grupos de pesquisa que desenvolvam soluções em foodtechs e agritechs com atuação no Estado do Rio de Janeiro[1]",
-    "valor": "R$ 25.000.000,00 (valor global do programa, distribuído em três faixas de apoio)[1]",
+    "publico": "Pesquisadores, ICTs, startups e empresas de base tecnológica atuando em agritechs e foodtechs no Estado do Rio de Janeiro[2]",
+    "valor": "R$ 25.000.000,00 (montante total do programa, distribuído em três faixas de apoio)[2]",
     "prazo": null,
-    "desc": "Programa estratégico voltado à transformação produtiva do agro fluminense por meio de ciência, tecnologia e inovação, apoiando projetos de pesquisa, desenvolvimento e inovação em agritechs e foodtechs, da prova de conceito ao escalonamento comercial, visando produtividade, sustentabilidade ambiental, eficiência logística e maior valor agregado nas cadeias agroalimentares[1].",
+    "desc": "Programa de fomento a projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs fluminenses, estimulem a criação de novas empresas de base tecnológica, ampliem mercados e consolidem cadeias agroindustriais inteligentes, cobrindo desde prova de conceito até escalonamento comercial por meio de três faixas de apoio.[2]",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-30"
   },
@@ -2584,5 +2585,83 @@
     "desc": "Programa nacional de bolsas de pós-graduação do CNPq que oferta bolsas de mestrado e doutorado em todas as áreas, incluindo ciências agrárias e temas de interesse de Embrapa, fortalecendo formação de recursos humanos para pesquisa.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/programa-bolsas-pos-graduacao-2026",
     "descobertoEm": "2026-07-01"
+  },
+  {
+    "id": "finep-fndct-agrifamiliar-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "Finep/FNDCT · MCTI",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Bioinsumos",
+      "Sistemas de produção agroecológicos",
+      "Sistemas de produção orgânicos",
+      "Soluções digitais para pequena propriedade rural",
+      "Aquicultura de espécies nativas",
+      "PD&I em sistemas agroalimentares sustentáveis"
+    ],
+    "publico": "Instituições Científicas, Tecnológicas e de Inovação (ICTs) públicas ou privadas sem fins lucrativos sediadas no Brasil",
+    "valor": "Valor global R$ 150.000.000; projetos entre R$ 3.000.000 e R$ 7.000.000 em recursos não reembolsáveis",
+    "prazo": "2026-07-03",
+    "desc": "Chamada pública para apoio financeiro a projetos institucionais de pesquisa, desenvolvimento e inovação voltados ao desenvolvimento de soluções científicas e tecnológicas para estruturação e fortalecimento de cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, nas linhas de bioinsumos, sistemas de produção agroecológicos e orgânicos, soluções digitais para pequenas propriedades rurais e aquicultura de espécies nativas, com exigência de mínimo de 30% dos recursos para ICTs das regiões Norte, Nordeste e Centro-Oeste.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/783",
+    "descobertoEm": "2026-07-02"
+  },
+  {
+    "id": "fapitec-cnpq-capes-profix-2026",
+    "titulo": "EDITAL CNPq/CAPES/FAPITEC/SE Nº 07/2026 – Programa de Apoio à Fixação de Doutores no Brasil (Profix Conhecimento Brasil)",
+    "orgao": "CNPq · CAPES · FAPITEC/SE",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Desenvolvimento científico e inovação",
+      "Meio ambiente",
+      "Recursos hídricos",
+      "Energias renováveis",
+      "Cadeias produtivas sergipanas",
+      "Saúde",
+      "Educação"
+    ],
+    "publico": "Pesquisadores doutores para execução de projetos de pesquisa, desenvolvimento científico e inovação em universidades e ICTs situadas no estado de Sergipe",
+    "valor": "Valor global R$ 20.563.200, incluindo bolsas com valores definidos pela FAPITEC/SE",
+    "prazo": "2026-07-28",
+    "desc": "Programa voltado à atração e fixação de pesquisadores doutores para execução de projetos de pesquisa, desenvolvimento científico e inovação em instituições científicas, tecnológicas e de inovação sediadas em Sergipe, contemplando áreas estratégicas como meio ambiente, recursos hídricos, energias renováveis e cadeias produtivas sergipanas, com concessão de bolsas de fixação e apoio à pesquisa.",
+    "url": "https://fapitec.se.gov.br/editais-abertos/edital-cnpq-capes-fapitec-se-n-07-2026-programa-de-apoio-a-fixacao-dedoutores-no-brasil-profix-conhecimento-brasil/",
+    "descobertoEm": "2026-07-02"
+  },
+  {
+    "id": "seag-es-agro-inventores-2026",
+    "titulo": "Agro Inventores – ESX 2026",
+    "orgao": "Secretaria de Estado da Agricultura, Abastecimento, Aquicultura e Pesca (Seag) – Governo do Estado do Espírito Santo",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Inovação agro",
+      "Agtechs",
+      "Tecnologias para o campo",
+      "Prototipagem e escalonamento de soluções agropecuárias"
+    ],
+    "publico": "Inventores e pesquisadores, startups e empresas de base tecnológica, produtores rurais e cooperativas do Espírito Santo[1]",
+    "valor": "R$ 1.100.000,00 (recursos do Fundo Estadual de Ciência e Tecnologia – Funcitec)[1]",
+    "prazo": "2026-06-13",
+    "desc": "Edital que seleciona 10 projetos inovadores nascidos no campo para apoiar o amadurecimento tecnológico de ideias, transformando protótipos em produtos escaláveis e patenteáveis voltados ao mercado de agtechs, em parceria com Fapes, Instituto Senai de Tecnologia e Eficiência Operacional (Isteo) e Inventta Consultoria.[1]",
+    "url": "https://whitepaperdocs.com.br/2026/06/alta-performance-no-campo-tecnologia-e-novo-edital-do-governo-do-estado-impulsionam-o-agro-no-esx-2026/",
+    "descobertoEm": "2026-07-02"
+  },
+  {
+    "id": "agrobrasilia-inova-2026",
+    "titulo": "Seleção de Startups e Concurso AgroBrasília de Inovação no Campo – Inova AgroBrasília 2026",
+    "orgao": "AgroBrasília – Feira Internacional dos Cerrados",
+    "origem": "Nacional",
+    "areas": [
+      "Startups agro",
+      "Tecnologias para produção agrícola",
+      "Soluções digitais para o agro",
+      "Inovação no campo"
+    ],
+    "publico": "Startups com soluções inovadoras para o agronegócio interessadas em integrar o Ambiente de Inovação e Tecnologia da AgroBrasília 2026[5][8]",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital que abre inscrições para seleção de startups e realização do Concurso AgroBrasília de Inovação no Campo (Inova AgroBrasília 2026), voltado a identificar e apoiar soluções inovadoras aplicáveis à produção agropecuária, com exposição em ambiente dedicado de inovação e tecnologia durante a feira.[5][8]",
+    "url": "https://agrobrasilia.com.br/inova-agrobrasilia/",
+    "descobertoEm": "2026-07-02"
   }
 ]
