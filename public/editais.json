@@ -1059,15 +1059,13 @@
       "Inovação agro",
       "Agritechs",
       "Foodtechs",
-      "PD&I em agroalimentar",
-      "Produtividade e sustentabilidade ambiental",
-      "Logística agro",
-      "Cadeias agroindustriais inteligentes"
+      "Tecnologia agroalimentar",
+      "PD&I em agronegócio"
     ],
-    "publico": "Empresas e startups de base tecnológica (agritechs e foodtechs) atuantes no Estado do Rio de Janeiro",
-    "valor": "R$ 25.000.000,00 (total do programa, estruturado em três faixas de apoio da prova de conceito ao escalonamento comercial)[1]",
+    "publico": "Empresas de base tecnológica, startups (agritechs e foodtechs) e grupos de pesquisa sediados no Estado do Rio de Janeiro com projetos aplicáveis ao agro fluminense",
+    "valor": "R$ 25.000.000,00 (montante global do programa, com três faixas de apoio da prova de conceito ao escalonamento comercial)",
     "prazo": null,
-    "desc": "Programa estratégico da FAPERJ voltado à transformação produtiva do agronegócio fluminense por meio de ciência, tecnologia e inovação, apoiando projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs, estimulem a criação de novas empresas de base tecnológica e consolidem cadeias agroindustriais inteligentes em toda a cadeia agroalimentar.[1]",
+    "desc": "Programa estratégico voltado à transformação produtiva do agro fluminense por meio de ciência, tecnologia e inovação, apoiando projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs, estimulem a criação de novas empresas de base tecnológica, ampliem mercados e consolidem cadeias agroindustriais inteligentes.[1]",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-18"
   },
@@ -1772,22 +1770,21 @@
     "orgao": "CNPq",
     "origem": "Internacional",
     "areas": [
-      "PD&I",
-      "Ciência e tecnologia",
-      "Temas estratégicos BRICS (incluindo agricultura, recursos naturais e sustentabilidade, conforme áreas definidas no edital)"
+      "Ciência, Tecnologia e Inovação",
+      "Temas prioritários BRICS definidos no edital"
     ],
-    "publico": "Grupos de pesquisa brasileiros em cooperação com instituições dos países BRICS, em temas elegíveis no BRICS STI Framework Programme",
-    "valor": "Faixas e valores definidos por tema no âmbito do BRICS STI Framework Programme, conforme especificado na chamada",
+    "publico": "Grupos de pesquisa brasileiros em parceria com grupos de países BRICS, vinculados a instituições científicas, tecnológicas e de inovação brasileiras",
+    "valor": "Valores máximos e faixas de financiamento por projeto definidos no edital, conforme regras do mecanismo BRICS-STI",
     "prazo": "2026-07-06",
-    "desc": "Apoiar projetos de pesquisa, desenvolvimento e inovação no âmbito do BRICS STI Framework Programme, em cooperação multilateral entre Brasil e demais países BRICS, em temas estratégicos de CT&I que podem incluir agricultura, gestão de recursos naturais e sustentabilidade, com forte componente de PD&I.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-14-2026",
+    "desc": "Apoia projetos de pesquisa colaborativa entre grupos de pesquisa do Brasil e dos demais países BRICS, em temas prioritários de ciência, tecnologia e inovação, com foco em projetos conjuntos de PD&I.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-06-22"
   },
   {
     "id": "cnpq-02-2026-prosul",
-    "titulo": "Chamada Pública MCTI/CNPq Nº 02/2026 - PROSUL Pepe Mujica",
+    "titulo": "Chamada Pública MCTI/CNPq Nº 02/2026 - Programa de Cooperação Latino-Americana e Caribenha em Ciência, Tecnologia e Inovação (PROSUL Pepe Mujica)",
     "orgao": "CNPq",
-    "origem": "Internacional",
+    "origem": "Nacional",
     "areas": [
       "Ambiente e sustentabilidade",
       "Alimentação e agricultura",
@@ -1796,10 +1793,10 @@
       "Tecnologia da informação",
       "Ciências humanas e sociais"
     ],
-    "publico": "Pesquisadores doutores com vínculo institucional no Brasil, em ICTs brasileiras ou entidades privadas sem fins lucrativos cadastradas no CNPq, em cooperação com instituições de pelo menos dois países da América Latina ou Caribe",
-    "valor": "Valor global R$ 50.000.000; Faixa A até R$ 1.500.000; Faixa B até R$ 600.000; Faixa C até R$ 400.000 por proposta",
-    "prazo": "2026-04-30",
-    "desc": "Programa de Cooperação Latino-Americana e Caribenha em CT&I para apoiar projetos de pesquisa colaborativa em redes consolidadas, emergentes e projetos bilaterais, com foco em temas estratégicos, incluindo alimentação e agricultura e ambiente e sustentabilidade, relevantes para pesquisadores da agropecuária.",
+    "publico": "Pesquisadores doutores com vínculo institucional em ICTs brasileiras ou entidades privadas sem fins lucrativos cadastradas no Diretório de Instituições do CNPq",
+    "valor": "Valor global: R$ 50.000.000,00; Faixa A: até R$ 1.500.000,00 por projeto; Faixa B: até R$ 600.000,00 por projeto; Faixa C: até R$ 400.000,00 por projeto",
+    "prazo": null,
+    "desc": "Apoia projetos de pesquisa colaborativa em rede que fortaleçam a cooperação em ciência, tecnologia e inovação entre o Brasil e países da América Latina e Caribe, em áreas como ambiente e sustentabilidade, alimentação e agricultura, energia e mineração, saúde, tecnologia da informação e ciências humanas e sociais.",
     "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13365",
     "descobertoEm": "2026-06-22"
   },
@@ -1857,20 +1854,20 @@
   },
   {
     "id": "cnpq-15-2026-proafrica",
-    "titulo": "Chamada CNPq/MCTI Nº 15/2026 – Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia – PROÁFRICA",
+    "titulo": "Chamada CNPq/MCTI Nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia (PROÁFRICA)",
     "orgao": "CNPq",
-    "origem": "Internacional",
+    "origem": "Nacional",
     "areas": [
-      "Ciência e tecnologia",
-      "Desenvolvimento sustentável",
-      "Produção de alimentos",
-      "Agropecuária (quando temática se enquadrar)"
+      "Ciência e Tecnologia",
+      "Cooperação Internacional",
+      "Desenvolvimento Sustentável",
+      "Áreas estratégicas definidas no edital"
     ],
-    "publico": "Pesquisadores com vínculo institucional no Brasil em cooperação com instituições de países africanos, em temas elegíveis de CT&I",
-    "valor": "Valores máximos por projeto definidos por faixa de financiamento, conforme a chamada oficial PROÁFRICA",
+    "publico": "Grupos de pesquisa brasileiros em cooperação com parceiros africanos, vinculados a instituições científicas, tecnológicas e de inovação brasileiras",
+    "valor": "Valores máximos por projeto definidos por faixa de financiamento no edital, observando limitações por rubrica orçamentária",
     "prazo": "2026-08-31",
-    "desc": "Apoiar projetos de pesquisa colaborativa que contribuam para o fortalecimento da cooperação científica, tecnológica e de inovação entre o Brasil e países africanos, em áreas de CT&I com potencial de incluir temas de produção agrícola, segurança alimentar e desenvolvimento rural.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026",
+    "desc": "Seleciona projetos conjuntos de pesquisa que fortaleçam a cooperação científica e tecnológica entre o Brasil e países africanos, em áreas estratégicas de ciência, tecnologia e inovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -1893,17 +1890,18 @@
   },
   {
     "id": "capes-augm-2026",
-    "titulo": "Programa CAPES/AUGM - Edição 2026",
+    "titulo": "Programa CAPES/AUGM - Edital 2026 de Bolsas e Auxílios Internacionais",
     "orgao": "CAPES",
     "origem": "Internacional",
     "areas": [
-      "Todas as áreas de conhecimento contempladas pela AUGM",
-      "Ciências Agrárias"
+      "Todas as áreas do conhecimento",
+      "Integração acadêmica regional",
+      "Ciências Agrárias e Agropecuária"
     ],
-    "publico": "Docentes e discentes vinculados a universidades brasileiras participantes da Asociación de Universidades Grupo Montevideo (AUGM)",
-    "valor": "Auxílios e bolsas de mobilidade internacional conforme parâmetros do programa",
+    "publico": "Docentes e pesquisadores de instituições brasileiras participantes da Associação de Universidades Grupo Montevidéu (AUGM), incluindo áreas de agropecuária",
+    "valor": "Auxílios e bolsas de mobilidade internacional conforme modalidades descritas no edital do Programa CAPES/AUGM",
     "prazo": "2026-07-02",
-    "desc": "Programa de cooperação acadêmica internacional CAPES/AUGM que concede bolsas e auxílios para mobilidade de estudantes e professores entre universidades da rede AUGM, abrangendo áreas como ciências agrárias e agropecuária.",
+    "desc": "Oferece bolsas e auxílios para mobilidade e cooperação acadêmica internacional no âmbito da Associação de Universidades Grupo Montevidéu, abrangendo todas as áreas do conhecimento, inclusive ciências agrárias e agropecuária.",
     "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
     "descobertoEm": "2026-06-22"
   },
@@ -2037,21 +2035,21 @@
   },
   {
     "id": "embrapa-licenciamento-05-2026-brs-fs318",
-    "titulo": "Oferta Pública 05/2026 – Seleção de parceiro para desenvolvimento tecnológico e licenciamento da cultivar de feijão BRS FS318",
+    "titulo": "Edital de Seleção 05/2026 – Oferta Pública para Parceria Tecnológica e Licenciamento da cultivar de feijão comum BRS FS318",
     "orgao": "Embrapa Arroz e Feijão",
     "origem": "Interno",
     "areas": [
-      "PD&I em melhoramento de plantas",
-      "Produção de sementes",
-      "Feijão comum (Phaseolus vulgaris L.)",
+      "PD&I",
+      "Transferência de tecnologia",
       "Parcerias tecnológicas",
-      "Licenciamento de cultivares"
+      "Melhoramento de plantas",
+      "Feijão comum"
     ],
-    "publico": "Empresa produtora de sementes de feijão comum registrada no RENASEM, interessada em estabelecer parceria estratégica com a Embrapa para finalizar o desenvolvimento tecnológico e licenciar a cultivar BRS FS318",
+    "publico": "Produtor de sementes inscrito no RENASEM como produtor de sementes de feijão comum, interessado em estabelecer Acordo de Cooperação Técnica e Financeira com a Embrapa para finalização do desenvolvimento tecnológico e licenciamento da cultivar BRS FS318[3]",
     "valor": null,
     "prazo": "2026-03-09",
-    "desc": "Oferta pública da Embrapa para seleção de 1 produtor de sementes para firmar Acordo de Cooperação Técnica e Financeira (ACTF) com vistas à conclusão do desenvolvimento tecnológico, lançamento comercial e licenciamento para multiplicação de sementes básicas e subsequentes da cultivar de feijão comum tipo roxinho BRS FS318.",
-    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento/-/asset_publisher/bAm8YE8Ljj9I/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "desc": "Oferta Pública 05/2026 da Embrapa Arroz e Feijão para selecionar 1 produtor de sementes de feijão comum, visando estabelecer parceria estratégica por meio de Acordo de Cooperação Técnica e Financeira (ACTF) para finalizar o desenvolvimento tecnológico, promover o lançamento no mercado e licenciar a multiplicação de sementes da cultivar de feijão tipo roxinho BRS FS318, nas categorias básica e subsequentes[3].",
+    "url": "https://www.embrapa.br/en/editais-e-ofertas-publicas-para-licenciamento/-/asset_publisher/bAm8YE8Ljj9I/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
     "descobertoEm": "2026-06-25"
   },
   {
@@ -2663,5 +2661,83 @@
     "desc": "Edital que abre inscrições para seleção de startups e realização do Concurso AgroBrasília de Inovação no Campo (Inova AgroBrasília 2026), voltado a identificar e apoiar soluções inovadoras aplicáveis à produção agropecuária, com exposição em ambiente dedicado de inovação e tecnologia durante a feira.[5][8]",
     "url": "https://agrobrasilia.com.br/inova-agrobrasilia/",
     "descobertoEm": "2026-07-02"
+  },
+  {
+    "id": "cnpq-pq-dt-2026",
+    "titulo": "Chamada CNPq 2026 - Bolsas de Produtividade em Pesquisa (PQ, PQSr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Engenharias",
+      "Ciências Biológicas",
+      "Ciências Exatas e da Terra",
+      "Ciências Humanas",
+      "Demais áreas do conhecimento"
+    ],
+    "publico": "Pesquisadores doutores com produção científica, tecnológica ou de extensão inovadora consolidada, atuando em instituições de pesquisa e ensino brasileiras",
+    "valor": "Bolsas de produtividade nas modalidades PQ, PQSr e DT, com valores conforme tabela de bolsas CNPq vigente",
+    "prazo": null,
+    "desc": "Concede bolsas de produtividade em pesquisa, produtividade em pesquisa sênior e produtividade em desenvolvimento tecnológico e extensão inovadora a pesquisadores com destacada produção científica e tecnológica, em todas as áreas do conhecimento, incluindo ciências agrárias e agropecuária.",
+    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas",
+    "descobertoEm": "2026-07-03"
+  },
+  {
+    "id": "cnpq-17-2026-economia-criativa",
+    "titulo": "Chamada CNPq/MinC Nº 17/2026 - Apoio ao Funcionamento de Incubadoras voltadas à Economia Criativa",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Economia Criativa",
+      "Inovação",
+      "Gestão de empreendimentos culturais e criativos"
+    ],
+    "publico": "Instituições científicas e tecnológicas e instituições de ensino superior interessadas em apoiar e operar incubadoras voltadas à economia criativa",
+    "valor": "Sem limite de valor por projeto, observada a dotação orçamentária e a distribuição por rubrica definida no edital",
+    "prazo": "2026-08-10",
+    "desc": "Apoia projetos de pesquisa e iniciativas de incubação que contribuam para o desenvolvimento científico, tecnológico e para a inovação nas áreas da economia criativa, fortalecendo empreendimentos culturais e criativos por meio de incubadoras.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-07-03"
+  },
+  {
+    "id": "capes-amazonia-legal-2026",
+    "titulo": "Programa CAPES Rede de Pesquisa e Desenvolvimento da Amazônia Legal - Edital 2026",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia Legal",
+      "Desenvolvimento Sustentável",
+      "Ciências Agrárias",
+      "Meio Ambiente",
+      "Tecnologia e Inovação"
+    ],
+    "publico": "Programas de pós-graduação e grupos de pesquisa de instituições brasileiras atuando na Amazônia Legal ou com projetos focados na região",
+    "valor": "Auxílios à pesquisa e bolsas conforme quotas e modalidades definidas no edital do Programa CAPES Rede de Pesquisa e Desenvolvimento da Amazônia Legal",
+    "prazo": "2026-10-02",
+    "desc": "Financia redes de pesquisa e desenvolvimento voltadas à Amazônia Legal, incluindo projetos em ciências agrárias, meio ambiente, tecnologia e inovação, com foco em formação de recursos humanos e infraestrutura de pesquisa.",
+    "url": "https://www.gov.br/capes/pt-br",
+    "descobertoEm": "2026-07-03"
+  },
+  {
+    "id": "capes-006-2026-redes-estrategicas-amazonas",
+    "titulo": "Edital CAPES nº 6/2026 – Fortalecimento de Redes Estratégicas de Pesquisa e Pós-Graduação no Amazonas",
+    "orgao": "CAPES · FAPEAM",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "Pós-graduação",
+      "Ciências Agrárias",
+      "Meio Ambiente",
+      "Bioeconomia",
+      "Ciências Biológicas",
+      "Engenharias",
+      "Interdisciplinar"
+    ],
+    "publico": "Programas de pós-graduação e grupos de pesquisa que atuam em redes estratégicas de pesquisa no Amazonas",
+    "valor": "Valor não detalhado na notícia; trata-se de edital nacional da CAPES em parceria com a FAPEAM para apoio a redes de pesquisa e pós-graduação",
+    "prazo": null,
+    "desc": "Edital voltado ao fortalecimento de redes estratégicas de pesquisa e pós-graduação no Amazonas, por meio do apoio a projetos colaborativos em temas prioritários de ciência, tecnologia e inovação, incluindo desenvolvimento sustentável, bioeconomia e formação de recursos humanos qualificados na região.[4]",
+    "url": "https://www.gov.br/capes",
+    "descobertoEm": "2026-07-03"
   }
 ]
