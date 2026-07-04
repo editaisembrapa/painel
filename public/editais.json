@@ -718,21 +718,21 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "BNDES Bioinsumos – Fundo Socioambiental",
+    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
     "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
     "origem": "Nacional",
     "areas": [
       "Bioinsumos",
       "Agroecossistemas",
+      "Agricultura familiar",
       "Produção de alimentos saudáveis",
-      "Indústria de bioprodutos",
-      "Agricultura familiar"
+      "Transição tecnológica no agro"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares interessadas em estruturar produção de bioinsumos em plantas industriais ou semi-industriais[4]",
-    "valor": "R$ 5.000.000,00 (recursos do BNDES Fundo Socioambiental)[4]",
+    "publico": "Cooperativas e associações de agricultores familiares com projetos de produção de bioinsumos em estruturas industriais ou semi-industriais",
+    "valor": "Até R$ 5.000.000,00 por projeto (recursos do BNDES Fundo Socioambiental)",
     "prazo": "2026-08-31",
-    "desc": "Chamada que fomenta a produção de bioinsumos por cooperativas e associações de agricultores familiares, apoiando estruturas industriais ou semi-industriais que possibilitem a transição tecnológica para o uso integrado de bioprodutos em agroecossistemas voltados à produção de alimentos saudáveis.[4]",
-    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "desc": "Chamada de projetos do 2º ciclo da iniciativa BNDES Bioinsumos, voltada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, em estruturas industriais ou semi-industriais, visando a transição tecnológica para utilização integrada de bioprodutos em agroecossistemas na produção de alimentos saudáveis.",
+    "url": "https://www.embrapa.br/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -2384,22 +2384,23 @@
   {
     "id": "cnpq-capes-fapitec-se-07-2026-profix",
     "titulo": "EDITAL CNPq/CAPES/FAPITEC/SE Nº 07/2026 – Programa de Apoio à Fixação de Doutores no Brasil (PROFIX Conhecimento Brasil)",
-    "orgao": "CNPq/CAPES/FAPITEC-SE",
-    "origem": "Estadual · SE",
+    "orgao": "CNPq/CAPES",
+    "origem": "Estadual · AM",
     "areas": [
-      "Meio Ambiente",
-      "Recursos Hídricos",
-      "Energias Renováveis",
-      "Saúde",
+      "Pesquisa",
+      "PD&I",
       "Educação",
-      "Pesca e Aquicultura",
+      "Saúde",
+      "Energias renováveis",
+      "Meio ambiente",
+      "Recursos hídricos",
       "Cadeias produtivas sergipanas",
-      "Turismo"
+      "Agropecuária"
     ],
-    "publico": "Doutores para execução de projetos de pesquisa, desenvolvimento científico e inovação em ICTs, universidades e instituições sem fins lucrativos situadas em Sergipe",
-    "valor": "Valor global de R$ 20.563.200,00 para bolsas e apoio a projetos, com R$ 14.976.000,00 destinados a bolsas",
-    "prazo": "2026-07-10",
-    "desc": "Edital voltado à atração e fixação de pesquisadores doutores para desenvolver projetos de pesquisa, desenvolvimento científico e inovação em instituições sergipanas, com áreas estratégicas que incluem meio ambiente, recursos hídricos, pesca, aquicultura e cadeias produtivas, relevantes para agropecuária e sistemas produtivos locais.",
+    "publico": "Doutores para execução de projetos de pesquisa, desenvolvimento científico e inovação em ICTs, universidades públicas e privadas sem fins lucrativos e empresas públicas ou privadas sem fins lucrativos situadas no estado de Sergipe, atuando em áreas estratégicas como cadeias produtivas sergipanas e meio ambiente[2]",
+    "valor": "Valor global de R$ 20.563.200,00, sendo R$ 14.976.000,00 para bolsas e demais recursos conforme Resolução CONSAD/FAPITEC/SE nº 58/2024, com mensalidades de bolsas definidas pela FAPITEC/SE[2]",
+    "prazo": "2026-07-28",
+    "desc": "Edital conjunto CNPq/CAPES/FAPITEC/SE do Programa de Apoio à Fixação de Doutores no Brasil – PROFIX Conhecimento Brasil, voltado à atração e fixação de pesquisadores doutores para executar projetos de pesquisa, desenvolvimento científico e inovação em ICTs e instituições de ciência e tecnologia no estado de Sergipe. Elege propostas em áreas estratégicas como educação, saúde, energias renováveis, meio ambiente, recursos hídricos e cadeias produtivas sergipanas, incorporando temas de agropecuária e agronegócio relevantes regionalmente. O período de submissão de propostas vai de 15/05/2026 a 28/07/2026, com valor global superior a R$ 20 milhões para bolsas e fomento, sendo uma oportunidade para doutores atuarem em PD&I com potencial interface com agropecuária[2].",
     "url": "https://fapitec.se.gov.br/editais-abertos/edital-cnpq-capes-fapitec-se-n-07-2026-programa-de-apoio-a-fixacao-dedoutores-no-brasil-profix-conhecimento-brasil/",
     "descobertoEm": "2026-06-28"
   },
@@ -2739,5 +2740,67 @@
     "desc": "Edital voltado ao fortalecimento de redes estratégicas de pesquisa e pós-graduação no Amazonas, por meio do apoio a projetos colaborativos em temas prioritários de ciência, tecnologia e inovação, incluindo desenvolvimento sustentável, bioeconomia e formação de recursos humanos qualificados na região.[4]",
     "url": "https://www.gov.br/capes",
     "descobertoEm": "2026-07-03"
+  },
+  {
+    "id": "cnpq-pci-2026",
+    "titulo": "Programa de Capacitação Institucional (PCI) – Edital 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "PD&I",
+      "Ciência e Tecnologia",
+      "Inovação",
+      "Agropecuária",
+      "Bioeconomia",
+      "Tecnologias habilitadoras"
+    ],
+    "publico": "Pesquisadores vinculados a unidades de pesquisa, organizações sociais ou empresas públicas dependentes do Tesouro Nacional, desde que ligadas a ICTs vinculadas ao MCTI, incluindo centros de pesquisa agropecuária como a Embrapa[3]",
+    "valor": "Até R$ 1.500.000,00 por projeto; montante global de R$ 120.000.000,00 (R$ 30.000.000,00/ano por 4 anos), com bolsas PCI (piso cerca de R$ 4.000,00 após reajuste médio de 30%)[3]",
+    "prazo": "2026-05-27",
+    "desc": "Chamada nacional do Programa de Capacitação Institucional destinada a apoiar projetos de pesquisa, desenvolvimento e inovação nas unidades vinculadas ao MCTI, com foco em ampliação de bolsas, fortalecimento de infraestrutura de pesquisa e participação de bolsistas em empresas de base tecnológica. Projetos podem contemplar temas de agropecuária, bioeconomia, sustentabilidade e outros campos estratégicos, sendo elegíveis ICTs federais como a Embrapa. Prevê vigência de quatro anos, teto de até R$ 1,5 milhão por projeto e destinação mínima de 30% dos recursos para instituições das regiões Norte, Nordeste e Centro-Oeste[3].",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/cnpq-lanca-edital-de-bolsas-com-r-120-milhoes-e-foco-em-projetos-de-pesquisa",
+    "descobertoEm": "2026-07-04"
+  },
+  {
+    "id": "fapeam-fapesp-bioeconomia-2026",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Cooperação científica em bioeconomia amazônica",
+    "orgao": "FAPEAM · FAPESP",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Biodiversidade",
+      "Biofármacos",
+      "Biocosméticos",
+      "Bioinsumos",
+      "Alimentos funcionais",
+      "Materiais de base biológica",
+      "Inovação tecnológica"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo",
+    "valor": "FAPEAM: R$ 2.000.000,00 (global). FAPESP: R$ 6.000.000,00 (global), até R$ 600.000,00 por projeto.",
+    "prazo": "2026-03-23",
+    "desc": "Chamada de cooperação FAPEAM/FAPESP para projetos colaborativos entre grupos de pesquisa do Amazonas e de São Paulo, voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras em bioeconomia amazônica, incluindo bioprodutos e aplicações baseadas na biodiversidade da Amazônia.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-07-04"
+  },
+  {
+    "id": "confap-nexbio-amazonia-2026",
+    "titulo": "Programa Suíço-Brasileiro de Inovação Sustentável para a Bioeconomia – nexBio Amazônia 2026",
+    "orgao": "CONFAP · Swissnex · Leading House LATAM (Universidade de St. Gallen)",
+    "origem": "Internacional",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Inovação sustentável",
+      "Startups de base tecnológica",
+      "Ciência e tecnologia para a Amazônia",
+      "Soluções sustentáveis para cadeias produtivas (incluindo agropecuária)"
+    ],
+    "publico": "Pesquisadores e representantes de startups dos estados com FAPs participantes (incluindo FAPEAM/AM, FAPEAP/AP, FAPESP/SP e Fundação Araucária/PR)",
+    "valor": "Não explicitado em valor financeiro no edital geral; apoio inclui experiência imersiva de duas semanas em Manaus e Macapá e suporte à colaboração internacional em projetos de inovação sustentável em bioeconomia.",
+    "prazo": "2026-05-18",
+    "desc": "Terceira edição do nexBio Amazônia, voltada a pesquisadores e startups dos estados participantes para desenvolver projetos de inovação sustentável em bioeconomia amazônica, com foco em soluções tecnológicas aplicadas à região e imersão em ecossistemas de Manaus e Macapá.",
+    "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
+    "descobertoEm": "2026-07-04"
   }
 ]
