@@ -385,19 +385,20 @@
   },
   {
     "id": "cnpq-bolsas-produtividade-2026",
-    "titulo": "Chamada CNPq – Bolsas de Produtividade em Pesquisa (PQ, PQ-Sr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT) – Vigência a partir de 2026",
+    "titulo": "Chamada CNPq – Bolsas de Produtividade em Pesquisa (PQ, PQSr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT) – início 2026",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Agropecuária",
-      "Ciências Agrárias"
+      "Produtividade em Pesquisa",
+      "Desenvolvimento Tecnológico",
+      "Extensão Inovadora",
+      "Todas as áreas, incluindo Ciências Agrárias e Agropecuária"
     ],
-    "publico": "Pesquisadores doutores com destacada produção científica, tecnológica ou de inovação, com vínculo em ICTs brasileiras, interessados em bolsas de produtividade (PQ, PQ-Sr, DT)",
-    "valor": "Investimento global previsto de aproximadamente R$ 587,4 milhões para cerca de 5.762 bolsas (5.499 bolsas PQ/PQ-Sr e 263 bolsas DT); valores mensais de referência: PQ-Sr ~R$1.500 (5 anos); PQ/DT Nível A ~R$1.500 + R$1.560 (5 anos); PQ/DT Nível B ~R$1.320 + R$1.320 (4 anos); PQ/DT Nível C ~R$1.100 + R$1.000 (3 anos)",
+    "publico": "Pesquisadores doutores com produção científica e tecnológica relevante, para concessão de bolsas de produtividade PQ, PQSr e DT",
+    "valor": "Bolsas individuais nas modalidades PQ, PQSr e DT, com valores conforme tabela de bolsas do CNPq",
     "prazo": "2026-01-20",
-    "desc": "Chamada nacional do CNPq para concessão de bolsas de Produtividade em Pesquisa (PQ), Produtividade em Pesquisa Sênior (PQ-Sr) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), com início das bolsas em 2026, voltada a pesquisadores com produção de destaque em todas as áreas, incluindo ciências agrárias e agropecuária. Visa valorizar a produção de excelência, fomentar pesquisas com rigor científico e impacto em CT&I, e apoiar projetos individuais vinculados ao plano de trabalho do bolsista.",
-    "url": "https://www.gov.br/cnpq/pt-br",
+    "desc": "Chamada nacional do CNPq para seleção de bolsistas de Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), Produtividade em Pesquisa (PQ) e Produtividade em Pesquisa Sênior (PQSr), com início das atividades em 2026. Abrange todas as áreas do conhecimento, incluindo Ciências Agrárias e agropecuária, sendo estratégica para pesquisadores da Embrapa e instituições correlatas.",
+    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13265",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -1056,16 +1057,17 @@
     "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
     "origem": "Estadual · AM",
     "areas": [
-      "Inovação agro",
+      "Inovação agropecuária",
       "Agritechs",
       "Foodtechs",
-      "Tecnologia agroalimentar",
-      "PD&I em agronegócio"
+      "Tecnologias digitais para o agro",
+      "Sustentabilidade ambiental",
+      "Cadeias agroindustriais inteligentes"
     ],
-    "publico": "Empresas de base tecnológica, startups (agritechs e foodtechs) e grupos de pesquisa sediados no Estado do Rio de Janeiro com projetos aplicáveis ao agro fluminense",
-    "valor": "R$ 25.000.000,00 (montante global do programa, com três faixas de apoio da prova de conceito ao escalonamento comercial)",
+    "publico": "Empresas de base tecnológica, startups de agritech e foodtech e grupos de pesquisa sediados no Estado do Rio de Janeiro",
+    "valor": "R$ 25.000.000,00 (montante global do programa, distribuído em faixas desde prova de conceito até escalonamento comercial)",
     "prazo": null,
-    "desc": "Programa estratégico voltado à transformação produtiva do agro fluminense por meio de ciência, tecnologia e inovação, apoiando projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs, estimulem a criação de novas empresas de base tecnológica, ampliem mercados e consolidem cadeias agroindustriais inteligentes.[1]",
+    "desc": "Programa de fomento que apoia projetos de pesquisa, desenvolvimento e inovação para fortalecer o ecossistema de agritechs e foodtechs no Estado do Rio de Janeiro, estimulando a criação de novas empresas de base tecnológica, ampliando mercados e consolidando cadeias agroindustriais inteligentes com foco em produtividade, sustentabilidade ambiental, eficiência logística e aumento de valor agregado na cadeia agroalimentar.[1]",
     "url": "https://www.faperj.br/?id=978.7.4",
     "descobertoEm": "2026-06-18"
   },
@@ -2802,5 +2804,61 @@
     "desc": "Terceira edição do nexBio Amazônia, voltada a pesquisadores e startups dos estados participantes para desenvolver projetos de inovação sustentável em bioeconomia amazônica, com foco em soluções tecnológicas aplicadas à região e imersão em ecossistemas de Manaus e Macapá.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-07-04"
+  },
+  {
+    "id": "mcti-cnpq-02-2026-prosul",
+    "titulo": "Chamada Pública MCTI/CNPq nº 02/2026 – Programa de Cooperação Latino-Americana e Caribenha em Ciência, Tecnologia e Inovação – PROSUL Pepe Mujica",
+    "orgao": "CNPq · FNDCT",
+    "origem": "Internacional",
+    "areas": [
+      "Ambiente",
+      "Sustentabilidade",
+      "Ciência, Tecnologia e Inovação",
+      "Agropecuária (temas ambientais e produtivos relacionados)",
+      "PD&I"
+    ],
+    "publico": "Pesquisadores doutores com currículo Lattes atualizado e vínculo institucional em ICTs brasileiras ou entidades privadas sem fins lucrativos cadastradas no Diretório de Instituições do CNPq, em cooperação com instituições de pelo menos dois países da América Latina ou do Caribe",
+    "valor": "Investimento global previsto de R$ 50.000.000,00, sendo R$ 25.000.000,00 para bolsas e R$ 25.000.000,00 para custeio de projetos, com três modalidades de financiamento",
+    "prazo": "2026-04-30",
+    "desc": "Chamada para apoio a projetos de pesquisa colaborativa em seis eixos temáticos estratégicos para a região, envolvendo instituições do Brasil e de pelo menos dois países da América Latina ou do Caribe. Os recursos, provenientes do FNDCT, destinam-se a bolsas e custeio de projetos de ciência, tecnologia e inovação, incluindo temas de ambiente e desenvolvimento que podem abranger agropecuária e sustentabilidade de sistemas produtivos.",
+    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13365",
+    "descobertoEm": "2026-07-05"
+  },
+  {
+    "id": "SEG-2026-02",
+    "titulo": "Edital Embrapa Maranhão nº 01/2026",
+    "orgao": "Embrapa Maranhão",
+    "origem": "Interno",
+    "areas": [
+      "pesquisa",
+      "desenvolvimento",
+      "inovação",
+      "parcerias",
+      "cooperação"
+    ],
+    "publico": "bolsistas de mestrado para atuação em projetos da Embrapa",
+    "valor": "R$ 5.625,00/mês",
+    "prazo": "2026-03-27",
+    "desc": "Processo seletivo para bolsas vinculadas a acordo de cooperação e convênio, com atuação em atividades ligadas a projetos de PD&I da Embrapa e implementação pela FAPEMA.",
+    "url": "https://www.embrapa.br/documents/1354356/0/Edital+Embrapa+Maranh%C3%A3o+n%C2%BA+01-2026/e955a8c3-57ab-f81b-6b6e-c918cb9e44f7?version=1.0&download=true",
+    "descobertoEm": "2026-07-05"
+  },
+  {
+    "id": "SEG-2026-03",
+    "titulo": "Edital de Seleção nº 1/2026 - PAIC-FAPEAM 2026-2027",
+    "orgao": "Embrapa Amazônia Ocidental",
+    "origem": "Interno",
+    "areas": [
+      "iniciação científica",
+      "pesquisa",
+      "desenvolvimento",
+      "inovação"
+    ],
+    "publico": "cadastro de reserva para bolsistas de iniciação científica",
+    "valor": "não informado",
+    "prazo": "2026-03-11",
+    "desc": "Seleção de bolsistas para cadastro de reserva e futura concessão de bolsa de iniciação científica no âmbito de projeto da Embrapa Amazônia Ocidental.",
+    "url": "https://www.embrapa.br/documents/1354286/112750754/EDITAL_SELECAO+PAIC-FAPEAM_2026-2027.pdf/2f883f76-6ad3-bacb-e256-1ab601eb74e8?download=true",
+    "descobertoEm": "2026-07-05"
   }
 ]
