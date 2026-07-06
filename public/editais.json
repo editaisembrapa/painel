@@ -2538,19 +2538,20 @@
   },
   {
     "id": "cnpq-minc-17-2026-economia-criativa",
-    "titulo": "Chamada CNPq/MinC nº 17/2026 - Apoio ao funcionamento de incubadoras voltadas à Economia Criativa",
+    "titulo": "Chamada CNPq/MinC nº 17/2026 - Apoio ao Funcionamento de Incubadoras Voltadas à Economia Criativa",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Economia Criativa",
+      "Economia criativa",
       "Inovação",
-      "Empreendedorismo"
+      "Empreendimentos culturais e criativos",
+      "PD&I em serviços e produtos criativos"
     ],
-    "publico": "Instituições responsáveis por incubadoras voltadas à economia criativa, em parceria com a Escola de Formação Solano Trindade e PRONINC",
-    "valor": "Valor global definido na chamada para projetos de incubadoras e apoio a empreendimentos culturais e criativos",
+    "publico": "Instituições e entidades responsáveis por incubadoras vinculadas à Escola de Formação Solano Trindade - EscultAqui e ao Programa Nacional de Incubadoras Populares - PRONINC",
+    "valor": "Apoio financeiro a projetos de pesquisa e operação de incubadoras; valores definidos por faixa orçamentária no edital",
     "prazo": "2026-08-10",
-    "desc": "Seleciona projetos para apoiar o funcionamento de incubadoras voltadas à economia criativa, fortalecendo empreendimentos culturais e criativos por meio de formação, orientação técnica, apoio à formalização e sustentabilidade das iniciativas.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-minc-no-17-2026-incubadoras-economia-criativa",
+    "desc": "Chamada que apoia projetos de pesquisa, desenvolvimento e inovação associados ao funcionamento de incubadoras voltadas à Economia Criativa, por meio da implantação e acompanhamento de incubadoras realizadas nas ações da Escola de Formação Solano Trindade (EscultAqui) e do PRONINC. Visa fortalecer empreendimentos culturais e criativos, garantindo formação, orientação técnica e apoio à formalização e sustentabilidade de iniciativas culturais. Embora com foco setorial em economia criativa, pode envolver PD&I e gestão de negócios com aplicação transversal, inclusive em cadeias relacionadas ao agronegócio e alimentos.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas-publicas/chamada-cnpq-minc-no-17-2026-apoio-ao-funcionamento-de-incubadoras-voltadas-a-economia-criativa",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -2667,22 +2668,20 @@
   },
   {
     "id": "cnpq-pq-dt-2026",
-    "titulo": "Chamada CNPq 2026 - Bolsas de Produtividade em Pesquisa (PQ, PQSr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT)",
+    "titulo": "Chamada CNPq Bolsas de Produtividade em Pesquisa (PQ, PQSr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT) - Início 2026",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
+      "Todas as áreas do conhecimento",
       "Ciências Agrárias",
-      "Engenharias",
-      "Ciências Biológicas",
-      "Ciências Exatas e da Terra",
-      "Ciências Humanas",
-      "Demais áreas do conhecimento"
+      "Agropecuária",
+      "Desenvolvimento tecnológico e inovação"
     ],
-    "publico": "Pesquisadores doutores com produção científica, tecnológica ou de extensão inovadora consolidada, atuando em instituições de pesquisa e ensino brasileiras",
-    "valor": "Bolsas de produtividade nas modalidades PQ, PQSr e DT, com valores conforme tabela de bolsas CNPq vigente",
-    "prazo": null,
-    "desc": "Concede bolsas de produtividade em pesquisa, produtividade em pesquisa sênior e produtividade em desenvolvimento tecnológico e extensão inovadora a pesquisadores com destacada produção científica e tecnológica, em todas as áreas do conhecimento, incluindo ciências agrárias e agropecuária.",
-    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas",
+    "publico": "Pesquisadores doutores com produção científica ou tecnológica destacada, atuando em instituições de pesquisa e ensino no Brasil, incluindo Embrapa",
+    "valor": "Concessão de bolsas de produtividade PQ, PQSr e DT com valores conforme nível e modalidade; sem auxílio financeiro adicional para projeto",
+    "prazo": "2026-01-20",
+    "desc": "Chamada nacional para concessão de bolsas de Produtividade em Pesquisa (PQ, PQ Sênior) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), com início das bolsas em 2026. Abrange todas as áreas do conhecimento, incluindo ciências agrárias e agropecuária, voltada a pesquisadores com liderança em pesquisa e PD&I. O resultado final está previsto para 30 de julho de 2026.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas-publicas/chamada-cnpq-bolsas-de-produtividade-em-pesquisa-e-desenvolvimento-tecnologico-2026",
     "descobertoEm": "2026-07-03"
   },
   {
@@ -2749,19 +2748,16 @@
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa",
-      "PD&I",
-      "Ciência e Tecnologia",
-      "Inovação",
+      "Todas as áreas atendidas por ICTs vinculadas ao MCTI",
+      "Ciências Agrárias",
       "Agropecuária",
-      "Bioeconomia",
-      "Tecnologias habilitadoras"
+      "PD&I"
     ],
-    "publico": "Pesquisadores vinculados a unidades de pesquisa, organizações sociais ou empresas públicas dependentes do Tesouro Nacional, desde que ligadas a ICTs vinculadas ao MCTI, incluindo centros de pesquisa agropecuária como a Embrapa[3]",
-    "valor": "Até R$ 1.500.000,00 por projeto; montante global de R$ 120.000.000,00 (R$ 30.000.000,00/ano por 4 anos), com bolsas PCI (piso cerca de R$ 4.000,00 após reajuste médio de 30%)[3]",
+    "publico": "Pesquisadores vinculados a unidades de pesquisa, organizações sociais ou empresas públicas dependentes do Tesouro Nacional ligadas a ICTs vinculadas ao MCTI, incluindo centros de pesquisa agropecuária",
+    "valor": "Até R$ 1.500.000,00 por projeto, totalizando R$ 120 milhões (R$ 30 milhões/ano) em bolsas e custeio",
     "prazo": "2026-05-27",
-    "desc": "Chamada nacional do Programa de Capacitação Institucional destinada a apoiar projetos de pesquisa, desenvolvimento e inovação nas unidades vinculadas ao MCTI, com foco em ampliação de bolsas, fortalecimento de infraestrutura de pesquisa e participação de bolsistas em empresas de base tecnológica. Projetos podem contemplar temas de agropecuária, bioeconomia, sustentabilidade e outros campos estratégicos, sendo elegíveis ICTs federais como a Embrapa. Prevê vigência de quatro anos, teto de até R$ 1,5 milhão por projeto e destinação mínima de 30% dos recursos para instituições das regiões Norte, Nordeste e Centro-Oeste[3].",
-    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/cnpq-lanca-edital-de-bolsas-com-r-120-milhoes-e-foco-em-projetos-de-pesquisa",
+    "desc": "Edital da edição 2026 do Programa de Capacitação Institucional (PCI), com vigência de quatro anos e recursos do FNDCT, voltado a projetos de pesquisa para fortalecimento da base científica e tecnológica das instituições de pesquisa federais. Concede bolsas e recursos de custeio, com reajuste médio de 30% nos valores das bolsas, piso em torno de R$ 4 mil, e recorte regional que destina ao menos 30% dos recursos a instituições do Norte, Nordeste e Centro-Oeste. Inclui projetos em áreas de agropecuária e PD&I desenvolvidos por ICTs vinculadas ao MCTI.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas-publicas/programa-de-capacitacao-institucional-pci-edicao-2026",
     "descobertoEm": "2026-07-04"
   },
   {
@@ -2860,5 +2856,98 @@
     "desc": "Seleção de bolsistas para cadastro de reserva e futura concessão de bolsa de iniciação científica no âmbito de projeto da Embrapa Amazônia Ocidental.",
     "url": "https://www.embrapa.br/documents/1354286/112750754/EDITAL_SELECAO+PAIC-FAPEAM_2026-2027.pdf/2f883f76-6ad3-bacb-e256-1ab601eb74e8?download=true",
     "descobertoEm": "2026-07-05"
+  },
+  {
+    "id": "cnpq-16-2026-arc-eventos",
+    "titulo": "Chamada CNPq nº 16/2026 - Auxílio à Promoção de Eventos Científicos, Tecnológicos e/ou de Inovação (ARC)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas de ciência, tecnologia e inovação",
+      "Multidisciplinar"
+    ],
+    "publico": "Pesquisadores e instituições científicas brasileiras responsáveis pela organização de eventos de grande porte em CT&I",
+    "valor": "Auxílios para organização de eventos de grande porte; valores variam conforme porte e orçamento do evento",
+    "prazo": "2026-01-20",
+    "desc": "Chamada destinada ao apoio financeiro à realização, no Brasil, de congressos, encontros, conferências e outros eventos de grande porte de relevância nacional, internacional ou mundial nas áreas de ciência, tecnologia e inovação, incluindo temas de agropecuária e PD&I. As propostas selecionadas deverão ser executadas entre maio de 2025 e junho de 2027 (eventos nacionais) ou até junho de 2028 (eventos mundiais), contemplando apoio à infraestrutura de realização de eventos científicos.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas-publicas/chamada-cnpq-no-16-2026-auxilio-a-promocao-de-eventos-cientificos-tecnologicos-e-ou-de-inovacao-arc",
+    "descobertoEm": "2026-07-06"
+  },
+  {
+    "id": "cnpq-mcti-brics-sti-2026",
+    "titulo": "Chamada CNPq/MCTI nº 18/2026 - Cooperação Multilateral BRICS STI Framework Programme",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa, desenvolvimento e inovação",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Sustentabilidade",
+      "Tecnologias emergentes"
+    ],
+    "publico": "Grupos de pesquisa brasileiros em cooperação com equipes de países BRICS, vinculados a ICTs e universidades nacionais",
+    "valor": "Apoio a projetos de PD&I com recursos para bolsas e custeio; faixas definidas por tipo de projeto no edital",
+    "prazo": "2026-08-13",
+    "desc": "Chamada para apoio a projetos de pesquisa, desenvolvimento e inovação no âmbito da cooperação multilateral BRICS STI Framework Programme, visando o desenvolvimento científico, tecnológico e a inovação do País em temas prioritários definidos pelo programa. Inclui áreas potencialmente relacionadas à agropecuária, segurança alimentar, tecnologias digitais aplicadas ao setor, sustentabilidade ambiental e bioeconomia, por meio de projetos colaborativos entre grupos de pesquisa brasileiros e parceiros nos demais países BRICS.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas-publicas/chamada-cnpq-mcti-no-18-2026-cooperacao-multilateral-brics-sti-framework-programme",
+    "descobertoEm": "2026-07-06"
+  },
+  {
+    "id": "cnpq-mcti-proafrica-2026",
+    "titulo": "Chamada CNPq/MCTI nº 19/2026 - Programa de Cooperação em Ciência, Tecnologia e Inovação com Países Africanos (ProÁfrica)",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciência, tecnologia e inovação",
+      "Desenvolvimento sustentável",
+      "Agropecuária",
+      "Segurança alimentar",
+      "Mudanças climáticas"
+    ],
+    "publico": "Grupos de pesquisa brasileiros em parceria com instituições de países africanos, vinculados a ICTs e universidades",
+    "valor": "Apoio financeiro a projetos cooperativos com recursos para bolsas, missões de pesquisa e custeio; valores por projeto definidos no edital",
+    "prazo": "2026-08-31",
+    "desc": "Chamada destinada a apoiar projetos de pesquisa colaborativa para fortalecimento da cooperação científica, tecnológica e de inovação entre o Brasil e países africanos. Abrange eixos temáticos alinhados a desenvolvimento sustentável, segurança alimentar, recursos naturais e tecnologias inovadoras, oferecendo oportunidade relevante para pesquisadores de agropecuária em temas como sistemas produtivos resilientes, manejo sustentável e bioeconomia em contextos tropicais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas-publicas/chamada-cnpq-mcti-no-19-2026-programa-de-cooperacao-em-cti-com-paises-africanos-proafrica",
+    "descobertoEm": "2026-07-06"
+  },
+  {
+    "id": "cnpq-mcti-faps-popularizacao-2026",
+    "titulo": "Chamada CNPq/MCTI/FAPs nº 20/2026 - Popularização da Ciência",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Popularização da ciência",
+      "Educação científica",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Extensão tecnológica"
+    ],
+    "publico": "Fundações estaduais de amparo à pesquisa (FAPs) apresentando propostas estaduais para projetos de popularização da ciência, em parceria com instituições de pesquisa",
+    "valor": "Apoio a projetos de popularização da ciência, com recursos compartilhados CNPq–FAPs; valores por proposta definidos no edital",
+    "prazo": "2026-08-17",
+    "desc": "Chamada que convida Fundações Estaduais de Amparo à Pesquisa a apresentarem propostas estaduais para apoio a projetos de popularização da ciência, visando o desenvolvimento científico, tecnológico e a inovação no País por meio de ações de divulgação e educação científica. Permite projetos voltados à comunicação e extensão em agropecuária, sistemas produtivos sustentáveis, inovação tecnológica no campo e temas correlatos, articulando universidades, Embrapa e demais ICTs.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas-publicas/chamada-cnpq-mcti-faps-no-20-2026-popularizacao-da-ciencia",
+    "descobertoEm": "2026-07-06"
+  },
+  {
+    "id": "1",
+    "titulo": "Edital ABDI Agro 4.0 - AgroBrasília 2026",
+    "orgao": "Agência Brasileira de Desenvolvimento Industrial (ABDI) / AgroBrasília",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agro",
+      "Agricultura 4.0",
+      "Tecnologias digitais",
+      "Automação",
+      "Internet das Coisas (IoT)",
+      "Gestão da produção agropecuária"
+    ],
+    "publico": "Empresas, startups e instituições que apresentem projetos-pilotos de implantação, adoção e difusão de tecnologias 4.0 aplicadas ao agronegócio brasileiro",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital de fomento à inovação no agronegócio que seleciona projetos-pilotos voltados à implantação, adoção e difusão de tecnologias 4.0 em cadeias produtivas agrícolas, com foco em soluções digitais e automação para aumentar a eficiência e competitividade da agropecuária.",
+    "url": "https://agrobrasilia.com.br/inovacao/",
+    "descobertoEm": "2026-07-06"
   }
 ]
