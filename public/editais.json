@@ -3023,5 +3023,393 @@
     "desc": "Nas buscas em bases e páginas oficiais da Embrapa em 2026, não aparecem editais ou chamadas explicitamente identificadas como \"chamadas internas de PD&I, transferência de tecnologia e parcerias\" do Sistema Embrapa de Gestão (SEG) com acesso público; o que se encontra são chamadas para bolsas de estímulo à inovação e estágios/bolsas, associadas a projetos de PD&I, mas não rotuladas como chamadas internas SEG.",
     "url": "https://www.embrapa.br",
     "descobertoEm": "2026-07-07"
+  },
+  {
+    "id": "CNPq-06-2026-Universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 - Universal",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas do conhecimento",
+      "Agropecuária",
+      "Ciências Agrárias",
+      "Engenharias",
+      "Ciências Biológicas"
+    ],
+    "publico": "Pesquisadores doutores vinculados a ICTs e instituições de pesquisa brasileiras, inclusive unidades da Embrapa",
+    "valor": "Valor global com recursos do FNDCT; financiamento a projetos de pesquisa em qualquer área do conhecimento",
+    "prazo": null,
+    "desc": "Chamada universal para apoio a projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação do País, em qualquer área do conhecimento, com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT). Adequada para grupos de pesquisa em agropecuária e PD&I ligados à Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-fndct-no-06-2026-universal",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "CNPq-PCI-2026",
+    "titulo": "Programa de Capacitação Institucional (PCI) – Edição 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas atendidas por unidades de pesquisa do MCTI",
+      "Agropecuária",
+      "Ciência e Tecnologia",
+      "Inovação"
+    ],
+    "publico": "Pesquisadores vinculados a unidades de pesquisa, organizações sociais ou empresas públicas dependentes do Tesouro Nacional, ligadas a ICTs vinculadas ao MCTI",
+    "valor": "R$ 120.000.000,00 (R$ 30 milhões/ano); até R$ 1.500.000,00 por projeto",
+    "prazo": "2026-05-27",
+    "desc": "Edital do Programa de Capacitação Institucional 2026, com vigência de quatro anos e recursos do FNDCT, voltado à concessão de bolsas e apoio a projetos de pesquisa em unidades de pesquisa federais. Possibilita composição de equipes de pesquisa, incluindo projetos em agropecuária e temas correlatos, com prioridade regional mínima de 30% dos recursos para Norte, Nordeste e Centro-Oeste.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/cnpq-lanca-edital-de-bolsas-com-r-120-milhoes-e-foco-em-projetos-de-pesquisa",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "MCTI-CNPq-02-2026-PROSUL",
+    "titulo": "Chamada Pública MCTI/CNPq Nº 02/2026 - PROSUL Pepe Mujica",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ambiente e sustentabilidade",
+      "Alimentação e agricultura",
+      "Energia e mineração",
+      "Saúde",
+      "Tecnologia da informação",
+      "Ciências humanas e sociais"
+    ],
+    "publico": "Pesquisadores doutores com vínculo institucional no Brasil, em ICT brasileira ou entidade privada sem fins lucrativos cadastrada no Diretório de Instituições do CNPq",
+    "valor": "Valor global de R$ 50.000.000,00; Faixa A até R$ 1.500.000,00; Faixa B até R$ 600.000,00; Faixa C até R$ 400.000,00",
+    "prazo": "2026-04-30",
+    "desc": "Chamada voltada a projetos de pesquisa colaborativa no âmbito do Programa de Cooperação Latino-Americana e Caribenha em CT&I, com foco em redes de pesquisa entre Brasil e países da América Latina e Caribe. Abrange temas de alimentação e agricultura, sendo estratégica para grupos da agropecuária e Embrapa interessados em cooperação internacional.",
+    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13365",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "CNPq-07-2026-PIBPG",
+    "titulo": "Chamada Pública CNPq N° 07/2026 - Programa Institucional de Bolsas de Pós-Graduação (PIBPG)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas de pós-graduação",
+      "Ciências Agrárias",
+      "Agropecuária"
+    ],
+    "publico": "Programas de pós-graduação e instituições de ensino e pesquisa brasileiras interessadas em bolsas de pós-graduação",
+    "valor": "Concessão de bolsas de pós-graduação em nível institucional; valores conforme tabela de bolsas CNPq",
+    "prazo": "2026-08-17",
+    "desc": "Chamada institucional para concessão de bolsas de pós-graduação, destinada a fortalecer programas de pós-graduação em todas as áreas do conhecimento. Pode beneficiar programas de ciências agrárias e agropecuária com participação de pesquisadores da Embrapa em coorientações e projetos.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "CNPq-17-2026-Economia-Criativa",
+    "titulo": "Chamada CNPq/MinC nº 17/2026 - Apoio ao funcionamento de incubadoras voltadas à Economia Criativa",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Economia Criativa",
+      "Inovação",
+      "Empreendedorismo",
+      "Incubadoras"
+    ],
+    "publico": "Instituições e entidades que operam incubadoras voltadas à economia criativa, incluindo projetos de pesquisa, desenvolvimento tecnológico e inovação",
+    "valor": "Apoio financeiro a projetos de pesquisa e funcionamento de incubadoras; montantes definidos por proposta conforme edital",
+    "prazo": "2026-08-10",
+    "desc": "Chamada para apoiar projetos de pesquisa e funcionamento de incubadoras direcionadas à economia criativa, com foco em desenvolvimento científico, tecnológico e inovação e fortalecimento de empreendimentos culturais e criativos. Pode interessar grupos que atuem em cadeias produtivas agroalimentares com componente de economia criativa e inovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "MCTI-CNPq-MEC-09-2026-Feiras-Ciencias",
+    "titulo": "Chamada CNPq/MCTI/MEC Nº 09/2026 - Feiras de Ciências e Mostras Científicas - POP CIÊNCIA",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Popularização da ciência",
+      "Educação científica",
+      "Ciências Agrárias (temas possíveis)",
+      "Agropecuária (temas possíveis)"
+    ],
+    "publico": "Instituições de ensino e pesquisa interessadas em realizar feiras de ciências e mostras científicas",
+    "valor": "Apoio financeiro a projetos de feiras de ciências; valores definidos por faixa no edital",
+    "prazo": "2026-06-19",
+    "desc": "Chamada para apoio à realização de feiras de ciências e mostras científicas, visando à popularização da ciência. Pode ser utilizada para divulgar e integrar projetos de agropecuária e PD&I da Embrapa com escolas e comunidades.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-09-2026/chamada-publica-cnpq-N-09-2026",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "CNPq-14-2026-BRICS-STI",
+    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI Nº 14/2026",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciência, Tecnologia e Inovação",
+      "Temas prioritários BRICS",
+      "Agropecuária e segurança alimentar (quando contemplados nos eixos anuais)"
+    ],
+    "publico": "Grupos de pesquisa brasileiros em cooperação com parceiros dos países BRICS, com coordenador doutor vinculado a instituição brasileira",
+    "valor": "Financiamento a projetos de pesquisa cooperativa no âmbito BRICS; faixas de apoio definidas no edital",
+    "prazo": "2026-07-06",
+    "desc": "Chamada conjunta BRICS-STI para projetos de pesquisa colaborativa entre instituições dos países BRICS em temas prioritários de ciência, tecnologia e inovação. Em geral contempla eixos ligados a agricultura, recursos naturais e segurança alimentar, sendo relevante para grupos de agropecuária com parcerias internacionais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/7a-chamada-mcti-cnpq-brics-sti-no-14-2026",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "CNPq-15-2026-PROAFRICA",
+    "titulo": "Chamada CNPq/MCTI nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia - PROÁFRICA",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciência e Tecnologia",
+      "Desenvolvimento sustentável",
+      "Agropecuária e segurança alimentar (quando previstos nos temas da chamada)"
+    ],
+    "publico": "Pesquisadores doutores com vínculo institucional no Brasil em cooperação com instituições de países africanos",
+    "valor": "Apoio financeiro a projetos de cooperação científica e tecnológica Brasil–África; valores e faixas definidos no edital",
+    "prazo": "2026-08-31",
+    "desc": "Chamada para projetos de pesquisa colaborativa no âmbito do Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia, visando cooperação científica, tecnológica e de inovação com países africanos. Frequentemente inclui temas de agricultura, recursos naturais, mudanças climáticas e segurança alimentar, interessantes para grupos da Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-cnpq-mcti-no-15-2026-proafrica",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "CAPES-AUGM-2026",
+    "titulo": "Programa CAPES/AUGM",
+    "orgao": "CAPES",
+    "origem": "Internacional",
+    "areas": [
+      "Todas as áreas do conhecimento em universidades da AUGM",
+      "Ciências Agrárias",
+      "Agropecuária"
+    ],
+    "publico": "Docentes e discentes vinculados a programas de pós-graduação em instituições brasileiras participantes da Asociación de Universidades Grupo Montevideo (AUGM)",
+    "valor": "Bolsas e auxílios internacionais para mobilidade acadêmica e cooperação em pesquisa",
+    "prazo": "2026-07-02",
+    "desc": "Programa de cooperação internacional CAPES/AUGM que oferece bolsas e auxílios para mobilidade acadêmica e desenvolvimento de projetos conjuntos entre instituições brasileiras e universidades da Asociación de Universidades Grupo Montevideo. Aplicável a grupos de pesquisa em agropecuária integrados a programas de pós-graduação.",
+    "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapa-seg-2026-01",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Bolsas de Fomento à Pesquisa",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Ciências Agrárias",
+      "Inovação Tecnológica"
+    ],
+    "publico": "Pesquisadores e bolsistas vinculados a projetos de PD&I em parceria Embrapa/CNPq",
+    "valor": "Valores conforme normas gerais e específicas das modalidades de bolsas de fomento do CNPq e do convênio Embrapa/CNPq",
+    "prazo": null,
+    "desc": "Chamada interna no âmbito do Convênio Embrapa/CNPq para concessão de bolsas de fomento à pesquisa, com critérios de elegibilidade alinhados às normas das modalidades de bolsas de fomento e aos objetivos de PD&I da Embrapa.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+Embrapa+CNpQ/f1d6cc73-7ebb-67a4-ec05-168cc38c047d",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapa-seg-2026-02",
+    "titulo": "Edital Embrapa Maranhão nº 01/2026 – Seleção de Bolsas de Acordo de Cooperação e Convênio (ACC)",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Ciências Agrárias",
+      "Produção Agrícola",
+      "PD&I em sistemas de produção no Maranhão"
+    ],
+    "publico": "Mestres em Ciências Agrárias ou áreas afins para atuação em projetos da Embrapa Maranhão em regime de cooperação e convênios",
+    "valor": "Bolsa mensal de R$ 5.625,00, por 12 meses, implementada via FAPEMA",
+    "prazo": null,
+    "desc": "Chamada interna da Embrapa Maranhão para seleção de bolsistas de Acordo de Cooperação e Convênio (ACC), com exigência mínima de título de mestrado em Ciências Agrárias ou áreas afins, e implementação das bolsas pela FAPEMA em projetos de PD&I da unidade.",
+    "url": "https://www.embrapa.br/documents/1354356/0/Edital+Embrapa+Maranh%C3%A3o+n%C2%BA+01-2026/e955a8c3-57ab-f81b-6b6e-c918cb9e44f7?version=1.0&download=true",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapa-seg-2026-03",
+    "titulo": "Edital de Seleção nº 1/2026 – PAIC/FAPEAM 2026–2027 – Embrapa Amazônia Ocidental",
+    "orgao": "Embrapa",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Iniciação Científica",
+      "Agricultura e Meio Ambiente na Amazônia",
+      "PD&I"
+    ],
+    "publico": "Estudantes de graduação para bolsas de iniciação científica vinculadas à Embrapa Amazônia Ocidental no âmbito do PAIC/FAPEAM",
+    "valor": "Valores de bolsa definidos pelo Programa de Apoio à Iniciação Científica (PAIC) da FAPEAM",
+    "prazo": "2026-04-10",
+    "desc": "Edital de seleção de bolsas de iniciação científica PAIC/FAPEAM 2026–2027 com execução na Embrapa Amazônia Ocidental, prevendo concessão de uma bolsa por orientador, processo seletivo com entrevistas e envio de documentação, e calendário com inscrições até 10/04/2026 e divulgação de resultados no site da unidade.",
+    "url": "https://www.embrapa.br/documents/1354286/112750754/EDITAL_SELECAO+PAIC-FAPEAM_2026-2027.pdf/2f883f76-6ad3-bacb-e256-1ab601eb74e8?download=true",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapa-seg-2026-04",
+    "titulo": "Edital 31/2026 – Chamada para Seleção de Bolsistas de Estímulo à Inovação – Embrapa Agricultura Digital",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Inovação Tecnológica",
+      "Agricultura Digital",
+      "Gestão e Governança de Dados",
+      "Propriedade Intelectual",
+      "Regulação de Inteligência Artificial"
+    ],
+    "publico": "Mestres com experiência em PD&I, graduados em Administração, Administração Pública, Direito, Economia, Engenharia de Produção ou Engenharia Agrícola",
+    "valor": "Bolsa mensal de R$ 4.550,00",
+    "prazo": "2026-02-13",
+    "desc": "Chamada interna para seleção de bolsista de Estímulo à Inovação vinculada ao Projeto 1099 na Embrapa Agricultura Digital, em Campinas (SP), com requisito de título de mestre, experiência mínima de dois anos em PD&I e produção técnico-científica em temas de inovação, agricultura digital, dados, direito digital e IA, com inscrições até 13/02/2026 via FAPED.",
+    "url": "https://www.esalq.usp.br/boletim/edital-312026-abre-sele%C3%A7%C3%A3o-para-bolsista-de-est%C3%ADmulo-%C3%A0-inova%C3%A7%C3%A3o-na-embrapa-agricultura-digital",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapa-seg-2026-05",
+    "titulo": "Edital 05/2026 – Processo Seletivo para Bolsa de Iniciação Científica e Estágio – Embrapa Caprinos e Ovinos",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Produção Animal",
+      "Caprinos e Ovinos",
+      "PD&I agropecuário"
+    ],
+    "publico": "Estudantes de graduação interessados em bolsa de iniciação científica ou estágio obrigatório na Embrapa Caprinos e Ovinos",
+    "valor": "Valores de bolsa de iniciação científica e estágio conforme normas internas da Embrapa e agências de fomento parceiras",
+    "prazo": null,
+    "desc": "Processo seletivo interno da Embrapa Caprinos e Ovinos para concessão de bolsas de iniciação científica e seleção de estagiários, com inscrição mediante envio de ficha e documentos em formato PDF por e-mail à unidade, contemplando áreas de atuação definidas em anexo ao edital.",
+    "url": "https://www.embrapa.br/web/caprinos-e-ovinos/estagios-e-bolsas/editais",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapa-seg-2026-06",
+    "titulo": "Edital de Seleção – Estágios e Bolsas 2026 – Embrapa Agroindústria Tropical",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Agroindústria de Produtos Tropicais",
+      "PD&I em processamento e tecnologia de alimentos"
+    ],
+    "publico": "Estudantes de graduação e pós-graduação para estágios e bolsas vinculadas à Embrapa Agroindústria Tropical",
+    "valor": "Valores de bolsas conforme modalidades de estágio e programas de fomento associados",
+    "prazo": "2026-07-03",
+    "desc": "Edital interno da Embrapa Agroindústria Tropical para seleção de estagiários e bolsistas, com processo seletivo realizado entre 20/04 e 03/07/2026, seguindo calendários específicos descritos no edital para preenchimento de vagas de PD&I na unidade.",
+    "url": "https://www.embrapa.br/web/agroindustria-tropical/estagios-e-bolsas",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapii_agro_2026_01",
+    "titulo": "Seleção de Projetos de Inovação em Agro, Alimentos e Biotecnologia em Unidades EMBRAPII",
+    "orgao": "EMBRAPII – Empresa Brasileira de Pesquisa e Inovação Industrial",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agropecuária",
+      "Biotecnologia vegetal e animal",
+      "Tecnologia de alimentos",
+      "Transformação digital no agronegócio",
+      "Máquinas e equipamentos agrícolas",
+      "Agro 4.0"
+    ],
+    "publico": "Empresas brasileiras (de qualquer porte) em parceria com Unidades EMBRAPII credenciadas nas áreas de agro, alimentos, biotecnologia e tecnologias habilitadoras",
+    "valor": "Co-financiamento não reembolsável usualmente entre 30% e 50% do valor do projeto; valores típicos por projeto variam de R$ 500.000 a R$ 3.000.000, a depender da Unidade e do escopo",
+    "prazo": null,
+    "desc": "Chamada contínua para apoio a projetos de P,D&I desenvolvidos em cooperação entre empresas e Unidades EMBRAPII em temas agropecuários e de alimentos. Os recursos da EMBRAPII são não reembolsáveis e complementam o investimento empresarial, priorizando desenvolvimento tecnológico de aplicação direta no setor agro (cadeias produtivas agrícolas, pecuária, insumos, equipamentos, bioinsumos, digitalização e automação, rastreabilidade, sustentabilidade, clima e solo). Aplica-se integralmente à pesquisa agropecuária brasileira sempre que vinculada a empresa nacional e Unidade EMBRAPII com competência na área.",
+    "url": "https://embrapii.org.br",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "bndes_mai23_agro_2026_01",
+    "titulo": "BNDES Mais Inovação – Apoio Financeiro a Projetos de Inovação, incluindo Agropecuária",
+    "orgao": "BNDES – Banco Nacional de Desenvolvimento Econômico e Social",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação tecnológica",
+      "Agronegócio",
+      "Agroindústria",
+      "Bioeconomia",
+      "Digitalização e automação agrícola",
+      "Sustentabilidade e baixo carbono no agro"
+    ],
+    "publico": "Empresas, cooperativas e produtores rurais organizados, com sede e atuação no Brasil, que desenvolvam projetos de inovação com impacto econômico e socioambiental",
+    "valor": "Financiamento reembolsável; valores de projeto em geral acima de R$ 10.000.000, com possibilidade de apoio a projetos menores em linhas específicas",
+    "prazo": null,
+    "desc": "Chamada estruturada em fluxo contínuo para financiamento de projetos de inovação, abrangendo iniciativas em cadeias agropecuárias, agroindústrias, máquinas e equipamentos, soluções digitais para o campo, logística, sustentabilidade e produtividade. Os recursos são majoritariamente reembolsáveis, com condições diferenciadas de prazo e custo e possibilidade de combinação com subvenções ou fundos setoriais quando enquadrado. É aplicável a empresas brasileiras que proponham projetos de inovação tecnológica diretamente vinculados à produção agropecuária ou à cadeia de valor do agro.",
+    "url": "https://www.bndes.gov.br",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "finep_setorial_agro_2026_01",
+    "titulo": "Chamada Contínua de Apoio à Inovação – Fundos Setoriais (incluindo agronegócio, bioeconomia e tecnologias para o agro)",
+    "orgao": "FINEP – Financiadora de Estudos e Projetos",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agropecuária",
+      "Ciências agrárias",
+      "Biotecnologia aplicada ao agro",
+      "Tecnologias digitais e de automação",
+      "Agroindústria de alimentos e bebidas",
+      "Sustentabilidade, manejo e solo",
+      "Clima e agricultura"
+    ],
+    "publico": "Empresas, ICTs e instituições de pesquisa brasileiras em parceria empresa–ICT, enquadradas em programas financiados com recursos de Fundos Setoriais (como CT-Agro e outros com interface agropecuária)",
+    "valor": "Faixas variáveis conforme a linha e a fonte de recursos; projetos típicos de P,D&I variam de R$ 1.000.000 a R$ 20.000.000, podendo ser maiores em chamadas estruturantes",
+    "prazo": null,
+    "desc": "Fluxo permanente de submissão de projetos de inovação apoiados com recursos dos Fundos Setoriais administrados pela FINEP, abrangendo chamadas e linhas voltadas a cadeias agropecuárias, bioeconomia, tecnologias digitais e de automação, infraestrutura de pesquisa e desenvolvimento experimental. Permite apoio tanto reembolsável como não reembolsável, dependendo da modalidade, sendo plenamente aplicável à pesquisa agropecuária brasileira quando ligada a projetos de inovação com empresas e ICTs nacionais.",
+    "url": "https://www.finep.gov.br",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "faostf_2026_01",
+    "titulo": "FAO Technical Cooperation Programme (TCP) – Support to Agricultural Research and Innovation",
+    "orgao": "FAO – Food and Agriculture Organization of the United Nations",
+    "origem": "Internacional",
+    "areas": [
+      "Agricultural research and innovation",
+      "Food security",
+      "Climate-smart agriculture",
+      "Sustainable livestock and fisheries",
+      "Agroforestry",
+      "Digital agriculture",
+      "Policy support for agrifood systems"
+    ],
+    "publico": "Governos nacionais e instituições públicas indicadas pelo governo brasileiro; projetos devem ser submetidos via representação da FAO no Brasil em alinhamento com prioridades nacionais",
+    "valor": "Tipicamente até cerca de US$ 500.000 por projeto TCP, dependendo da modalidade e da aprovação orçamentária",
+    "prazo": null,
+    "desc": "Mecanismo de cooperação técnica da FAO em fluxo contínuo, que financia e presta assistência técnica a iniciativas de pesquisa aplicada, inovação institucional e desenvolvimento de capacidades em agricultura, pecuária, pesca, florestas e sistemas alimentares. Projetos são propostos em colaboração com a representação da FAO e o governo brasileiro e podem incluir componentes de pesquisa agropecuária, experimentação de tecnologias, fortalecimento de serviços de extensão rural e sistemas de inovação agrícola.",
+    "url": "https://www.fao.org",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "horizon_europe_2026_cluster6_01",
+    "titulo": "Horizon Europe – Cluster 6 \"Food, Bioeconomy, Natural Resources, Agriculture and Environment\" Work Programme 2025–2027 (Calls open in 2026)",
+    "orgao": "Comissão Europeia – Programa Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "Agricultural research and innovation",
+      "Sustainable farming systems",
+      "Climate and environment",
+      "Biodiversity and ecosystem services",
+      "Agri-food value chains",
+      "Bioeconomy and circular systems",
+      "Digital and precision agriculture"
+    ],
+    "publico": "Consórcios internacionais de pesquisa e inovação que incluam instituições de países associados ou elegíveis; organizações brasileiras podem participar como entidades de países terceiros em diversos tópicos, especialmente em cooperação internacional focada em América Latina e Caribe",
+    "valor": "Projetos colaborativos geralmente entre € 3.000.000 e € 10.000.000 por consórcio, variando conforme o tópico e o tipo de ação (RIA, IA, CSA)",
+    "prazo": null,
+    "desc": "Conjunto de chamadas temáticas no Cluster 6 do Horizon Europe com tópicos específicos em agricultura sustentável, sistemas alimentares resilientes, saúde do solo, gestão de recursos naturais, bioeconomia, florestas e inovação rural. O Work Programme 2025–2027 prevê múltiplas calls com abertura e encerramento em 2026, em formato competitivo, abertas a universidades, institutos de pesquisa, empresas e outros atores em consórcios internacionais. Instituições brasileiras podem integrar consórcios como parceiros de países terceiros em diversos tópicos, especialmente em ações que valorizam cooperação com países de baixa e média renda ou com foco em biomas relevantes para o Brasil.",
+    "url": "https://research-and-innovation.ec.europa.eu",
+    "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "horizon_europe_2026_msca_01",
+    "titulo": "Horizon Europe – Marie Skłodowska-Curie Actions (MSCA) 2026 – Postdoctoral Fellowships and Staff Exchanges in Agricultural and Food Research",
+    "orgao": "Comissão Europeia – Programa Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "Agricultural sciences",
+      "Food science and technology",
+      "Environmental sciences",
+      "Rural development",
+      "Agroecology and sustainable agriculture",
+      "Animal science",
+      "Plant science"
+    ],
+    "publico": "Pesquisadores e instituições de pesquisa; universidades e centros de pesquisa brasileiros podem participar como instituições de países terceiros em Staff Exchanges e como host institutions em consórcios que incluam organizações de Estados-Membros ou países associados",
+    "valor": "Bolsas individuais e financiamento de mobilidade e treinamento; o orçamento por projeto varia amplamente conforme o tipo de ação MSCA, em geral entre € 0,2 milhões e € 2 milhões por consórcio ou conjunto de bolsas",
+    "prazo": null,
+    "desc": "Chamadas MSCA previstas no Horizon Europe para 2026 apoiam mobilidade internacional, formação avançada e colaboração em pesquisa, incluindo temas de agricultura, alimentos, meio ambiente e áreas relacionadas. Pesquisadores brasileiros podem submeter propostas de Postdoctoral Fellowships com instituições anfitriãs europeias ou integrar Staff Exchanges e Doctoral Networks em consórcios internacionais que desenvolvam pesquisa agropecuária e de alimentos, fortalecendo capacidades científicas e redes de colaboração.",
+    "url": "https://marie-sklodowska-curie-actions.ec.europa.eu",
+    "descobertoEm": "2026-07-08"
   }
 ]
