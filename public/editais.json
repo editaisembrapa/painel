@@ -2424,19 +2424,19 @@
   },
   {
     "id": "embrapa-12-2026-ilpf-regenera",
-    "titulo": "Chamada Pública nº 12/2026 – Bolsas de Estímulo à Inovação para o Projeto \"ILPF Regenera: Indicadores Ambientais de Sustentabilidade para Agropecuária de Baixa Emissão de Carbono\"",
+    "titulo": "Chamada Pública nº 12/2026 – Bolsas de Estímulo à Inovação para o projeto \"ILPF Regenera: Indicadores Ambientais de Sustentabilidade para Agropecuária de Baixa Emissão de Carbono\"",
     "orgao": "Embrapa Agrossilvipastoril",
     "origem": "Interno",
     "areas": [
       "Integração Lavoura-Pecuária-Floresta",
       "Sustentabilidade ambiental",
       "Agropecuária de baixa emissão de carbono",
-      "PD&I em sistemas agrossilvipastoris"
+      "Pesquisa, desenvolvimento tecnológico e extensão"
     ],
-    "publico": "Especialistas e estudantes para atuação em pesquisa, desenvolvimento tecnológico e extensão no âmbito do projeto ILPF Regenera",
+    "publico": "Especialistas e estudantes para atuação em PD&I com foco em ILPF e sustentabilidade ambiental",
     "valor": null,
     "prazo": "2026-01-28",
-    "desc": "Chamada interna da Embrapa Agrossilvipastoril, em parceria com Monsanto/Bayer e Funarbe, para concessão de bolsas de estímulo à inovação visando selecionar bolsistas que atuarão em atividades de PD&I e extensão relacionadas a indicadores ambientais de sustentabilidade para agropecuária de baixa emissão de carbono no projeto ILPF Regenera.",
+    "desc": "Chamada interna de Bolsas de Estímulo à Inovação vinculada ao projeto ILPF Regenera, visando selecionar profissionais e estudantes para atividades de pesquisa, desenvolvimento tecnológico e extensão em sistemas de integração lavoura-pecuária-floresta e sustentabilidade da agropecuária de baixa emissão de carbono.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/106385473/chamada-n-122026---selecao-de-bolsistas-para-o-projeto-ilpf-regenera--embrapa-agrossilvipastoril",
     "descobertoEm": "2026-06-28"
   },
@@ -3411,5 +3411,22 @@
     "desc": "Chamadas MSCA previstas no Horizon Europe para 2026 apoiam mobilidade internacional, formação avançada e colaboração em pesquisa, incluindo temas de agricultura, alimentos, meio ambiente e áreas relacionadas. Pesquisadores brasileiros podem submeter propostas de Postdoctoral Fellowships com instituições anfitriãs europeias ou integrar Staff Exchanges e Doctoral Networks em consórcios internacionais que desenvolvam pesquisa agropecuária e de alimentos, fortalecendo capacidades científicas e redes de colaboração.",
     "url": "https://marie-sklodowska-curie-actions.ec.europa.eu",
     "descobertoEm": "2026-07-08"
+  },
+  {
+    "id": "embrapa-ma-01-2026-acc-fapema",
+    "titulo": "Edital Embrapa Maranhão nº 01/2026 – Concessão de bolsas via Acordo de Cooperação e Convênio (ACC) com FAPEMA",
+    "orgao": "Embrapa Maranhão",
+    "origem": "Interno",
+    "areas": [
+      "Ciências Agrárias",
+      "Produção agrícola",
+      "Inovação tecnológica no meio rural"
+    ],
+    "publico": "Profissionais com título de mestre em Ciências Agrárias ou áreas afins para atuação em projetos de PD&I da Embrapa Maranhão",
+    "valor": "R$ 5.625,00/mês (bolsa ACC, duração de 12 meses)",
+    "prazo": null,
+    "desc": "Edital interno da Embrapa Maranhão para seleção de bolsistas com titulação mínima de mestrado em Ciências Agrárias ou áreas afins, para atuação em projetos de pesquisa, desenvolvimento e inovação, com implementação das bolsas via FAPEMA em regime de Acordo de Cooperação e Convênio (ACC).",
+    "url": "https://www.embrapa.br/documents/1354356/0/Edital+Embrapa+Maranh%C3%A3o+n%C2%BA+01-2026/e955a8c3-57ab-f81b-6b6e-c918cb9e44f7?version=1.0&download=true",
+    "descobertoEm": "2026-07-09"
   }
 ]
