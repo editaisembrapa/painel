@@ -3682,5 +3682,100 @@
     "desc": "Edital voltado à seleção de projetos-pilotos para implantação, adoção e difusão de tecnologias 4.0 no agronegócio, com foco em casos reais em propriedades e operações agropecuárias, promovendo a transformação digital do setor.",
     "url": "https://www.abdi.com.br/wp-content/uploads/2026/03/Edital_Agrobrasilia_2026_e_anexos.pdf",
     "descobertoEm": "2026-07-12"
+  },
+  {
+    "id": "FAPEAM-FAPESP-2026",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos Colaborativos em Bioeconomia Amazônica",
+    "orgao": "FAPEAM · FAPESP",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Inovação",
+      "Desenvolvimento sustentável",
+      "Ciências agrárias",
+      "Biotecnologia",
+      "Mudanças climáticas"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo, com experiência compatível na área da proposta",
+    "valor": null,
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para apoio a projetos colaborativos entre grupos de pesquisa do Amazonas e de São Paulo na área da bioeconomia amazônica, visando fortalecer parcerias interinstitucionais e desenvolver soluções inovadoras associadas ao uso sustentável da biodiversidade, cadeias produtivas agropecuárias e florestais e outros temas estratégicos para a Amazônia.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-07-13"
+  },
+  {
+    "id": "finep-mais-inovacao-brasil-rodada2-agroindustriais",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "Finep",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agroindustrial",
+      "Agricultura sustentável",
+      "Foodtech",
+      "Saúde animal",
+      "Cadeias agroindustriais sustentáveis"
+    ],
+    "publico": "Empresas brasileiras em parceria com ICTs, atuando em cadeias agroindustriais sustentáveis",
+    "valor": "Arranjos simples: mínimo R$ 5.000.000 e máximo R$ 25.000.000; arranjos em rede: mínimo R$ 5.000.000 e máximo R$ 40.000.000[2][14]",
+    "prazo": "2026-09-30",
+    "desc": "Rodada 2 do programa Finep Mais Inovação Brasil voltada à inovação em cadeias agroindustriais sustentáveis, apoiando projetos de TRL 3 a 8 com foco em soluções tecnológicas para agricultura, agroindústrias, foodtechs e saúde animal em alinhamento à Nova Indústria Brasil.[2][7][14]",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/782",
+    "descobertoEm": "2026-07-13"
+  },
+  {
+    "id": "finep-selecao-publica-cadeias-agroindustriais-trl8",
+    "titulo": "Seleção Pública Finep – Cadeias Agroindustriais Sustentáveis (TRL 6–8)",
+    "orgao": "Finep",
+    "origem": "Nacional",
+    "areas": [
+      "Agroindústrias",
+      "Inovação tecnológica",
+      "Sustentabilidade",
+      "Desenvolvimento produtivo agro"
+    ],
+    "publico": "Empresas brasileiras e ICTs desenvolvendo projetos inovadores em cadeias agroindustriais, com execução prioritária nas regiões Norte, Nordeste e Centro-Oeste",
+    "valor": "Até R$ 300.000.000,00 em recursos não reembolsáveis do FNDCT para a seleção, distribuídos entre propostas com maturidade tecnológica até TRL 8[8]",
+    "prazo": null,
+    "desc": "Seleção pública da Finep, válida por 24 meses, para projetos inovadores em cadeias agroindustriais sustentáveis, que visem atingir TRL 8 partindo de TRL 6 ou anterior, com foco em expansão da capacidade produtiva e adoção de tecnologias avançadas no setor agroindustrial brasileiro, incluindo execução nas regiões Norte, Nordeste e Centro-Oeste.[8]",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/784",
+    "descobertoEm": "2026-07-13"
+  },
+  {
+    "id": "mcti-finep-agricultura-familiar-ict-2026",
+    "titulo": "Chamada Pública MCTI/Finep – Inovação em Agricultura Familiar e Aquicultura (ICTs)",
+    "orgao": "MCTI/Finep",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Aquicultura",
+      "Bioinsumos",
+      "Produção agroecológica e orgânica",
+      "Soluções digitais para pequenas propriedades",
+      "Criação de peixes nativos"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) públicas e privadas brasileiras em parceria obrigatória com cooperativas da agricultura familiar ou aquicultura",
+    "valor": "Edital para ICTs com recursos de até R$ 100.000.000,00, dentro de um conjunto de chamadas que totalizam R$ 220.000.000,00 para agricultura familiar e aquicultura[3][4]",
+    "prazo": "2026-06-26",
+    "desc": "Chamada pública voltada a ICTs para desenvolvimento de soluções tecnológicas integradas, transferência de tecnologia, capacitação e extensão rural para agricultura familiar e aquicultura, com foco em bioinsumos, produção agroecológica e orgânica, soluções digitais para pequenas propriedades e criação de peixes nativos. As propostas devem ser desenvolvidas em parceria com cooperativas da agricultura familiar ou da aquicultura.[3][4][15]",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/783",
+    "descobertoEm": "2026-07-13"
+  },
+  {
+    "id": "finep-inovacao-agricultura-familiar-ate-60mi",
+    "titulo": "Seleção Pública Finep – Inovação na Agricultura Familiar (FNDCT – até R$ 60 milhões)",
+    "orgao": "Finep",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Tecnologias para pequenas propriedades",
+      "Maquinário agrícola de pequeno porte",
+      "Insumos para agricultura familiar"
+    ],
+    "publico": "Empresas brasileiras e ICTs em parceria com cooperativas de agricultura familiar, para desenvolvimento de soluções tecnológicas e industriais voltadas à agricultura familiar",
+    "valor": "Até R$ 60.000.000,00 em recursos não reembolsáveis do FNDCT para contratação de até 2 projetos, com financiamento entre R$ 3.000.000,00 e R$ 7.000.000,00 por projeto[10][15]",
+    "prazo": "2026-03-03",
+    "desc": "Seleção pública Finep com recursos do FNDCT para apoiar grandes projetos de inovação focados na agricultura familiar, incluindo desenvolvimento de maquinários e insumos específicos de pequeno porte, além de soluções tecnológicas integradas para aumentar produtividade e sustentabilidade em pequenas propriedades em articulação com cooperativas.[3][10][15]",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/781",
+    "descobertoEm": "2026-07-13"
   }
 ]
