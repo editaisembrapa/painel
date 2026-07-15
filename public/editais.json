@@ -385,20 +385,22 @@
   },
   {
     "id": "cnpq-bolsas-produtividade-2026",
-    "titulo": "Chamada CNPq – Bolsas de Produtividade em Pesquisa (PQ, PQSr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT) – início 2026",
+    "titulo": "Chamada CNPq – Bolsas de Produtividade em Pesquisa (PQ, PQSr) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) – ciclo 2025–2026",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Produtividade em Pesquisa",
-      "Desenvolvimento Tecnológico",
-      "Extensão Inovadora",
-      "Todas as áreas, incluindo Ciências Agrárias e Agropecuária"
+      "Ciências Agrárias",
+      "Zootecnia",
+      "Agronomia",
+      "Medicina Veterinária",
+      "Engenharia Agrícola",
+      "Todas as áreas elegíveis PQ/DT/PQSr"
     ],
-    "publico": "Pesquisadores doutores com produção científica e tecnológica relevante, para concessão de bolsas de produtividade PQ, PQSr e DT",
-    "valor": "Bolsas individuais nas modalidades PQ, PQSr e DT, com valores conforme tabela de bolsas do CNPq",
-    "prazo": "2026-01-20",
-    "desc": "Chamada nacional do CNPq para seleção de bolsistas de Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), Produtividade em Pesquisa (PQ) e Produtividade em Pesquisa Sênior (PQSr), com início das atividades em 2026. Abrange todas as áreas do conhecimento, incluindo Ciências Agrárias e agropecuária, sendo estratégica para pesquisadores da Embrapa e instituições correlatas.",
-    "url": "http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13265",
+    "publico": "Pesquisadores doutores com produção científica ou tecnológica consolidada, elegíveis às bolsas de produtividade PQ, PQSr e DT, incluindo pesquisadores da agropecuária e Embrapa",
+    "valor": "Concessão de bolsas mensais de produtividade em pesquisa e desenvolvimento tecnológico, com número de bolsas e distribuição por área definidos na chamada",
+    "prazo": "2026-02-20",
+    "desc": "Chamada destinada à concessão de bolsas de Produtividade em Pesquisa (PQ, PQSr) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), contemplando todas as áreas do conhecimento, incluindo ciências agrárias e agropecuária. Ciclo de inscrições que abrange o início de 2026, relevante para pesquisadores que buscam reconhecimento e apoio continuado à produção científica ou tecnológica.",
+    "url": "http://grupo-portal.cnpq.br/web/guest/chamadas-publicas",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -1892,19 +1894,20 @@
   },
   {
     "id": "capes-augm-2026",
-    "titulo": "Programa CAPES/AUGM – Chamada 2026",
+    "titulo": "Programa CAPES/AUGM – Bolsas e Auxílios Internacionais",
     "orgao": "CAPES",
     "origem": "Internacional",
     "areas": [
-      "Mobilidade acadêmica",
-      "Todas as áreas do conhecimento",
+      "Todas as áreas do conhecimento atendidas pela AUGM",
       "Ciências Agrárias",
-      "Agropecuária"
+      "Engenharias",
+      "Ciências Biológicas",
+      "Interdisciplinar"
     ],
-    "publico": "Docentes e discentes de instituições brasileiras participantes da Asociación de Universidades Grupo Montevideo (AUGM)",
-    "valor": "Bolsas de mobilidade e auxílio conforme normas específicas do Programa CAPES/AUGM",
+    "publico": "Docentes e pesquisadores de instituições brasileiras participantes da Associação de Universidades Grupo Montevidéu (AUGM), incluindo áreas de agropecuária, para mobilidade e cooperação internacional",
+    "valor": "Concessão de bolsas e auxílios para mobilidade internacional, com valores por tipo de bolsa definidos pela CAPES",
     "prazo": "2026-07-02",
-    "desc": "Programa de cooperação internacional CAPES/AUGM que oferece bolsas e auxílios para mobilidade acadêmica em universidades do Grupo Montevideo, aberto a diversas áreas, incluindo ciências agrárias e agropecuária.",
+    "desc": "Programa de cooperação internacional CAPES/AUGM que oferece bolsas e auxílios para atividades acadêmicas e de pesquisa em instituições integrantes da AUGM, abrangendo diversas áreas, inclusive ciências agrárias, com foco em internacionalização e fortalecimento de redes de pesquisa.",
     "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
     "descobertoEm": "2026-06-22"
   },
@@ -2192,15 +2195,18 @@
     "orgao": "CNPq",
     "origem": "Internacional",
     "areas": [
-      "Ciência, Tecnologia e Inovação",
-      "Temas estratégicos BRICS",
-      "Agropecuária e Segurança Alimentar (entre temas elegíveis conforme a chamada)"
+      "Alimentos",
+      "Culturas Resilientes ao Clima",
+      "Biotecnologia Vegetal Avançada",
+      "Agricultura Sustentável",
+      "Ciências Agrárias",
+      "PD&I em agropecuária"
     ],
-    "publico": "Grupos de pesquisa brasileiros em cooperação com parceiros dos países BRICS",
-    "valor": "Valor global definido em conjunto pelos organismos dos países BRICS, com financiamento a projetos colaborativos",
+    "publico": "Equipes de pesquisa brasileiras em cooperação com instituições dos países BRICS, incluindo pesquisadores da agropecuária/Embrapa interessados em projetos multilaterais de PD&I",
+    "valor": "R$ 33.000.000,00 em recursos do FNDCT, sendo R$ 19.000.000,00 para custeio e R$ 14.000.000,00 para bolsas",
     "prazo": "2026-07-06",
-    "desc": "Financia projetos de pesquisa colaborativa entre países BRICS em áreas prioritárias de ciência, tecnologia e inovação, incluindo possíveis temas em agricultura, alimentos, recursos naturais e sustentabilidade, conforme linhas específicas da chamada.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/7a-chamada-mcti-cnpq-brics-sti-no-14-2026",
+    "desc": "Chamada pública para apoiar projetos de pesquisa, desenvolvimento e inovação no âmbito da cooperação multilateral BRICS, com foco em temas estratégicos como alimentos, culturas resilientes ao clima e biotecnologia vegetal avançada, entre outros, financiando custeio e bolsas para projetos colaborativos internacionais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-14-2026/7CHAMADAPBLICAMCTICNPqBRICSSTIN142026SEI_CNPq2682149ChamadaPblica.pdf",
     "descobertoEm": "2026-06-26"
   },
   {
@@ -2484,61 +2490,64 @@
   },
   {
     "id": "faperj-07-2026-agro-do-futuro",
-    "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (FoodTechs e Agritechs) – Edital FAPERJ Nº 07/2026",
+    "titulo": "EDITAL FAPERJ Nº 07/2026 – Programa Agro do Futuro: Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
     "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
     "origem": "Estadual · AM",
     "areas": [
-      "Agritechs",
-      "Foodtechs",
-      "Inovação agroalimentar",
-      "Produtividade agropecuária",
-      "Sustentabilidade ambiental",
-      "Logística agro",
-      "Cadeias agroindustriais inteligentes"
+      "foodtech",
+      "agritech",
+      "soberania alimentar",
+      "inovação agropecuária",
+      "cadeias produtivas agroalimentares",
+      "tecnologias digitais no agro"
     ],
-    "publico": "Pesquisadores, ICTs, startups e empresas de base tecnológica atuando em agritechs e foodtechs no Estado do Rio de Janeiro[2]",
-    "valor": "R$ 25.000.000,00 (montante total do programa, distribuído em três faixas de apoio)[2]",
-    "prazo": null,
-    "desc": "Programa de fomento a projetos de pesquisa, desenvolvimento e inovação que fortaleçam o ecossistema de agritechs e foodtechs fluminenses, estimulem a criação de novas empresas de base tecnológica, ampliem mercados e consolidem cadeias agroindustriais inteligentes, cobrindo desde prova de conceito até escalonamento comercial por meio de três faixas de apoio.[2]",
-    "url": "https://www.faperj.br/?id=978.7.4",
+    "publico": "Empresas fluminenses em parceria com ICTs, startups de base tecnológica e grupos de pesquisa sediados no Estado do Rio de Janeiro",
+    "valor": "Até R$ 1.250.000 por projeto, com execução de até 24 meses e contrapartida financeira mínima de 10%",
+    "prazo": "2026-03-31",
+    "desc": "Programa de fomento à inovação em foodtechs e agritechs voltadas à soberania alimentar, estimulando o desenvolvimento de soluções tecnológicas para produção, processamento, logística, rastreabilidade e segurança de alimentos, bem como melhoria da eficiência e sustentabilidade da agropecuária. Exige aderência a desafios de mercado e clara aplicação das soluções em cadeias agroalimentares.",
+    "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
     "descobertoEm": "2026-06-30"
   },
   {
     "id": "cnpq-fndct-06-2026-universal",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
-    "orgao": "CNPq/FNDCT",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Agropecuária",
       "Ciências Agrárias",
-      "Engenharias",
-      "Ciências Biológicas"
+      "Zootecnia",
+      "Agronomia",
+      "Ciência do Solo",
+      "Engenharia Agrícola",
+      "Recursos Florestais e Engenharia Florestal",
+      "Medicina Veterinária",
+      "Interdisciplinar",
+      "Todas as áreas do conhecimento"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras que submetam projetos de pesquisa científica, tecnológica ou de inovação",
-    "valor": "Valor global com recursos do FNDCT; apoio por projeto em faixas de financiamento conforme edital Universal 06/2026",
+    "publico": "Pesquisadores doutores vinculados a ICTs e IES brasileiras, incluindo pesquisadores da agropecuária e Embrapa, para projetos de pesquisa em qualquer área do conhecimento",
+    "valor": "Valor global aproximado de dezenas de milhões de reais com faixas de financiamento por projeto (conforme detalhamento no PDF da chamada)",
     "prazo": "2026-08-03",
-    "desc": "Chamada universal de fomento à pesquisa científica, tecnológica e de inovação, com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), aberta a todas as áreas, incluindo agropecuária e ciências agrárias, para apoio a projetos em diferentes faixas de valor.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "desc": "Chamada universal de fomento à pesquisa que apoia projetos em qualquer área do conhecimento com recursos do FNDCT, contemplando custeio, capital e bolsas, visando o desenvolvimento científico, tecnológico e a inovação do País. Inclui áreas agropecuárias e é adequada para grupos de pesquisa da Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-07-01"
   },
   {
     "id": "cnpq-mcti-15-2026-proafrica",
     "titulo": "Chamada CNPq/MCTI nº 15/2026 – Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia – PROÁFRICA",
-    "orgao": "CNPq/MCTI",
+    "orgao": "CNPq",
     "origem": "Internacional",
     "areas": [
-      "Cooperação Internacional em C&T",
+      "Ciência e Tecnologia",
       "Ciências Agrárias",
-      "Agropecuária",
-      "Meio Ambiente",
-      "Tecnologias Sociais"
+      "Desenvolvimento Rural",
+      "Sustentabilidade",
+      "PD&I em setores produtivos"
     ],
-    "publico": "Pesquisadores e instituições de pesquisa brasileiras em cooperação com parceiros africanos em projetos de C&T",
-    "valor": "Financiamento de projetos cooperativos Afro-Brasileiros em C&T, com valores por projeto estabelecidos no edital PROÁFRICA 15/2026",
+    "publico": "Pesquisadores brasileiros em cooperação com instituições de países africanos, incluindo grupos da agropecuária/Embrapa interessados em projetos de pesquisa colaborativa Afro-Brasileira",
+    "valor": "Valor global de fomento definido na chamada para apoio a projetos de pesquisa colaborativa (montantes e faixas por projeto especificados no texto oficial)",
     "prazo": "2026-08-31",
-    "desc": "Chamada voltada à cooperação Afro-Brasileira em ciência e tecnologia, apoiando projetos conjuntos em diversas áreas, incluindo possíveis temas de agricultura, segurança alimentar, agroecologia e desenvolvimento rural em parceria com instituições africanas.",
-    "url": "https://www.instagram.com/p/DZnFtq8EQrh/",
+    "desc": "Chamada destinada a apoiar projetos de pesquisa colaborativa que fortaleçam a cooperação científica, tecnológica e de inovação entre o Brasil e países africanos, com foco em desenvolvimento científico e tecnológico em áreas estratégicas, incluindo temas relacionados à agropecuária e desenvolvimento sustentável.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026/chamada-publica-cnpq-N-15-2026",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -4036,5 +4045,98 @@
     "desc": "Programa estadual de fomento à inovação em agro, voltado a projetos de tecnologia e soberania alimentar, com foco em foodtechs e agritechs, contemplando desenvolvimento tecnológico, validação e inserção no mercado de soluções inovadoras para a cadeia agropecuária.",
     "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
     "descobertoEm": "2026-07-14"
+  },
+  {
+    "id": "cnpq-mcti-25-2026-endometriose-saude-menstrual",
+    "titulo": "Chamada CNPq/MCTI nº 25/2026 – Endometriose e Saúde Menstrual",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências da Saúde",
+      "Tecnologias em Saúde",
+      "Desenvolvimento de Produtos Inovadores para o SUS",
+      "Interdisciplinar"
+    ],
+    "publico": "Pesquisadores de ICTs e IES brasileiras que desenvolvam pesquisa aplicada e tecnologias inovadoras relacionadas à endometriose e saúde menstrual, com foco em soluções para o SUS",
+    "valor": "Valor global de fomento com recursos para custeio, capital e desenvolvimento tecnológico conforme especificado na chamada",
+    "prazo": null,
+    "desc": "Chamada voltada ao apoio à pesquisa científica e ao desenvolvimento de tecnologias e produtos inovadores para enfrentamento da endometriose e promoção da saúde menstrual, alinhada à Estratégia Nacional de CT&I 2023–2030, com foco em aplicação no SUS. Embora não seja específica de agropecuária, pode envolver abordagens interdisciplinares em saúde de trabalhadoras rurais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-25-2026/chamada-publica-cnpq-N-25-2026",
+    "descobertoEm": "2026-07-15"
+  },
+  {
+    "id": "fapeam-fapesp-2026",
+    "titulo": "Chamada FAPEAM/FAPESP 2026",
+    "orgao": "FAPEAM e FAPESP",
+    "origem": "Nacional",
+    "areas": [
+      "bioeconomia amazônica",
+      "cooperação científica",
+      "pesquisa colaborativa"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou de pesquisa dos estados do Amazonas e de São Paulo",
+    "valor": null,
+    "prazo": "2026-03-23",
+    "desc": "Chamada cooperativa para projetos colaborativos em bioeconomia amazônica, com submissão até 23/03/2026.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-07-15"
+  },
+  {
+    "id": "embrapa-meio-norte-edital-02-2026",
+    "titulo": "Edital 02/2026 – Programa de bolsas Embrapa-CNPq (Projetos PD&I aprovados no SEG)",
+    "orgao": "Embrapa Meio-Norte / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "Agropecuária",
+      "SEG – Sistema Embrapa de Gestão"
+    ],
+    "publico": "Pesquisadores, profissionais e estudantes para atuação em projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": "R$ 700,00 por bolsa (valor mensal indicado no edital)",
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atividades em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG), no âmbito do convênio Embrapa/CNPq, com execução interna em unidades da Embrapa Meio-Norte.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-07-15"
+  },
+  {
+    "id": "embrapa-gado-leite-chamamento-01-2026",
+    "titulo": "Edital de Chamamento 01/2026 – Parcerias com Organização da Sociedade Civil (OSC) – Embrapa Gado de Leite",
+    "orgao": "Embrapa Gado de Leite",
+    "origem": "Interno",
+    "areas": [
+      "Parcerias",
+      "Transferência de tecnologia",
+      "Pesquisa aplicada",
+      "Produção animal",
+      "Inovação"
+    ],
+    "publico": "Organizações da Sociedade Civil interessadas em firmar acordo de cooperação com a Embrapa Gado de Leite",
+    "valor": "Valor global da parceria definido em plano de trabalho e processo de captação descritos no edital",
+    "prazo": "2026-03-11",
+    "desc": "Chamamento público para seleção de Organização da Sociedade Civil para celebração de acordo de cooperação com a Embrapa Gado de Leite, envolvendo execução de ações, metas e indicadores em projetos de pesquisa, desenvolvimento, inovação e transferência de tecnologia, com submissão de propostas até a data limite fixada no edital.",
+    "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
+    "descobertoEm": "2026-07-15"
+  },
+  {
+    "id": "embrapa-agrossilvipastoril-chamada-12-2026",
+    "titulo": "Chamada Pública nº 12/2026 – Bolsas de Estímulo à Inovação – Projeto ILPF Regenera",
+    "orgao": "Embrapa Agrossilvipastoril",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento tecnológico",
+      "Inovação",
+      "ILPF – Integração Lavoura-Pecuária-Floresta",
+      "Sustentabilidade",
+      "Baixa emissão de carbono"
+    ],
+    "publico": "Especialistas e estudantes para atuação em PD&I e extensão tecnológica vinculadas ao projeto ILPF Regenera",
+    "valor": "Valor das bolsas de Estímulo à Inovação conforme modalidades previstas nas normas de bolsas associadas ao projeto (não detalhado na notícia)",
+    "prazo": "2026-01-28",
+    "desc": "Chamada interna da Embrapa Agrossilvipastoril, em parceria com empresas e fundação de apoio, para seleção de bolsistas de Estímulo à Inovação para o projeto \"ILPF Regenera: Indicadores Ambientais de Sustentabilidade para Agropecuária de Baixa Emissão de Carbono\", envolvendo atividades de pesquisa, desenvolvimento tecnológico e extensão.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/106385473/chamada-n-122026---selecao-de-bolsistas-para-o-projeto-ilpf-regenera--embrapa-agrossilvipastoril",
+    "descobertoEm": "2026-07-15"
   }
 ]
