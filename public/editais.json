@@ -1749,42 +1749,39 @@
   {
     "id": "cnpq-06-2026-universal",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
-    "orgao": "CNPq/FNDCT",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Agropecuária",
       "Ciências Agrárias",
-      "Zootecnia",
-      "Recursos Florestais",
-      "Engenharia Agrícola",
-      "Ciência e Tecnologia de Alimentos"
+      "Ciências Biológicas",
+      "Engenharias",
+      "Interdisciplinar",
+      "Agropecuária",
+      "PD&I"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa brasileiras, incluindo pesquisadores da Embrapa",
-    "valor": "R$ 300.000.000,00 (global), com faixas de apoio por projeto conforme o edital",
-    "prazo": "2026-08-03",
-    "desc": "Apoiar projetos de pesquisa em qualquer área do conhecimento que contribuam para o desenvolvimento científico, tecnológico e a inovação do País, com recursos do FNDCT, incluindo custeio, capital e bolsas, em diferentes faixas de financiamento por proposta.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, incluindo unidades da Embrapa, para apoio a projetos de pesquisa em todas as áreas do conhecimento",
+    "valor": "Valor global de recursos do FNDCT (custeio, capital e bolsas) distribuídos em faixas de até R$ 2.000.000,00; até R$ 3.500.000,00 e até R$ 5.500.000,00 por projeto",
+    "prazo": null,
+    "desc": "Chamada Universal para apoio a projetos de pesquisa científica, tecnológica e de inovação em todas as áreas, com recursos do FNDCT, contemplando itens de custeio, capital e bolsas. Elegível para grupos de pesquisa em agropecuária e temas ligados à produção agrícola, pecuária, recursos naturais, bioeconomia e afins.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-06-22"
   },
   {
     "id": "cnpq-14-2026-brics-sti",
-    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI nº 14/2026",
-    "orgao": "CNPq/FNDCT",
+    "titulo": "Chamada Pública MCTI/CNPq BRICS STI nº 14/2026",
+    "orgao": "CNPq",
     "origem": "Internacional",
     "areas": [
-      "Alimentos",
-      "Culturas resilientes ao clima",
-      "Biotecnologia vegetal avançada",
-      "Agricultura digital",
-      "Agricultura de precisão",
-      "Pesca sustentável",
-      "Aquicultura",
-      "Monitoramento da qualidade dos alimentos"
+      "PD&I",
+      "Cooperação Internacional",
+      "Ciências Agrárias",
+      "Ambiente e Sustentabilidade",
+      "Tecnologias habilitadoras"
     ],
-    "publico": "Grupos de pesquisa brasileiros em cooperação com equipes dos países BRICS, incluindo instituições como a Embrapa",
-    "valor": "R$ 33.000.000,00 (global), sendo R$ 19.000.000,00 para custeio e R$ 14.000.000,00 para bolsas",
-    "prazo": "2026-07-06",
-    "desc": "Apoiar projetos de pesquisa, desenvolvimento e inovação no âmbito do programa BRICS STI, em linhas de cooperação multilateral, incluindo temas de alimentos, agricultura digital e de precisão, cultivos resilientes e aquicultura, com foco em PD&I cooperativo entre países BRICS.",
+    "publico": "Grupos de pesquisa de ICTs brasileiras, incluindo Embrapa, em cooperação com instituições dos países BRICS em projetos multilaterais de P,D&I",
+    "valor": "Valor global de R$ 33.000.000,00 do FNDCT, sendo R$ 19.000.000,00 para custeio e R$ 14.000.000,00 para bolsas; por projeto, faixas de até R$ 2.000.000,00; até R$ 3.500.000,00 e até R$ 5.500.000,00",
+    "prazo": null,
+    "desc": "Chamada no âmbito da cooperação multilateral BRICS em ciência, tecnologia e inovação, para apoiar projetos de pesquisa, desenvolvimento e inovação em áreas estratégicas. Permite propostas em temas de agricultura, recursos naturais, sustentabilidade, tecnologias digitais e outras áreas de interesse dos BRICS.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-14-2026/7CHAMADAPBLICAMCTICNPqBRICSSTIN142026SEI_CNPq2682149ChamadaPblica.pdf",
     "descobertoEm": "2026-06-22"
   },
@@ -3649,20 +3646,19 @@
   },
   {
     "id": "embrapa-05-2026-feijao-brs-fs318",
-    "titulo": "Oferta Pública 05/2026 – Seleção de parceiro para cultivar de feijão BRS FS318",
-    "orgao": "Embrapa Arroz e Feijão",
+    "titulo": "Edital de Seleção 05-2026 – Oferta pública para parceria e licenciamento da cultivar de feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão / Embrapa",
     "origem": "Nacional",
     "areas": [
       "Transferência de tecnologia",
-      "Parcerias tecnológicas",
-      "Produção de sementes",
+      "Licenciamento de cultivares",
       "Feijão comum (Phaseolus vulgaris L.)"
     ],
-    "publico": "Produtores de sementes de feijão comum inscritos no RENASEM interessados em parceria estratégica com a Embrapa para desenvolvimento tecnológico e licenciamento da cultivar BRS FS318",
-    "valor": "Valor negociado em Acordo de Cooperação Técnica e Financeira (ACTF), não explicitado no edital",
+    "publico": "Produtor de sementes inscrito no RENASEM como produtor de sementes de feijão comum",
+    "valor": "Valores e condições econômicas da parceria e do licenciamento definidos em Acordo de Cooperação Técnica e Financeira (ACTF)",
     "prazo": "2026-03-09",
-    "desc": "Oferta pública para seleção de um produtor de sementes, inscrito no RENASEM como produtor de sementes de feijão comum, para estabelecer parceria estratégica com a Embrapa por meio de Acordo de Cooperação Técnica e Financeira (ACTF), visando finalizar o desenvolvimento tecnológico, lançar no mercado a cultivar de feijão tipo roxinho BRS FS318 e licenciar a multiplicação de sementes nas categorias básica e subsequentes.[4][10]",
-    "url": "https://www.embrapa.br/acessoainformacao/editais/-/asset_publisher/jbbk8GGGeRx0/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "desc": "Oferta pública para seleção de um produtor de sementes interessado em estabelecer parceria estratégica com a Embrapa Arroz e Feijão, por meio de Acordo de Cooperação Técnica e Financeira, para finalizar o desenvolvimento tecnológico, promover o lançamento no mercado e obter licenciamento para multiplicação de sementes da cultivar de feijão comum tipo roxinho BRS FS318.[4]",
+    "url": "https://www.embrapa.br/en/editais-e-ofertas-publicas-para-licenciamento/-/asset_publisher/bAm8YE8Ljj9I/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
     "descobertoEm": "2026-07-12"
   },
   {
@@ -4077,10 +4073,10 @@
       "cooperação científica",
       "pesquisa colaborativa"
     ],
-    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou de pesquisa dos estados do Amazonas e de São Paulo",
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo",
     "valor": null,
     "prazo": "2026-03-23",
-    "desc": "Chamada cooperativa para projetos colaborativos em bioeconomia amazônica, com submissão até 23/03/2026.",
+    "desc": "Chamada de cooperação científica e tecnológica voltada à bioeconomia amazônica, com submissão encerrada em 23/03/2026.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-07-15"
   },
@@ -4387,5 +4383,59 @@
     "desc": "Edital aberto em 2026 que conecta inovação, tecnologia e agronegócio para transformar desafios reais do campo em soluções inovadoras. Trabalha com duas trilhas – Acadêmica e Livre – para apoiar equipes com origem em universidades e iniciativas independentes, oferecendo subvenção financeira, mentoria e conexão com atores do ecossistema agro para desenvolvimento e validação das soluções.[9]",
     "url": "https://www.ruralzap.com.br/blog/lancamento-edital-agrostartups-2026",
     "descobertoEm": "2026-07-17"
+  },
+  {
+    "id": "finep-mais-inovacao-brasil-rodada2-cadeias-agroindustriais",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Cadeias Agroindustriais",
+      "Agroindústria",
+      "PD&I",
+      "Inovação Tecnológica",
+      "Segurança Alimentar",
+      "Sustentabilidade"
+    ],
+    "publico": "Empresas brasileiras com fins lucrativos de qualquer porte, em parceria obrigatória com ICTs (universidades, institutos de pesquisa e centros como Embrapa) para execução de projetos em arranjos simples ou em rede",
+    "valor": "Subvenção econômica não reembolsável total de até R$ 300.000.000,00; por projeto, Arranjo Simples: mínimo R$ 5.000.000,00 e máximo R$ 25.000.000,00; Arranjo em Rede: mínimo R$ 5.000.000,00 e máximo R$ 40.000.000,00",
+    "prazo": "2026-09-30",
+    "desc": "Programa de subvenção econômica para desenvolvimento de produtos e processos inovadores em cadeias agroindustriais sustentáveis, visando modernização da agroindústria, segurança alimentar, redução de dependência de importações e promoção de projetos em rede entre empresas e ICTs, com forte aderência a pesquisadores da agropecuária.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/772",
+    "descobertoEm": "2026-07-18"
+  },
+  {
+    "id": "embrapa-02-2026-seg-meio-norte",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Bolsas para projetos de PD&I aprovados no Sistema Embrapa de Gestão (SEG)",
+    "orgao": "Embrapa Meio-Norte / Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Agronegócio",
+      "Ciências Agrárias"
+    ],
+    "publico": "Estudantes e recém-formados selecionados como bolsistas para atuação em projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": "Bolsa individual de R$ 700,00 mensais (valores conforme edital Embrapa-CNPq)",
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atuar em atividades de projetos de pesquisa, desenvolvimento e inovação já aprovados pelo Sistema Embrapa de Gestão (SEG), no âmbito do Convênio Embrapa/CNPq executado pela Embrapa Meio-Norte.[2]",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-07-18"
+  },
+  {
+    "id": "embrapa-gado-leite-01-2026-parcerias",
+    "titulo": "Edital de Chamamento 01/2026 – Seleção de Organização da Sociedade Civil para parceria com Embrapa Gado de Leite",
+    "orgao": "Embrapa Gado de Leite / Embrapa",
+    "origem": "Nacional",
+    "areas": [
+      "Produção animal",
+      "Leite e derivados",
+      "Desenvolvimento tecnológico no agronegócio"
+    ],
+    "publico": "Organizações da Sociedade Civil interessadas em celebrar parceria com a Embrapa Gado de Leite",
+    "valor": "Valor global a ser definido na proposta de captação apresentada pela OSC, conforme condições do edital",
+    "prazo": "2026-03-11",
+    "desc": "Chamamento público para seleção de Organização da Sociedade Civil para celebração de parceria com a Embrapa Gado de Leite, incluindo apresentação de proposta, plano de trabalho, metas, indicadores, prazos de execução e valor global da parceria.[3]",
+    "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
+    "descobertoEm": "2026-07-18"
   }
 ]
