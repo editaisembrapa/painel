@@ -1562,20 +1562,20 @@
   {
     "id": "fapeam-fapesp-2026-bioeconomia",
     "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos Colaborativos em Bioeconomia Amazônica",
-    "orgao": "FAPEAM · FAPESP",
-    "origem": "Estadual · AM",
+    "orgao": "FAPEAM/FAPESP",
+    "origem": "Nacional",
     "areas": [
-      "Bioeconomia amazônica",
-      "Desenvolvimento sustentável",
-      "Inovação tecnológica",
-      "Ciências agrárias",
-      "Recursos naturais",
-      "Meio ambiente"
+      "Bioeconomia Amazônica",
+      "Ciências Agrárias",
+      "Recursos Florestais",
+      "Biotecnologia",
+      "Inovação Tecnológica",
+      "Desenvolvimento Sustentável"
     ],
-    "publico": "Pesquisadores vinculados a Instituições de Ensino Superior e/ou de Pesquisa dos estados do Amazonas e de São Paulo",
-    "valor": "Auxílio à Pesquisa Regular FAPESP (APR) + financiamento FAPEAM; duração dos projetos: até 36 meses",
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo, com projetos colaborativos em parceria entre grupos dos dois estados",
+    "valor": "Modalidade Auxílio à Pesquisa Regular (FAPESP) com custeio e bolsas conforme normas da FAPESP e FAPEAM; duração dos projetos de até 36 meses",
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta da FAPEAM e FAPESP para projetos colaborativos voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras na área da bioeconomia amazônica, incluindo pesquisa aplicada em uso sustentável de recursos da Amazônia, cadeias produtivas e inovação em setores como agropecuária e floresta em pé.",
+    "desc": "Chamada conjunta destinada ao financiamento de projetos de pesquisa colaborativos entre grupos do Amazonas e de São Paulo, voltados ao desenvolvimento de soluções inovadoras em bioeconomia amazônica, incluindo cadeias produtivas agroflorestais, uso sustentável da biodiversidade e inovação em sistemas produtivos rurais na Amazônia.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-21"
   },
@@ -1899,15 +1899,16 @@
     "orgao": "CAPES",
     "origem": "Internacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Mobilidade acadêmica",
-      "Cooperação internacional",
-      "Pesquisa e pós-graduação"
+      "Ciências Agrárias",
+      "Agroecologia",
+      "Engenharias",
+      "Ciências Biológicas",
+      "Ciências Ambientais"
     ],
-    "publico": "Docentes, pesquisadores e estudantes de pós-graduação de instituições participantes da Associação de Universidades Grupo Montevidéu (AUGM)",
-    "valor": "Concessão de bolsas de estudo e auxílios para mobilidade acadêmica internacional, conforme condições financeiras descritas no edital[7]",
+    "publico": "Docentes e pesquisadores de instituições brasileiras participantes da Associação de Universidades Grupo Montevideo (AUGM), incluindo áreas de agropecuária",
+    "valor": "Auxílios e bolsas de mobilidade internacional conforme normas específicas do programa CAPES/AUGM[5]",
     "prazo": "2026-07-02",
-    "desc": "Programa de cooperação acadêmica internacional entre instituições brasileiras e universidades da AUGM, oferecendo bolsas e auxílios para mobilidade de estudantes e docentes, favorecendo projetos de pesquisa em diversas áreas, incluindo ciências agrárias e agropecuária.[7]",
+    "desc": "Programa de cooperação internacional CAPES/AUGM voltado à concessão de bolsas e auxílios para projetos e mobilidade acadêmica em universidades da rede AUGM, contemplando diversas áreas do conhecimento, inclusive ciências agrárias e temas ligados à agropecuária e sustentabilidade.[5]",
     "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
     "descobertoEm": "2026-06-22"
   },
@@ -2514,17 +2515,17 @@
     "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Agropecuária",
       "Ciências Agrárias",
+      "Agropecuária",
+      "Engenharia Agrícola",
       "Zootecnia",
-      "Agronomia"
+      "Ciência e Tecnologia de Alimentos"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino no Brasil, incluindo pesquisadores da agropecuária/Embrapa",
-    "valor": "Faixa A até R$ 100.000,00; Faixa B até R$ 200.000,00; Faixa C até R$ 250.000,00, em custeio, capital e/ou bolsas[6][12]",
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa brasileiras, incluindo pesquisadores da Embrapa e demais instituições de agropecuária",
+    "valor": "Faixa A: até R$ 243.520,00; Faixa B: até R$ 200.000,00; Faixa C: até R$ 250.000,00[6]",
     "prazo": "2026-08-03",
-    "desc": "Apoio a projetos de pesquisa em qualquer área do conhecimento, visando contribuir significativamente para o desenvolvimento científico e tecnológico e a inovação do País, com possibilidade de despesas em custeio, capital e bolsas, adequado a projetos de PD&I e pesquisa aplicada em agropecuária.[4][6][12]",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "desc": "Chamada universal para apoio a projetos de pesquisa que contribuam para o desenvolvimento científico e tecnológico e a inovação do País, em qualquer área do conhecimento, com recursos do FNDCT e possibilidade de custeio, capital e bolsas, adequada para projetos em agropecuária, produção animal, vegetal e áreas correlatas.[3][6][8]",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -4537,5 +4538,120 @@
     "desc": "Conjunto de chamadas públicas voltadas ao desenvolvimento de soluções tecnológicas para agricultura familiar e aquicultura, incluindo projetos de pesquisa, transferência tecnológica, capacitação e industrialização de maquinários e insumos de pequeno porte, com foco em inovação agro e aumento de renda de pequenos produtores.",
     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/finep-vai-pagar-r-220-milhoes-para-inovacoes-em-agricultura-familiar",
     "descobertoEm": "2026-07-19"
+  },
+  {
+    "id": "cnpq-mcti-14-2026-brics-sti",
+    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI nº 14/2026",
+    "orgao": "MCTI/CNPq/FNDCT",
+    "origem": "Internacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Alimentos",
+      "Biotecnologia",
+      "Sustentabilidade",
+      "Inovação em Agropecuária"
+    ],
+    "publico": "Grupos de pesquisa brasileiros com cooperação em países BRICS, incluindo equipes da Embrapa e instituições de agropecuária, em projetos de P,D&I multidisciplinares",
+    "valor": "Valor global de R$ 33.000.000,00, sendo R$ 19.000.000,00 para custeio e R$ 14.000.000,00 para bolsas, com financiamento pelo FNDCT[1]",
+    "prazo": "2026-07-06",
+    "desc": "Chamada para apoio a projetos de pesquisa, desenvolvimento e inovação no âmbito da cooperação multilateral BRICS, incluindo a Framework Programme Call 2026 e a Pilot BRICS STI Flagship Projects Call 2026, com temas prioritários como alimentos, saúde e outras áreas estratégicas, fomentando redes internacionais de pesquisa aplicáveis à agropecuária e sistemas alimentares.[1][5]",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-14-2026/7CHAMADAPBLICAMCTICNPqBRICSSTIN142026SEI_CNPq2682149ChamadaPblica.pdf",
+    "descobertoEm": "2026-07-20"
+  },
+  {
+    "id": "fapeam-araucaria-2026-cp16",
+    "titulo": "Chamada Pública 16/2026 – Cooperação FAPEAM/Fundação Araucária",
+    "orgao": "FAPEAM/Fundação Araucária (PR)",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia",
+      "Ciências Agrárias",
+      "Agropecuária Sustentável",
+      "Meio Ambiente",
+      "Inovação em Cadeias Produtivas"
+    ],
+    "publico": "Pesquisadores vinculados a instituições sediadas no Estado do Amazonas (submissão à FAPEAM) e no Estado do Paraná (submissão à Fundação Araucária), em projetos cooperativos entre as duas unidades federativas",
+    "valor": "Valores de apoio estabelecidos separadamente pelas duas Fundações, contemplando custeio e bolsas para projetos cooperativos em áreas estratégicas",
+    "prazo": null,
+    "desc": "Chamada pública de cooperação entre FAPEAM e Fundação Araucária para apoio a projetos conjuntos de pesquisa, com submissão simultânea às duas Fundações. Foca em temas estratégicos como bioeconomia, sistemas produtivos agropecuários sustentáveis e uso sustentável de recursos naturais, com forte componente de Amazônia.",
+    "url": "https://www.fappr.pr.gov.br/sites/fundacao-araucaria/arquivos_restritos/files/documento/2026-06/cp_16-2026_fapeam.pdf",
+    "descobertoEm": "2026-07-20"
+  },
+  {
+    "id": "embrapa-selecao-05-2026-brs-fs318",
+    "titulo": "Edital de Seleção 05-2026 – Parceria para finalização do desenvolvimento tecnológico e licenciamento da cultivar de feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão",
+    "origem": "Interno",
+    "areas": [
+      "PD&I",
+      "Transferência de tecnologia",
+      "Parcerias tecnológicas",
+      "Agronegócio",
+      "Feijão comum",
+      "Melhoramento de plantas"
+    ],
+    "publico": "Produtores de sementes de feijão comum registrados no RENASEM interessados em estabelecer Acordo de Cooperação Técnica e Financeira com a Embrapa",
+    "valor": null,
+    "prazo": "2026-03-09",
+    "desc": "Oferta pública para seleção de 1 produtor de sementes para parceria estratégica com a Embrapa, visando finalizar o desenvolvimento tecnológico, promover o lançamento no mercado e viabilizar o licenciamento para multiplicação de sementes básicas e subsequentes da cultivar de feijão comum tipo roxinho BRS FS318.[2]",
+    "url": "https://www.embrapa.br/en/editais-e-ofertas-publicas-para-licenciamento/-/asset_publisher/bAm8YE8Ljj9I/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "descobertoEm": "2026-07-20"
+  },
+  {
+    "id": "faperj-2026-agro-do-futuro",
+    "titulo": "Edital nº 07/2026 – Programa Agro do Futuro – Tecnologia e Soberania Alimentar (FoodTechs e AgriTechs)",
+    "orgao": "FAPERJ",
+    "origem": "Estadual · AM",
+    "areas": [
+      "foodtech",
+      "agritech",
+      "inovação agroalimentar",
+      "tecnologia",
+      "soberania alimentar"
+    ],
+    "publico": "Pesquisadores, startups, ICTs e empresas elegíveis conforme edital",
+    "valor": "Não informado no resultado disponível",
+    "prazo": "2026-06-23",
+    "desc": "Programa estadual de apoio a projetos inovadores voltados à transformação tecnológica do setor agroalimentar fluminense.",
+    "url": "https://www.faperj.br/?id=1039.7.9",
+    "descobertoEm": "2026-07-20"
+  },
+  {
+    "id": "mda-2026-sociobiodiversidade-plantas-medicinais",
+    "titulo": "Edital SFDT nº 02/2026 – Estruturação e Fortalecimento de Cadeias Produtivas da Sociobiodiversidade e de Plantas Medicinais, Aromáticas e Condimentares",
+    "orgao": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+    "origem": "Nacional",
+    "areas": [
+      "sociobiodiversidade",
+      "plantas medicinais",
+      "plantas aromáticas",
+      "plantas condimentares",
+      "cadeias produtivas"
+    ],
+    "publico": "Organizações da Sociedade Civil (OSCs)",
+    "valor": "Não informado no trecho consultado",
+    "prazo": "2026-08-09",
+    "desc": "Chamamento público nacional para apoiar estruturação e fortalecimento de cadeias produtivas ligadas à sociobiodiversidade e a plantas de uso medicinal e condimentar.",
+    "url": "https://www.gov.br/mda/pt-br/acesso-a-informacao/participacao-social/Editais-de-chamamento-publico/2026/edital-sfdt-no-02-2026-estruturacao-e-fortalecimento-de-cadeias-produtivas-da-sociobiodiversidade-e-de-plantas-medicinais-aromaticas-e-condimentares/SEI_54002979_Edital.pdf",
+    "descobertoEm": "2026-07-20"
+  },
+  {
+    "id": "embrapa-2026-observatorio-mulheres-rurais-editais",
+    "titulo": "Editais do Observatório das Mulheres Rurais do Brasil",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "agropecuária",
+      "mulheres rurais",
+      "inovação social",
+      "desenvolvimento rural",
+      "pesquisa aplicada"
+    ],
+    "publico": "Pesquisadores, instituições e parceiros conforme cada edital",
+    "valor": "Não informado no trecho consultado",
+    "prazo": "2026-08-31",
+    "desc": "Página agregadora de editais vinculados ao Observatório das Mulheres Rurais do Brasil, com chamadas específicas ao longo de 2026.",
+    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "descobertoEm": "2026-07-20"
   }
 ]
