@@ -1562,20 +1562,19 @@
   {
     "id": "fapeam-fapesp-2026-bioeconomia",
     "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos Colaborativos em Bioeconomia Amazônica",
-    "orgao": "FAPEAM/FAPESP",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas; FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
     "origem": "Nacional",
     "areas": [
       "Bioeconomia Amazônica",
       "Ciências Agrárias",
-      "Recursos Florestais",
       "Biotecnologia",
-      "Inovação Tecnológica",
-      "Desenvolvimento Sustentável"
+      "Meio Ambiente",
+      "Economia e Políticas Públicas"
     ],
-    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo, com projetos colaborativos em parceria entre grupos dos dois estados",
-    "valor": "Modalidade Auxílio à Pesquisa Regular (FAPESP) com custeio e bolsas conforme normas da FAPESP e FAPEAM; duração dos projetos de até 36 meses",
+    "publico": "Pesquisadores vinculados a Instituições de Ensino Superior e/ou de Pesquisa dos estados do Amazonas e de São Paulo, interessados em projetos colaborativos em bioeconomia amazônica",
+    "valor": "Modalidade Auxílio à Pesquisa Regular (APR) pela FAPESP; valores por projeto definidos pelas regras de APR da FAPESP e normas da FAPEAM",
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta destinada ao financiamento de projetos de pesquisa colaborativos entre grupos do Amazonas e de São Paulo, voltados ao desenvolvimento de soluções inovadoras em bioeconomia amazônica, incluindo cadeias produtivas agroflorestais, uso sustentável da biodiversidade e inovação em sistemas produtivos rurais na Amazônia.",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para projetos colaborativos na área de bioeconomia amazônica, incluindo cadeias produtivas, uso sustentável de recursos, agropecuária e inovação tecnológica na Amazônia; propostas de até 36 meses, submetidas simultaneamente via SIGFAPEAM e SAGe até 23/03/2026.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-21"
   },
@@ -2193,20 +2192,22 @@
   {
     "id": "cnpq-brics-sti-14-2026",
     "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI nº 14/2026",
-    "orgao": "CNPq",
+    "orgao": "CNPq/MCTI/FNDCT (BRICS STI Framework Programme)",
     "origem": "Internacional",
     "areas": [
       "Alimentos",
-      "Culturas Resilientes ao Clima",
-      "Biotecnologia Vegetal Avançada",
-      "Agricultura Sustentável",
+      "Culturas resilientes ao clima",
+      "Biotecnologia vegetal avançada",
+      "Pesca sustentável",
+      "Aquicultura",
+      "Monitoramento da qualidade dos alimentos",
       "Ciências Agrárias",
       "PD&I em agropecuária"
     ],
-    "publico": "Equipes de pesquisa brasileiras em cooperação com instituições dos países BRICS, incluindo pesquisadores da agropecuária/Embrapa interessados em projetos multilaterais de PD&I",
-    "valor": "R$ 33.000.000,00 em recursos do FNDCT, sendo R$ 19.000.000,00 para custeio e R$ 14.000.000,00 para bolsas",
+    "publico": "Grupos de pesquisa e instituições científicas brasileiras que participem de consórcios BRICS, incluindo equipes da Embrapa e ICTs com projetos em agropecuária e alimentos",
+    "valor": "Valor global de R$ 33.000.000,00, oriundos do FNDCT, sendo R$ 19.000.000,00 para custeio e R$ 14.000.000,00 para bolsas; apoio a projetos de pesquisa, desenvolvimento e inovação em cooperação multilateral BRICS",
     "prazo": "2026-07-06",
-    "desc": "Chamada pública para apoiar projetos de pesquisa, desenvolvimento e inovação no âmbito da cooperação multilateral BRICS, com foco em temas estratégicos como alimentos, culturas resilientes ao clima e biotecnologia vegetal avançada, entre outros, financiando custeio e bolsas para projetos colaborativos internacionais.",
+    "desc": "Chamada pública para apoiar projetos de pesquisa, desenvolvimento e inovação no âmbito da cooperação multilateral BRICS, com linhas temáticas em alimentos, culturas resilientes ao clima, biotecnologia vegetal, pesca sustentável, aquicultura e monitoramento da qualidade dos alimentos, de alto interesse para pesquisadores de agropecuária e Embrapa.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-14-2026/7CHAMADAPBLICAMCTICNPqBRICSSTIN142026SEI_CNPq2682149ChamadaPblica.pdf",
     "descobertoEm": "2026-06-26"
   },
@@ -2515,17 +2516,17 @@
     "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Ciências Agrárias",
+      "Todas as áreas do conhecimento",
       "Agropecuária",
-      "Engenharia Agrícola",
-      "Zootecnia",
-      "Ciência e Tecnologia de Alimentos"
+      "Ciências Agrárias",
+      "Engenharias",
+      "Ciências Biológicas"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa brasileiras, incluindo pesquisadores da Embrapa e demais instituições de agropecuária",
-    "valor": "Faixa A: até R$ 243.520,00; Faixa B: até R$ 200.000,00; Faixa C: até R$ 250.000,00[6]",
+    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, incluindo pesquisadores da Embrapa",
+    "valor": "Faixa A até R$ 243.520,00 (incluindo custeio, capital e bolsas); Faixa B até R$ 200.000,00; Faixa C até R$ 250.000,00; recursos oriundos do FNDCT",
     "prazo": "2026-08-03",
-    "desc": "Chamada universal para apoio a projetos de pesquisa que contribuam para o desenvolvimento científico e tecnológico e a inovação do País, em qualquer área do conhecimento, com recursos do FNDCT e possibilidade de custeio, capital e bolsas, adequada para projetos em agropecuária, produção animal, vegetal e áreas correlatas.[3][6][8]",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "desc": "Chamada universal para apoio a projetos de pesquisa em qualquer área do conhecimento, com foco no desenvolvimento científico, tecnológico e na inovação do País, contemplando custeio, capital e bolsas, aberta a projetos em agropecuária e PD&I relevantes para Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -4561,19 +4562,19 @@
   {
     "id": "fapeam-araucaria-2026-cp16",
     "titulo": "Chamada Pública 16/2026 – Cooperação FAPEAM/Fundação Araucária",
-    "orgao": "FAPEAM/Fundação Araucária (PR)",
+    "orgao": "Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM); Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Estado do Paraná",
     "origem": "Nacional",
     "areas": [
-      "Bioeconomia",
       "Ciências Agrárias",
-      "Agropecuária Sustentável",
       "Meio Ambiente",
-      "Inovação em Cadeias Produtivas"
+      "Ciências Biológicas",
+      "Desenvolvimento Regional",
+      "Interdisciplinar"
     ],
-    "publico": "Pesquisadores vinculados a instituições sediadas no Estado do Amazonas (submissão à FAPEAM) e no Estado do Paraná (submissão à Fundação Araucária), em projetos cooperativos entre as duas unidades federativas",
-    "valor": "Valores de apoio estabelecidos separadamente pelas duas Fundações, contemplando custeio e bolsas para projetos cooperativos em áreas estratégicas",
+    "publico": "Pesquisadores vinculados a instituições sediadas no Estado do Amazonas e no Estado do Paraná, coordenando projetos cooperativos nas respectivas Fundações",
+    "valor": "Valores e número de propostas apoiadas definidos na chamada pública conjunta pelas duas Fundações",
     "prazo": null,
-    "desc": "Chamada pública de cooperação entre FAPEAM e Fundação Araucária para apoio a projetos conjuntos de pesquisa, com submissão simultânea às duas Fundações. Foca em temas estratégicos como bioeconomia, sistemas produtivos agropecuários sustentáveis e uso sustentável de recursos naturais, com forte componente de Amazônia.",
+    "desc": "Chamada pública de cooperação científica entre FAPEAM e Fundação Araucária para projetos conjuntos, com submissão simultânea nas plataformas eletrônicas das duas Fundações; inclui temas de interesse comum como desenvolvimento regional, meio ambiente e cadeias produtivas, com potencial aplicação à agropecuária na Amazônia.",
     "url": "https://www.fappr.pr.gov.br/sites/fundacao-araucaria/arquivos_restritos/files/documento/2026-06/cp_16-2026_fapeam.pdf",
     "descobertoEm": "2026-07-20"
   },
@@ -4653,5 +4654,42 @@
     "desc": "Página agregadora de editais vinculados ao Observatório das Mulheres Rurais do Brasil, com chamadas específicas ao longo de 2026.",
     "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-07-20"
+  },
+  {
+    "id": "embrapa-seg-osc-01-2026",
+    "titulo": "Chamamento Público 01/2026 – Parceria com Organização da Sociedade Civil (OSC) – Embrapa Gado de Leite",
+    "orgao": "Embrapa Gado de Leite",
+    "origem": "Interno",
+    "areas": [
+      "P&D agropecuário",
+      "Transferência de tecnologia",
+      "Produção de leite",
+      "Desenvolvimento rural"
+    ],
+    "publico": "Organizações da Sociedade Civil qualificadas para atuação em projetos de desenvolvimento e transferência de tecnologia na área de produção de leite",
+    "valor": "Valor global do objeto da parceria a ser definido em plano de trabalho; prevê captação de recursos conforme proposta aprovada",
+    "prazo": "2026-03-11",
+    "desc": "Chamamento público interno da Embrapa Gado de Leite para seleção de Organização da Sociedade Civil visando celebração de parceria para execução de ações de PD&I e transferência de tecnologia relacionadas à produção de leite. O edital estabelece a apresentação de proposta e plano de trabalho com descrição da realidade objeto da parceria, ações, metas, indicadores, prazos e valor global, com submissão até 11/03/2026 por envelope físico, seguindo procedimentos do Sistema Embrapa de Gestão (SEG) para acordos de cooperação.",
+    "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
+    "descobertoEm": "2026-07-21"
+  },
+  {
+    "id": "finep-mais-inovacao-cadeias-agroindustriais-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "Finep / MCTI / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agroindustrial",
+      "Agronegócio sustentável",
+      "Foodtech",
+      "Saúde animal",
+      "Tecnologias verdes"
+    ],
+    "publico": "Empresas brasileiras em parceria obrigatória com ICT (universidades e institutos de pesquisa)",
+    "valor": "Arranjo simples entre R$ 5.000.000,00 e R$ 25.000.000,00 por proposta; orçamento total estimado em cerca de R$ 300.000.000,00 em subvenção econômica para cadeias agroindustriais sustentáveis",
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública da Finep Mais Inovação Brasil voltada ao apoio a projetos empresariais de inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agroindústrias, foodtechs e saúde animal, com foco em aumento de produtividade, sustentabilidade ambiental, redução de emissões e desenvolvimento de novos produtos e processos para o setor agroalimentar. Exige a participação de empresa líder em articulação com Instituições Científicas e Tecnológicas brasileiras e enquadra-se como uso de recursos não reembolsáveis do FNDCT para projetos executados no território nacional.",
+    "url": "https://www.unisinos.br/portal-de-inovacao/component/content/article/finep-mais-inovacao-brasil-rodada-2-cadeias-agroindustriais-sustentaveis?catid=95&Itemid=437",
+    "descobertoEm": "2026-07-21"
   }
 ]
