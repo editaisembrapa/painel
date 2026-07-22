@@ -2513,20 +2513,20 @@
   {
     "id": "cnpq-fndct-06-2026-universal",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
-    "orgao": "CNPq/FNDCT",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Agropecuária",
       "Ciências Agrárias",
+      "Ciências Biológicas",
       "Engenharias",
-      "Ciências Biológicas"
+      "Interdisciplinar",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, incluindo pesquisadores da Embrapa",
-    "valor": "Faixa A até R$ 243.520,00 (incluindo custeio, capital e bolsas); Faixa B até R$ 200.000,00; Faixa C até R$ 250.000,00; recursos oriundos do FNDCT",
+    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior ou de pesquisa no Brasil, em qualquer área do conhecimento",
+    "valor": "Valor global de R$ 300.000.000,00; Faixa A até R$ 243.520,00, Faixa B até R$ 200.000,00 e Faixa C até R$ 250.000,00 por projeto[2][5]",
     "prazo": "2026-08-03",
-    "desc": "Chamada universal para apoio a projetos de pesquisa em qualquer área do conhecimento, com foco no desenvolvimento científico, tecnológico e na inovação do País, contemplando custeio, capital e bolsas, aberta a projetos em agropecuária e PD&I relevantes para Embrapa.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "desc": "Apoiar projetos de pesquisa que visem contribuir significativamente para o desenvolvimento científico e tecnológico e a inovação do País, em qualquer área do conhecimento, por meio de apoio financeiro a projetos em três faixas de valores, incluindo possibilidade de bolsas de IC, ITI, AT, PDJ ou PDS para coordenação de projeto.[2][5][7]",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -3643,18 +3643,20 @@
   },
   {
     "id": "embrapa-05-2026-feijao-brs-fs318",
-    "titulo": "Edital de Seleção 05-2026 – Oferta pública para parceria e licenciamento da cultivar de feijão BRS FS318",
-    "orgao": "Embrapa Arroz e Feijão / Embrapa",
+    "titulo": "Edital de Seleção 05-2026 – Parceria estratégica e licenciamento da cultivar de feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão",
     "origem": "Nacional",
     "areas": [
       "Transferência de tecnologia",
-      "Licenciamento de cultivares",
-      "Feijão comum (Phaseolus vulgaris L.)"
+      "Licenciamento de cultivar",
+      "Produção de sementes",
+      "Feijão comum (Phaseolus vulgaris L.)",
+      "Parcerias técnico-financeiras"
     ],
-    "publico": "Produtor de sementes inscrito no RENASEM como produtor de sementes de feijão comum",
-    "valor": "Valores e condições econômicas da parceria e do licenciamento definidos em Acordo de Cooperação Técnica e Financeira (ACTF)",
+    "publico": "Produtor de sementes inscrito no RENASEM como produtor de sementes de feijão comum, interessado em estabelecer acordo de cooperação técnica e financeira com a Embrapa",
+    "valor": "Não especificado em valor fixo no edital; condições econômico-financeiras definidas no Acordo de Cooperação Técnica e Financeira (ACTF) e no licenciamento",
     "prazo": "2026-03-09",
-    "desc": "Oferta pública para seleção de um produtor de sementes interessado em estabelecer parceria estratégica com a Embrapa Arroz e Feijão, por meio de Acordo de Cooperação Técnica e Financeira, para finalizar o desenvolvimento tecnológico, promover o lançamento no mercado e obter licenciamento para multiplicação de sementes da cultivar de feijão comum tipo roxinho BRS FS318.[4]",
+    "desc": "Oferta pública para seleção de um produtor de sementes para estabelecer parceria estratégica com a Embrapa Arroz e Feijão, visando finalizar o desenvolvimento tecnológico, lançar no mercado a cultivar de feijão tipo roxinho BRS FS318 e firmar acordo de cooperação técnica e financeira, incluindo licenciamento para multiplicação de sementes básicas e subsequentes.",
     "url": "https://www.embrapa.br/en/editais-e-ofertas-publicas-para-licenciamento/-/asset_publisher/bAm8YE8Ljj9I/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
     "descobertoEm": "2026-07-12"
   },
@@ -4691,5 +4693,155 @@
     "desc": "Chamada pública da Finep Mais Inovação Brasil voltada ao apoio a projetos empresariais de inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agroindústrias, foodtechs e saúde animal, com foco em aumento de produtividade, sustentabilidade ambiental, redução de emissões e desenvolvimento de novos produtos e processos para o setor agroalimentar. Exige a participação de empresa líder em articulação com Instituições Científicas e Tecnológicas brasileiras e enquadra-se como uso de recursos não reembolsáveis do FNDCT para projetos executados no território nacional.",
     "url": "https://www.unisinos.br/portal-de-inovacao/component/content/article/finep-mais-inovacao-brasil-rodada-2-cadeias-agroindustriais-sustentaveis?catid=95&Itemid=437",
     "descobertoEm": "2026-07-21"
+  },
+  {
+    "id": "cnpq-07-2026-pibic",
+    "titulo": "Chamada Pública CNPq Nº 07/2026 - Programa Institucional de Bolsas de Iniciação Científica (PIBIC)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Engenharias",
+      "Interdisciplinar",
+      "Agropecuária"
+    ],
+    "publico": "Instituições de ensino superior e institutos de ciência e tecnologia que mantenham programas de iniciação científica",
+    "valor": "Valor em bolsas de iniciação científica distribuídas entre instituições selecionadas; número e valores das bolsas definidos na chamada específica[6]",
+    "prazo": "2026-08-05",
+    "desc": "Seleção de propostas institucionais para concessão de bolsas de Iniciação Científica (PIBIC), visando o desenvolvimento do potencial de estudantes de graduação para a pesquisa em todas as áreas do conhecimento, incluindo ciências agrárias e agropecuária.[6]",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-07-2026/chamada-publica-cnpq-N-07-2026",
+    "descobertoEm": "2026-07-22"
+  },
+  {
+    "id": "cnpq-23-2025-bolsas-produtividade",
+    "titulo": "Chamada CNPq Nº 23/2025 - Bolsas de Produtividade em Pesquisa (PQ), Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQSr)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Engenharias",
+      "Medicina Veterinária",
+      "Agropecuária"
+    ],
+    "publico": "Pesquisadores doutores com produção científica, tecnológica ou de inovação de destaque em suas áreas, incluindo ciências agrárias e afins",
+    "valor": "Concessão de bolsas de produtividade nas modalidades PQ, DT e PQSr, com valores e duração conforme normas gerais do CNPq[9]",
+    "prazo": "2026-01-20",
+    "desc": "Conceder bolsas de produtividade em pesquisa, desenvolvimento tecnológico e extensão inovadora, visando valorizar e incentivar pesquisadores com produção científica e tecnológica de excelência em todas as áreas, inclusive agropecuária/Embrapa. Edital ainda vigente em parte do período de inscrições em 2026.[9]",
+    "url": "http://grupo-portal.cnpq.br/web/guest/chamadas-publicas",
+    "descobertoEm": "2026-07-22"
+  },
+  {
+    "id": "cnpq-mcti-02-2026-cooperacao-latinoamericana",
+    "titulo": "Chamada Pública MCTI/CNPq Nº 02/2026 - Programa de Cooperação Latino-Americana em Ciência, Tecnologia e Inovação",
+    "orgao": "CNPq",
+    "origem": "Internacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Engenharias",
+      "Agropecuária",
+      "PD&I"
+    ],
+    "publico": "Grupos de pesquisa brasileiros em cooperação com instituições de países latino-americanos, em áreas estratégicas de ciência, tecnologia e inovação",
+    "valor": "Apoio financeiro a projetos de cooperação internacional; valores por projeto definidos na chamada específica[8]",
+    "prazo": "2026-04-30",
+    "desc": "Selecionar propostas de cooperação científica e tecnológica entre grupos de pesquisa do Brasil e da América Latina, para desenvolvimento de projetos em diversas áreas, incluindo ciências agrárias e PD&I, com submissão de propostas on-line de 28/01/2026 a 30/04/2026.[8]",
+    "url": "https://cdnc.heyzine.com/files/uploaded/v3/6df905d3aea9ed36e30c299275341e3284d77d09.pdf",
+    "descobertoEm": "2026-07-22"
+  },
+  {
+    "id": "capes-augm-09-2026",
+    "titulo": "Chamada CNPq/MCTI/MEC Nº 09/2026 - Programa CAPES-AUGM (Associação de Universidades Grupo Montevidéu)",
+    "orgao": "CAPES",
+    "origem": "Internacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Engenharias",
+      "Agropecuária",
+      "Interdisciplinar"
+    ],
+    "publico": "Estudantes e pesquisadores vinculados a instituições participantes da AUGM em programas de mobilidade acadêmica e pesquisa",
+    "valor": "Bolsas de mobilidade e apoio à cooperação internacional, com valores definidos pela CAPES para bolsas internacionais[10]",
+    "prazo": null,
+    "desc": "Programa de cooperação internacional CAPES-AUGM voltado à mobilidade acadêmica e ao desenvolvimento de projetos conjuntos de pesquisa entre universidades brasileiras e da Associação de Universidades Grupo Montevidéu, em diversas áreas inclusive ciências agrárias.[10]",
+    "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-capes-augm",
+    "descobertoEm": "2026-07-22"
+  },
+  {
+    "id": "fapeam-araucaria-16-2026-coop-amazonas-parana",
+    "titulo": "Chamada Pública Conjunta FAPEAM / Fundação Araucária Nº 16/2026",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas; Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná",
+    "origem": "Nacional",
+    "areas": [
+      "Cooperação interinstitucional",
+      "Ciência e tecnologia",
+      "Desenvolvimento regional",
+      "Amazônia",
+      "Paraná"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa sediadas nos Estados do Amazonas e do Paraná, em projetos cooperativos submetidos simultaneamente à FAPEAM e à Fundação Araucária",
+    "valor": "Não explicitado no extrato; apoio a projetos cooperativos financiados pelas duas FAPs",
+    "prazo": "2026-07-15",
+    "desc": "Chamada pública conjunta entre FAPEAM (Amazonas) e Fundação Araucária (Paraná) para apoiar projetos de pesquisa cooperativa entre instituições dos dois estados, com submissão simultânea nas plataformas Sparkx (Araucária) e SIGFAPEAM (FAPEAM) até 15/07/2026.",
+    "url": "https://www.fappr.pr.gov.br/sites/fundacao-araucaria/arquivos_restritos/files/documento/2026-06/cp_16-2026_fapeam.pdf",
+    "descobertoEm": "2026-07-22"
+  },
+  {
+    "id": "fapeam-fapesp-2026-bioeconomia-amazonica",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos Colaborativos em Bioeconomia Amazônica",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas; FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Inovação",
+      "Ciência e tecnologia",
+      "Desenvolvimento sustentável",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo, interessados em projetos colaborativos na área de bioeconomia amazônica",
+    "valor": "Modalidades: FAPESP – Auxílio à Pesquisa Regular; valores conforme regras de cada fundação na chamada",
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para apoio a projetos colaborativos voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras na área da bioeconomia amazônica. Submissões pelo SIGFAPEAM (FAPEAM) e pelo SAGe (FAPESP) até 23/03/2026.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-07-22"
+  },
+  {
+    "id": "fapema-uema-19-2026-maranhao",
+    "titulo": "EDITAL FAPEMA/UEMA Nº 19/2026",
+    "orgao": "FAPEMA – Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão; UEMA – Universidade Estadual do Maranhão",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa acadêmica",
+      "Desenvolvimento científico e tecnológico",
+      "Possível foco em temas regionais amazônicos e agropecuários, conforme chamada",
+      "Maranhão"
+    ],
+    "publico": "Pesquisadores e docentes vinculados à UEMA e demais instituições elegíveis no Estado do Maranhão, conforme regras específicas do edital",
+    "valor": "Não explicitado no extrato; valores e modalidades de apoio detalhados na íntegra do edital",
+    "prazo": null,
+    "desc": "Edital FAPEMA/UEMA nº 19/2026 voltado ao apoio a projetos de pesquisa e desenvolvimento científico e tecnológico no Maranhão, com potencial relevância para temas amazônicos e agropecuários devido à inserção regional do estado. Regras, áreas específicas e prazos detalhados na página de editais abertos da FAPEMA.",
+    "url": "https://www.fapema.br/editais/",
+    "descobertoEm": "2026-07-22"
+  },
+  {
+    "id": "embrapa-02-2026-convenio-cnpq",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Seleção de bolsistas para projetos de PD&I aprovados no SEG",
+    "orgao": "Embrapa Meio-Norte / Embrapa–CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Agronegócio",
+      "Sistemas agrícolas",
+      "Projetos aprovados no Sistema Embrapa de Gestão (SEG)"
+    ],
+    "publico": "Estudantes e profissionais para atuação como bolsistas em projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": "R$ 700,00/mês por bolsa (demais valores e modalidades conforme edital)",
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atuação em atividades de projetos de pesquisa, desenvolvimento e inovação já aprovados pelo Sistema Embrapa de Gestão (SEG), no âmbito do Convênio Embrapa/CNPq, conduzido pela Embrapa Meio-Norte.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-07-22"
   }
 ]
