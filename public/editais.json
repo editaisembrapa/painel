@@ -1747,21 +1747,21 @@
   },
   {
     "id": "cnpq-06-2026-universal",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
+      "Todas as áreas do conhecimento",
       "Ciências Agrárias",
-      "Ciências Biológicas",
+      "Ciências Ambientais",
       "Engenharias",
-      "Interdisciplinar",
-      "Agropecuária",
-      "PD&I"
+      "Ciências Exatas e da Terra",
+      "Ciências Biológicas"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, incluindo unidades da Embrapa, para apoio a projetos de pesquisa em todas as áreas do conhecimento",
-    "valor": "Valor global de recursos do FNDCT (custeio, capital e bolsas) distribuídos em faixas de até R$ 2.000.000,00; até R$ 3.500.000,00 e até R$ 5.500.000,00 por projeto",
-    "prazo": null,
-    "desc": "Chamada Universal para apoio a projetos de pesquisa científica, tecnológica e de inovação em todas as áreas, com recursos do FNDCT, contemplando itens de custeio, capital e bolsas. Elegível para grupos de pesquisa em agropecuária e temas ligados à produção agrícola, pecuária, recursos naturais, bioeconomia e afins.",
+    "publico": "Pesquisadores doutores vinculados a ICTs e instituições de pesquisa brasileiras, incluindo unidades da Embrapa e demais instituições de agropecuária",
+    "valor": "Faixa A até R$ 243.520,00; Faixa B até R$ 200.000,00; Faixa C até R$ 250.000,00 por projeto",
+    "prazo": "2026-08-03",
+    "desc": "Apoiar projetos de pesquisa que contribuam significativamente para o desenvolvimento científico, tecnológico e a inovação do País, em qualquer área do conhecimento, por meio de auxílio à pesquisa com recursos do FNDCT, contemplando diferentes faixas de apoio conforme o perfil do coordenador e do grupo de pesquisa.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-06-22"
   },
