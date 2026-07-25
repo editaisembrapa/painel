@@ -722,19 +722,18 @@
   {
     "id": "bndes-bioinsumos-2026",
     "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
-    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
+    "orgao": "BNDES Fundo Socioambiental",
     "origem": "Nacional",
     "areas": [
       "Bioinsumos",
-      "Agroecossistemas",
-      "Agricultura familiar",
-      "Produção de alimentos saudáveis",
-      "Transição tecnológica no agro"
+      "Agricultura sustentável",
+      "Insumos biológicos para agropecuária",
+      "Inovação verde"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares com projetos de produção de bioinsumos em estruturas industriais ou semi-industriais",
-    "valor": "Até R$ 5.000.000,00 por projeto (recursos do BNDES Fundo Socioambiental)",
+    "publico": "Instituições e organizações aptas a apresentar projetos ao BNDES Fundo Socioambiental, conforme regras da chamada",
+    "valor": "Conforme condições específicas da chamada do BNDES Fundo Socioambiental para Bioinsumos",
     "prazo": "2026-08-31",
-    "desc": "Chamada de projetos do 2º ciclo da iniciativa BNDES Bioinsumos, voltada a fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, em estruturas industriais ou semi-industriais, visando a transição tecnológica para utilização integrada de bioprodutos em agroecossistemas na produção de alimentos saudáveis.",
+    "desc": "Chamada de projetos do 2º ciclo do programa BNDES Bioinsumos, voltada ao apoio a iniciativas de desenvolvimento, produção e uso de bioinsumos para a agropecuária, com foco em sustentabilidade socioambiental.",
     "url": "https://www.embrapa.br/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-06-14"
   },
@@ -3989,22 +3988,21 @@
   },
   {
     "id": "finep-agricultura-familiar-ict-2026",
-    "titulo": "Chamada Pública MCTI/Finep – Inovação para Agricultura Familiar (ICTs)",
-    "orgao": "Ministério da Ciência, Tecnologia e Inovação (MCTI) / Finep",
+    "titulo": "MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026 (Chamada Pública 783)",
+    "orgao": "FINEP / MCTI",
     "origem": "Nacional",
     "areas": [
       "Agricultura familiar",
-      "Bioinsumos",
-      "Produção agroecológica e orgânica",
-      "Soluções digitais para pequenas propriedades",
-      "Aquicultura (peixes nativos)",
-      "Sustentabilidade"
+      "Sistemas agroalimentares sustentáveis",
+      "Sociobiodiversidade",
+      "Pesquisa agropecuária",
+      "Inovação tecnológica em cadeias produtivas"
     ],
-    "publico": "Instituições de pesquisa, universidades, institutos de pesquisa e centros tecnológicos públicos ou privados no Brasil",
-    "valor": "Aporte total de R$ 150.000.000; até R$ 50.000.000 por área de bioinsumos e produção agroecológica/orgânica; até R$ 25.000.000 para soluções digitais e criação de peixes nativos",
-    "prazo": "2026-06-19",
-    "desc": "Edital nacional que financia projetos de pesquisa, desenvolvimento e inovação voltados à agricultura familiar e produção de alimentos sustentáveis, incluindo bioinsumos, produção agroecológica/orgânica, soluções digitais para pequenas propriedades e criação de peixes nativos.",
-    "url": "https://g1.globo.com/ro/rondonia/noticia/2026/04/04/edital-de-r-150-milhoes-vai-financiar-projetos-da-agricultura-familiar-veja-como-se-inscrever.ghtml",
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) brasileiras",
+    "valor": "Recursos não reembolsáveis do FNDCT até R$ 60.000.000 para contratação de até 2 projetos",
+    "prazo": "2026-03-03",
+    "desc": "Chamada pública para apoio financeiro a projetos institucionais que desenvolvam soluções científicas e tecnológicas voltadas ao fortalecimento de cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis baseados na biodiversidade brasileira.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-07-14"
   },
   {
@@ -4029,21 +4027,20 @@
   },
   {
     "id": "faperj-agro-do-futuro-2026",
-    "titulo": "FAPERJ Edital N° 07/2026 – Programa Agro do Futuro: Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
-    "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+    "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (FoodTechs e Agritechs) – RJ – 2026 (Edital FAPERJ nº 07/2026)",
+    "orgao": "FAPERJ",
     "origem": "Estadual · AM",
     "areas": [
       "Foodtech",
       "Agritech",
-      "Tecnologia para agropecuária",
+      "Tecnologia agroalimentar",
       "Soberania alimentar",
-      "Inovação em cadeias produtivas agrícolas",
-      "Pesquisa aplicada em agronegócio"
+      "Inovação em sistemas de produção de alimentos"
     ],
-    "publico": "Empresas e instituições de ciência e tecnologia sediadas ou atuando no Estado do Rio de Janeiro interessadas em projetos inovadores em foodtechs e agritechs",
-    "valor": "Até R$ 1.250.000 por projeto, com prazo de execução de até 24 meses e exigência de 10% de contrapartida financeira",
+    "publico": "Pesquisadores e instituições de pesquisa sediados no Estado do Rio de Janeiro, conforme regras do SisFAPERJ",
+    "valor": "Faixas de apoio definidas no edital para projetos de FoodTechs e Agritechs no âmbito do Programa Agro do Futuro",
     "prazo": null,
-    "desc": "Programa estadual de fomento à inovação em agro, voltado a projetos de tecnologia e soberania alimentar, com foco em foodtechs e agritechs, contemplando desenvolvimento tecnológico, validação e inserção no mercado de soluções inovadoras para a cadeia agropecuária.",
+    "desc": "Edital estadual que seleciona projetos de pesquisa e inovação em FoodTechs e Agritechs voltados à tecnologia e soberania alimentar, com foco em soluções inovadoras para o agro do futuro no Estado do Rio de Janeiro.",
     "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
     "descobertoEm": "2026-07-14"
   },
@@ -4940,5 +4937,62 @@
     "desc": "Chamada pública voltada a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, com foco em inovação, agregação de valor, organização produtiva, inclusão social e fortalecimento da segurança alimentar. Financia projetos de ICTs em temas como produção agroecológica, bioeconomia, agroindustrialização, comercialização e certificação, com recursos não reembolsáveis do FNDCT.",
     "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
     "descobertoEm": "2026-07-23"
+  },
+  {
+    "id": "fapesp-fapeam-2026-cooperacao",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos de Pesquisa Regulares em Cooperação",
+    "orgao": "FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo em cooperação com FAPEAM",
+    "origem": "Nacional",
+    "areas": [
+      "Ciência",
+      "Tecnologia",
+      "Inovação",
+      "Pesquisa cooperativa FAPEAM–FAPESP",
+      "Temas de interesse comum para Amazonas e São Paulo (incluindo potencialmente Amazônia e agropecuária, conforme linhas definidas na chamada)"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa elegíveis em São Paulo (para submissão via SAGe/FAPESP) e instituições do Amazonas conforme regras da FAPEAM na chamada conjunta.[5]",
+    "valor": null,
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para apoio a projetos de pesquisa regulares em parceria, com duração de até 36 meses, envolvendo temas de interesse comum às duas FAPs, com submissão via sistema SAGe da FAPESP e regras específicas definidas pela cooperação FAPEAM/FAPESP.[5]",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-07-25"
+  },
+  {
+    "id": "finep-mais-inovacao-agro-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agroindustrial",
+      "Agronegócio",
+      "Foodtech",
+      "Saúde animal",
+      "Sustentabilidade",
+      "P&D empresarial"
+    ],
+    "publico": "Empresas com fins lucrativos e startups com atividades de P&D no Brasil em cadeias agroindustriais sustentáveis",
+    "valor": "Arranjo simples: mínimo R$ 5.000.000 e máximo R$ 25.000.000; Arranjo em rede: mínimo R$ 5.000.000 e máximo R$ 40.000.000; total de subvenção econômica até R$ 300.000.000",
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública para concessão de subvenção econômica não reembolsável ao desenvolvimento de produtos e processos inovadores em cadeias agroindustriais sustentáveis, incluindo agricultura, foodtech e saúde animal, com foco em sustentabilidade ambiental, social e econômica.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-07-25"
+  },
+  {
+    "id": "bndes-fundo-socioambiental-permanente",
+    "titulo": "Chamada permanente do BNDES Fundo Socioambiental",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "Sustentabilidade socioambiental",
+      "Desenvolvimento rural",
+      "Agropecuária sustentável",
+      "Conservação ambiental ligada ao uso da terra"
+    ],
+    "publico": "Instituições públicas e privadas habilitadas a submeter projetos ao Fundo Socioambiental do BNDES conforme edital",
+    "valor": "Valores e limites de financiamento definidos caso a caso conforme edital do Fundo Socioambiental",
+    "prazo": null,
+    "desc": "Chamada permanente do Fundo Socioambiental do BNDES para apoio a projetos com impacto socioambiental relevante, incluindo iniciativas de desenvolvimento rural e agropecuária sustentável.",
+    "url": "https://www.embrapa.br/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "descobertoEm": "2026-07-25"
   }
 ]
