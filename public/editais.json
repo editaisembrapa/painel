@@ -1747,20 +1747,22 @@
   {
     "id": "cnpq-06-2026-universal",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
-    "orgao": "CNPq",
+    "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
       "Ciências Agrárias",
-      "Ciências Ambientais",
       "Engenharias",
+      "Ciências Biológicas",
       "Ciências Exatas e da Terra",
-      "Ciências Biológicas"
+      "Ciências Humanas",
+      "Ciências Sociais Aplicadas",
+      "Linguística, Letras e Artes",
+      "Multidisciplinar"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs e instituições de pesquisa brasileiras, incluindo unidades da Embrapa e demais instituições de agropecuária",
-    "valor": "Faixa A até R$ 243.520,00; Faixa B até R$ 200.000,00; Faixa C até R$ 250.000,00 por projeto",
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino brasileiras, incluindo unidades da Embrapa, organizados em grupos de pesquisa nas faixas A, B e C",
+    "valor": "Valores máximos por faixa; por exemplo, na Faixa A é possível solicitar até R$ 243.520,00 em recursos de custeio, capital e bolsas, com faixas superiores prevendo tetos maiores para projetos de maior porte[2].",
     "prazo": "2026-08-03",
-    "desc": "Apoiar projetos de pesquisa que contribuam significativamente para o desenvolvimento científico, tecnológico e a inovação do País, em qualquer área do conhecimento, por meio de auxílio à pesquisa com recursos do FNDCT, contemplando diferentes faixas de apoio conforme o perfil do coordenador e do grupo de pesquisa.",
+    "desc": "Chamada universal para apoiar projetos de pesquisa em qualquer área do conhecimento, com foco em contribuir significativamente para o desenvolvimento científico, tecnológico e a inovação no País. A chamada contempla diferentes faixas de financiamento, abrangendo desde grupos liderados por doutores recém-formados até grupos consolidados, com apoio para custeio, capital e bolsas, sendo especialmente relevante para projetos em ciências agrárias, agropecuária e PD&I desenvolvidos por pesquisadores da Embrapa e instituições parceiras[2].",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-06-22"
   },
@@ -2491,21 +2493,20 @@
   },
   {
     "id": "faperj-07-2026-agro-do-futuro",
-    "titulo": "EDITAL FAPERJ Nº 07/2026 – Programa Agro do Futuro: Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
-    "orgao": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+    "titulo": "Edital FAPERJ nº 07/2026 – Programa Agro do Futuro – Tecnologia e Soberania Alimentar (Foodtechs e Agritechs) – RJ – 2026",
+    "orgao": "FAPERJ",
     "origem": "Estadual · AM",
     "areas": [
-      "foodtech",
-      "agritech",
-      "soberania alimentar",
-      "inovação agropecuária",
-      "cadeias produtivas agroalimentares",
-      "tecnologias digitais no agro"
+      "Foodtech",
+      "Agritech",
+      "Tecnologia agroalimentar",
+      "Soberania alimentar",
+      "Inovação agropecuária"
     ],
-    "publico": "Empresas fluminenses em parceria com ICTs, startups de base tecnológica e grupos de pesquisa sediados no Estado do Rio de Janeiro",
-    "valor": "Até R$ 1.250.000 por projeto, com execução de até 24 meses e contrapartida financeira mínima de 10%",
-    "prazo": "2026-03-31",
-    "desc": "Programa de fomento à inovação em foodtechs e agritechs voltadas à soberania alimentar, estimulando o desenvolvimento de soluções tecnológicas para produção, processamento, logística, rastreabilidade e segurança de alimentos, bem como melhoria da eficiência e sustentabilidade da agropecuária. Exige aderência a desafios de mercado e clara aplicação das soluções em cadeias agroalimentares.",
+    "publico": "Pesquisadores e instituições de pesquisa sediadas no Estado do Rio de Janeiro que se enquadrem como proponentes no sistema SisFAPERJ",
+    "valor": "Faixas de apoio definidas no edital para projetos de desenvolvimento tecnológico em foodtechs e agritechs (valores variáveis por projeto conforme faixa)",
+    "prazo": null,
+    "desc": "Programa de fomento a projetos de pesquisa, desenvolvimento e inovação em tecnologia e soberania alimentar, com foco em foodtechs e agritechs, visando fortalecer a base científica e tecnológica da agropecuária e da indústria de alimentos no Estado do Rio de Janeiro.",
     "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
     "descobertoEm": "2026-06-30"
   },
@@ -3969,21 +3970,20 @@
   {
     "id": "finep-mais-inovacao-agroindustriais-2026",
     "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
-    "orgao": "Finep – Financiadora de Estudos e Projetos / MCTI",
+    "orgao": "FINEP",
     "origem": "Nacional",
     "areas": [
-      "Inovação tecnológica",
-      "Agronegócio",
-      "Agroindústria",
+      "Inovação agroindustrial",
+      "Sustentabilidade",
       "Foodtech",
-      "Saúde animal",
-      "Sustentabilidade"
+      "Agritech",
+      "Saúde animal"
     ],
-    "publico": "Empresas brasileiras, com participação obrigatória de ICT parceira (arranjos simples ou em rede)",
-    "valor": "Subvenção econômica total até R$ 300.000.000; por projeto: R$ 5.000.000 a R$ 25.000.000 (arranjo simples) ou até R$ 50.000.000 (arranjo em rede)",
+    "publico": "Empresas com fins lucrativos e startups brasileiras em cadeias agroindustriais sustentáveis",
+    "valor": "Subvenção não reembolsável total até R$ 300.000.000,00; por projeto: Arranjo simples R$ 5.000.000,00 a R$ 25.000.000,00; Arranjo em rede R$ 5.000.000,00 a R$ 40.000.000,00",
     "prazo": "2026-09-30",
-    "desc": "Chamada de subvenção econômica para apoiar projetos de inovação em cadeias agroindustriais sustentáveis, incluindo soluções para agricultura, alimentos, saúde animal e sustentabilidade, com foco em empresas em parceria com ICTs e possibilidade de arranjos em rede.",
-    "url": "https://alertaeditais.com.br/edital/finep-mais-inovacao-brasil--rodada-2--cadeias-p6pt0/",
+    "desc": "Chamada pública para concessão de subvenção econômica a projetos de desenvolvimento de produtos e processos inovadores em cadeias agroindustriais sustentáveis, com foco em agricultura, foodtechs e saúde animal, incluindo reserva mínima de recursos para projetos com execução principal nas regiões Norte, Nordeste e Centro-Oeste.",
+    "url": "https://financiamento.finep.gov.br",
     "descobertoEm": "2026-07-14"
   },
   {
@@ -4994,5 +4994,61 @@
     "desc": "Chamada permanente do Fundo Socioambiental do BNDES para apoio a projetos com impacto socioambiental relevante, incluindo iniciativas de desenvolvimento rural e agropecuária sustentável.",
     "url": "https://www.embrapa.br/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-07-25"
+  },
+  {
+    "id": "mcti-finep-fndct-agricultura-familiar-ict-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "MCTI / FINEP / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Sistemas agroalimentares sustentáveis",
+      "Biodiversidade",
+      "Inovação agropecuária",
+      "Desenvolvimento territorial"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) brasileiras",
+    "valor": "Apoio financeiro não reembolsável total de até R$ 150.000.000,00, com linhas que podem receber até R$ 50.000.000,00 ou até R$ 25.000.000,00, conforme o eixo temático",
+    "prazo": "2026-06-19",
+    "desc": "Chamada pública voltada à seleção de projetos institucionais para desenvolver soluções científicas e tecnológicas que estruturem e fortaleçam cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis baseados na biodiversidade brasileira.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
+    "descobertoEm": "2026-07-26"
+  },
+  {
+    "id": "mda-sfdt-02-2026-sociobiodiversidade",
+    "titulo": "Edital de Chamamento Público nº 02/2026 – Estruturação e Fortalecimento de Cadeias Produtivas da Sociobiodiversidade e de Plantas Medicinais, Aromáticas e Condimentares",
+    "orgao": "Ministério do Desenvolvimento Agrário e Agricultura Familiar (MDA)",
+    "origem": "Nacional",
+    "areas": [
+      "Sociobiodiversidade",
+      "Plantas medicinais",
+      "Plantas aromáticas e condimentares",
+      "Agroextrativismo",
+      "Desenvolvimento rural sustentável"
+    ],
+    "publico": "Entidades e organizações habilitadas a executar projetos de estruturação e fortalecimento de cadeias produtivas da sociobiodiversidade e de plantas medicinais, aromáticas e condimentares no Brasil",
+    "valor": "Valor total R$ 5.000.000,00; por proposta mínimo R$ 100.000,00 e máximo R$ 500.000,00",
+    "prazo": null,
+    "desc": "Chamamento público para seleção de propostas voltadas à estruturação e fortalecimento de cadeias produtivas da sociobiodiversidade e de plantas medicinais, aromáticas e condimentares, com foco em geração de renda, inclusão produtiva e conservação ambiental em territórios rurais brasileiros.",
+    "url": "https://www.gov.br/mda/pt-br/acesso-a-informacao/participacao-social/Editais-de-chamamento-publico/2026/edital-sfdt-no-02-2026-estruturacao-e-fortalecimento-de-cadeias-produtivas-da-sociobiodiversidade-e-de-plantas-medicinais-aromaticas-e-condimentares/SEI_54002979_Edital.pdf",
+    "descobertoEm": "2026-07-26"
+  },
+  {
+    "id": "bndes-bioinsumos-2-ciclo-2026",
+    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "Bioinsumos",
+      "Agricultura sustentável",
+      "Inovação em insumos biológicos",
+      "Agropecuária de baixo carbono"
+    ],
+    "publico": "Instituições, organizações e empresas elegíveis ao apoio do BNDES Fundo Socioambiental em projetos de bioinsumos para uso agropecuário no Brasil",
+    "valor": "Prêmio ou apoio financeiro de até R$ 5.000.000,00 para projetos selecionados",
+    "prazo": "2026-08-31",
+    "desc": "Chamada de projetos do BNDES Bioinsumos, no âmbito do Fundo Socioambiental, voltada a iniciativas de desenvolvimento, produção e uso de bioinsumos aplicáveis à agropecuária brasileira, incentivando práticas sustentáveis e redução do uso de insumos químicos.",
+    "url": "https://www.embrapa.br/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "descobertoEm": "2026-07-26"
   }
 ]
