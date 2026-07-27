@@ -5050,5 +5050,171 @@
     "desc": "Chamada de projetos do BNDES Bioinsumos, no âmbito do Fundo Socioambiental, voltada a iniciativas de desenvolvimento, produção e uso de bioinsumos aplicáveis à agropecuária brasileira, incentivando práticas sustentáveis e redução do uso de insumos químicos.",
     "url": "https://www.embrapa.br/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-07-26"
+  },
+  {
+    "id": "CNPq-FNDCT-06-2026",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "Inovação",
+      "Ciências Agrárias",
+      "Agropecuária"
+    ],
+    "publico": "Pesquisadores doutores coordenadores de projetos em ICTs elegíveis; grupos de pesquisa em qualquer área do conhecimento.",
+    "valor": "Faixa A: até R$ 243.520,00; outras faixas previstas no edital.",
+    "prazo": "2026-08-03",
+    "desc": "Apoia projetos de pesquisa que contribuam significativamente para o desenvolvimento científico e tecnológico e a inovação do país, em qualquer área do conhecimento.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "CNPq-MCTI-07-2026",
+    "titulo": "Chamada Pública CNPq nº 07/2026 - Programa Institucional de Bolsas de Produtividade em Pesquisa",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Bolsas de Produtividade",
+      "Pesquisa",
+      "Agropecuária",
+      "Ciências Agrárias"
+    ],
+    "publico": "Pesquisadores doutores com produção científica e perfil de liderança para concessão de bolsas de produtividade em pesquisa.",
+    "valor": "Valor mensal conforme categoria e nível da bolsa, segundo o edital.",
+    "prazo": "2026-08-05",
+    "desc": "Chamada voltada à concessão de bolsas de produtividade em pesquisa, relevante para pesquisadores de agropecuária e áreas correlatas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-07-2026/chamada-publica-cnpq-N-07-2026",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "CNPq-MCTI-11-2026",
+    "titulo": "Chamada CNPq/MCTI nº 11/2026 – RENAMA e NAMs",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Infraestrutura",
+      "Métodos Alternativos",
+      "Pesquisa Aplicada",
+      "Inovação"
+    ],
+    "publico": "Grupos e instituições vinculadas à rede de métodos alternativos e projetos associados ao fortalecimento da RENAMA.",
+    "valor": "Não informado no resumo disponível.",
+    "prazo": null,
+    "desc": "Apoia a Rede Nacional de Métodos Alternativos por meio do fomento a projetos e ações de infraestrutura e pesquisa associados à rede.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/analise-em-andamento",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "CNPq-MCTI-FNDCT-12-2026",
+    "titulo": "Chamada CNPq/MCTI/FNDCT nº 12/2026 – Programa PCI",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Infraestrutura",
+      "Capacitação Institucional",
+      "PD&I",
+      "Pesquisa"
+    ],
+    "publico": "Pesquisadores vinculados a Instituições Científicas, Tecnológicas e de Inovação vinculadas ao MCTI.",
+    "valor": "Até R$ 1,5 milhão por projeto; recursos globais de R$ 120 milhões.",
+    "prazo": "2026-05-27",
+    "desc": "Programa de Capacitação Institucional para apoiar projetos que fortaleçam a pesquisa, o desenvolvimento científico e tecnológico e a inovação.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/04/cnpq-lanca-edital-de-bolsas-com-r-120-milhoes-e-foco-em-projetos-de-pesquisa",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "fapeam-fapesp-2026-cooperacao-amazonia",
+    "titulo": "Chamada FAPEAM/FAPESP 2026",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas; FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa científica na Amazônia",
+      "Colaboração Amazonas–São Paulo",
+      "Ciência, tecnologia e inovação",
+      "Biodiversidade e recursos naturais",
+      "Desenvolvimento sustentável"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa do Estado do Amazonas (para submissão à FAPEAM) e do Estado de São Paulo (para submissão à FAPESP), em projetos cooperativos",
+    "valor": null,
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para projetos de pesquisa cooperativa entre grupos de pesquisa do Amazonas e de São Paulo, com duração de até 36 meses, focada em temas estratégicos ligados à Amazônia, ciência, tecnologia e inovação, favorecendo estudos em biodiversidade, recursos naturais e cadeias produtivas associadas.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "embrapa-seg-2026-02-2026-convenio-cnpq",
+    "titulo": "Edital 02/2026 – Chamada 02 – Programa de Bolsas Embrapa/CNPq para apoio a projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "orgao": "Embrapa / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "Agronomia",
+      "Engenharia Agrícola"
+    ],
+    "publico": "Estudantes de graduação em Agronomia, Engenharia Agrícola ou áreas afins para atuação em atividades de projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG), na UEP-Parnaíba, PI",
+    "valor": "Bolsa de R$ 700,00 mensais, com duração de 10 meses",
+    "prazo": "2026-04-30",
+    "desc": "Chamada interna de bolsas vinculada ao Convênio Embrapa/CNPq, destinada a apoiar atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). As inscrições devem ser realizadas de 14 a 30 de abril de 2026, por e-mail, com cadastro prévio como usuário externo na plataforma SEI da Embrapa.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "finep-mais-inovacao-brasil-rodada-2-cadeias-agroindustriais-sustentaveis",
+    "titulo": "FINEP Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP",
+    "origem": "Nacional",
+    "areas": [
+      "agroindústria",
+      "sustentabilidade",
+      "inovação",
+      "P,D&I"
+    ],
+    "publico": "Empresas e ICTs",
+    "valor": "Arranjo Simples: R$ 5.000.000 a R$ 25.000.000; Arranjo em Rede: R$ 5.000.000 a R$ 40.000.000",
+    "prazo": "2026-09-30",
+    "desc": "Chamada para propostas voltadas ao desenvolvimento de produtos ou processos inovadores em cadeias agroindustriais sustentáveis.",
+    "url": "https://www.unisinos.br/portal-de-inovacao/component/content/article/finep-mais-inovacao-brasil-rodada-2-cadeias-agroindustriais-sustentaveis?catid=95&Itemid=437",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "mcti-finep-fndct-cadeias-socioprodutivas-agricultura-familiar-sistemas-agroalimentares-sustentaveis-2026",
+    "titulo": "MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "MCTI / FINEP / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "sistemas agroalimentares",
+      "biodiversidade",
+      "ICT",
+      "sustentabilidade"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs)",
+    "valor": "R$ 150.000.000",
+    "prazo": "2026-06-19",
+    "desc": "Chamada pública para apoiar projetos institucionais de soluções científicas e tecnológicas para cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
+    "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "faperj-07-2026-programa-agro-do-futuro",
+    "titulo": "FAPERJ nº 07/2026 – Programa Agro do Futuro: Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
+    "orgao": "FAPERJ",
+    "origem": "Interno",
+    "areas": [
+      "foodtech",
+      "agritech",
+      "soberania alimentar",
+      "inovação",
+      "agricultura"
+    ],
+    "publico": "Pesquisadores, startups, empresas de base tecnológica e inventores",
+    "valor": "R$ 1.100.000",
+    "prazo": null,
+    "desc": "Edital estadual do Rio de Janeiro para seleção de projetos voltados ao amadurecimento tecnológico de soluções para o agro, com foco em foodtechs e agritechs.",
+    "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
+    "descobertoEm": "2026-07-27"
   }
 ]
