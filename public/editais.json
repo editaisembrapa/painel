@@ -3700,21 +3700,19 @@
   },
   {
     "id": "FAPEAM-FAPESP-2026",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos Colaborativos em Bioeconomia Amazônica",
-    "orgao": "FAPEAM · FAPESP",
+    "titulo": "Chamada FAPEAM/FAPESP 2026",
+    "orgao": "FAPEAM / FAPESP",
     "origem": "Nacional",
     "areas": [
-      "Bioeconomia amazônica",
-      "Inovação",
-      "Desenvolvimento sustentável",
-      "Ciências agrárias",
-      "Biotecnologia",
-      "Mudanças climáticas"
+      "bioeconomia",
+      "desenvolvimento sustentável",
+      "pesquisa colaborativa",
+      "Amazônia"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo, com experiência compatível na área da proposta",
+    "publico": "Pesquisadores vinculados a instituições elegíveis nas áreas abrangidas pelas fundações parceiras",
     "valor": null,
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta FAPEAM/FAPESP para apoio a projetos colaborativos entre grupos de pesquisa do Amazonas e de São Paulo na área da bioeconomia amazônica, visando fortalecer parcerias interinstitucionais e desenvolver soluções inovadoras associadas ao uso sustentável da biodiversidade, cadeias produtivas agropecuárias e florestais e outros temas estratégicos para a Amazônia.",
+    "desc": "Chamada conjunta para apoio a projetos de pesquisa em parceria entre Amazonas e São Paulo.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-07-13"
   },
@@ -5216,5 +5214,171 @@
     "desc": "Edital estadual do Rio de Janeiro para seleção de projetos voltados ao amadurecimento tecnológico de soluções para o agro, com foco em foodtechs e agritechs.",
     "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
     "descobertoEm": "2026-07-27"
+  },
+  {
+    "id": "CNPq-FNDCT-06-2026-UNIVERSAL",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "todas",
+      "Ciências Agrárias",
+      "Agronomia",
+      "Zootecnia",
+      "Ciência e Tecnologia de Alimentos"
+    ],
+    "publico": "Pesquisadores doutores vinculados ou não a ICTs brasileiras, em qualquer área do conhecimento",
+    "valor": "Financiamento por projeto até aproximadamente R$ 250.000,00, conforme faixas A, B e C",
+    "prazo": "2026-08-03",
+    "desc": "Apoiar projetos de pesquisa científica, tecnológica e de inovação em qualquer área do conhecimento, incluindo agropecuária, estruturados em faixas de apoio para doutores recentes e pesquisadores consolidados, com recursos do FNDCT.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CNPq-MCTI-FNDCT-12-2026-PCI",
+    "titulo": "Chamada CNPq/MCTI/FNDCT Nº 12/2026 - Programa PCI",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "todas",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Inovação Tecnológica"
+    ],
+    "publico": "Pesquisadores vinculados a ICTs do MCTI, para bolsas e projetos no âmbito do Programa de Capacitação Institucional",
+    "valor": "Recursos para bolsas PCI e custeio de projetos, valores específicos definidos na chamada",
+    "prazo": null,
+    "desc": "Apoiar projetos de pesquisadores de Instituições Científicas, Tecnológicas e de Inovação vinculadas ao MCTI, por meio de bolsas e apoio a atividades de pesquisa e desenvolvimento, visando o fortalecimento da capacidade institucional em ciência, tecnologia e inovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/analise-em-andamento",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CNPq-MCTI-11-2026-RENAMA-NAMs",
+    "titulo": "Chamada CNPq/MCTI Nº 11/2026 – RENAMA e NAMs",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Métodos alternativos",
+      "Ciências da Vida",
+      "Toxicologia",
+      "Biotecnologia"
+    ],
+    "publico": "Grupos de pesquisa vinculados a instituições científicas e tecnológicas brasileiras integrantes ou associadas à RENAMA",
+    "valor": "Apoio financeiro a projetos de pesquisa em métodos alternativos, conforme valores e modalidades definidos na chamada",
+    "prazo": "2026-07-03",
+    "desc": "Apoiar a Rede Nacional de Métodos Alternativos (RENAMA) e Novos Métodos (NAMs), financiando projetos de pesquisa que desenvolvam, validem ou apliquem métodos alternativos ao uso de animais, com foco em ensaios toxicológicos e de segurança em diversas áreas, potencialmente incluindo insumos agropecuários.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/analise-em-andamento",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CNPq-MCTI-MEC-09-2026-POP-CIENCIA",
+    "titulo": "Chamada CNPq/MCTI/MEC N° 09/2026 - Feiras de Ciências e Mostras Científicas - POP CIÊNCIA",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Educação Científica",
+      "Popularização da Ciência",
+      "todas as áreas, incluindo Ciências Agrárias"
+    ],
+    "publico": "Instituições de ensino e pesquisa para apoio à realização de feiras de ciências e mostras científicas",
+    "valor": "Apoio financeiro para organização de eventos de divulgação científica, conforme faixas definidas no edital",
+    "prazo": "2026-06-19",
+    "desc": "Apoiar a realização de feiras de ciências e mostras científicas em todo o país, fomentando a popularização da ciência e a divulgação de pesquisas, inclusive em temas de agropecuária e inovação tecnológica no campo.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-09-2026/chamada-publica-cnpq-N-09-2026",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CNPq-BRICS-STI-14-2026",
+    "titulo": "7ª Chamada MCTI/CNPq/BRICS-STI Nº 14/2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Cooperação Internacional",
+      "Ciência, Tecnologia e Inovação",
+      "Meio Ambiente",
+      "Alimentos e Agricultura",
+      "Saúde",
+      "TICs",
+      "Física"
+    ],
+    "publico": "Grupos de pesquisa brasileiros em cooperação com parceiros dos países BRICS, em temas prioritários como Alimentos e Agricultura",
+    "valor": "Financiamento a projetos conjuntos de P&D entre grupos brasileiros e dos demais países BRICS, com valores definidos na chamada",
+    "prazo": "2026-07-06",
+    "desc": "Selecionar até 10 projetos conjuntos de pesquisa entre grupos brasileiros e de países BRICS, em áreas prioritárias como Meio Ambiente, Alimentos e Agricultura, Saúde, TICs e Física, com foco em desenvolvimento científico, tecnológico e inovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-14-2026/chamada-publica-cnpq-N-14-2026",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CNPq-MCTI-15-2026-PROAFRICA",
+    "titulo": "Chamada CNPq/MCTI nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia - PROÁFRICA",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Cooperação Internacional",
+      "Ciência e Tecnologia",
+      "Desenvolvimento Sustentável",
+      "temas incluindo Agricultura e Segurança Alimentar"
+    ],
+    "publico": "Grupos de pesquisa brasileiros em cooperação com instituições de países africanos em temas de interesse comum",
+    "valor": "Apoio financeiro a projetos de pesquisa cooperativa, com valores e modalidades especificados na chamada",
+    "prazo": "2026-08-31",
+    "desc": "Apoiar projetos de pesquisa em cooperação entre grupos do Brasil e de países africanos em temas estratégicos de ciência e tecnologia, potencialmente incluindo agricultura, segurança alimentar e desenvolvimento sustentável.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CNPq-SETEC-MCTI-13-2026-EVENTOS-INOVACAO",
+    "titulo": "Chamada CNPq/SETEC/MCTI N° 13/2026 - Apoio a Eventos de Promoção do Empreendedorismo e da Inovação no Brasil",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Empreendedorismo",
+      "Inovação",
+      "PD&I",
+      "Setores tecnológicos diversos, incluindo agropecuária"
+    ],
+    "publico": "Instituições de ensino, pesquisa e entidades de apoio à inovação para realização de eventos sobre empreendedorismo e inovação",
+    "valor": "Apoio financeiro para organização de eventos, conforme faixas de apoio definidas no edital",
+    "prazo": null,
+    "desc": "Apoiar a realização de eventos que promovam o empreendedorismo e a inovação no Brasil, abrangendo diferentes áreas tecnológicas e setores produtivos, inclusive temas de agronegócio e agroinovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/resultados-publicados",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CNPq-MCTI-MEMP-05-2026-PIEMP",
+    "titulo": "Chamada pública CNPq/MCTI/MEMP N° 05/2026 - Programa de Iniciação ao Empreendedorismo - PIEMP",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Empreendedorismo",
+      "Inovação",
+      "Formação de Recursos Humanos",
+      "todas as áreas, incluindo Ciências Agrárias"
+    ],
+    "publico": "Instituições de ensino e pesquisa para concessão de bolsas e apoio a ações de iniciação ao empreendedorismo de estudantes",
+    "valor": "Recursos para bolsas e atividades de formação em empreendedorismo, com valores detalhados no edital",
+    "prazo": null,
+    "desc": "Fomentar a iniciação ao empreendedorismo de estudantes por meio de bolsas e atividades formativas em instituições de ensino e pesquisa, fortalecendo a cultura empreendedora e a inovação em diferentes áreas, inclusive na agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/resultados-publicados",
+    "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "CONFAP-NEXBIO-2026",
+    "titulo": "Chamada nexBio Amazônia 2026",
+    "orgao": "CONFAP / FAPs participantes",
+    "origem": "Nacional",
+    "areas": [
+      "bioeconomia",
+      "inovação",
+      "startups",
+      "Amazônia",
+      "pesquisa aplicada"
+    ],
+    "publico": "Representantes de startups e pesquisadores dos estados participantes das FAPs conveniadas",
+    "valor": null,
+    "prazo": "2026-05-18",
+    "desc": "Chamada para candidaturas em soluções e projetos voltados à bioeconomia amazônica.",
+    "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
+    "descobertoEm": "2026-07-28"
   }
 ]
