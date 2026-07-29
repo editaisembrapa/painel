@@ -5380,5 +5380,84 @@
     "desc": "Chamada para candidaturas em soluções e projetos voltados à bioeconomia amazônica.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-07-28"
+  },
+  {
+    "id": "embrapa-cpamn-02-2026",
+    "titulo": "Edital 02/2026 – Chamada 2 – Programa de Bolsas Embrapa/CNPq (CPAMN)",
+    "orgao": "Embrapa Meio-Norte / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Agricultura",
+      "Recursos Naturais"
+    ],
+    "publico": "Estudantes e pesquisadores vinculados a projetos de PD&I da Embrapa Meio-Norte",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Chamada interna do Programa de Bolsas Embrapa/CNPq da Embrapa Meio-Norte, vinculada ao Sistema Embrapa de Gestão (SEG), para seleção de bolsistas que atuarão em projetos de pesquisa, desenvolvimento e inovação, com inscrições de 14 a 30 de abril de 2026, via submissão eletrônica conforme edital.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-07-29"
+  },
+  {
+    "id": "embrapa-roraima-73-74-75-2026",
+    "titulo": "Editais nº 73, 74 e 75/2026 – Bolsas de Estímulo à Inovação em PD&I, Extensão Tecnológica, Propriedade Intelectual e Transferência de Tecnologias (Embrapa Roraima / FAPEG)",
+    "orgao": "Embrapa Roraima / Fundação de Apoio à Pesquisa e Desenvolvimento Agropecuário Edmundo Gastal (FAPEG)",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Extensão Tecnológica",
+      "Propriedade Intelectual",
+      "Transferência de Tecnologia",
+      "Agronomia",
+      "Biologia",
+      "Engenharia Florestal",
+      "Técnico Agrícola"
+    ],
+    "publico": "Estudantes de graduação em Agronomia, Biologia, Engenharia Florestal e técnico agrícola vinculados a projetos da Embrapa Roraima",
+    "valor": null,
+    "prazo": "2026-08-10",
+    "desc": "Chamada pública para concessão de bolsas de estímulo à inovação voltadas ao apoio a projetos de PD&I, extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologias de interesse da Embrapa, com inscrições realizadas conforme orientações dos editais da FAPEG até 10 de agosto de 2026.",
+    "url": "https://www.embrapa.br/web/roraima/busca-de-noticias/-/noticia/146166639/abertas-inscricoes-para-selecao-de-bolsistas-de-estimulo-a-inovacao",
+    "descobertoEm": "2026-07-29"
+  },
+  {
+    "id": "FINEP-MAIS-INOVACAO-CADEIAS-AGROINDUSTRIAIS-2026",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP / MCTI / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agroindústria",
+      "cadeias agroindustriais",
+      "produtividade agrícola",
+      "segurança alimentar",
+      "máquinas e equipamentos",
+      "alimentos"
+    ],
+    "publico": "Empresas e demais proponentes elegíveis na seleção pública",
+    "valor": "Até R$ 300 milhões em subvenção econômica; projetos entre TRLs 3 e 8",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública em fluxo contínuo para recursos não reembolsáveis destinados ao desenvolvimento de produtos ou processos inovadores em cadeias agroindustriais sustentáveis.",
+    "url": "https://catapulta.tech/editais/cadeias-agroindustriais-sustentaveis",
+    "descobertoEm": "2026-07-29"
+  },
+  {
+    "id": "FAPERJ-AGRO-DO-FUTURO-2026",
+    "titulo": "Edital FAPERJ nº 07/2026 – Programa Agro do Futuro – Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
+    "orgao": "FAPERJ",
+    "origem": "Estadual · AM",
+    "areas": [
+      "foodtech",
+      "agritech",
+      "tecnologia agrícola",
+      "soberania alimentar",
+      "inovação",
+      "agropecuária"
+    ],
+    "publico": "Pesquisadores, grupos de pesquisa, ICTs e parceiros elegíveis no edital",
+    "valor": "Não informado no trecho disponibilizado do edital",
+    "prazo": null,
+    "desc": "Edital estadual do Rio de Janeiro para seleção de projetos voltados a tecnologia e soberania alimentar, com foco em foodtechs e agritechs.",
+    "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
+    "descobertoEm": "2026-07-29"
   }
 ]
