@@ -2513,20 +2513,20 @@
   {
     "id": "cnpq-fndct-06-2026-universal",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
-    "orgao": "CNPq/FNDCT",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
       "Agropecuária",
       "Ciências Agrárias",
-      "Biotecnologia",
-      "Ciências Ambientais"
+      "Ciência e Tecnologia de Alimentos",
+      "Engenharias",
+      "Ciências Biológicas"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, incluindo pesquisadores da Embrapa, para projetos de pesquisa em qualquer área do conhecimento",
-    "valor": "Valor global de R$ 300.000.000,00; Faixa A até R$ 243.520,00 por projeto (inclui custeio/capital/bolsas), Faixa B até R$ 200.000,00, Faixa C até R$ 250.000,00[4][10]",
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa brasileiras, incluindo unidades da Embrapa",
+    "valor": "Financiamento a projetos de pesquisa em qualquer área do conhecimento; notícia oficial indica montante global de aproximadamente R$ 300 milhões",
     "prazo": "2026-08-03",
-    "desc": "Chamada Universal para apoiar projetos de pesquisa que contribuam significativamente para o desenvolvimento científico, tecnológico e a inovação do País, em qualquer área do conhecimento, com recursos do FNDCT, incluindo apoio a custeio, capital e bolsas de iniciação científica, tecnológica e de desenvolvimento[4][10].",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "desc": "Apoiar projetos de pesquisa que contribuam para o desenvolvimento científico e tecnológico e a inovação do País, em qualquer área do conhecimento, incluindo agricultura, agropecuária e alimentos, por meio de recursos do FNDCT. Submissão via Plataforma Integrada Carlos Chagas, com limite de envio até 23h59 de 03/08/2026.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -2946,22 +2946,23 @@
   },
   {
     "id": "1",
-    "titulo": "Edital ABDI Agro 4.0 - AgroBrasília 2026",
-    "orgao": "Agência Brasileira de Desenvolvimento Industrial (ABDI) / AgroBrasília",
+    "titulo": "MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "MCTI · FINEP · FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Inovação agro",
-      "Agricultura 4.0",
-      "Tecnologias digitais",
-      "Automação",
-      "Internet das Coisas (IoT)",
-      "Gestão da produção agropecuária"
+      "Agricultura familiar",
+      "Bioinsumos",
+      "Sistemas de produção agroecológicos e orgânicos",
+      "Soluções digitais para pequena propriedade rural",
+      "Aquicultura de espécies nativas",
+      "Sistemas agroalimentares sustentáveis",
+      "Sociobiodiversidade"
     ],
-    "publico": "Empresas, startups e instituições que apresentem projetos-pilotos de implantação, adoção e difusão de tecnologias 4.0 aplicadas ao agronegócio brasileiro",
-    "valor": null,
-    "prazo": null,
-    "desc": "Edital de fomento à inovação no agronegócio que seleciona projetos-pilotos voltados à implantação, adoção e difusão de tecnologias 4.0 em cadeias produtivas agrícolas, com foco em soluções digitais e automação para aumentar a eficiência e competitividade da agropecuária.",
-    "url": "https://agrobrasilia.com.br/inovacao/",
+    "publico": "Instituições Científicas, Tecnológicas e de Inovação (ICTs) brasileiras",
+    "valor": "Projetos entre R$ 3.000.000,00 e R$ 7.000.000,00; aporte total previsto de R$ 150.000.000,00 via FNDCT",
+    "prazo": "2026-06-26",
+    "desc": "Chamada pública voltada a pesquisa, desenvolvimento e inovação em cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, visando inclusão socioprodutiva, aumento da oferta de alimentos e promoção da sustentabilidade em sistemas agroalimentares e florestais, com foco em bioinsumos, produção agroecológica/orgânica, soluções digitais para pequenas propriedades rurais e aquicultura de espécies nativas.[1][2][5]",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
     "descobertoEm": "2026-07-06"
   },
   {
@@ -3812,20 +3813,19 @@
   {
     "id": "cnpq-minc-17-2026-incubadoras-economia-criativa",
     "titulo": "Chamada CNPq/MinC nº 17/2026 – Apoio ao funcionamento de incubadoras voltadas à Economia Criativa",
-    "orgao": "CNPq/Ministério da Cultura",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Economia Criativa",
       "Inovação",
-      "Empreendimentos culturais e criativos",
-      "Incubadoras",
-      "Gestão e empreendedorismo"
+      "Empreendedorismo",
+      "Alimentos e Agricultura (quando vinculados a negócios criativos, design, gastronomia etc.)"
     ],
-    "publico": "Instituições que mantenham ou implantem incubadoras voltadas à economia criativa, para apoio a projetos de pesquisa e ações de incubação de empreendimentos culturais e criativos",
-    "valor": "Valores de apoio financeiro definidos por projeto conforme condições da chamada[3]",
-    "prazo": "2026-08-31",
-    "desc": "Chamada para apoiar projetos de pesquisa que contribuam para o desenvolvimento científico e tecnológico e a inovação nas áreas da economia criativa, fortalecendo empreendimentos culturais e criativos por meio da implantação e acompanhamento de incubadoras, com formação, orientação técnica e apoio à sustentabilidade das iniciativas[3].",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "publico": "Instituições que mantenham incubadoras de empreendimentos da economia criativa no Brasil",
+    "valor": "Apoio financeiro ao funcionamento de incubadoras, com valores por proposta definidos em faixas no edital",
+    "prazo": "2026-08-10",
+    "desc": "Visa apoiar projetos de pesquisa e ações de incubação voltadas à economia criativa, estimulando inovação e empreendedorismo em diversas áreas, podendo contemplar iniciativas relacionadas a agroalimentar, gastronomia e design de produtos agropecuários. As inscrições permanecem abertas entre 19/06/2026 e 10/08/2026.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-17-2026",
     "descobertoEm": "2026-07-14"
   },
   {
@@ -5459,5 +5459,80 @@
     "desc": "Edital estadual do Rio de Janeiro para seleção de projetos voltados a tecnologia e soberania alimentar, com foco em foodtechs e agritechs.",
     "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
     "descobertoEm": "2026-07-29"
+  },
+  {
+    "id": "cnpq-07-2026-bolsas-posgraduacao",
+    "titulo": "Chamada Pública CNPq nº 07/2026 – Programa Institucional de Bolsas de Pós-Graduação",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas do conhecimento",
+      "Ciências Agrárias",
+      "Agropecuária"
+    ],
+    "publico": "Programas de pós-graduação e instituições de ensino e pesquisa brasileiras que desejem ofertar bolsas de pós-graduação a estudantes, inclusive em áreas de agropecuária",
+    "valor": "Concessão de bolsas de pós-graduação (mestrado e/ou doutorado) conforme categorias e quotas definidas no edital",
+    "prazo": "2026-08-05",
+    "desc": "Programa institucional voltado à concessão de bolsas de pós-graduação, estruturado para apoiar a formação de recursos humanos altamente qualificados em todas as áreas do conhecimento, incluindo ciências agrárias e temas de interesse da Embrapa. Submissão de propostas pelas instituições até a data limite estabelecida no edital.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-07-2026/chamada-publica-cnpq-n-07-2026",
+    "descobertoEm": "2026-07-30"
+  },
+  {
+    "id": "2",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP",
+    "origem": "Nacional",
+    "areas": [
+      "Cadeias agroindustriais sustentáveis",
+      "Agronegócio",
+      "Alimentos",
+      "Sustentabilidade",
+      "Segurança alimentar",
+      "Inovação tecnológica no agro"
+    ],
+    "publico": "Empresas brasileiras (PJ) com projetos de Pesquisa, Desenvolvimento e Inovação em agroindústria",
+    "valor": "Subvenção econômica não reembolsável até o limite do montante global de R$ 300.000.000,00, com reserva mínima de R$ 90.000.000,00 para projetos nas regiões Norte, Nordeste e Centro-Oeste",
+    "prazo": "2026-09-30",
+    "desc": "Rodada de subvenção econômica para projetos inovadores em cadeias agroindustriais sustentáveis, voltada a empresas que desenvolvem produtos e processos para o agronegócio e alimentos, com foco em segurança alimentar e sustentabilidade, aceitando projetos nos níveis de maturidade tecnológica TRL 3 a 8.[4][10][12]",
+    "url": "https://financiamento.finep.gov.br",
+    "descobertoEm": "2026-07-30"
+  },
+  {
+    "id": "3",
+    "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (Foodtechs e Agritechs) – RJ 2026 – Edital FAPERJ nº 07/2026",
+    "orgao": "FAPERJ",
+    "origem": "Estadual · RJ",
+    "areas": [
+      "Foodtechs",
+      "Agritechs",
+      "Tecnologia agroalimentar",
+      "Soberania alimentar",
+      "Inovação em sistemas produtivos agropecuários"
+    ],
+    "publico": "Pesquisadores e instituições de pesquisa sediados no Estado do Rio de Janeiro, incluindo grupos que atuam em foodtechs e agritechs",
+    "valor": "Valores por projeto definidos em faixas no edital; apoio a projetos de P,D&I em tecnologia e soberania alimentar no estado do Rio de Janeiro",
+    "prazo": null,
+    "desc": "Edital estadual voltado ao apoio a projetos de pesquisa, desenvolvimento e inovação em foodtechs e agritechs, visando tecnologia para o agro e soberania alimentar, com submissão via sistema SisFAPERJ e seleção de propostas alinhadas ao Programa Agro do Futuro – RJ 2026.[8]",
+    "url": "https://sisfaperj.faperj.br/sisfaperj/",
+    "descobertoEm": "2026-07-30"
+  },
+  {
+    "id": "4",
+    "titulo": "Agro Inventores – Inovação em Agtechs no Espírito Santo",
+    "orgao": "Governo do Estado do Espírito Santo · SEAG · Funcitec",
+    "origem": "Estadual · ES",
+    "areas": [
+      "Agtechs",
+      "Inovação tecnológica no campo",
+      "Prototipagem e escalonamento de soluções agro",
+      "Agronegócio",
+      "Tecnologias agrícolas"
+    ],
+    "publico": "Inventores e pesquisadores, startups e empresas de base tecnológica, produtores rurais e cooperativas do Espírito Santo",
+    "valor": "Investimento total de aproximadamente R$ 1.100.000,00 para seleção de 10 projetos inovadores",
+    "prazo": null,
+    "desc": "Edital estadual que apoia o amadurecimento tecnológico de ideias nascidas no campo, transformando protótipos em produtos escaláveis e patenteáveis para o mercado de Agtechs, com foco em inovação aplicada ao agronegócio capixaba.[3]",
+    "url": "https://www.seag.es.gov.br",
+    "descobertoEm": "2026-07-30"
   }
 ]
