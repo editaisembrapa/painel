@@ -2496,20 +2496,20 @@
   },
   {
     "id": "faperj-07-2026-agro-do-futuro",
-    "titulo": "EDITAL FAPERJ N°07/2026 – Programa Agro do Futuro – Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
+    "titulo": "FAPERJ Edital nº 07/2026 – Programa Agro do Futuro – Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
     "orgao": "FAPERJ",
-    "origem": "Estadual · AM",
+    "origem": "Estadual · RJ",
     "areas": [
       "Foodtech",
       "Agritech",
-      "Soberania alimentar",
-      "Tecnologia agroalimentar",
-      "Inovação em sistemas produtivos agropecuários"
+      "Tecnologia para soberania alimentar",
+      "Inovação agropecuária",
+      "Sistemas de produção de alimentos"
     ],
-    "publico": "Pesquisadores e instituições de pesquisa sediados no Estado do Rio de Janeiro",
-    "valor": "Valores máximos por proposta definidos por faixa de modalidade; orçamento global do programa conforme edital",
+    "publico": "Pesquisadores vinculados a instituições de pesquisa e ensino sediadas no Estado do Rio de Janeiro, empresas e startups de base tecnológica em alimentos e agronegócio, conforme modalidades previstas no edital",
+    "valor": "Valores por projeto e faixas de financiamento conforme categorias previstas no edital Agro do Futuro (consultar tabela orçamentária no edital oficial)",
     "prazo": null,
-    "desc": "Programa de fomento à pesquisa e inovação em foodtechs e agritechs voltado à tecnologia e soberania alimentar no Estado do Rio de Janeiro, apoiando projetos que desenvolvam soluções tecnológicas para o futuro do agro, desde produção até processamento e distribuição de alimentos.",
+    "desc": "Programa estadual de fomento à pesquisa, desenvolvimento e inovação em foodtechs e agritechs para promoção da tecnologia aplicada à produção de alimentos e à soberania alimentar, apoiando projetos que desenvolvam soluções inovadoras para o setor agropecuário e cadeias de alimentos no Estado do Rio de Janeiro.",
     "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
     "descobertoEm": "2026-06-30"
   },
@@ -2802,20 +2802,20 @@
   {
     "id": "confap-nexbio-amazonia-2026",
     "titulo": "Chamada nexBio Amazônia 2026",
-    "orgao": "CONFAP – Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (FAPEAM, FAPEAP, FAPESP)",
+    "orgao": "CONFAP – Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa; FAPEAM; FAPEAP; FAPESP",
     "origem": "Nacional",
     "areas": [
       "Bioeconomia",
-      "Biodiversidade",
       "Inovação",
-      "Startups de base científica",
+      "Startups de base tecnológica",
       "Amazônia",
+      "Sustentabilidade",
       "Agropecuária sustentável"
     ],
-    "publico": "Pesquisadores e representantes de startups dos estados participantes (Amazonas, Amapá, São Paulo) apoiados por suas Fundações de Amparo à Pesquisa",
+    "publico": "Representantes de startups e pesquisadores dos estados brasileiros vinculados às Fundações de Amparo à Pesquisa participantes (FAPEAM, FAPEAP e FAPESP)[12].",
     "valor": null,
     "prazo": "2026-05-18",
-    "desc": "3ª chamada nexBio Amazônia para seleção de projetos de pesquisadores e startups voltados à bioeconomia e à valorização da biodiversidade amazônica, incluindo aplicações em cadeias produtivas agropecuárias. Candidaturas abertas de 8 de abril a 18 de maio de 2026, submetidas por meio de formulário eletrônico.[12]",
+    "desc": "Chamada da 3ª edição do programa nexBio Amazônia destinada a apoiar projetos de startups e pesquisadores em temas de bioeconomia e inovação associados à Amazônia, com candidaturas abertas de 8 de abril a 18 de maio de 2026 e submissão exclusivamente eletrônica por formulários online[12].",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-07-04"
   },
@@ -4948,20 +4948,20 @@
   },
   {
     "id": "fapesp-fapeam-2026-cooperacao",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Projetos de Pesquisa Regulares em Cooperação",
-    "orgao": "FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo em cooperação com FAPEAM",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Cooperação em pesquisa",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas; FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
     "origem": "Nacional",
     "areas": [
-      "Ciência",
-      "Tecnologia",
-      "Inovação",
-      "Pesquisa cooperativa FAPEAM–FAPESP",
-      "Temas de interesse comum para Amazonas e São Paulo (incluindo potencialmente Amazônia e agropecuária, conforme linhas definidas na chamada)"
+      "Ciência, Tecnologia e Inovação",
+      "Amazônia",
+      "Pesquisa colaborativa",
+      "Pós-graduação",
+      "Desenvolvimento regional"
     ],
-    "publico": "Pesquisadores vinculados a instituições de pesquisa elegíveis em São Paulo (para submissão via SAGe/FAPESP) e instituições do Amazonas conforme regras da FAPEAM na chamada conjunta.[5]",
+    "publico": "Pesquisadores vinculados a instituições de pesquisa nos Estados do Amazonas (via FAPEAM) e São Paulo (via FAPESP), conforme regras de cada fundação[4].",
     "valor": null,
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta FAPEAM/FAPESP para apoio a projetos de pesquisa regulares em parceria, com duração de até 36 meses, envolvendo temas de interesse comum às duas FAPs, com submissão via sistema SAGe da FAPESP e regras específicas definidas pela cooperação FAPEAM/FAPESP.[5]",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para apoio a projetos de pesquisa em cooperação entre grupos de pesquisa dos Estados de Amazonas e São Paulo, com duração de até 36 meses e foco em temas estratégicos, incluindo Amazônia e desenvolvimento científico e tecnológico regional[4].",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-07-25"
   },
@@ -5678,5 +5678,63 @@
     "desc": "Edital de inovação aberta da Embrapa Agroenergia para seleção de parceiros no desenvolvimento de soluções tecnológicas em biomassas, biocombustíveis, bioprodutos e bioinsumos, integrando pesquisa agropecuária brasileira às demandas da transição energética sustentável.",
     "url": "https://www.embrapa.br/financiamentos-desafios-e-programas-de-inovacao",
     "descobertoEm": "2026-08-01"
+  },
+  {
+    "id": "embrapa-oferta-permanente-tt-2026",
+    "titulo": "Oferta permanente de ativos tecnológicos para licenciamento",
+    "orgao": "Embrapa – Secretaria de Inovação e Negócios",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Inovação tecnológica",
+      "Propriedade intelectual",
+      "Agronegócio",
+      "PD&I agropecuário"
+    ],
+    "publico": "Empresas, cooperativas, instituições de pesquisa e demais organizações interessadas em licenciar ativos tecnológicos da Embrapa",
+    "valor": "Não há valor de fomento direto; condições econômicas e contratuais são definidas caso a caso em cada negociação de licenciamento",
+    "prazo": null,
+    "desc": "Chamada em fluxo contínuo para manifestação de interesse em licenciar ativos tecnológicos da Embrapa, estruturada em editais permanentes que detalham pré-requisitos e documentos específicos para cada negociação. Os ativos abrangem tecnologias geradas em projetos de PD&I e são ofertados para transferência de tecnologia e estabelecimento de parcerias empresariais, sendo o processo conduzido pela área de Gestão de Negócios e Transferência de Tecnologia (GGNIT).",
+    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento/oferta-permanente",
+    "descobertoEm": "2026-08-02"
+  },
+  {
+    "id": "finep-mais-inovacao-rodada2-agro",
+    "titulo": "FINEP Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP / MCTI",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação agroindustrial",
+      "Agronegócio",
+      "Segurança alimentar",
+      "Sustentabilidade",
+      "Foodtech",
+      "Agritech"
+    ],
+    "publico": "Empresas brasileiras em parceria obrigatória com ICTs (instituições científicas, tecnológicas e de inovação)",
+    "valor": "Subvenção econômica não reembolsável total até R$ 300.000.000; por projeto: Arranjo Simples entre R$ 5.000.000 e R$ 25.000.000; Arranjo em Rede entre R$ 5.000.000 e R$ 40.000.000",
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública de subvenção econômica para desenvolvimento de produtos e processos inovadores em cadeias agroindustriais sustentáveis, visando modernização da agroindústria nacional, segurança alimentar e redução da dependência de importações, com foco em projetos de PD&I em produtividade agrícola, bioinsumos, melhoramento genético e soluções tecnológicas para o agronegócio.",
+    "url": "https://financiamento.finep.gov.br/",
+    "descobertoEm": "2026-08-02"
+  },
+  {
+    "id": "es-funcitec-agro-inventores-2026",
+    "titulo": "Agro Inventores – Programa de Inovação no Campo (Funcitec/Seag/Fapes)",
+    "orgao": "Governo do Estado do Espírito Santo – Seag / Funcitec / Fapes",
+    "origem": "Estadual · ES",
+    "areas": [
+      "Agtech",
+      "Inovação no campo",
+      "Prototipagem e escalonamento de tecnologias agropecuárias",
+      "Produção rural",
+      "Empreendedorismo tecnológico agro"
+    ],
+    "publico": "Inventores e pesquisadores, startups e empresas de base tecnológica, produtores rurais e cooperativas do Espírito Santo",
+    "valor": "Investimento total de R$ 1.100.000 para seleção de 10 projetos inovadores, com apoio ao amadurecimento tecnológico de soluções agro",
+    "prazo": null,
+    "desc": "Edital estadual que apoia ideias inovadoras nascidas no campo, visando transformar protótipos em produtos escaláveis e patenteáveis para o mercado de Agtechs, por meio de recursos do Fundo Estadual de Ciência e Tecnologia (Funcitec) e parceria entre Seag, Fapes, Instituto Senai de Tecnologia e Eficiência Operacional e consultorias especializadas.",
+    "url": "https://conteudo.findeslab.com.br/agro-inventores",
+    "descobertoEm": "2026-08-02"
   }
 ]
