@@ -2516,39 +2516,38 @@
   {
     "id": "cnpq-fndct-06-2026-universal",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
-    "orgao": "CNPq/FNDCT",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Todas as áreas do conhecimento",
       "Agropecuária",
       "Ciências Agrárias",
-      "Zootecnia",
-      "Agronomia",
-      "Ciência e Tecnologia de Alimentos"
+      "Agroalimentar",
+      "Biotecnologia"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de ensino e/ou pesquisa no Brasil",
-    "valor": "Até R$ 300 milhões no total da chamada; valores por proposta conforme faixas definidas no edital",
+    "publico": "Pesquisadores doutores vinculados a ICT/IES brasileiras, incluindo pesquisadores da Embrapa e de outras instituições de agropecuária",
+    "valor": "Fomento a projetos de pesquisa; montante global financiado com recursos do FNDCT (valores por faixa definidos no edital)",
     "prazo": "2026-08-03",
-    "desc": "Apoia projetos de pesquisa em qualquer área do conhecimento que contribuam para o desenvolvimento científico e tecnológico e a inovação do País, incluindo projetos em ciências agrárias e agropecuária relevantes para pesquisadores da Embrapa.",
+    "desc": "Apoiar projetos de pesquisa que contribuam significativamente para o desenvolvimento científico e tecnológico e a inovação em qualquer área do conhecimento, por meio de auxílio à pesquisa em diferentes faixas de enquadramento, com recursos do FNDCT, incluindo temas de agropecuária e PD&I relacionados ao setor agroalimentar.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-01"
   },
   {
     "id": "cnpq-mcti-15-2026-proafrica",
-    "titulo": "Chamada CNPq/MCTI nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia - PROÁFRICA",
-    "orgao": "CNPq/MCTI",
-    "origem": "Internacional",
+    "titulo": "Chamada Pública CNPq/MCTI Nº 15/2026 – Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia (PROÁFRICA)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
     "areas": [
-      "Ciências Agrárias",
-      "Agropecuária",
-      "Desenvolvimento rural",
-      "Ciência e Tecnologia"
+      "Ciência e Tecnologia",
+      "Agropecuária (quando em cooperação Brasil–países africanos)",
+      "Desenvolvimento sustentável",
+      "Inovação"
     ],
-    "publico": "Grupos de pesquisa brasileiros em cooperação com instituições parceiras em países africanos",
-    "valor": null,
+    "publico": "Pesquisadores de ICT brasileiras em cooperação com instituições de países africanos, incluindo grupos de pesquisa em agropecuária e recursos naturais",
+    "valor": "Montante global de R$ 25.000.000,00 oriundos do FNDCT, distribuídos entre projetos cooperativos conforme faixas definidas na chamada",
     "prazo": "2026-08-31",
-    "desc": "Seleciona projetos conjuntos de cooperação científica e tecnológica entre grupos brasileiros e africanos em diversas áreas, incluindo ciências agrárias e agropecuária, voltados ao desenvolvimento científico, tecnológico e à inovação.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026/chamada-publica-cnpq-n-15-2026",
+    "desc": "Visa apoiar projetos de cooperação científica e tecnológica entre grupos brasileiros e africanos em temas estratégicos, com recursos do FNDCT, incluindo potenciais projetos em agricultura, agropecuária, segurança alimentar, biotecnologia e manejo de recursos naturais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026/FAQPROAFRICACHAMADA152026SEI_CNPq2687944Anexo.pdf",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -2802,20 +2801,20 @@
   {
     "id": "confap-nexbio-amazonia-2026",
     "titulo": "Chamada nexBio Amazônia 2026",
-    "orgao": "CONFAP – Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa; FAPEAM; FAPEAP; FAPESP",
+    "orgao": "CONFAP e Fundações de Amparo à Pesquisa participantes (incluindo FAPEAM, FAPEAP, FAPESP)",
     "origem": "Nacional",
     "areas": [
       "Bioeconomia",
       "Inovação",
-      "Startups de base tecnológica",
+      "Startups",
       "Amazônia",
-      "Sustentabilidade",
-      "Agropecuária sustentável"
+      "Biodiversidade",
+      "Tecnologias de base biológica"
     ],
-    "publico": "Representantes de startups e pesquisadores dos estados brasileiros vinculados às Fundações de Amparo à Pesquisa participantes (FAPEAM, FAPEAP e FAPESP)[12].",
+    "publico": "Representantes de startups e pesquisadores vinculados às FAPs participantes (FAPEAM, FAPEAP, FAPESP) nos estados correspondentes",
     "valor": null,
     "prazo": "2026-05-18",
-    "desc": "Chamada da 3ª edição do programa nexBio Amazônia destinada a apoiar projetos de startups e pesquisadores em temas de bioeconomia e inovação associados à Amazônia, com candidaturas abertas de 8 de abril a 18 de maio de 2026 e submissão exclusivamente eletrônica por formulários online[12].",
+    "desc": "Terceira chamada nexBio Amazônia para apoiar projetos de startups e pesquisadores em bioeconomia e inovação baseada na biodiversidade amazônica, com submissão eletrônica até 18 de maio de 2026.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-07-04"
   },
@@ -2972,19 +2971,20 @@
   },
   {
     "id": "cnpq-07-2026-pibpg",
-    "titulo": "Chamada Pública CNPq nº 07/2026 - Programa Institucional de Bolsas de Pós-Graduação (PIBPG)",
+    "titulo": "Chamada Pública CNPq Nº 07/2026 - Programa Institucional de Bolsas de Pós-Graduação (PIBPG)",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas de pós-graduação",
+      "Todas as áreas do conhecimento",
       "Ciências Agrárias",
-      "Agropecuária"
+      "Agropecuária",
+      "Inovação tecnológica"
     ],
-    "publico": "Programas de pós-graduação e instituições de ensino e pesquisa interessadas em bolsas de pós-graduação, abrangendo diferentes áreas do conhecimento",
-    "valor": "Valores e número de bolsas por instituição definidos no edital do Programa Institucional de Bolsas de Pós-Graduação",
-    "prazo": null,
-    "desc": "Chamada institucional para concessão de bolsas de pós-graduação por meio do Programa Institucional de Bolsas de Pós-Graduação (PIBPG), abrangendo programas de diversas áreas, incluindo ciências agrárias e agropecuária.[3]",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-publica-cnpq-no-07-2026-pibpg",
+    "publico": "Programas de pós-graduação e Instituições de Ensino Superior/Instituições Científicas e Tecnológicas brasileiras que queiram implementar bolsas de pós-graduação, incluindo áreas de agropecuária",
+    "valor": "Concessão de bolsas de pós-graduação (mestrado, doutorado) e recursos associados conforme quotas definidas no edital",
+    "prazo": "2026-08-05",
+    "desc": "Fomenta a capacitação de recursos humanos para pesquisa científica, tecnológica e de inovação em grupos consolidados e emergentes, incentivando pesquisas com impacto socioambiental, econômico e cultural em temas estratégicos definidos pelas instituições, abrangendo também temas de agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-07-2026/chamada-publica-cnpq-N-07-2026",
     "descobertoEm": "2026-07-07"
   },
   {
@@ -5736,5 +5736,118 @@
     "desc": "Edital estadual que apoia ideias inovadoras nascidas no campo, visando transformar protótipos em produtos escaláveis e patenteáveis para o mercado de Agtechs, por meio de recursos do Fundo Estadual de Ciência e Tecnologia (Funcitec) e parceria entre Seag, Fapes, Instituto Senai de Tecnologia e Eficiência Operacional e consultorias especializadas.",
     "url": "https://conteudo.findeslab.com.br/agro-inventores",
     "descobertoEm": "2026-08-02"
+  },
+  {
+    "id": "fapesp-fapeam-2026-cooperacao-amazonia",
+    "titulo": "Chamada FAPEAM/FAPESP 2026",
+    "orgao": "FAPESP · FAPEAM",
+    "origem": "Nacional",
+    "areas": [
+      "Cooperação FAPEAM–FAPESP",
+      "Ciência e tecnologia",
+      "Inovação",
+      "Amazônia",
+      "Projetos conjuntos SP–AM"
+    ],
+    "publico": "Pesquisadores com vínculo em instituições de pesquisa em São Paulo e no Amazonas, conforme regras específicas de cada fundação",
+    "valor": null,
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP para projetos de pesquisa cooperativos, com duração prevista de 36 meses, voltados a temas estratégicos de ciência, tecnologia e inovação envolvendo instituições do Amazonas e de São Paulo.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-08-03"
+  },
+  {
+    "id": "funarbe_embrapa_acre_30_2026",
+    "titulo": "Chamada nº 30/2026 – Bolsas de estímulo à inovação – Projeto Embrapa Acre (Controle de pragas em culturas)",
+    "orgao": "Funarbe / Embrapa",
+    "origem": "Nacional",
+    "areas": [
+      "Controle de Pragas",
+      "Inovação Tecnológica",
+      "PD&I em Agropecuária",
+      "Transferência de Tecnologia"
+    ],
+    "publico": "Estudantes e profissionais elegíveis às bolsas de estímulo à inovação para atuação no projeto Embrapa Acre",
+    "valor": null,
+    "prazo": "2026-01-26",
+    "desc": "Chamada pública da Fundação Arthur Bernardes (Funarbe) para concessão de bolsas de estímulo à inovação vinculadas ao projeto Embrapa Acre TED MDA 003193/2024, voltado ao controle de pragas em culturas. As inscrições são recebidas até as 23h59 do dia 26/01/2026, mediante cadastro e envio de documentação, incluindo currículo Lattes, no sistema da Funarbe.[6]",
+    "url": "https://agrega.funarbe.org.br/bolsas/bolsas/view-dados-para-edital?id=773480",
+    "descobertoEm": "2026-08-03"
+  },
+  {
+    "id": "finep-mais-inovacao-brasil-rodada-2-cadeias-agroindustriais-sustentaveis-2026",
+    "titulo": "FINEP Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "Finep / MCTI / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "inovação agroindustrial",
+      "segurança alimentar",
+      "bioinsumos",
+      "melhoramento genético",
+      "sustentabilidade"
+    ],
+    "publico": "Empresas brasileiras com apoio de ICTs; projetos em arranjo simples ou em rede",
+    "valor": "Arranjo simples: R$ 5.000.000 a R$ 25.000.000; arranjo em rede: R$ 5.000.000 a R$ 40.000.000",
+    "prazo": "2026-09-30",
+    "desc": "Concede subvenção econômica para o desenvolvimento de produtos ou processos inovadores em cadeias agroindustriais sustentáveis, com possibilidade de parceria entre empresas e ICTs.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-08-03"
+  },
+  {
+    "id": "mcti-finep-fndct-cadeias-socioprodutivas-agricultura-familiar-sistemas-agroalimentares-sustentaveis-icts-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "MCTI / Finep / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "bioinsumos",
+      "agroecologia",
+      "soluções digitais rurais",
+      "aquicultura"
+    ],
+    "publico": "Instituições Científicas, Tecnológicas e de Inovação (ICTs)",
+    "valor": "R$ 150.000.000 total",
+    "prazo": "2026-06-19",
+    "desc": "Seleciona propostas para apoiar projetos institucionais voltados ao fortalecimento de cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
+    "descobertoEm": "2026-08-03"
+  },
+  {
+    "id": "faperj-07-2026-programa-agro-do-futuro-tecnologia-e-soberania-alimentar",
+    "titulo": "EDITAL FAPERJ N° 07/2026 – Programa Agro do Futuro – Tecnologia e Soberania Alimentar (Foodtechs e Agritechs)",
+    "orgao": "FAPERJ",
+    "origem": "Estadual · RJ",
+    "areas": [
+      "foodtech",
+      "agritech",
+      "soberania alimentar",
+      "inovação agropecuária",
+      "tecnologia"
+    ],
+    "publico": "Proponentes e equipes com projetos de pesquisa, desenvolvimento e inovação no estado do Rio de Janeiro",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital estadual para seleção de projetos voltados a tecnologia e soberania alimentar, com foco em foodtechs e agritechs.",
+    "url": "https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%B007_2026_Programa_Agro_do_Futuro_%E2%80%93_Tecnologia_e_Soberania_Alimentar_(Foodtechs_e_Agritechs).pdf",
+    "descobertoEm": "2026-08-03"
+  },
+  {
+    "id": "mda-02-2026-sociobiodiversidade-plantas-medicinais-aromaticas-condimentares",
+    "titulo": "Edital de Chamamento Público nº 02/2026 – Estruturação e Fortalecimento de Cadeias Produtivas da Sociobiodiversidade e de Plantas Medicinais, Aromáticas e Condimentares",
+    "orgao": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+    "origem": "Nacional",
+    "areas": [
+      "sociobiodiversidade",
+      "plantas medicinais",
+      "plantas aromáticas",
+      "plantas condimentares",
+      "cadeias produtivas"
+    ],
+    "publico": "Proponentes elegíveis conforme o chamamento público do MDA",
+    "valor": "R$ 5.000.000 total",
+    "prazo": "2026-06-30",
+    "desc": "Chamamento público para apoiar a estruturação e o fortalecimento de cadeias produtivas ligadas à sociobiodiversidade e a plantas medicinais, aromáticas e condimentares.",
+    "url": "https://www.gov.br/mda/pt-br/acesso-a-informacao/participacao-social/Editais-de-chamamento-publico/2026/edital-sfdt-no-02-2026-estruturacao-e-fortalecimento-de-cadeias-produtivas-da-sociobiodiversidade-e-de-plantas-medicinais-aromaticas-e-condimentares/SEI_54002979_Edital.pdf",
+    "descobertoEm": "2026-08-03"
   }
 ]
