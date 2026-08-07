@@ -6007,15 +6007,15 @@
     "origem": "Nacional",
     "areas": [
       "bioeconomia",
+      "biotecnologia",
       "Amazônia",
-      "inovação",
       "startups",
       "pesquisa aplicada"
     ],
-    "publico": "Representantes de startups e pesquisadores dos estados das FAPs participantes",
-    "valor": "não informado no resultado",
+    "publico": "Representantes de startups e pesquisadores dos estados participantes, incluindo FAPEAM",
+    "valor": null,
     "prazo": "2026-05-18",
-    "desc": "Chamada para candidaturas de startups e pesquisadores vinculados às FAPs participantes, incluindo FAPEAM, com foco em bioeconomia e soluções para a Amazônia.",
+    "desc": "Chamada voltada a projetos ligados à bioeconomia amazônica com participação de FAPs de diferentes estados.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-08-05"
   },
