@@ -3859,17 +3859,16 @@
     "orgao": "CAPES",
     "origem": "Nacional",
     "areas": [
+      "Pesquisa e desenvolvimento",
       "Amazônia Legal",
-      "Meio Ambiente",
-      "Biodiversidade",
-      "Ciências Agrárias",
+      "Bioeconomia",
       "Agropecuária"
     ],
-    "publico": "Grupos de pesquisa e programas de pós-graduação que atuem em temas relevantes para a Amazônia Legal",
-    "valor": "Auxílios e bolsas para projetos em rede em programas de pós-graduação nas áreas elegíveis, conforme faixas do edital",
+    "publico": "Instituições e redes de pesquisa elegíveis em cooperação acadêmico-científica, conforme edital/programa",
+    "valor": "Não informado nos trechos recuperados",
     "prazo": "2026-10-02",
-    "desc": "Programa voltado à estruturação de redes de pesquisa e desenvolvimento na Amazônia Legal, com apoio a projetos de pós-graduação em temas como uso da terra, agricultura sustentável, biodiversidade e desenvolvimento regional.",
-    "url": "https://www.instagram.com/p/DZnFtq8EQrh/",
+    "desc": "Programa aberto com foco em rede de pesquisa e desenvolvimento na Amazônia Legal, com potencial aderência a temas de agropecuária, bioeconomia e inovação territorial.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-07-14"
   },
   {
@@ -6188,5 +6187,41 @@
     "desc": "Chamada universal de fomento à pesquisa com ampla abrangência temática, potencialmente relevante para projetos em agropecuária e Embrapa.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-08-08"
+  },
+  {
+    "id": "cnpq-ctbiotec-fndct-mcti-24-2026",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 – Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial",
+      "Pesquisa e inovação"
+    ],
+    "publico": "Pesquisadores e grupos de pesquisa vinculados a instituições científicas, tecnológicas e de inovação",
+    "valor": "R$ 50 milhões (informado como financiamento do FNDCT/MCTI no anúncio oficial)",
+    "prazo": "2026-09-18",
+    "desc": "Chamada aberta para apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia, com eixo explícito para biotecnologia agropecuária, relevante para pesquisadores de agropecuária e Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/Chamada_24_2026.pdf",
+    "descobertoEm": "2026-08-09"
+  },
+  {
+    "id": "cnpq-fndct-06-2026",
+    "titulo": "Chamada CNPq/FNDCT Nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa básica",
+      "Pesquisa aplicada",
+      "Agropecuária",
+      "Ciências agrárias"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições brasileiras, conforme regras da chamada",
+    "valor": "Não informado nos trechos recuperados",
+    "prazo": "2026-06-17",
+    "desc": "Chamada universal de apoio a projetos de pesquisa em diversas áreas do conhecimento, potencialmente relevante para temas de agropecuária e inovação em instituições como a Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "descobertoEm": "2026-08-09"
   }
 ]
