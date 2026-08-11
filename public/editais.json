@@ -2520,33 +2520,31 @@
     "origem": "Nacional",
     "areas": [
       "Pesquisa",
-      "PD&I",
-      "Agrárias",
-      "Biológicas",
-      "Exatas e da Terra"
+      "Desenvolvimento Científico",
+      "Desenvolvimento Tecnológico",
+      "Inovação"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino superior, em todas as áreas do conhecimento",
+    "publico": "Pesquisadores doutores e equipes de instituições científicas, tecnológicas e de inovação elegíveis pelo CNPq",
     "valor": null,
-    "prazo": null,
-    "desc": "Chamada universal do CNPq para apoio a projetos de pesquisa científica, tecnológica e de inovação, relevante para grupos de agropecuária e Embrapa por abranger temas amplos e interdisciplinares.",
+    "prazo": "2026-06-17",
+    "desc": "Chamada universal de apoio a projetos de pesquisa, desenvolvimento científico, tecnológico e inovação, com potencial de aderência ampla para temas de agropecuária, biologia e áreas correlatas.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-01"
   },
   {
     "id": "cnpq-mcti-15-2026-proafrica",
-    "titulo": "Chamada Pública CNPq/MCTI nº 15/2026 – Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia – PROÁFRICA",
+    "titulo": "Chamada CNPq/MCTI Nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia - PROÁFRICA",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Ciência e Tecnologia",
-      "PD&I",
-      "Agropecuária (quando inserida em cooperação Afro-Brasileira)",
-      "Cooperação Internacional"
+      "Cooperação internacional",
+      "Ciência e tecnologia",
+      "Desenvolvimento e inovação"
     ],
-    "publico": "Grupos de pesquisa e instituições de ensino e pesquisa brasileiras em cooperação com instituições africanas",
-    "valor": "Montante global da chamada de R$ 25.000.000,00, oriundos do FNDCT; valores por projeto definidos em faixas no edital",
+    "publico": "Pesquisadores e instituições brasileiras com interesse em cooperação com países africanos",
+    "valor": null,
     "prazo": "2026-08-31",
-    "desc": "Fomentar projetos de cooperação científica e tecnológica entre grupos de pesquisa brasileiros e africanos em áreas estratégicas, com recursos do FNDCT, incluindo temas de PD&I que podem abranger agropecuária e sistemas produtivos.",
+    "desc": "Programa de cooperação científica e tecnológica com potencial para projetos em agricultura, alimentos, ambiente e inovação aplicados ao contexto agropecuário.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026/chamada-publica-cnpq-N-15-2026",
     "descobertoEm": "2026-07-01"
   },
@@ -2570,21 +2568,19 @@
   },
   {
     "id": "cnpq-mcti-mec-09-2026-pop-ciencia",
-    "titulo": "Chamada CNPq/MCTI/MEC nº 09/2026 – Feiras de Ciências e Mostras Científicas – POP CIÊNCIA",
-    "orgao": "CNPq/MCTI/MEC",
+    "titulo": "Chamada Pública CNPq/MCTI/MEC Nº 9/2026 - Feiras de Ciências e Mostras Científicas - POP CIÊNCIA",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Popularização da ciência",
       "Educação científica",
-      "Feiras de ciências",
-      "Mostras científicas",
-      "Todas as áreas de C&T"
+      "Divulgação científica"
     ],
-    "publico": "Instituições de ensino e ciência e tecnologia que organizem feiras de ciências e mostras científicas para divulgação e popularização da ciência",
-    "valor": "Valores de apoio financeiro às propostas definidos conforme critérios do edital[11]",
-    "prazo": "2026-06-19",
-    "desc": "Chamada pública para apoio a feiras de ciências e mostras científicas no âmbito do programa POP CIÊNCIA, visando fortalecer ações de popularização e educação científica em diferentes áreas do conhecimento[11].",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-09-2026/chamada-publica-cnpq-N-09-2026",
+    "publico": "Instituições e equipes proponentes de feiras e mostras científicas",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada voltada à promoção de feiras e mostras científicas, podendo ser relevante para ações de divulgação e extensão ligadas à agropecuária e à inovação.",
+    "url": "http://portal-adm.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&desc=chamadas&idDivulgacao=13445",
     "descobertoEm": "2026-07-01"
   },
   {
@@ -4075,15 +4071,14 @@
     "orgao": "FAPEAM / FAPESP",
     "origem": "Nacional",
     "areas": [
-      "bioeconomia",
-      "desenvolvimento sustentável",
-      "Amazônia",
-      "pesquisa"
+      "pesquisa",
+      "cooperação interinstitucional",
+      "Amazônia"
     ],
-    "publico": "Pesquisadores e instituições elegíveis nos estados participantes, com submissão às duas fundações conforme regras da chamada",
+    "publico": "Pesquisadores vinculados a instituições do Amazonas e de São Paulo",
     "valor": null,
     "prazo": "2026-03-23",
-    "desc": "Chamada cooperativa para apoiar projetos de pesquisa com foco em bioeconomia e desenvolvimento sustentável, com participação da FAPEAM e da FAPESP.",
+    "desc": "Chamada conjunta para apoio a projetos de pesquisa em cooperação entre Amazonas e São Paulo.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-07-15"
   },
@@ -6004,18 +5999,18 @@
   {
     "id": "nexbio-amazonia-2026",
     "titulo": "Chamada nexBio Amazônia 2026",
-    "orgao": "CONFAP / FAPs participantes (inclui FAPEAM)",
+    "orgao": "CONFAP / FAPs participantes",
     "origem": "Nacional",
     "areas": [
       "bioeconomia",
-      "Amazônia",
-      "startups",
-      "pesquisa aplicada"
+      "biotecnologia",
+      "inovação",
+      "Amazônia"
     ],
-    "publico": "Representantes de startups e pesquisadores dos estados das FAPs participantes",
+    "publico": "Pesquisadores e representantes de startups dos estados participantes, incluindo Amazonas",
     "valor": null,
     "prazo": "2026-05-18",
-    "desc": "Chamada para candidaturas de startups e pesquisadores em estados participantes da 3ª chamada nexBio Amazônia, incluindo o Amazonas via FAPEAM.",
+    "desc": "Chamada para candidaturas em bioeconomia e inovação na Amazônia, com participação da FAPEAM entre as FAPs aderentes.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-08-05"
   },
@@ -6191,19 +6186,20 @@
   },
   {
     "id": "cnpq-ctbiotec-fndct-mcti-24-2026",
-    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 – Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 - Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Biotecnologia agropecuária",
       "Biotecnologia ambiental",
       "Biotecnologia industrial",
-      "Pesquisa e inovação"
+      "Pesquisa",
+      "Desenvolvimento e Inovação"
     ],
-    "publico": "Pesquisadores e grupos de pesquisa vinculados a instituições científicas, tecnológicas e de inovação",
-    "valor": "R$ 50 milhões (informado como financiamento do FNDCT/MCTI no anúncio oficial)",
+    "publico": "Pesquisadores e grupos de pesquisa vinculados a instituições científicas, tecnológicas e de inovação no Brasil",
+    "valor": null,
     "prazo": "2026-09-18",
-    "desc": "Chamada aberta para apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia, com eixo explícito para biotecnologia agropecuária, relevante para pesquisadores de agropecuária e Embrapa.",
+    "desc": "Apoia projetos de pesquisa, desenvolvimento e inovação em biotecnologia, incluindo explicitamente a área de biotecnologia agropecuária, relevante para pesquisadores da Embrapa e do setor agropecuário.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/Chamada_24_2026.pdf",
     "descobertoEm": "2026-08-09"
   },
@@ -6261,5 +6257,22 @@
     "desc": "Chamada pública do CNPq listada como aberta no portal oficial; o resultado disponível não traz, no trecho consultado, o objeto detalhado da chamada.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-16-2026",
     "descobertoEm": "2026-08-10"
+  },
+  {
+    "id": "cnpq-n07-2026-pibpg",
+    "titulo": "Chamada Pública CNPq Nº 07/2026 - Programa Institucional de Bolsas de Pós-Graduação (PIBPG)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Bolsas de Pós-Graduação",
+      "Formação de Recursos Humanos",
+      "Pesquisa"
+    ],
+    "publico": "Instituições de ensino superior e pesquisa com programas de pós-graduação",
+    "valor": null,
+    "prazo": null,
+    "desc": "Programa institucional de bolsas de pós-graduação, relevante para grupos de pesquisa em agropecuária, ciências agrárias e áreas afins que formam recursos humanos.",
+    "url": "https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/copy_of_veja-as-chamadas-com-inscricoes-abertas-no-cnpq",
+    "descobertoEm": "2026-08-11"
   }
 ]
