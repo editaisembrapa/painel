@@ -6274,5 +6274,61 @@
     "desc": "Programa institucional de bolsas de pós-graduação, relevante para grupos de pesquisa em agropecuária, ciências agrárias e áreas afins que formam recursos humanos.",
     "url": "https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/copy_of_veja-as-chamadas-com-inscricoes-abertas-no-cnpq",
     "descobertoEm": "2026-08-11"
+  },
+  {
+    "id": "CNPq-MCTI-MEC-09-2026",
+    "titulo": "Chamada Pública CNPq/MCTI/MEC N° 9/2026 - Feiras de Ciências e Mostras Científicas",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Divulgação científica",
+      "Educação científica",
+      "Feiras de ciências"
+    ],
+    "publico": "Instituições e equipes que organizam feiras e mostras científicas; baixa relevância direta para pesquisa agropecuária.",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada para apoio a feiras de ciências e mostras científicas.",
+    "url": "http://portal-adm.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&desc=chamadas&idDivulgacao=13445",
+    "descobertoEm": "2026-08-12"
+  },
+  {
+    "id": "finep-agroindustriais-sustentaveis-2026",
+    "titulo": "FINEP Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "Finep / MCTI / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agroindústria",
+      "alimentos",
+      "segurança alimentar",
+      "ICTs",
+      "empresas",
+      "PD&I"
+    ],
+    "publico": "Empresas brasileiras com fins lucrativos e ICTs, em arranjos simples ou em rede",
+    "valor": "Subvenção econômica; arranjo simples de R$ 5.000.000 a R$ 25.000.000; arranjo em rede de R$ 5.000.000 a R$ 40.000.000; orçamento total de R$ 300.000.000",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública para apoiar o desenvolvimento de produtos ou processos inovadores em cadeias agroindustriais sustentáveis, com foco em segurança alimentar, desenvolvimento da agroindústria nacional e parcerias entre empresas e ICTs.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-08-12"
+  },
+  {
+    "id": "embrapa-inovabio-2-edicao",
+    "titulo": "InovaBio – 2ª edição",
+    "orgao": "Embrapa Agroenergia",
+    "origem": "Interno",
+    "areas": [
+      "biomassas",
+      "biocombustíveis",
+      "bioprodutos",
+      "bioinsumos",
+      "inovação aberta"
+    ],
+    "publico": "Proponentes de soluções tecnológicas para desafios de inovação aberta",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital de inovação aberta da Embrapa Agroenergia voltado ao desenvolvimento de soluções tecnológicas para produção de biomassas, biocombustíveis, bioprodutos e bioinsumos.",
+    "url": "https://www.embrapa.br/financiamentos-desafios-e-programas-de-inovacao",
+    "descobertoEm": "2026-08-12"
   }
 ]
