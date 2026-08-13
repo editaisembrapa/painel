@@ -5774,18 +5774,19 @@
   {
     "id": "finep-mais-inovacao-brasil-rodada-2-cadeias-agroindustriais-sustentaveis-2026",
     "titulo": "FINEP Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
-    "orgao": "FINEP",
+    "orgao": "Finep / MCTI / FNDCT",
     "origem": "Nacional",
     "areas": [
       "agroindústria",
+      "inovação tecnológica",
       "segurança alimentar",
-      "inovação",
-      "bioeconomia"
+      "ICTs",
+      "cadeias produtivas"
     ],
-    "publico": "Empresas e ICTs",
-    "valor": "Arranjo simples: R$ 5.000.000 a R$ 25.000.000; arranjo em rede: R$ 5.000.000 a R$ 40.000.000",
+    "publico": "Empresas brasileiras com fins lucrativos, ICTs e arranjos em rede com parceria empresa-ICT",
+    "valor": "Subvenção econômica; arranjo simples: R$ 5.000.000,00 a R$ 25.000.000,00; arranjo em rede: R$ 5.000.000,00 a R$ 40.000.000,00; orçamento total indicado de R$ 300.000.000,00",
     "prazo": "2026-09-30",
-    "desc": "Seleção pública para subvenção econômica voltada ao desenvolvimento de produtos e processos inovadores em cadeias agroindustriais sustentáveis, com apoio a parcerias entre empresas e ICTs.",
+    "desc": "Seleção pública para desenvolvimento de produtos ou processos inovadores voltados às cadeias agroindustriais sustentáveis, com foco em segurança alimentar e nutricional e em parcerias entre empresas e ICTs.",
     "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
     "descobertoEm": "2026-08-03"
   },
@@ -6277,18 +6278,18 @@
   },
   {
     "id": "CNPq-MCTI-MEC-09-2026",
-    "titulo": "Chamada Pública CNPq/MCTI/MEC N° 9/2026 - Feiras de Ciências e Mostras Científicas",
+    "titulo": "Chamada Pública CNPq/MCTI/MEC Nº 9/2026 - Feiras de Ciências e Mostras Científicas",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Divulgação científica",
       "Educação científica",
-      "Feiras de ciências"
+      "Popularização da ciência"
     ],
-    "publico": "Instituições e equipes que organizam feiras e mostras científicas; baixa relevância direta para pesquisa agropecuária.",
+    "publico": "Instituições e equipes proponentes de feiras e mostras científicas",
     "valor": null,
     "prazo": null,
-    "desc": "Chamada para apoio a feiras de ciências e mostras científicas.",
+    "desc": "Chamada pública do CNPq para apoio a feiras de ciências e mostras científicas; pode ser útil para ações de extensão e divulgação científica em ambiente agropecuário.",
     "url": "http://portal-adm.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&desc=chamadas&idDivulgacao=13445",
     "descobertoEm": "2026-08-12"
   },
@@ -6314,7 +6315,7 @@
   },
   {
     "id": "embrapa-inovabio-2-edicao",
-    "titulo": "InovaBio – 2ª edição",
+    "titulo": "Edital de inovação aberta InovaBio – 2ª edição",
     "orgao": "Embrapa Agroenergia",
     "origem": "Interno",
     "areas": [
@@ -6324,11 +6325,85 @@
       "bioinsumos",
       "inovação aberta"
     ],
-    "publico": "Proponentes de soluções tecnológicas para desafios de inovação aberta",
-    "valor": null,
+    "publico": "Pesquisadores, startups, empresas e parceiros de inovação aderentes ao foco temático da Embrapa Agroenergia",
+    "valor": "Não informado no resultado disponível",
     "prazo": null,
-    "desc": "Edital de inovação aberta da Embrapa Agroenergia voltado ao desenvolvimento de soluções tecnológicas para produção de biomassas, biocombustíveis, bioprodutos e bioinsumos.",
+    "desc": "Edital de inovação aberta com foco no desenvolvimento de soluções tecnológicas voltadas à produção de biomassas, biocombustíveis, bioprodutos e bioinsumos.",
     "url": "https://www.embrapa.br/financiamentos-desafios-e-programas-de-inovacao",
     "descobertoEm": "2026-08-12"
+  },
+  {
+    "id": "confap-2026-nexbio-amazonia",
+    "titulo": "Chamada nexBio Amazônia 2026",
+    "orgao": "CONFAP / FAPEAM e outras FAPs participantes",
+    "origem": "Nacional",
+    "areas": [
+      "bioeconomia",
+      "Amazônia",
+      "startup",
+      "pesquisa",
+      "inovação"
+    ],
+    "publico": "Representantes de startups e pesquisadores dos estados das FAPs participantes",
+    "valor": null,
+    "prazo": "2026-05-18",
+    "desc": "Chamada para candidaturas de startups e pesquisadores vinculados às FAPs participantes, incluindo FAPEAM, com foco em iniciativas da Amazônia.",
+    "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
+    "descobertoEm": "2026-08-13"
+  },
+  {
+    "id": "fapesp-fapeam-2026",
+    "titulo": "Chamada FAPEAM/FAPESP 2026",
+    "orgao": "FAPEAM / FAPESP",
+    "origem": "Nacional",
+    "areas": [
+      "bioeconomia",
+      "desenvolvimento sustentável",
+      "pesquisa",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores e instituições elegíveis nos termos da chamada conjunta",
+    "valor": null,
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta para submissão de propostas em parceria entre FAPEAM e FAPESP, com duração prevista de 36 meses.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-08-13"
+  },
+  {
+    "id": "fapema-2026-abertos",
+    "titulo": "Editais Abertos - FAPEMA (lista vigente)",
+    "orgao": "FAPEMA",
+    "origem": "Estadual · MA",
+    "areas": [
+      "pesquisa",
+      "inovação",
+      "formação",
+      "eventos científicos"
+    ],
+    "publico": "Pesquisadores, estudantes e instituições elegíveis conforme cada edital listado",
+    "valor": null,
+    "prazo": "2026-08-31",
+    "desc": "Página institucional com editais abertos em agosto de 2026; a lista exige conferência individual de cada chamada para verificar aderência a Amazônia/agropecuária.",
+    "url": "https://www.fapema.br/category/editais/editais-em-aberto/",
+    "descobertoEm": "2026-08-13"
+  },
+  {
+    "id": "brics-sti-framework-programme-7th-coordinated-call-2026",
+    "titulo": "BRICS STI Framework Programme – 7th Coordinated Call for BRICS Multilateral Projects 2026",
+    "orgao": "Embrapa / BRICS STI Framework Programme",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura tropical sustentável",
+      "estresses térmico e hídrico",
+      "transferência de tecnologia",
+      "agricultura familiar",
+      "cooperação internacional"
+    ],
+    "publico": "Pesquisadores e instituições elegíveis para projetos multilaterais BRICS",
+    "valor": "Financiamento de R$ 50.000,00 mencionado no portal; detalhes variam por chamada",
+    "prazo": "2026-06-16",
+    "desc": "Chamada multilateral BRICS de 2026 listada no portal de editais da Embrapa, com tema ligado à agricultura tropical sustentável e transferência de tecnologia para agricultura familiar.",
+    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "descobertoEm": "2026-08-13"
   }
 ]
