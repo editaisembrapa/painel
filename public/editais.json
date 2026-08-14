@@ -18,22 +18,21 @@
   },
   {
     "id": "finep-agricultura-familiar-icts-2026",
-    "orgao": "FINEP / MCTI",
+    "orgao": "FINEP / MCTI / FNDCT",
     "origem": "Nacional",
-    "titulo": "MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026 – Chamada Pública 783",
+    "titulo": "MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
     "areas": [
-      "Agricultura familiar",
-      "Sistemas agroalimentares sustentáveis",
-      "Bioinsumos",
-      "Produção agroecológica e orgânica",
-      "Soluções digitais para pequena propriedade rural",
-      "Aquicultura de espécies nativas"
+      "agricultura familiar",
+      "sistemas agroalimentares",
+      "pesquisa aplicada",
+      "transferência de tecnologia",
+      "sustentabilidade"
     ],
-    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) brasileiras",
-    "valor": "Apoio financeiro com investimento total previsto de R$ 150.000.000,00 via FNDCT para projetos institucionais em ICTs[2][9]",
+    "publico": "ICTs",
+    "valor": "De R$ 3.000.000,00 a R$ 7.000.000,00 por projeto; investimento total da chamada de R$ 150.000.000,00",
     "prazo": "2026-06-19",
-    "desc": "Chamada pública voltada à seleção de propostas de ICTs para desenvolvimento de soluções científicas e tecnológicas aplicadas à estruturação e fortalecimento de cadeias socioprodutivas da agricultura familiar baseadas na biodiversidade brasileira, em quatro linhas temáticas: bioinsumos; sistemas de produção agroecológico e orgânico; soluções digitais para pequena propriedade rural; e aquicultura de espécies nativas, com foco em segurança alimentar, inclusão produtiva e sustentabilidade de sistemas agroalimentares no Brasil.[2][9]",
-    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/783",
+    "desc": "Chamada pública para financiar projetos de P&D voltados a produtos, processos, tecnologias e serviços para cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -4068,17 +4067,17 @@
   {
     "id": "fapeam-fapesp-2026",
     "titulo": "Chamada FAPEAM/FAPESP 2026",
-    "orgao": "FAPEAM / FAPESP",
+    "orgao": "FAPEAM/FAPESP",
     "origem": "Nacional",
     "areas": [
-      "pesquisa",
-      "cooperação interinstitucional",
-      "Amazônia"
+      "pesquisa científica",
+      "inovação",
+      "cooperação interinstitucional"
     ],
-    "publico": "Pesquisadores vinculados a instituições do Amazonas e de São Paulo",
-    "valor": null,
+    "publico": "Pesquisadores vinculados a instituições elegíveis no âmbito da chamada FAPEAM/FAPESP",
+    "valor": "Não informado no trecho disponível",
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta para apoio a projetos de pesquisa em cooperação entre Amazonas e São Paulo.",
+    "desc": "Chamada de cooperação entre FAPEAM e FAPESP para submissão de propostas de pesquisa com duração prevista de 36 meses.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-07-15"
   },
@@ -6003,15 +6002,16 @@
     "orgao": "CONFAP / FAPs participantes",
     "origem": "Nacional",
     "areas": [
-      "bioeconomia",
       "biotecnologia",
+      "Amazônia",
       "inovação",
-      "Amazônia"
+      "startups",
+      "pesquisa aplicada"
     ],
-    "publico": "Pesquisadores e representantes de startups dos estados participantes, incluindo Amazonas",
-    "valor": null,
+    "publico": "Representantes de startups e pesquisadores dos estados participantes, incluindo Amazonas",
+    "valor": "Não informado no trecho disponível",
     "prazo": "2026-05-18",
-    "desc": "Chamada para candidaturas em bioeconomia e inovação na Amazônia, com participação da FAPEAM entre as FAPs aderentes.",
+    "desc": "Chamada para candidaturas de pesquisadores e startups vinculadas às Fundações de Amparo à Pesquisa participantes da Amazônia, incluindo a FAPEAM.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-08-05"
   },
@@ -6036,21 +6036,22 @@
   },
   {
     "id": "CNPq-FNDCT-Universal-06-2026",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Ciências Agrárias",
-      "Agropecuária",
-      "Zootecnia",
-      "Engenharia Agrícola"
+      "Pesquisa",
+      "Inovação",
+      "Agrárias",
+      "Biológicas",
+      "Exatas e da Terra",
+      "Ciências da Saúde"
     ],
-    "publico": "Pesquisadores vinculados a instituições de pesquisa e ensino superior no Brasil, com projetos em qualquer área do conhecimento",
-    "valor": "Montante global não explicitado no trecho consultado; valores por faixa de projeto definidos no edital Universal",
-    "prazo": "2026-08-03",
-    "desc": "Chamada Universal do CNPq/FNDCT para apoiar projetos de pesquisa em qualquer área do conhecimento, visando o desenvolvimento científico e tecnológico e a inovação no País; inclui elegibilidade para projetos em ciências agrárias e agropecuária, com submissão via Plataforma Carlos Chagas até 03/08/2026.[3][5]",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026",
+    "publico": "Pesquisadores vinculados a instituições brasileiras que apresentem projetos em qualquer área do conhecimento",
+    "valor": null,
+    "prazo": null,
+    "desc": "A chamada apoia projetos de pesquisa que contribuam para o desenvolvimento científico e tecnológico e a inovação do país, em qualquer área do conhecimento, podendo ser relevante para agropecuária e Embrapa conforme o tema do projeto.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-08-06"
   },
   {
@@ -6405,5 +6406,256 @@
     "desc": "Chamada multilateral BRICS de 2026 listada no portal de editais da Embrapa, com tema ligado à agricultura tropical sustentável e transferência de tecnologia para agricultura familiar.",
     "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-08-13"
+  },
+  {
+    "id": "CNPq-CT-Biotec-FNDCT-MCTI-24-2026",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 – Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia",
+      "Agropecuária",
+      "Pesquisa",
+      "Desenvolvimento tecnológico",
+      "Inovação"
+    ],
+    "publico": "Pesquisadores vinculados a instituições brasileiras de ciência, tecnologia e inovação; grupos com projetos em biotecnologia com foco em agropecuária, saúde humana, ambiental ou industrial",
+    "valor": null,
+    "prazo": "2026-09-18",
+    "desc": "A chamada apoia projetos de pesquisa e inovação em biotecnologia, incluindo a área de biotecnologia agropecuária, com financiamento do FNDCT.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/Chamada_24_2026.pdf",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "CNPq-MCTI-FNDCT-PCI-12-2026",
+    "titulo": "Chamada CNPq/MCTI/FNDCT nº 12/2026 – Programa PCI",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Infraestrutura",
+      "Pesquisa",
+      "Desenvolvimento científico",
+      "Inovação",
+      "Capacitação institucional"
+    ],
+    "publico": "Pesquisadores vinculados a Instituições Científicas, Tecnológicas e de Inovação vinculadas ao MCTI, no âmbito do Programa de Capacitação Institucional",
+    "valor": null,
+    "prazo": null,
+    "desc": "A chamada apoia projetos de pesquisadores vinculados a ICTs vinculadas ao MCTI, no âmbito do PCI, com foco em desenvolvimento científico, tecnológico e inovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/resultados-publicados",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "fapeam-parev-2026",
+    "titulo": "Edital FAPEAM n.º 003/2026 – Programa de Apoio à Realização de Eventos Científicos e Tecnológicos no Estado do Amazonas – PAREV 2026 – Chamada I",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "eventos científicos",
+      "eventos tecnológicos",
+      "divulgação científica"
+    ],
+    "publico": "Instituições e pesquisadores interessados em apoiar ou realizar eventos científicos e tecnológicos no Amazonas",
+    "valor": "Não informado no trecho disponível",
+    "prazo": null,
+    "desc": "Programa de apoio à realização de eventos científicos e tecnológicos no Estado do Amazonas.",
+    "url": "https://inove.ufam.edu.br/index.php/editais?showall=1",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "fapema-editais-abertos-2026",
+    "titulo": "Editais Abertos FAPEMA 2026",
+    "orgao": "FAPEMA",
+    "origem": "Estadual · AM",
+    "areas": [
+      "pesquisa",
+      "inovação",
+      "formação",
+      "eventos"
+    ],
+    "publico": "Pesquisadores e instituições do Maranhão",
+    "valor": "Não informado",
+    "prazo": "2026-08-31",
+    "desc": "Página institucional de editais abertos da FAPEMA; incluída por estar aberta em 2026, embora não seja do Amazonas.",
+    "url": "https://www.fapema.br/category/editais/editais-em-aberto/",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "embra_cafe_editais_oportunidades_2026",
+    "titulo": "Outras Chamadas e Editais",
+    "orgao": "Embrapa Café",
+    "origem": "Interno",
+    "areas": [
+      "PD&I",
+      "cooperação internacional",
+      "agro"
+    ],
+    "publico": "Equipe técnico-científica da Embrapa e parceiros de pesquisa",
+    "valor": null,
+    "prazo": null,
+    "desc": "Página do Núcleo de Apoio à Programação com divulgação de oportunidades de submissão de propostas de projetos de PD&I e outras chamadas com aplicação no agronegócio café.",
+    "url": "https://www.embrapa.br/cafe/editais-e-oportunidades",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "embrapa_senai_agroindustrias_pd_i",
+    "titulo": "Edital de PD&I para agroindústrias",
+    "orgao": "Embrapa e SENAI",
+    "origem": "Nacional",
+    "areas": [
+      "PD&I",
+      "agroindústria",
+      "inovação"
+    ],
+    "publico": "Instituições e equipes interessadas em projetos de pesquisa, desenvolvimento e inovação para agroindústrias",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada pública conjunta Embrapa-SENAI para apoio a projetos de PD&I voltados ao setor agroindustrial.",
+    "url": "https://www.embrapa.br/en/busca-de-noticias/-/noticia/60711120/embrapa-e-senai-lancam-edital-de-pdi-para-agroindustrias",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "fapeg_bolsa_estimulo_inovacao_embrapa",
+    "titulo": "Bolsas de Estímulo à Inovação",
+    "orgao": "FAPEG / Embrapa",
+    "origem": "Nacional",
+    "areas": [
+      "inovação",
+      "transferência de tecnologia",
+      "propriedade intelectual",
+      "extensão tecnológica"
+    ],
+    "publico": "Estudantes, técnicos e profissionais vinculados a projetos de interesse da Embrapa",
+    "valor": null,
+    "prazo": "2026-08-10",
+    "desc": "Chamada para concessão de bolsas de estímulo à inovação para atuação em projetos de pesquisa, desenvolvimento e inovação, extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologia.",
+    "url": "https://www.embrapa.br/en/busca-de-noticias/-/noticia/146166639/abertas-inscricoes-para-selecao-de-bolsistas-de-estimulo-a-inovacao",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "embrapa_caprinos_ovinos_editais_bolsas_2026",
+    "titulo": "Editais de estágio e bolsas",
+    "orgao": "Embrapa Caprinos e Ovinos",
+    "origem": "Interno",
+    "areas": [
+      "estágio",
+      "bolsas",
+      "PD&I"
+    ],
+    "publico": "Estudantes e candidatos a bolsas/estágios na unidade Embrapa Caprinos e Ovinos",
+    "valor": null,
+    "prazo": "2026-07-14",
+    "desc": "Página da unidade com editais e cronograma de inscrições, entrevistas, resultado e recurso para estágio e bolsas em 2026.",
+    "url": "https://www.embrapa.br/web/caprinos-e-ovinos/estagios-e-bolsas/editais",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "rnp_bolsas_pdi_01_2026",
+    "titulo": "Programa de Bolsas de Incentivo à Pesquisa, Desenvolvimento e Inovação (PD&I) – Chamada Pública 01/2026",
+    "orgao": "RNP",
+    "origem": "Nacional",
+    "areas": [
+      "PD&I",
+      "bolsas",
+      "inovação"
+    ],
+    "publico": "Candidatos a bolsas e equipes vinculadas a projetos de pesquisa, desenvolvimento e inovação",
+    "valor": null,
+    "prazo": "2026-05-29",
+    "desc": "Chamada pública para bolsas de incentivo à PD&I, com submissão eletrônica de candidaturas.",
+    "url": "https://www.rnp.br/chamadas-publicas/programa-de-bolsas-de-incentivo-a-pesquisa-desenvolvimento-e-inovacao-pdi-chamada-publica-01-2026/",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "rnp_chamadas_publicas_pd_i_2026",
+    "titulo": "Chamadas Públicas – Pesquisa e Desenvolvimento",
+    "orgao": "RNP",
+    "origem": "Nacional",
+    "areas": [
+      "PD&I",
+      "pesquisa",
+      "desenvolvimento",
+      "inovação"
+    ],
+    "publico": "Instituições, pesquisadores e grupos interessados em chamadas de PD&I",
+    "valor": null,
+    "prazo": null,
+    "desc": "Página agregadora das chamadas públicas de pesquisa e desenvolvimento da RNP, incluindo programas de bolsas e outras iniciativas de PD&I.",
+    "url": "https://www.rnp.br/pesquisa-e-desenvolvimento/chamadas-publicas/",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "embrapa_editais_ofertas_licenciamento_04_2025",
+    "titulo": "Oferta 04-2025 (RETIFICAÇÃO): Palma de Óleo",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "licenciamento",
+      "transferência de tecnologia",
+      "sementes"
+    ],
+    "publico": "Produtores de sementes inscritos no RENASEM",
+    "valor": null,
+    "prazo": null,
+    "desc": "Processo seletivo para celebrar contrato de fornecimento de tecnologia, licença de uso de marcas e gestão de campo de produção e comercialização de sementes de palma de óleo.",
+    "url": "https://www.embrapa.br/en/editais-e-ofertas-publicas-para-licenciamento",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "finep-mib-agro-2026",
+    "titulo": "Cadeias Agroindustriais",
+    "orgao": "FINEP / MCTI / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agroindústria",
+      "inovação",
+      "segurança alimentar",
+      "sustentabilidade"
+    ],
+    "publico": "Empresas brasileiras",
+    "valor": "Até R$ 300.000.000,00 no total; subvenção econômica para projetos individuais conforme regras da chamada",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública para apoiar o desenvolvimento de produtos ou processos inovadores em cadeias agroindustriais sustentáveis, com foco em segurança alimentar, nutricional e parcerias entre empresas e ICTs.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/774",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "mda-sociobiodiversidade-02-2026",
+    "titulo": "Edital de Chamamento Público nº 02/2026 - Estruturação e Fortalecimento de Cadeias Produtivas da Sociobiodiversidade e de Plantas Medicinais, Aromáticas e Condimentares",
+    "orgao": "Ministério do Desenvolvimento Agrário e Agricultura Familiar (MDA)",
+    "origem": "Nacional",
+    "areas": [
+      "sociobiodiversidade",
+      "plantas medicinais",
+      "plantas aromáticas",
+      "plantas condimentares",
+      "cadeias produtivas",
+      "agricultura familiar"
+    ],
+    "publico": "Entidades e instituições aptas a executar ações de fortalecimento de cadeias produtivas, conforme edital",
+    "valor": "Não informado no documento localizado",
+    "prazo": "2026-07-09",
+    "desc": "Chamamento público para estruturar e fortalecer cadeias produtivas da sociobiodiversidade e de plantas medicinais, aromáticas e condimentares.",
+    "url": "https://www.gov.br/mda/pt-br/acesso-a-informacao/participacao-social/Editais-de-chamamento-publico/2026/edital-sfdt-no-02-2026-estruturacao-e-fortalecimento-de-cadeias-produtivas-da-sociobiodiversidade-e-de-plantas-medicinais-aromaticas-e-condimentares/SEI_54002979_Edital.pdf",
+    "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "embrapa-desafios-inovacao-2026",
+    "titulo": "Editais de Inovação da Embrapa 2026",
+    "orgao": "Embrapa",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura tropical",
+      "estresses térmico e hídrico",
+      "transferência de tecnologia",
+      "agricultura familiar",
+      "inovação aberta"
+    ],
+    "publico": "Instituições, equipes e proponentes conforme cada edital temático",
+    "valor": "Não informado na página localizada",
+    "prazo": "2026-08-31",
+    "desc": "Página institucional da Embrapa reunindo editais de inovação com temas de 2026 ligados à agricultura tropical sustentável e à transferência de tecnologias para a agricultura familiar.",
+    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "descobertoEm": "2026-08-14"
   }
 ]
