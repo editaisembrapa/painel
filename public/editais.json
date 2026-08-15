@@ -2945,23 +2945,19 @@
   },
   {
     "id": "1",
-    "titulo": "MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
-    "orgao": "MCTI · FINEP · FNDCT",
+    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Implantação de Infraestrutura de Produção e Serviços Agropecuários",
+    "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Agricultura familiar",
-      "Bioinsumos",
-      "Sistemas de produção agroecológicos e orgânicos",
-      "Soluções digitais para pequena propriedade rural",
-      "Aquicultura de espécies nativas",
-      "Sistemas agroalimentares sustentáveis",
-      "Sociobiodiversidade"
+      "Inovação agropecuária",
+      "Modernização de produção agropecuária",
+      "Infraestrutura agro"
     ],
-    "publico": "Instituições Científicas, Tecnológicas e de Inovação (ICTs) brasileiras",
-    "valor": "Projetos entre R$ 3.000.000,00 e R$ 7.000.000,00; aporte total previsto de R$ 150.000.000,00 via FNDCT",
-    "prazo": "2026-06-26",
-    "desc": "Chamada pública voltada a pesquisa, desenvolvimento e inovação em cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, visando inclusão socioprodutiva, aumento da oferta de alimentos e promoção da sustentabilidade em sistemas agroalimentares e florestais, com foco em bioinsumos, produção agroecológica/orgânica, soluções digitais para pequenas propriedades rurais e aquicultura de espécies nativas.[1][2][5]",
-    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
+    "publico": "Produtores rurais, cooperativas e empresas do setor agropecuário com operações de crédito rural enquadráveis nas regras do BNDES Inovagro",
+    "valor": "Financiamento de até 100% do valor do projeto, com limites indicativos de até R$ 4 milhões por cliente em empreendimentos individuais e até R$ 15 milhões em empreendimentos coletivos",
+    "prazo": "2027-06-30",
+    "desc": "Programa de crédito voltado à modernização e à implantação de infraestrutura de produção e serviços agropecuários, incluindo investimentos em inovação tecnológica, automação, armazenagem, melhoria de sistemas de produção e adoção de tecnologias voltadas à aumento de produtividade e sustentabilidade no campo. Vigência do programa informada até 30/06/2027, podendo apoiar projetos de inovação agro relevantes para a pesquisa e desenvolvimento na agropecuária brasileira.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-07-06"
   },
   {
@@ -3103,19 +3099,20 @@
   },
   {
     "id": "CNPq-07-2026-PIBPG",
-    "titulo": "Chamada Pública CNPq N° 07/2026 - Programa Institucional de Bolsas de Pós-Graduação (PIBPG)",
+    "titulo": "Chamada Pública CNPq N° 07/2026 – Programa Institucional de Bolsas de Pós-Graduação (PIBPG)",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas de pós-graduação",
-      "Ciências Agrárias",
-      "Agropecuária"
+      "bolsas",
+      "pós-graduação",
+      "pesquisa",
+      "agropecuária"
     ],
-    "publico": "Programas de pós-graduação e instituições de ensino e pesquisa brasileiras interessadas em bolsas de pós-graduação",
-    "valor": "Concessão de bolsas de pós-graduação em nível institucional; valores conforme tabela de bolsas CNPq",
-    "prazo": "2026-08-17",
-    "desc": "Chamada institucional para concessão de bolsas de pós-graduação, destinada a fortalecer programas de pós-graduação em todas as áreas do conhecimento. Pode beneficiar programas de ciências agrárias e agropecuária com participação de pesquisadores da Embrapa em coorientações e projetos.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "publico": "Instituições de ensino superior e ICTs que submetem propostas institucionais para bolsas de pós-graduação.",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": "2026-08-05",
+    "desc": "Programa para capacitação de recursos humanos para pesquisa científica, tecnológica e de inovação, com foco em grupos consolidados e emergentes. Pode interessar a grupos de pesquisa em agropecuária e Embrapa em articulação com pós-graduação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-07-2026/chamada-publica-cnpq-N-07-2026",
     "descobertoEm": "2026-07-08"
   },
   {
@@ -5485,60 +5482,55 @@
   },
   {
     "id": "2",
-    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "titulo": "Finep + Inovação Agro (Seleção Pública FINEP Mais Inovação – Área Agro)",
     "orgao": "FINEP",
     "origem": "Nacional",
     "areas": [
-      "Cadeias agroindustriais sustentáveis",
-      "Agronegócio",
-      "Alimentos",
-      "Sustentabilidade",
-      "Segurança alimentar",
-      "Inovação tecnológica no agro"
+      "Inovação agroindustrial",
+      "Desenvolvimento de produtos e processos inovadores",
+      "Segurança alimentar e nutricional",
+      "Parcerias empresa–ICT em agro"
     ],
-    "publico": "Empresas brasileiras (PJ) com projetos de Pesquisa, Desenvolvimento e Inovação em agroindústria",
-    "valor": "Subvenção econômica não reembolsável até o limite do montante global de R$ 300.000.000,00, com reserva mínima de R$ 90.000.000,00 para projetos nas regiões Norte, Nordeste e Centro-Oeste",
+    "publico": "Empresas brasileiras e Instituições de Ciência e Tecnologia (ICTs) em parceria, voltadas ao desenvolvimento de produtos ou processos inovadores na agroindústria nacional",
+    "valor": "Orçamento global de aproximadamente R$ 300 milhões em recursos de subvenção econômica para projetos selecionados",
     "prazo": "2026-09-30",
-    "desc": "Rodada de subvenção econômica para projetos inovadores em cadeias agroindustriais sustentáveis, voltada a empresas que desenvolvem produtos e processos para o agronegócio e alimentos, com foco em segurança alimentar e sustentabilidade, aceitando projetos nos níveis de maturidade tecnológica TRL 3 a 8.[4][10][12]",
-    "url": "https://financiamento.finep.gov.br",
+    "desc": "Seleção pública que concede recursos de subvenção econômica para desenvolvimento de produtos ou processos inovadores no setor agro, promovendo o fortalecimento da agroindústria nacional, a segurança alimentar e nutricional, e projetos cooperativos em rede entre empresas e ICTs. Os recursos podem apoiar pesquisa aplicada, desenvolvimento experimental e inovação tecnológica diretamente relacionada à agropecuária e cadeias agroindustriais.",
+    "url": "http://www.ita.br/sites/default/files/pages/collection/INOVAITA_radar%20de%20oportunidades_fevereiro2026_compressed.pdf",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "3",
-    "titulo": "Programa Agro do Futuro – Tecnologia e Soberania Alimentar (Foodtechs e Agritechs) – RJ 2026 – Edital FAPERJ nº 07/2026",
-    "orgao": "FAPERJ",
-    "origem": "Estadual · RJ",
+    "titulo": "Edital nº 32/2026 – Edital de Fluxo Contínuo FAPESQ e Unidades Embrapii",
+    "orgao": "FAPESQ / EMBRAPII",
+    "origem": "Estadual · AM",
     "areas": [
-      "Foodtechs",
-      "Agritechs",
-      "Tecnologia agroalimentar",
-      "Soberania alimentar",
-      "Inovação em sistemas produtivos agropecuários"
+      "Inovação tecnológica",
+      "Parcerias ICT–empresa",
+      "Projetos com unidades Embrapii",
+      "Possível aplicação em agro e agronegócio conforme linhas das unidades"
     ],
-    "publico": "Pesquisadores e instituições de pesquisa sediados no Estado do Rio de Janeiro, incluindo grupos que atuam em foodtechs e agritechs",
-    "valor": "Valores por projeto definidos em faixas no edital; apoio a projetos de P,D&I em tecnologia e soberania alimentar no estado do Rio de Janeiro",
-    "prazo": null,
-    "desc": "Edital estadual voltado ao apoio a projetos de pesquisa, desenvolvimento e inovação em foodtechs e agritechs, visando tecnologia para o agro e soberania alimentar, com submissão via sistema SisFAPERJ e seleção de propostas alinhadas ao Programa Agro do Futuro – RJ 2026.[8]",
-    "url": "https://sisfaperj.faperj.br/sisfaperj/",
+    "publico": "Empresas e grupos de pesquisa associados às Unidades Embrapii parceiras da FAPESQ, para desenvolvimento de projetos de PD&I em áreas cobertas pelas unidades (incluindo potenciais linhas agro)",
+    "valor": "Valor variável por projeto conforme regras do edital e contrapartidas Embrapii/FAPESQ; apoio típico em cofinanciamento a projetos de PD&I",
+    "prazo": "null",
+    "desc": "Edital de fluxo contínuo que estrutura cooperação entre a FAPESQ e Unidades Embrapii, permitindo a submissão contínua de projetos de pesquisa, desenvolvimento e inovação em parceria ICT–empresa. A aplicabilidade a agropecuária depende das áreas de competência das unidades Embrapii participantes, mas o instrumento é relevante para pesquisa agropecuária inovadora em bases industriais e tecnológicas.",
+    "url": "https://fapesq.rpp.br/editais/2026/edital-no-32-2026-2013-edital-de-fluxo-continuo-fapesq-e-unidades-embrapii",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "4",
-    "titulo": "Agro Inventores – Inovação em Agtechs no Espírito Santo",
-    "orgao": "Governo do Estado do Espírito Santo · SEAG · Funcitec",
-    "origem": "Estadual · ES",
+    "titulo": "Edital PROPPG nº 28/2026 – Programa Embrapii Capacitação 4.0 – IFG",
+    "orgao": "IFG / EMBRAPII",
+    "origem": "Interno",
     "areas": [
-      "Agtechs",
-      "Inovação tecnológica no campo",
-      "Prototipagem e escalonamento de soluções agro",
-      "Agronegócio",
-      "Tecnologias agrícolas"
+      "Capacitação em inovação",
+      "Formação de pesquisadores",
+      "Projetos Embrapii em áreas tecnológicas (incluindo potenciais temas agro, conforme unidade)"
     ],
-    "publico": "Inventores e pesquisadores, startups e empresas de base tecnológica, produtores rurais e cooperativas do Espírito Santo",
-    "valor": "Investimento total de aproximadamente R$ 1.100.000,00 para seleção de 10 projetos inovadores",
-    "prazo": null,
-    "desc": "Edital estadual que apoia o amadurecimento tecnológico de ideias nascidas no campo, transformando protótipos em produtos escaláveis e patenteáveis para o mercado de Agtechs, com foco em inovação aplicada ao agronegócio capixaba.[3]",
-    "url": "https://www.seag.es.gov.br",
+    "publico": "Estudantes pesquisadores vinculados ao Instituto Federal de Goiás para atuação como bolsistas em projetos do Programa Embrapii Capacitação 4.0",
+    "valor": "Valores de bolsas de pesquisa conforme normas internas do IFG/Embrapii, destinados à capacitação de estudantes em projetos de PD&I",
+    "prazo": "null",
+    "desc": "Chamada interna para seleção simplificada de pesquisadores (estudantes) para atuação como bolsistas em projetos vinculados à Unidade Embrapii do IFG, no âmbito do Programa Embrapii Capacitação 4.0. Embora não seja um edital de fomento externo, viabiliza participação em projetos de PD&I, inclusive potenciais projetos em inovação agro se a unidade tiver escopo relacionado à agroindústria ou tecnologias aplicáveis à agropecuária.",
+    "url": "https://www.ifg.edu.br/editais-pesquisa-e-pos-graduacao/pesquisa-inovacao-em-andamento/46450-edital-n-28-2026",
     "descobertoEm": "2026-07-30"
   },
   {
@@ -6657,5 +6649,181 @@
     "desc": "Página institucional da Embrapa reunindo editais de inovação com temas de 2026 ligados à agricultura tropical sustentável e à transferência de tecnologias para a agricultura familiar.",
     "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
     "descobertoEm": "2026-08-14"
+  },
+  {
+    "id": "CNPq-06-2026-UNIVERSAL",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "pesquisa",
+      "PD&I",
+      "agropecuária"
+    ],
+    "publico": "Pesquisadores vinculados a ICTs e instituições brasileiras, em todas as áreas do conhecimento.",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": "2026-08-03",
+    "desc": "Chamada para apoiar projetos de pesquisa que contribuam significativamente para o desenvolvimento científico, tecnológico e a inovação do País, em qualquer área do conhecimento. Pode ser relevante para temas de agropecuária/Embrapa pela abrangência temática.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "CNPq-ABERTAS-2026",
+    "titulo": "Página institucional de chamadas abertas para submissão",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "chamadas abertas",
+      "pesquisa",
+      "PD&I"
+    ],
+    "publico": "Pesquisadores e instituições acompanhando chamadas com inscrições abertas.",
+    "valor": "Variável conforme chamada",
+    "prazo": null,
+    "desc": "Página oficial de acompanhamento de chamadas abertas do CNPq; o trecho recuperado indica prazos em aberto, mas não permite identificar com segurança quais editais adicionais são elegíveis para agropecuária/Embrapa sem nova verificação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "CAPES-16-2026",
+    "titulo": "CAPES Edital nº 16/2026",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "bolsas",
+      "pesquisa",
+      "pós-graduação"
+    ],
+    "publico": "Não informado no trecho recuperado.",
+    "valor": "R$ 37.440.000,00; até 300 bolsas; R$ 5.200,00/mês; 24 meses/bolsa",
+    "prazo": null,
+    "desc": "Edital CAPES com alocação de bolsas e orçamento global informado no documento recuperado. O recorte disponível não foi suficiente para identificar o objeto completo com segurança, mas o edital é real e oficial.",
+    "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/Edital_2818271_SEI_2817084_Edital_16_2026__1_.pdf/@@display-file/file",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "CAPES-23-2026",
+    "titulo": "Edital CAPES nº 23, de 02 de julho de 2026",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "pesquisa",
+      "cooperação",
+      "PD&I"
+    ],
+    "publico": "Não informado no trecho recuperado.",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": "2026-10-01",
+    "desc": "Edital CAPES com prazo de candidatura até 1º de outubro de 2026. O trecho recuperado não detalha completamente o objeto, mas trata-se de edital oficial com submissão eletrônica pela CAPES.",
+    "url": "https://mecnormas.mec.gov.br/pesquisa/detalhar/13267",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "CONFAP-2026-108",
+    "titulo": "Chamada nexBio Amazônia 2026",
+    "orgao": "CONFAP",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "bioeconomia",
+      "pesquisa aplicada",
+      "inovação"
+    ],
+    "publico": "Pesquisadores vinculados a instituições elegíveis nas FAPs participantes",
+    "valor": null,
+    "prazo": "2026-05-18",
+    "desc": "Chamada nacional ligada à Amazônia, com candidaturas abertas de 08/04/2026 a 18/05/2026, voltada a projetos de bioeconomia na região.",
+    "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "FAPESP-2026-18249",
+    "titulo": "Chamada de Propostas – Programa Desafios da Amazônia",
+    "orgao": "FAPESP",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "sociobioeconomia",
+      "pesquisa",
+      "inovação",
+      "cadeias produtivas"
+    ],
+    "publico": "Pesquisadores vinculados a ICTs e redes de pesquisa com atuação na Amazônia Legal",
+    "valor": "R$ 107.100.000,00 no total da chamada",
+    "prazo": "2026-12-08",
+    "desc": "Chamada do Programa Desafios da Amazônia com inscrições a partir de 01/07/2026, pré-propostas até 01/09/2026 e propostas finais até 08/12/2026.",
+    "url": "https://fapesp.br/18249/chamada-de-propostas-programa-desafios-da-amazonia",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "FAPESPA-2026-001",
+    "titulo": "CHAMADA PÚBLICA Nº 001/2026 – Apoio a eventos científicos, tecnológicos e de inovação",
+    "orgao": "FAPESPA",
+    "origem": "Estadual · AM",
+    "areas": [
+      "eventos científicos",
+      "inovação",
+      "tecnologia",
+      "Amazônia",
+      "Pará"
+    ],
+    "publico": "Pesquisadores vinculados a ICTs no Pará",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada pública da FAPESPA para apoiar eventos científicos, tecnológicos e de inovação; é relevante para pesquisadores da Amazônia, embora seja do Pará e não do Amazonas.",
+    "url": "https://www.fapespa.pa.gov.br/2026/08/03/chamada-publica-no-001-2026/",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "5",
+    "titulo": "Chamada Pública de Adesão – Edital nº 1/2026 (Setec/MEC com apoio da Embrapii)",
+    "orgao": "MEC/Setec com apoio Embrapii",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação tecnológica em Institutos Federais",
+      "Adesão de instituições à rede Embrapii",
+      "Potencial desenvolvimento de projetos em agro e agroindústria"
+    ],
+    "publico": "Institutos Federais de Educação, Ciência e Tecnologia e Colégio Pedro II interessados em aderir à rede Embrapii por meio de projetos técnicos",
+    "valor": "Apoio institucional/financeiro para implantação e operação de unidades Embrapii em Institutos Federais; valores detalhados no edital por proposta",
+    "prazo": "2026-05-18",
+    "desc": "Chamada pública da Secretaria de Educação Profissional e Tecnológica do MEC, com apoio da Embrapii, para adesão de Institutos Federais e do Colégio Pedro II à rede Embrapii. O edital estabelece cronograma para submissão de projetos técnicos e seleção de instituições que poderão desenvolver projetos de PD&I em parceria com empresas, incluindo temas de inovação agropecuária e agroindustrial conforme vocações de cada unidade.",
+    "url": "https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-educacao-profissional/editais/2025/edital12026.pdf",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "6",
+    "titulo": "Chamada Pública de Projetos – Iniciativa BNDES Bioinsumos (Fundo Socioambiental BNDES)",
+    "orgao": "BNDES (Fundo Socioambiental) em parceria com Embrapa",
+    "origem": "Nacional",
+    "areas": [
+      "Bioinsumos para agricultura",
+      "Agroecologia",
+      "Produção de alimentos saudáveis",
+      "Organizações de agricultores familiares"
+    ],
+    "publico": "Cooperativas e associações de agricultores familiares interessadas em estruturar unidades industriais ou semi-industriais para produção de bioinsumos",
+    "valor": "Valor agregado significativo associado à Iniciativa BNDES Bioinsumos; o edital mencionado em 2026 inclui chamada pública com montante em torno de dezenas de milhões de reais para projetos apoiados",
+    "prazo": "null",
+    "desc": "Iniciativa do BNDES Fundo Socioambiental com foco em fomentar a produção de bioinsumos por cooperativas e associações de agricultores familiares, apoiando transição tecnológica para uso de bioprodutos integrados a agroecossistemas na produção de alimentos saudáveis. A chamada pública de projetos em curso em 2026 envolve apoio financeiro à instalação e melhoria de estruturas produtivas, com forte alinhamento à inovação agroecológica e pesquisa aplicada em bioinsumos.",
+    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "7",
+    "titulo": "Chamada Pública de Projetos – Sanear Indígena (Fundo Amazônia / BNDES / MDS / MMA)",
+    "orgao": "Fundo Amazônia / BNDES / MDS / MMA",
+    "origem": "Nacional",
+    "areas": [
+      "Segurança alimentar em territórios indígenas",
+      "Saneamento e ambiente",
+      "Projetos socioambientais com componente agroalimentar"
+    ],
+    "publico": "Entidades e organizações aptas a executar projetos em territórios indígenas financiados pelo Fundo Amazônia, com foco em saneamento, segurança alimentar e ambiente",
+    "valor": "Montante total em torno de R$ 150 milhões para a chamada Sanear Indígena",
+    "prazo": "null",
+    "desc": "Chamada pública de projetos do Fundo Amazônia, com participação do BNDES, Ministério do Desenvolvimento Social e Ministério do Meio Ambiente, voltada a iniciativas de saneamento, segurança alimentar e melhoria das condições de vida em territórios indígenas. Embora não seja exclusivamente agro, possui forte componente agroalimentar e de sistemas produtivos tradicionais, podendo incluir pesquisa aplicada em segurança alimentar e produção agroecológica.",
+    "url": "https://capitaai.com.br/editais-abertos/seguranca-alimentar",
+    "descobertoEm": "2026-08-15"
   }
 ]
