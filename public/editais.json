@@ -2945,18 +2945,19 @@
   },
   {
     "id": "1",
-    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Implantação de Infraestrutura de Produção e Serviços Agropecuários",
+    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação na Produção e no Agronegócio",
     "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Inovação agropecuária",
-      "Modernização de produção agropecuária",
-      "Infraestrutura agro"
+      "inovação agropecuária",
+      "modernização da produção",
+      "agronegócio",
+      "investimentos em tecnologia agro"
     ],
-    "publico": "Produtores rurais, cooperativas e empresas do setor agropecuário com operações de crédito rural enquadráveis nas regras do BNDES Inovagro",
-    "valor": "Financiamento de até 100% do valor do projeto, com limites indicativos de até R$ 4 milhões por cliente em empreendimentos individuais e até R$ 15 milhões em empreendimentos coletivos",
+    "publico": "Produtores rurais, cooperativas e demais agentes do agronegócio que buscam financiar projetos de modernização e inovação na produção agropecuária",
+    "valor": "Até 4 milhões de reais por cliente em empreendimento individual e até 15 milhões de reais em empreendimento coletivo, com vigência do programa até 30/06/2027",
     "prazo": "2027-06-30",
-    "desc": "Programa de crédito voltado à modernização e à implantação de infraestrutura de produção e serviços agropecuários, incluindo investimentos em inovação tecnológica, automação, armazenagem, melhoria de sistemas de produção e adoção de tecnologias voltadas à aumento de produtividade e sustentabilidade no campo. Vigência do programa informada até 30/06/2027, podendo apoiar projetos de inovação agro relevantes para a pesquisa e desenvolvimento na agropecuária brasileira.",
+    "desc": "Linha de financiamento do BNDES voltada à modernização e à inovação dos empreendimentos rurais e agroindustriais, incluindo aquisição de máquinas, equipamentos, infraestrutura, tecnologias e práticas inovadoras que aumentem a produtividade e sustentabilidade da produção agropecuária brasileira. Os recursos podem cobrir até 100% do valor do projeto, com prazos de até 10 anos para pagamento.",
     "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-07-06"
   },
@@ -5500,37 +5501,40 @@
   },
   {
     "id": "3",
-    "titulo": "Edital nº 32/2026 – Edital de Fluxo Contínuo FAPESQ e Unidades Embrapii",
-    "orgao": "FAPESQ / EMBRAPII",
-    "origem": "Estadual · AM",
+    "titulo": "Seleção Pública – Subvenção Econômica para Desenvolvimento de Produtos e Processos Inovadores na Agroindústria Nacional (Agro – 2026)",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
     "areas": [
-      "Inovação tecnológica",
-      "Parcerias ICT–empresa",
-      "Projetos com unidades Embrapii",
-      "Possível aplicação em agro e agronegócio conforme linhas das unidades"
+      "agroindústria",
+      "segurança alimentar e nutricional",
+      "inovação em produtos e processos agroindustriais",
+      "PD&I agropecuário"
     ],
-    "publico": "Empresas e grupos de pesquisa associados às Unidades Embrapii parceiras da FAPESQ, para desenvolvimento de projetos de PD&I em áreas cobertas pelas unidades (incluindo potenciais linhas agro)",
-    "valor": "Valor variável por projeto conforme regras do edital e contrapartidas Embrapii/FAPESQ; apoio típico em cofinanciamento a projetos de PD&I",
-    "prazo": "null",
-    "desc": "Edital de fluxo contínuo que estrutura cooperação entre a FAPESQ e Unidades Embrapii, permitindo a submissão contínua de projetos de pesquisa, desenvolvimento e inovação em parceria ICT–empresa. A aplicabilidade a agropecuária depende das áreas de competência das unidades Embrapii participantes, mas o instrumento é relevante para pesquisa agropecuária inovadora em bases industriais e tecnológicas.",
-    "url": "https://fapesq.rpp.br/editais/2026/edital-no-32-2026-2013-edital-de-fluxo-continuo-fapesq-e-unidades-embrapii",
+    "publico": "Empresas brasileiras e instituições de ciência, tecnologia e inovação em parceria, conforme regras da seleção pública",
+    "valor": "Até 300.000.000 de reais em recursos não reembolsáveis para subvenção econômica",
+    "prazo": null,
+    "desc": "Seleção pública de subvenção econômica voltada à agroindústria nacional, com foco no desenvolvimento de produtos ou processos inovadores que promovam a segurança alimentar e nutricional da população brasileira. A chamada prevê comprometer recursos não reembolsáveis até o limite de 300 milhões de reais para apoiar projetos de PD&I em empresas, possivelmente em cooperação com ICTs, voltados à inovação em cadeias agroindustriais.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/06_02_2026_C_Agro_Anexo1.pdf",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "4",
-    "titulo": "Edital PROPPG nº 28/2026 – Programa Embrapii Capacitação 4.0 – IFG",
-    "orgao": "IFG / EMBRAPII",
-    "origem": "Interno",
+    "titulo": "Horizon Europe – Cluster 6: Food, Bioeconomy, Natural Resources, Agriculture and Environment – Work Programme 2026–2027",
+    "orgao": "Comissão Europeia (Horizon Europe)",
+    "origem": "Internacional",
     "areas": [
-      "Capacitação em inovação",
-      "Formação de pesquisadores",
-      "Projetos Embrapii em áreas tecnológicas (incluindo potenciais temas agro, conforme unidade)"
+      "agricultura sustentável",
+      "bioeconomia",
+      "recursos naturais",
+      "alimentação e sistemas alimentares",
+      "ambiente",
+      "pesquisa agropecuária em cooperação internacional"
     ],
-    "publico": "Estudantes pesquisadores vinculados ao Instituto Federal de Goiás para atuação como bolsistas em projetos do Programa Embrapii Capacitação 4.0",
-    "valor": "Valores de bolsas de pesquisa conforme normas internas do IFG/Embrapii, destinados à capacitação de estudantes em projetos de PD&I",
-    "prazo": "null",
-    "desc": "Chamada interna para seleção simplificada de pesquisadores (estudantes) para atuação como bolsistas em projetos vinculados à Unidade Embrapii do IFG, no âmbito do Programa Embrapii Capacitação 4.0. Embora não seja um edital de fomento externo, viabiliza participação em projetos de PD&I, inclusive potenciais projetos em inovação agro se a unidade tiver escopo relacionado à agroindústria ou tecnologias aplicáveis à agropecuária.",
-    "url": "https://www.ifg.edu.br/editais-pesquisa-e-pos-graduacao/pesquisa-inovacao-em-andamento/46450-edital-n-28-2026",
+    "publico": "Universidades, centros de pesquisa, empresas e demais entidades elegíveis ao Horizon Europe, incluindo instituições brasileiras como parceiras em consórcios internacionais",
+    "valor": "Valores variam por tópico; chamadas típicas de Horizon Europe financiam consórcios internacionais com orçamentos multimilionários por projeto",
+    "prazo": "2026-09-23",
+    "desc": "Conjunto de chamadas de pesquisa e inovação no âmbito do Cluster 6 do Horizon Europe, cobrindo temas de alimentos, bioeconomia, recursos naturais, agricultura e ambiente. O work programme 2026–2027 inclui chamadas com abertura em 12/02/2026 e prazos em duas etapas (por exemplo, primeira etapa em abril de 2026 e segunda etapa em 23/09/2026), voltadas a projetos colaborativos internacionais. Instituições brasileiras podem participar como parceiras em consórcios, em tópicos relacionados à agricultura sustentável, sistemas alimentares, uso eficiente de recursos naturais e inovação agropecuária.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-07-30"
   },
   {
@@ -6776,19 +6780,20 @@
   },
   {
     "id": "5",
-    "titulo": "Chamada Pública de Adesão – Edital nº 1/2026 (Setec/MEC com apoio da Embrapii)",
-    "orgao": "MEC/Setec com apoio Embrapii",
-    "origem": "Nacional",
+    "titulo": "Horizon Europe – Open Topic: Boosting Organic Farming for a Competitive, Sustainable and Resilient Farming Sector",
+    "orgao": "Comissão Europeia (Horizon Europe)",
+    "origem": "Internacional",
     "areas": [
-      "Inovação tecnológica em Institutos Federais",
-      "Adesão de instituições à rede Embrapii",
-      "Potencial desenvolvimento de projetos em agro e agroindústria"
+      "agricultura orgânica",
+      "sustentabilidade agropecuária",
+      "resiliência de sistemas de produção",
+      "inovação em sistemas agrícolas"
     ],
-    "publico": "Institutos Federais de Educação, Ciência e Tecnologia e Colégio Pedro II interessados em aderir à rede Embrapii por meio de projetos técnicos",
-    "valor": "Apoio institucional/financeiro para implantação e operação de unidades Embrapii em Institutos Federais; valores detalhados no edital por proposta",
-    "prazo": "2026-05-18",
-    "desc": "Chamada pública da Secretaria de Educação Profissional e Tecnológica do MEC, com apoio da Embrapii, para adesão de Institutos Federais e do Colégio Pedro II à rede Embrapii. O edital estabelece cronograma para submissão de projetos técnicos e seleção de instituições que poderão desenvolver projetos de PD&I em parceria com empresas, incluindo temas de inovação agropecuária e agroindustrial conforme vocações de cada unidade.",
-    "url": "https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-educacao-profissional/editais/2025/edital12026.pdf",
+    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe; instituições brasileiras podem participar como parceiras em projetos de agricultura orgânica e sustentável",
+    "valor": "Orçamento definido no tópico específico dentro do Horizon Europe, normalmente em faixa multimilionária por projeto",
+    "prazo": "2026-09-15",
+    "desc": "Chamada aberta do Horizon Europe focada em impulsionar a agricultura orgânica, visando um setor agrícola competitivo, sustentável e resiliente. A call aceita propostas de consórcios internacionais que desenvolvam e testem soluções inovadoras para produção orgânica, cadeias de valor e políticas de apoio, com fechamento em 15/09/2026. Instituições brasileiras podem integrar consórcios europeus como parceiras, aplicando os resultados à pesquisa agropecuária no Brasil.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-boosting-organic-farming-competitive-sustainable-and-resilient-farming-sector-42033",
     "descobertoEm": "2026-08-15"
   },
   {
@@ -6825,5 +6830,160 @@
     "desc": "Chamada pública de projetos do Fundo Amazônia, com participação do BNDES, Ministério do Desenvolvimento Social e Ministério do Meio Ambiente, voltada a iniciativas de saneamento, segurança alimentar e melhoria das condições de vida em territórios indígenas. Embora não seja exclusivamente agro, possui forte componente agroalimentar e de sistemas produtivos tradicionais, podendo incluir pesquisa aplicada em segurança alimentar e produção agroecológica.",
     "url": "https://capitaai.com.br/editais-abertos/seguranca-alimentar",
     "descobertoEm": "2026-08-15"
+  },
+  {
+    "id": "finep-af-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT · MCTI",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Bioinsumos",
+      "Sistemas de produção agroecológicos e orgânicos",
+      "Soluções digitais para pequena propriedade rural",
+      "Aquicultura de espécies nativas",
+      "Sistemas agroalimentares sustentáveis",
+      "PD&I em agropecuária"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) brasileiras",
+    "valor": "Até R$ 150.000.000,00 em recursos não reembolsáveis do FNDCT, distribuídos em quatro linhas (até R$ 50 milhões para bioinsumos; até R$ 50 milhões para sistemas de produção agroecológicos/orgânicos; até R$ 25 milhões para soluções digitais para pequena propriedade rural; até R$ 25 milhões para aquicultura de espécies nativas)",
+    "prazo": "2026-06-19",
+    "desc": "Seleção pública nacional voltada a projetos de PD&I que fortaleçam cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, com foco em bioinsumos, produção agroecológica/ orgânica, soluções digitais para pequenas propriedades rurais e aquicultura de espécies nativas. Os recursos, não reembolsáveis, são destinados a ICTs, com forte aderência a agendas de pesquisa e inovação em agropecuária e desenvolvimento rural sustentável.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "descobertoEm": "2026-08-16"
+  },
+  {
+    "id": "cnpq-universal-06-2026",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Biotecnologia para saúde humana",
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial",
+      "Ciência e tecnologia",
+      "PD&I em agropecuária"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de ensino e/ou pesquisa no Brasil, incluindo unidades da Embrapa e demais ICTs",
+    "valor": "Valores por faixa de projeto e bolsas de formação (PDJ, PDS etc.) conforme a chamada; exemplo citado: até R$ 136.320,00 por bolsa PDJ e até R$ 143.520,00 por bolsa PDS para 24 meses, via combinação de duas bolsas de até 12 meses cada",
+    "prazo": "2026-08-03",
+    "desc": "Chamada Universal nacional para apoio a projetos de pesquisa com recursos do FNDCT, cobrindo biotecnologia agropecuária, de saúde, ambiental e industrial, entre outras áreas. Permite solicitar recursos de custeio, capital e bolsas (como PDJ e PDS), sendo particularmente relevante para grupos de pesquisa em agropecuária, melhoramento genético, biotecnologia animal e vegetal, sanidade, sistemas de produção e temas correlatos.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "descobertoEm": "2026-08-16"
+  },
+  {
+    "id": "cnpq-bolsas-produtividade-2025-2026",
+    "titulo": "Chamada de Bolsas de Produtividade em Pesquisa (PQ, PQ-Sr) e em Desenvolvimento Tecnológico e Extensão Inovadora (DT) – ciclo com inscrições até 20/01/2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas do conhecimento",
+      "Desenvolvimento tecnológico",
+      "Extensão inovadora",
+      "Pesquisa agropecuária"
+    ],
+    "publico": "Pesquisadores doutores com produção científica/tecnológica relevante, incluindo pesquisadores da Embrapa e demais instituições de pesquisa",
+    "valor": "Investimento global previsto de cerca de R$ 587.400.000,00 para concessão de 5.762 bolsas (aprox. 5.499 bolsas PQ/PQ-Sr e 263 bolsas DT), com valores mensais de bolsas conforme tabela do CNPq; duração típica de até 60 meses, conforme modalidade",
+    "prazo": "2026-01-20",
+    "desc": "Chamada nacional de bolsas de produtividade em pesquisa e em desenvolvimento tecnológico/extensão inovadora, voltada à valorização da excelência científica e tecnológica. Abrange todas as áreas, com grande aderência a pesquisadores de agropecuária, incluindo aqueles vinculados à Embrapa, em temas como produção vegetal e animal, recursos naturais, sanidade, biotecnologia, economia e socioeconomia rural, entre outros.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/10/cnpq-lanca-chamada-de-produtividade-com-previsao-de-r-600-milhoes-em-investimento-e-mais-de-5-7-mil-bolsas",
+    "descobertoEm": "2026-08-16"
+  },
+  {
+    "id": "capes-16-2026-posdoc",
+    "titulo": "CAPES Edital nº 16/2026 – Programa de bolsas de Pós-Doutorado no País (Aurora)",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas do conhecimento",
+      "Ciências agrárias",
+      "Agropecuária",
+      "Inovação científica e tecnológica"
+    ],
+    "publico": "Programas de pós-graduação stricto sensu recomendados pela CAPES e pesquisadores doutores candidatos a bolsas de pós-doutorado no Brasil",
+    "valor": "Valor global de até R$ 37.440.000,00, destinado à concessão de até 300 bolsas de pós-doutorado no País, com valor mensal de R$ 5.200,00 por bolsa e duração de até 24 meses cada, limitado ao orçamento",
+    "prazo": null,
+    "desc": "Edital nacional da CAPES voltado à concessão de bolsas de pós-doutorado no País em todas as áreas, incluindo ciências agrárias e agropecuária. O período global de vigência do edital é de 12/05/2026 a 31/12/2027 (ou até esgotamento orçamentário), com ciclos de submissão ao longo do período. Relevante para a atração e fixação de doutores em grupos de pesquisa de agropecuária e PD&I ligados a universidades, institutos e potenciais parcerias com Embrapa.",
+    "url": "https://www.gov.br/capes/pt-br/centrais-de-conteudo/editais/Edital_2818271_SEI_2817084_Edital_16_2026__1_.pdf/@@display-file/file",
+    "descobertoEm": "2026-08-16"
+  },
+  {
+    "id": "FAPEAM-FAPESP-ARTICULA-BIO-CTI-2026",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável – ARTICULA BIO CT&I",
+    "orgao": "FAPEAM · FAPESP",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia",
+      "Desenvolvimento sustentável",
+      "Amazônia",
+      "Agropecuária",
+      "Ciências agrárias",
+      "Mudanças climáticas",
+      "Conservação de recursos naturais"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa no Amazonas (via FAPEAM) e no Estado de São Paulo (via FAPESP), com possibilidade de projetos colaborativos voltados à bioeconomia e desenvolvimento sustentável.",
+    "valor": "Modalidade de apoio: FAPEAM concede auxílio à pesquisa e bolsas; FAPESP concede Auxílio à Pesquisa Regular (APR). Valores dependem da regulamentação de cada fundação.",
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM/FAPESP voltada à articulação de pesquisas em bioeconomia e desenvolvimento sustentável, com ênfase em temas relacionados à Amazônia e cadeias produtivas sustentáveis. A chamada prevê duração dos projetos de até 36 meses e data limite para submissão de propostas em 23/03/2026, com previsão de anúncio de resultados a partir de agosto de 2026. A submissão se dá via sistemas das respectivas fundações, oferecendo apoio em forma de auxílios de pesquisa e bolsas.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-08-16"
+  },
+  {
+    "id": "embrapa_seg_2009_chamadas_internas",
+    "titulo": "Chamadas internas para novos projetos de pesquisa, transferência de tecnologia e desenvolvimento institucional",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Transferência de Tecnologia",
+      "Desenvolvimento Institucional",
+      "Agricultura",
+      "Inovação tecnológica"
+    ],
+    "publico": "Unidades e pesquisadores da Embrapa vinculados aos Macroprogramas SEG",
+    "valor": "Ex.: Chamada 7/2009 com recursos de R$ 8 milhões para projetos em rede no MP2 (melhoramento genético animal e vegetal)",
+    "prazo": null,
+    "desc": "Conjunto de cinco chamadas internas lançadas pela Embrapa para seleção de novos projetos de pesquisa, transferência de tecnologia e desenvolvimento institucional, com vistas à composição da carteira do Sistema Embrapa de Gestão (SEG), estruturado em seis Macroprogramas (MP1 a MP6). As chamadas contemplam projetos de PD&I nas áreas de grandes desafios nacionais, competitividade e sustentabilidade, desenvolvimento tecnológico incremental, transferência de tecnologia e comunicação empresarial, desenvolvimento institucional e apoio à agricultura familiar e sustentabilidade do meio rural.[5]",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/18051186/embrapa-lanca-chamadas-para-novos-projetos",
+    "descobertoEm": "2026-08-16"
+  },
+  {
+    "id": "embrapa_cafe_seg_parcerias_2025_onwards",
+    "titulo": "Acolhimento de projetos de PD&I no SEG oriundos de chamadas conjuntas e parcerias (Universidade de Illinois, Fundo de Pesquisa Bayer II)",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Mudanças Climáticas",
+      "Bioeconomia",
+      "PD&I agrícola",
+      "Parcerias internacionais",
+      "Inovação em desafios priorizados Embrapa-Bayer"
+    ],
+    "publico": "Pesquisadores e unidades da Embrapa com projetos aprovados em chamadas externas específicas (Embrapa–Universidade de Illinois; Fundo de Pesquisa Bayer II)",
+    "valor": "Não informado nos resultados; projetos acolhidos na programação ordinária de pesquisa do SEG",
+    "prazo": null,
+    "desc": "No âmbito da programação ordinária de pesquisa da Embrapa (Sistema Embrapa de Gestão – SEG), a Empresa acolhe projetos de PD&I aprovados e financiados em chamadas específicas externas, como a Chamada Conjunta Embrapa–Universidade de Illinois (temas de Mudanças Climáticas e Bioeconomia) e a chamada apoiada pelo Fundo de Pesquisa Bayer II, vinculada a desafios para inovação definidos pelo Comitê Gestor de Parcerias Embrapa–Bayer. Esses projetos passam a integrar a carteira de PD&I do SEG como parte das parcerias estratégicas e da agenda de inovação.[3]",
+    "url": "https://www.embrapa.br/en/web/cafe/editais-e-oportunidades/outras-chamadas-e-editais",
+    "descobertoEm": "2026-08-16"
+  },
+  {
+    "id": "embrapa_05_2026_feijao_brs_fs318",
+    "titulo": "Edital de Seleção 05/2026 – Feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão",
+    "origem": "Nacional",
+    "areas": [
+      "PD&I em cultivares de feijão",
+      "Licenciamento de tecnologia",
+      "Parceria tecnológica e financeira",
+      "Produção de sementes",
+      "Agricultura"
+    ],
+    "publico": "Produtor de sementes inscrito no RENASEM como produtor de sementes de feijão comum (Phaseolus vulgaris L.)",
+    "valor": "Não especificado no extrato; parceria estratégica por Acordo de Cooperação Técnica e Financeira (ACTF)",
+    "prazo": "2026-03-09",
+    "desc": "Oferta pública nacional em que a Embrapa comunica a abertura de processo seletivo para escolha de um produtor de sementes, devidamente registrado no RENASEM, interessado em estabelecer parceria estratégica com a Embrapa Arroz e Feijão, por meio de Acordo de Cooperação Técnica e Financeira (ACTF). O objetivo é finalizar o desenvolvimento tecnológico, promover o lançamento no mercado da cultivar de feijão comum tipo roxinho BRS FS318 e realizar o licenciamento para multiplicação de sementes na categoria básica e subsequentes. O período para envio de propostas vai das 08h00 de 23/02/2026 até as 17h00 de 09/03/2026.[8]",
+    "url": "https://www.embrapa.br/en/editais-e-ofertas-publicas-para-licenciamento/-/asset_publisher/bAm8YE8Ljj9I/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "descobertoEm": "2026-08-16"
   }
 ]
