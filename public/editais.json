@@ -6670,19 +6670,19 @@
   },
   {
     "id": "CNPq-ABERTAS-2026",
-    "titulo": "Página institucional de chamadas abertas para submissão",
+    "titulo": "Chamadas públicas do CNPq com prazo aberto à submissão",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "chamadas abertas",
-      "pesquisa",
-      "PD&I"
+      "Pesquisa",
+      "PD&I",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores e instituições acompanhando chamadas com inscrições abertas.",
-    "valor": "Variável conforme chamada",
+    "publico": "Pesquisadores e ICTs",
+    "valor": null,
     "prazo": null,
-    "desc": "Página oficial de acompanhamento de chamadas abertas do CNPq; o trecho recuperado indica prazos em aberto, mas não permite identificar com segurança quais editais adicionais são elegíveis para agropecuária/Embrapa sem nova verificação.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "desc": "Página oficial agregadora das chamadas abertas para submissão no CNPq; útil para monitoramento de editais vigentes.",
+    "url": "https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/copy_of_veja-as-chamadas-com-inscricoes-abertas-no-cnpq",
     "descobertoEm": "2026-08-15"
   },
   {
@@ -6984,23 +6984,21 @@
   },
   {
     "id": "FINEP-CTAGRO-2026",
-    "titulo": "CHAMADA PÚBLICA MCTI/FINEP/FNDCT – CT-Agro 2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT/CT-Agro 2026",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "agropecuária",
-      "agricultura familiar",
-      "sistemas agroalimentares",
-      "bioinsumos",
-      "agroecologia",
-      "aquicultura",
-      "soluções digitais"
+      "Infraestrutura de pesquisa",
+      "Agropecuária",
+      "Biodiversidade",
+      "Soluções científicas e tecnológicas",
+      "PD&I"
     ],
-    "publico": "ICTs, instituições de pesquisa e redes com projetos institucionais voltados ao fortalecimento de cadeias socioprodutivas agroalimentares",
-    "valor": "R$ 150.000.000,00",
-    "prazo": "2026-06-19",
-    "desc": "Seleção pública para apoio financeiro a projetos institucionais de desenvolvimento de soluções científicas e tecnológicas para cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
-    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "publico": "ICTs",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada interna de seleção relacionada à CT-Agro para projetos voltados ao fortalecimento de cadeias socioprodutivas baseadas na biodiversidade brasileira.",
+    "url": "https://www.ufsm.br/pro-reitorias/proinova/editais/012-2026",
     "descobertoEm": "2026-08-17"
   },
   {
@@ -7117,19 +7115,19 @@
   },
   {
     "id": "bndes-inovagro-2026",
-    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação na Produção Agropecuária",
+    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação da Produção Agropecuária",
     "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Modernização da produção agropecuária",
-      "Inovação tecnológica no campo",
-      "Máquinas e equipamentos agropecuários",
-      "Infraestrutura produtiva rural"
+      "Inovação agropecuária",
+      "Modernização da produção",
+      "Tecnologias agrícolas",
+      "Máquinas e equipamentos agro"
     ],
-    "publico": "Produtores rurais, cooperativas e demais agentes da cadeia agropecuária com acesso ao crédito via instituições financeiras credenciadas",
-    "valor": "Limite de até R$ 4.000.000,00 por cliente em empreendimentos individuais e até R$ 15.000.000,00 em empreendimentos coletivos, com sub-limites para itens específicos",
+    "publico": "Produtores rurais, cooperativas e demais empreendimentos rurais (individuais e coletivos) enquadráveis nas linhas do BNDES com projetos de modernização e inovação na produção agropecuária",
+    "valor": "Financiamento de até 100% do valor do projeto; até R$ 4 milhões por cliente em empreendimentos individuais e até R$ 15 milhões em empreendimentos coletivos, respeitando limites individuais",
     "prazo": "2027-06-30",
-    "desc": "Linha de financiamento do BNDES voltada à modernização e à inovação da produção agropecuária, permitindo investimentos em máquinas, equipamentos, infraestrutura e tecnologias voltadas à produtividade e sustentabilidade da atividade rural. A regulamentação vigente em 2026 (Circular SUP/ADIG nº 98/2026-BNDES) estabelece a vigência do programa até 30/06/2027, com limites de crédito diferenciados para empreendimentos individuais e coletivos.",
+    "desc": "Linha de financiamento do BNDES destinada à modernização e inovação da produção agropecuária, incluindo aquisição de máquinas, equipamentos, estruturas e tecnologias inovadoras para aumento de produtividade e sustentabilidade. Regida pela Circular SUP/ADIG nº 98/2026-BNDES, com vigência até 30/06/2027, aplicável a projetos de inovação tecnológica na agropecuária brasileira.",
     "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-08-17"
   },
@@ -7470,5 +7468,205 @@
     "desc": "Chamada do Horizon Europe direcionada ao fortalecimento da agricultura orgânica para um setor agrícola competitivo, sustentável e resiliente, com data de encerramento em 15/09/2026 (segunda data de corte), voltada a projetos colaborativos em sistemas de produção orgânica e práticas sustentáveis, aberta à participação de instituições de pesquisa agropecuária brasileiras em consórcios internacionais.",
     "url": "https://www.horizon-europe.gouv.fr/open-topic-boosting-organic-farming-competitive-sustainable-and-resilient-farming-sector-42033",
     "descobertoEm": "2026-08-19"
+  },
+  {
+    "id": "CNPq-BIOTEC-2026",
+    "titulo": "Chamada de apoio à pesquisa, desenvolvimento e inovação em biotecnologia",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Pesquisa",
+      "PD&I",
+      "Agropecuária"
+    ],
+    "publico": "Pesquisadores, grupos de pesquisa e ICTs; propostas individuais ou em rede",
+    "valor": null,
+    "prazo": "2026-09-18",
+    "desc": "Chamada aberta com foco em biotecnologia para saúde humana, agropecuária, ambiental e industrial. Inclui linha específica para bioinsumos para agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/cnpq-esta-com-chamada-de-apoio-a-pesquisa-desenvolvimento-e-inovacao-em-biotecnologia-com-inscricoes-abertas-ate-18-09",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "CNPq-UNIVERSAL-2026",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "PD&I",
+      "Agropecuária",
+      "Ciência e tecnologia"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa e ICTs",
+    "valor": null,
+    "prazo": "2026-08-03",
+    "desc": "Chamada para apoiar projetos de pesquisa em todas as áreas do conhecimento, potencialmente relevante para grupos de agropecuária e Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "FINEP-AGRIFAM-ICT-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Infraestrutura de pesquisa",
+      "Agropecuária",
+      "Agricultura familiar",
+      "Sistemas agroalimentares",
+      "PD&I"
+    ],
+    "publico": "ICTs",
+    "valor": "até R$ 150.000.000,00",
+    "prazo": "2026-06-19",
+    "desc": "Seleção pública para apoio não reembolsável a projetos com bioinsumos, sistemas agroecológicos e orgânicos, soluções digitais para pequena propriedade e aquicultura de espécies nativas.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "FINEP-MAIS-INOVACAO-AGRO-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP",
+    "origem": "Nacional",
+    "areas": [
+      "PD&I",
+      "Agroindústria",
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal"
+    ],
+    "publico": "Empresas",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública voltada a projetos em cadeias agroindustriais sustentáveis, com temas em agricultura, agronegócio, saúde animal e foodtech.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "CONFAP-DA-2026",
+    "titulo": "Programa Desafios da Amazônia",
+    "orgao": "CONFAP / FAPs participantes / Fundo Amazônia-BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "bioeconomia",
+      "sociobioeconomia",
+      "cadeias produtivas",
+      "pesquisa aplicada"
+    ],
+    "publico": "Pesquisadores vinculados a instituições elegíveis, em articulação com Fundações de Amparo à Pesquisa participantes",
+    "valor": "R$ 107.100.000,00 no total da chamada",
+    "prazo": "2026-09-01",
+    "desc": "Chamada nacional voltada à sociobioeconomia amazônica, com abertura para pré-propostas e foco em soluções para cadeias como açaí, castanha, cacau, babaçu e economia das águas.",
+    "url": "https://fapesp.br/18249/chamada-de-propostas-programa-desafios-da-amazonia",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "FAPESPA-009-2026",
+    "titulo": "CHAMADA FAPESPA/CNPq/CAPES N.º 009/2026",
+    "orgao": "FAPESPA / CNPq / CAPES",
+    "origem": "Estadual · AM",
+    "areas": [
+      "pesquisa",
+      "eventos científicos",
+      "formação de recursos humanos",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores vinculados a ICTs do Pará",
+    "valor": null,
+    "prazo": "2026-08-20",
+    "desc": "Chamada pública da FAPESPA com período de submissão de 01/07/2026 a 20/08/2026, publicada em canal oficial da fundação.",
+    "url": "https://www.fapespa.pa.gov.br/wp-content/uploads/2026/07/PROFIX.pdf",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "FAPESPA-001-2026",
+    "titulo": "CHAMADA PÚBLICA Nº 001/2026",
+    "orgao": "FAPESPA",
+    "origem": "Estadual · AM",
+    "areas": [
+      "eventos científicos",
+      "inovação",
+      "pesquisa",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores vinculados de forma efetiva a ICTs públicas ou privadas sem fins lucrativos no Pará",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada para apoiar projetos de eventos científicos, tecnológicos e de inovação no Pará; o anúncio oficial está disponível no site da FAPESPA.",
+    "url": "https://www.fapespa.pa.gov.br/2026/08/03/chamada-publica-no-001-2026/",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "FAPESP-FACEPE-2026",
+    "titulo": "Chamada Pública FAPESP/FACEPE 2026 – Tecnologias Quânticas e Transição Energética",
+    "orgao": "FAPESP / FACEPE",
+    "origem": "Nacional",
+    "areas": [
+      "pesquisa colaborativa",
+      "tecnologia",
+      "energia",
+      "inovação"
+    ],
+    "publico": "Pesquisadores de instituições elegíveis nas redes das fundações participantes",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada nacional listada entre as chamadas abertas de 2026 da FAPESP; não é específica de Amazônia ou agropecuária, mas pode ser relevante para pesquisadores por seu caráter colaborativo.",
+    "url": "https://fapesp.br/2185/chamadas-de-propostas-2026",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "ungm-fao-135999-2026",
+    "titulo": "GEOREFERENCING AND ALLOCATION OF RURAL PROPERTIES FOR LAND REGULARIZATION AND TERRITORIAL MANAGEMENT IN MARANHÃO AND PARÁ",
+    "orgao": "FAO (via UN procurement system – UNGM)",
+    "origem": "Internacional",
+    "areas": [
+      "Regularização fundiária rural",
+      "Gestão territorial de propriedades rurais",
+      "Georreferenciamento",
+      "Governança de terras e recursos naturais"
+    ],
+    "publico": "Entidades e empresas elegíveis ao sistema de compras da ONU capazes de executar serviços de georreferenciamento e gestão territorial em áreas rurais no Brasil",
+    "valor": "Valor contratual definido na licitação da FAO/ONU para prestação de serviços (não configurado como subvenção a pesquisa, mas contratação de serviços especializados)",
+    "prazo": "2026-04-13",
+    "desc": "Pedido de propostas da FAO para serviços de georreferenciamento e alocação de imóveis rurais voltados à regularização fundiária e gestão territorial nos estados do Maranhão e do Pará. Embora estruturado como contratação de serviços, é diretamente relevante para pesquisa aplicada em temas de governança de terras, ordenamento territorial rural e apoio à agricultura em áreas de regularização fundiária no Brasil.",
+    "url": "https://www.ungm.org/Public/Notice/293480",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "ungm-fao-135225-2026",
+    "titulo": "ON-SITE CAPACITY BUILDING ON LAND RIGHTS AND INTEGRATED MANAGEMENT OF PRODUCTIVE RESOURCES",
+    "orgao": "FAO (via UN procurement system – UNGM)",
+    "origem": "Internacional",
+    "areas": [
+      "Direitos fundiários",
+      "Gestão integrada de recursos produtivos rurais",
+      "Capacitação em agricultura sustentável",
+      "Governança de recursos naturais"
+    ],
+    "publico": "Instituições e organizações elegíveis ao sistema de compras da ONU para oferta de capacitações presenciais em direitos fundiários e gestão de recursos produtivos no Brasil",
+    "valor": "Valor contratual definido na licitação da FAO/ONU para serviços de capacitação e consultoria",
+    "prazo": "2026-02-23",
+    "desc": "Pedido de propostas da FAO para realização de capacitação presencial sobre direitos fundiários e gestão integrada de recursos produtivos, com foco em agricultores e atores rurais no Brasil. Configura contratação de serviços, mas é aplicável a instituições com experiência em pesquisa e extensão agropecuária interessadas em projetos de formação e disseminação de boas práticas de gestão de terras e recursos produtivos.",
+    "url": "https://www.ungm.org/Public/Notice/288284",
+    "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "mec-embrapii-capacitacao-2026",
+    "titulo": "Edital 1/2026 – Chamada Pública de Adesão dos Institutos Federais para capacitação técnica em submissão de propostas Embrapii",
+    "orgao": "Ministério da Educação (MEC) · Secretaria de Educação Profissional e Tecnológica",
+    "origem": "Nacional",
+    "areas": [
+      "Capacitação em inovação",
+      "Preparação para chamadas Embrapii",
+      "PD&I aplicada, incluindo agropecuária em Institutos Federais"
+    ],
+    "publico": "Institutos Federais de Educação, Ciência e Tecnologia e Colégio Pedro II",
+    "valor": "Condições de apoio e capacitação definidas no edital; foco em suporte institucional para futura submissão de projetos Embrapii",
+    "prazo": null,
+    "desc": "Chamada pública de adesão voltada a Institutos Federais e ao Colégio Pedro II para capacitação técnica visando submissão qualificada de propostas em futuros editais de unidades Embrapii. Embora não seja um edital direto de pesquisa agro, é aplicável a grupos de pesquisa agropecuária em Institutos Federais interessados em se estruturar para acessar os mecanismos de fomento Embrapii em inovação industrial e agroindustrial.",
+    "url": "https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-educacao-profissional/editais/2026",
+    "descobertoEm": "2026-08-20"
   }
 ]
