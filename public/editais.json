@@ -6935,12 +6935,13 @@
       "Transferência de Tecnologia",
       "Desenvolvimento Institucional",
       "Agricultura",
-      "Inovação tecnológica"
+      "Pecuária",
+      "Agropecuária"
     ],
-    "publico": "Unidades e pesquisadores da Embrapa vinculados aos Macroprogramas SEG",
-    "valor": "Ex.: Chamada 7/2009 com recursos de R$ 8 milhões para projetos em rede no MP2 (melhoramento genético animal e vegetal)",
+    "publico": "Pesquisadores e analistas de todos os centros de pesquisa da Embrapa",
+    "valor": null,
     "prazo": null,
-    "desc": "Conjunto de cinco chamadas internas lançadas pela Embrapa para seleção de novos projetos de pesquisa, transferência de tecnologia e desenvolvimento institucional, com vistas à composição da carteira do Sistema Embrapa de Gestão (SEG), estruturado em seis Macroprogramas (MP1 a MP6). As chamadas contemplam projetos de PD&I nas áreas de grandes desafios nacionais, competitividade e sustentabilidade, desenvolvimento tecnológico incremental, transferência de tecnologia e comunicação empresarial, desenvolvimento institucional e apoio à agricultura familiar e sustentabilidade do meio rural.[5]",
+    "desc": "Conjunto de cinco chamadas internas lançadas pela Embrapa para seleção de novos projetos de pesquisa, transferência de tecnologia e desenvolvimento institucional, com propostas a serem submetidas em forma de cartas-consulta, pré-propostas ou propostas. Os projetos aprovados passam a compor a carteira do Sistema Embrapa de Gestão (SEG), distribuídos entre seis Macroprogramas (MP1 a MP6). Apesar de o lançamento noticiado em 2009, a matéria descreve o funcionamento típico das chamadas internas vinculadas ao SEG, mas não configura chamada específica aberta em 2026.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/18051186/embrapa-lanca-chamadas-para-novos-projetos",
     "descobertoEm": "2026-08-16"
   },
@@ -7115,19 +7116,19 @@
   },
   {
     "id": "bndes-inovagro-2026",
-    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação da Produção Agropecuária",
+    "titulo": "Inovagro - Programa de Incentivo à Modernização e à Inovação da Produção Agropecuária",
     "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Inovação agropecuária",
-      "Modernização da produção",
-      "Tecnologias agrícolas",
-      "Máquinas e equipamentos agro"
+      "agropecuária",
+      "inovação",
+      "modernização tecnológica",
+      "produção rural"
     ],
-    "publico": "Produtores rurais, cooperativas e demais empreendimentos rurais (individuais e coletivos) enquadráveis nas linhas do BNDES com projetos de modernização e inovação na produção agropecuária",
-    "valor": "Financiamento de até 100% do valor do projeto; até R$ 4 milhões por cliente em empreendimentos individuais e até R$ 15 milhões em empreendimentos coletivos, respeitando limites individuais",
+    "publico": "Empreendimentos individuais e coletivos do setor agropecuário",
+    "valor": "Até R$ 4 milhões por cliente; até R$ 15 milhões para empreendimento coletivo, conforme limites operacionais do programa",
     "prazo": "2027-06-30",
-    "desc": "Linha de financiamento do BNDES destinada à modernização e inovação da produção agropecuária, incluindo aquisição de máquinas, equipamentos, estruturas e tecnologias inovadoras para aumento de produtividade e sustentabilidade. Regida pela Circular SUP/ADIG nº 98/2026-BNDES, com vigência até 30/06/2027, aplicável a projetos de inovação tecnológica na agropecuária brasileira.",
+    "desc": "Linha de financiamento para modernização e inovação na produção agropecuária, com vigência indicada até 30/06/2027.",
     "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-08-17"
   },
@@ -7668,5 +7669,223 @@
     "desc": "Chamada pública de adesão voltada a Institutos Federais e ao Colégio Pedro II para capacitação técnica visando submissão qualificada de propostas em futuros editais de unidades Embrapii. Embora não seja um edital direto de pesquisa agro, é aplicável a grupos de pesquisa agropecuária em Institutos Federais interessados em se estruturar para acessar os mecanismos de fomento Embrapii em inovação industrial e agroindustrial.",
     "url": "https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-educacao-profissional/editais/2026",
     "descobertoEm": "2026-08-20"
+  },
+  {
+    "id": "cnpq-24-2026-ct-biotec",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 - Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Biotecnologia para saúde humana",
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial",
+      "PD&I em biotecnologia"
+    ],
+    "publico": "Pesquisadores e grupos de pesquisa de instituições científicas, tecnológicas e de inovação (ICTs) sediadas no Brasil",
+    "valor": "Valor global não informado na página geral; consultar o texto completo da chamada",
+    "prazo": "2026-09-18",
+    "desc": "Chamada destinada a apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia, incluindo biotecnologia agropecuária, visando contribuir para o desenvolvimento científico, tecnológico e a inovação do País, com foco em PD&I em áreas estratégicas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "cnpq-capes-30-2026-mai-dai",
+    "titulo": "Chamada Pública CNPq/CAPES Nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação (MAI/DAI)",
+    "orgao": "CNPq/CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação",
+      "Engenharias",
+      "Ciências agrárias",
+      "Ciências biológicas",
+      "PD&I em parceria ICT–empresa"
+    ],
+    "publico": "Programas de pós-graduação stricto sensu recomendados pela CAPES e instituições científicas e tecnológicas que desejem estruturar turmas de MAI/DAI em parceria com empresas",
+    "valor": "Valores de bolsas e recursos de custeio definidos no texto da chamada conforme modalidade e quota; consultar edital",
+    "prazo": "2026-12-11",
+    "desc": "Chamada conjunta voltada à seleção de propostas de cursos de mestrado e doutorado acadêmico voltados à inovação, em parceria com empresas, apoiando bolsas e projetos de PD&I, com potencial aplicação em setores como agropecuária, agronegócio e cadeias produtivas relacionadas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "cnpq-01-2026-chamamento-fndct-mcti",
+    "titulo": "Chamamento Público CNPq/FNDCT/MCTI Nº 01/2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa científica e tecnológica",
+      "PD&I",
+      "Infraestrutura de pesquisa",
+      "Áreas estratégicas definidas pelo MCTI e FNDCT"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) interessadas em submeter propostas de projetos estruturantes financiados com recursos do FNDCT",
+    "valor": "Valores e faixas de financiamento definidos por linha de ação no texto do chamamento; consultar edital",
+    "prazo": "2026-08-17",
+    "desc": "Chamamento público com recebimento de propostas no período de 02/07/2026 a 17/08/2026, voltado ao apoio a projetos de ICTs com recursos do FNDCT, incluindo projetos que podem contemplar infraestrutura e PD&I em áreas como agropecuária, agronegócio, bioeconomia e tecnologias associadas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamamento-no-01-2026",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "capes-parfor-licenciaturas-2026",
+    "titulo": "Chamada pública CAPES – Oferta de cursos de licenciatura no âmbito do Parfor e Parfor Equidade",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Formação de professores",
+      "Educação básica",
+      "Licenciaturas",
+      "Educação em ciências e áreas afins à agropecuária (por meio de cursos de ciências da natureza, biologia, etc.)"
+    ],
+    "publico": "Instituições de educação superior (IES) interessadas em ofertar cursos de licenciatura no âmbito do Parfor e Parfor Equidade",
+    "valor": "Condições de financiamento e bolsas definidas no edital; consultar texto completo",
+    "prazo": "2026-08-25",
+    "desc": "Chamada pública que seleciona propostas de instituições de educação superior para oferta de cursos de licenciatura no âmbito do Parfor e Parfor Equidade, com inscrições de 27/07/2026 até as 18h de 25/08/2026, voltada à formação de professores da educação básica.",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/noticias-defeso-eleitoral/chamada-publica-convoca-instituicoes-de-educacao-superior-para-cursos-de-licenciatura",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "capes-19-2026-buffalo",
+    "titulo": "Edital CAPES/Universidade de Buffalo Nº 19/2026",
+    "orgao": "CAPES",
+    "origem": "Internacional",
+    "areas": [
+      "Cooperação internacional",
+      "Pós-graduação",
+      "Áreas elegíveis conforme edital (incluindo ciências agrárias e afins, quando previstas)"
+    ],
+    "publico": "Estudantes de pós-graduação e pesquisadores vinculados a programas de pós-graduação recomendados pela CAPES, nas áreas contempladas pelo acordo com a Universidade de Buffalo",
+    "valor": "Auxílios e bolsas definidos por modalidade (passagens, diárias, bolsas no exterior etc.); consultar edital",
+    "prazo": "2026-08-31",
+    "desc": "Oportunidade de cooperação internacional entre CAPES e Universidade de Buffalo, com inscrições abertas até 31/08/2026, oferecendo bolsas e apoio à mobilidade acadêmica em áreas definidas pelo edital, potencialmente incluindo temas relevantes à agropecuária e ciências agrárias.",
+    "url": "https://bertha.capes.gov.br/oportunidades",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "finep-2026-ec-economia-circular",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Finep Mais Inovação Brasil – Rodada 2 – Economia Circular e Cidades Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Economia circular",
+      "Cidades sustentáveis",
+      "Inovação tecnológica",
+      "PD&I empresarial",
+      "Tecnologias ambientais aplicáveis à agropecuária e à gestão de resíduos agroindustriais"
+    ],
+    "publico": "Empresas brasileiras interessadas em desenvolver produtos, processos ou serviços inovadores nas áreas de economia circular e cidades sustentáveis, em projetos apoiados com subvenção econômica à inovação",
+    "valor": "Total da chamada em torno de R$ 150 milhões, com faixas de apoio por projeto conforme regulamento; consultar edital oficial",
+    "prazo": "2026-08-31",
+    "desc": "Seleção pública com recursos não reembolsáveis (subvenção econômica) para apoio a projetos empresariais de PD&I em fluxo contínuo, focados em economia circular e cidades sustentáveis, com prazo para envio de propostas até 31/08/2026, incluindo potencial aplicação em cadeias agroindustriais e gestão de resíduos no setor agropecuário.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/13_02_2026_EC_Regulamento.pdf",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "finep-2026-mu-mobilidade-sustentavel",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Finep Mais Inovação Brasil – Rodada 2 – Mobilidade Sustentável",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Mobilidade sustentável",
+      "Transporte e logística",
+      "Inovação tecnológica",
+      "PD&I empresarial",
+      "Soluções de mobilidade e logística com possíveis aplicações ao escoamento da produção agropecuária"
+    ],
+    "publico": "Empresas brasileiras interessadas em desenvolver projetos de inovação em mobilidade sustentável, com apoio de subvenção econômica à inovação",
+    "valor": "Valores máximos e condições de concessão de subvenção definidos no regulamento da seleção pública; consultar edital oficial",
+    "prazo": "2026-08-31",
+    "desc": "Seleção pública em fluxo contínuo com prazo final em 31/08/2026, voltada ao apoio a projetos empresariais de PD&I em mobilidade sustentável, com recursos não reembolsáveis do FNDCT, podendo abranger soluções de logística e transporte relacionadas à cadeia agropecuária e ao agronegócio.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/06_03-2026_MU_Regulamento.pdf",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "bndes-chamadas-inovacao-2026",
+    "titulo": "Chamadas públicas para contratação de inovação",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "inovação",
+      "pesquisa aplicada",
+      "desenvolvimento tecnológico"
+    ],
+    "publico": "Empresas e instituições aptas a participar de chamadas públicas do BNDES",
+    "valor": null,
+    "prazo": null,
+    "desc": "Portal oficial do BNDES com listagem de chamadas e editais abertos para contratação de inovação. O conteúdo consultado em 2026 não exibiu, no resultado recuperado, um edital agro específico aberto.",
+    "url": "https://www.bndes.gov.br/wps/vanityurl/chamadadeinovacao",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "embrapii-portal-2026",
+    "titulo": "Portal Embrapii",
+    "orgao": "Embrapii",
+    "origem": "Nacional",
+    "areas": [
+      "inovação",
+      "pesquisa aplicada",
+      "desenvolvimento tecnológico"
+    ],
+    "publico": "Empresas, ICTs e instituições parceiras da rede Embrapii",
+    "valor": null,
+    "prazo": null,
+    "desc": "Portal institucional da Embrapii com informações sobre a rede e suas chamadas. No material recuperado, não apareceu um edital agro específico aberto em 2026 com prazo e valor claramente identificáveis.",
+    "url": "https://embrapii.org.br/",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "horizon-2026-cl6-farm2fork-01-two-stage",
+    "titulo": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura",
+      "eficiência produtiva",
+      "sustentabilidade",
+      "inovação",
+      "bioeconomia"
+    ],
+    "publico": "Consórcios elegíveis ao Horizon Europe",
+    "valor": "€ 13.500.000",
+    "prazo": "2026-09-15",
+    "desc": "Tópico do Cluster 6 do Horizon Europe com abertura em 12/02/2026 e segunda etapa com fechamento em 15/09/2026; voltado à competitividade agrícola e ao uso eficiente e sustentável de fatores de produção.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-improving-competitiveness-agricultural-sector-enhancing-efficient-and-sustainable-use",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "horizon-2026-cl6-farm2fork-02-two-stage",
+    "titulo": "Open topic: Boosting organic farming for a competitive, sustainable and resilient farming sector",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura orgânica",
+      "sustentabilidade",
+      "resiliência",
+      "inovação"
+    ],
+    "publico": "Consórcios elegíveis ao Horizon Europe",
+    "valor": null,
+    "prazo": "2026-09-15",
+    "desc": "Tópico do Cluster 6 do Horizon Europe com abertura em 12/02/2026 e segunda etapa com fechamento em 15/09/2026; voltado ao fortalecimento da agricultura orgânica.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-boosting-organic-farming-competitive-sustainable-and-resilient-farming-sector-42033",
+    "descobertoEm": "2026-08-21"
+  },
+  {
+    "id": "horizon-2026-cl6-biodiv-06",
+    "titulo": "Boosting agrobiodiversity for food security and sustainable competitiveness",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agrobiodiversidade",
+      "segurança alimentar",
+      "competitividade sustentável",
+      "pesquisa e inovação"
+    ],
+    "publico": "Consórcios elegíveis ao Horizon Europe",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada do Cluster 6 do Horizon Europe relacionada a agrobiodiversidade, segurança alimentar e competitividade sustentável; o resultado recuperado não trouxe prazo fechado no snippet disponível.",
+    "url": "https://www.efsa.europa.eu/en/funding-calls/boosting-agrobiodiversity-food-security-and-sustainable-competitiveness-horizon-cl6",
+    "descobertoEm": "2026-08-21"
   }
 ]
