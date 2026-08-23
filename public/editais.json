@@ -1749,21 +1749,21 @@
   },
   {
     "id": "cnpq-06-2026-universal",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
-    "orgao": "CNPq/FNDCT",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas",
-      "Agrárias",
-      "Agropecuária",
-      "Ciências Agrárias",
-      "PD&I"
+      "Todas as áreas do conhecimento",
+      "Biotecnologia agropecuária",
+      "Biotecnologia para saúde humana",
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino no Brasil",
-    "valor": "Montante global de recursos oriundos do FNDCT (valores por faixa de projeto definidos no edital)",
+    "publico": "Pesquisadores doutores vinculados a instituições científicas, tecnológicas e de inovação (ICTs) nacionais",
+    "valor": "Até aproximadamente R$ 243.520,00 por proposta em faixas iniciais; faixas superiores com teto em torno de R$ 250.000,00–R$ 300.000,00 e orçamento global da chamada em torno de R$ 300 milhões",
     "prazo": "2026-08-03",
-    "desc": "Apoiar projetos de pesquisa que visem contribuir significativamente para o desenvolvimento científico e tecnológico e a inovação do País, em qualquer área do conhecimento, por meio de financiamento a projetos em diferentes faixas de valor com recursos do FNDCT, incluindo temas relevantes para agropecuária e Embrapa.[4][5]",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "desc": "Chamada Universal para apoio a projetos de pesquisa em qualquer área do conhecimento, com foco em contribuição significativa para o desenvolvimento científico e tecnológico e a inovação. Prevê financiamento de custeio, capital e bolsas (incluindo PDJ e PDS) com vigência típica de até 24–36 meses, sendo elegíveis projetos em biotecnologia agropecuária, cadeias produtivas agrícolas e temas de interesse da Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -2945,19 +2945,19 @@
   },
   {
     "id": "1",
-    "titulo": "Chamada interna nº 01/2026 – Seleção de Unidades e Centros de Competência EMBRAPII para atuação no Programa Jornada do Conhecimento para Pesquisadores de INCTs",
+    "titulo": "Chamada interna nº 01/2026 para a seleção de Unidades e Centros de Competência Embrapii para atuação no Programa Jornada do Conhecimento para Pesquisadores de INCTs",
     "orgao": "EMBRAPII",
     "origem": "Nacional",
     "areas": [
       "Inovação",
-      "Pesquisa aplicada",
+      "P&D",
       "Tecnologia",
-      "Potencial agropecuário (dependendo da unidade candidata)"
+      "Setores diversos (inclui aplicações em agropecuária via INCTs e unidades com foco agro)"
     ],
-    "publico": "Instituições de pesquisa brasileiras interessadas em credenciamento como Unidade ou Centro de Competência EMBRAPII, incluindo aquelas com atuação em temas agropecuários",
-    "valor": "Não explicitado na chamada pública geral (recursos definidos por projeto aprovado posteriormente)",
+    "publico": "Unidades EMBRAPII e Centros de Competência vinculados a INCTs",
+    "valor": "Não especificado no extrato consultado (financiamento para novas Unidades e Centros de Competência EMBRAPII)",
     "prazo": "2026-06-26",
-    "desc": "Chamada interna voltada à seleção de novas Unidades e Centros de Competência EMBRAPII para o Programa Jornada do Conhecimento para Pesquisadores de INCTs. Apoia projetos de pesquisa, desenvolvimento e inovação em parceria com empresas, podendo incluir temas de inovação agropecuária conforme o foco das unidades selecionadas.",
+    "desc": "Chamada interna para seleção de novas Unidades e Centros de Competência EMBRAPII que atuarão no Programa Jornada do Conhecimento para Pesquisadores de INCTs, com período de inscrições de 08/06 a 26/06/2026 e avaliação e divulgação de resultados em julho de 2026. A chamada é transversal e pode incluir temáticas de inovação em agropecuária se contempladas nos planos das unidades/INCTs.",
     "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-01-2026-para-a-selecao-de-unidades-e-centros-de-competencia-embrapii-para-atuacao-no-programa-jornada-do-conhecimento-para-pesquisadores-de-incts/",
     "descobertoEm": "2026-07-06"
   },
@@ -5481,20 +5481,19 @@
   },
   {
     "id": "2",
-    "titulo": "Chamada nº 207/2026 – Bolsas de Estímulo à Inovação – Projeto Embrapii/Embrapa Agroenergia/Pilzer (PEAE-2508.0024-CG2)",
-    "orgao": "Funarbe / Embrapii / Embrapa Agroenergia",
+    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação na Produção Agropecuária",
+    "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Agroenergia",
-      "Inovação tecnológica",
-      "Pesquisa agropecuária",
-      "Bioenergia"
+      "Inovação agropecuária",
+      "Modernização da produção agropecuária",
+      "Tecnologias agroindustriais"
     ],
-    "publico": "Pesquisadores, estudantes de graduação e pós-graduação e profissionais interessados em bolsas de estímulo à inovação vinculadas ao projeto Embrapii/Embrapa Agroenergia/Pilzer",
-    "valor": "Valor das bolsas definido nos termos da chamada (bolsas de Estímulo à Inovação, conforme categorias previstas)",
-    "prazo": "2026-05-18",
-    "desc": "Chamada pública para seleção de bolsistas de estímulo à inovação para atuar em projeto de pesquisa, desenvolvimento e inovação em agroenergia no âmbito da parceria Embrapii–Embrapa Agroenergia, gerenciado pela Fundação Arthur Bernardes (Funarbe). Fomenta pesquisa aplicada e inovação agropecuária com foco em bioenergia.",
-    "url": "https://agrega.funarbe.org.br/bolsas/bolsas/view-dados-para-edital?id=828035",
+    "publico": "Produtores rurais, cooperativas e empresas do setor agropecuário, conforme regras de crédito do BNDES",
+    "valor": "Programa de crédito com vigência até 30/06/2027 (valores conforme enquadramento de operações no BNDES)",
+    "prazo": "2027-06-30",
+    "desc": "Linha de financiamento do BNDES voltada à modernização e inovação na produção agropecuária, com foco na adoção de tecnologias e melhorias de produtividade. A Circular SUP/ADIG nº 98/2026-BNDES estabelece a vigência do programa até 30/06/2027, permitindo operações em 2026 para projetos de inovação agropecuária no Brasil.",
+    "url": "http://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-07-30"
   },
   {
@@ -5518,20 +5517,19 @@
   },
   {
     "id": "4",
-    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação na Produção Agropecuária",
-    "orgao": "BNDES",
-    "origem": "Nacional",
+    "titulo": "Edital nº 32/2026 – Edital de Fluxo Contínuo FAPESQ e Unidades EMBRAPII",
+    "orgao": "FAPESQ (Fundação de Apoio à Pesquisa do Estado da Paraíba) em parceria com Unidades EMBRAPII",
+    "origem": "Estadual · AM",
     "areas": [
-      "Inovação agropecuária",
-      "Modernização da produção",
-      "Tecnologia agrícola",
-      "Investimentos produtivos rurais"
+      "Inovação",
+      "P&D em parceria ICT–empresa",
+      "Setores diversos incluindo agronegócio conforme escopo das unidades EMBRAPII parceiras"
     ],
-    "publico": "Produtores rurais, cooperativas e empresas do setor agropecuário que desejem financiar projetos de modernização e inovação na produção",
-    "valor": "Até R$ 4 milhões por cliente em empreendimentos individuais e até R$ 15 milhões em empreendimentos coletivos, com limite de R$ 400 mil para aquisição de animais",
-    "prazo": "2027-06-30",
-    "desc": "Linha de financiamento de longo prazo do BNDES voltada à modernização e à inovação na produção agropecuária, incluindo aquisição de máquinas, equipamentos, infraestrutura e tecnologias associadas à inovação tecnológica no campo. Embora seja um programa de crédito e não um edital clássico de pesquisa, pode ser articulado com projetos de inovação agropecuária desenvolvidos por instituições de pesquisa em parceria com produtores.",
-    "url": "http://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
+    "publico": "Instituições científicas e tecnológicas (ICTs) e empresas em cooperação com Unidades EMBRAPII",
+    "valor": "Valor total não especificado no extrato consultado; edital de fluxo contínuo com cofinanciamento FAPESQ–Unidades EMBRAPII",
+    "prazo": "null",
+    "desc": "Edital de fluxo contínuo publicado em 11/06/2026 pela FAPESQ em parceria com Unidades EMBRAPII, voltado ao apoio a projetos de P&D e inovação realizados em cooperação entre ICTs e empresas. As áreas são definidas de acordo com a competência das unidades EMBRAPII envolvidas, incluindo potencialmente projetos em inovação agropecuária, sobretudo onde há unidades com foco em agronegócio. O edital permanece aberto enquanto houver recursos, com submissão em fluxo contínuo.",
+    "url": "https://fapesq.rpp.br/editais/2026/edital-no-32-2026-2013-edital-de-fluxo-continuo-fapesq-e-unidades-embrapii",
     "descobertoEm": "2026-07-30"
   },
   {
@@ -6328,19 +6326,18 @@
   {
     "id": "confap-2026-nexbio-amazonia",
     "titulo": "Chamada nexBio Amazônia 2026",
-    "orgao": "CONFAP / FAPEAM e outras FAPs participantes",
+    "orgao": "CONFAP / Swissnex no Brasil / Leading House da Universidade de St. Gallen",
     "origem": "Nacional",
     "areas": [
       "bioeconomia",
       "Amazônia",
-      "startup",
-      "pesquisa",
-      "inovação"
+      "inovação",
+      "pesquisa aplicada"
     ],
-    "publico": "Representantes de startups e pesquisadores dos estados das FAPs participantes",
-    "valor": null,
+    "publico": "Representantes de startups e pesquisadores dos estados brasileiros participantes via FAPs",
+    "valor": "Não informado no trecho recuperado",
     "prazo": "2026-05-18",
-    "desc": "Chamada para candidaturas de startups e pesquisadores vinculados às FAPs participantes, incluindo FAPEAM, com foco em iniciativas da Amazônia.",
+    "desc": "Chamada internacional de inovação sustentável para a bioeconomia amazônica, com participação de pesquisadores e startups.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-08-13"
   },
@@ -6776,57 +6773,55 @@
   },
   {
     "id": "5",
-    "titulo": "The Innovate Africa Challenge 2026 (3rd Edition): Call for Applications",
-    "orgao": "FAO",
-    "origem": "Internacional",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Produtivas (inclui Agronegócio e Alimentos)",
+    "orgao": "FINEP",
+    "origem": "Nacional",
     "areas": [
-      "Inovação em sistemas agroalimentares",
-      "Agricultura digital",
-      "Sustentabilidade agrícola",
-      "Segurança alimentar"
+      "Agronegócio e Alimentos",
+      "Indústria e Manufatura",
+      "Sustentabilidade e Impacto",
+      "P&D&I para aumento da produtividade agrícola e segurança alimentar"
     ],
-    "publico": "Empreendedores, pesquisadores e inovadores interessados em soluções inovadoras para sistemas agroalimentares em países africanos; participação de brasileiros possível desde que atendidos os critérios do desafio e foco geográfico",
-    "valor": "Premiações e apoio definidos pelo desafio (inclui apoio à implementação de soluções inovadoras; valores específicos indicados nos materiais do desafio)",
-    "prazo": "2026-08-31",
-    "desc": "Desafio de inovação promovido pela FAO voltado a soluções transformadoras para sistemas agroalimentares em África. Embora focado no contexto africano, abre oportunidade para equipes internacionais, inclusive do Brasil, propor soluções e projetos que podem ter componente de pesquisa agropecuária e inovação tecnológica aplicáveis em ambientes similares.",
-    "url": "https://www.fao.org/e-agriculture/innovate-africa-challenge-2026-3rd-edition-call-applications",
+    "publico": "Empresas e, conforme linha específica, ICTs em parceria com empresas nas cadeias produtivas elegíveis",
+    "valor": "Valor total da chamada: R$ 300 milhões (segundo boletim de oportunidades, com foco em P&D&I para produtividade agrícola e segurança alimentar)",
+    "prazo": "2026-09-30",
+    "desc": "Chamada Finep Mais Inovação Brasil – Rodada 2 – Cadeias Produtivas, com início de submissão em 06/02/2026 e prazo para recebimento de propostas até 30/09/2026. A chamada contempla, entre outras, a linha de P&D&I voltada ao aumento da produtividade agrícola e segurança alimentar, enquadrando projetos de inovação agropecuária brasileira em cadeias de agronegócio e alimentos. A chamada mobiliza recursos da ordem de R$ 300 milhões.",
+    "url": "https://alertaeditais.com.br/edital/finep-mais-inovacao-brasil--rodada-2--cadeias-p6pt0/",
     "descobertoEm": "2026-08-15"
   },
   {
     "id": "6",
-    "titulo": "FAO & AUN-AFS Research Proposal Competition for Youth 2026",
-    "orgao": "FAO",
+    "titulo": "Horizon Europe Work Programme 2025 – Cluster 6 (Food, Bioeconomy, Natural Resources, Agriculture and Environment) – Chamadas com elegibilidade excepcional para entidades brasileiras",
+    "orgao": "Comissão Europeia – Programa Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "Sistemas agroalimentares sustentáveis",
-      "Pesquisa agrícola",
-      "Resiliência climática",
-      "Desenvolvimento rural"
+      "Agricultura",
+      "Recursos naturais",
+      "Alimentos e bioeconomia",
+      "Meio ambiente",
+      "Pesquisa oceânica e sistemas agroalimentares (tópicos AAORIA e afins)"
     ],
-    "publico": "Jovens pesquisadores (estudantes e recém-graduados) interessados em apresentar propostas de pesquisa em agricultura e sistemas alimentares; competição com participação internacional, potencialmente incluindo jovens brasileiros",
-    "valor": "Apoio à pesquisa e visibilidade internacional; valores específicos de prêmios e financiamento descritos nos documentos da competição",
-    "prazo": "2026-05-31",
-    "desc": "Competição internacional de propostas de pesquisa voltada a jovens, organizada pela FAO em parceria com AUN-AFS. Incentiva projetos de pesquisa em sistemas agroalimentares sustentáveis, com foco em resiliência, sustentabilidade e desenvolvimento agrícola. Pesquisadores jovens brasileiros podem submeter propostas desde que cumpram os critérios de elegibilidade.",
-    "url": "https://www.fao.org/partnerships/academia/news/news-detail/amplifying-young-voices-for-a-sustainable-and-resilient-agrifood-system--fao---aun-afs-research-proposal-competition-for-youth-2026/en",
+    "publico": "Consórcios internacionais com pelo menos 3 entidades de países elegíveis; entidades brasileiras podem participar, e em alguns tópicos são excepcionalmente elegíveis para financiamento da União Europeia",
+    "valor": "Valores por tópico variam; cada tópico do programa define orçamento específico (não consolidado em um único valor global na chamada)",
+    "prazo": "null",
+    "desc": "O Work Programme 2025 do Cluster 6 do Horizon Europe inclui tópicos em alimentos, bioeconomia, recursos naturais, agricultura e meio ambiente. Em determinados tópicos, o texto do programa explicita que entidades estabelecidas no Brasil são excepcionalmente elegíveis para financiamento da União Europeia, especialmente em ações relacionadas à Aliança de Pesquisa e Inovação do Atlântico (AAORIA). As chamadas são em 2025, mas com prazos de submissão em 2025–2026 e consórcios que podem incluir instituições brasileiras de pesquisa agropecuária. É necessário consultar cada tópico para prazos específicos e condições de elegibilidade para financiamento.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2025_en.pdf",
     "descobertoEm": "2026-08-15"
   },
   {
     "id": "7",
-    "titulo": "FAO Global Conference for Actions on One Health in Agrifood Systems – Call for Proposals for Side Events",
-    "orgao": "FAO",
+    "titulo": "Participação de instituições brasileiras no Horizon Europe – Chamadas 2026–2027 (informação geral de elegibilidade para América Latina e Caribe)",
+    "orgao": "Comissão Europeia / EURAXESS LAC",
     "origem": "Internacional",
     "areas": [
-      "One Health",
-      "Sistemas agroalimentares",
-      "Saúde animal",
-      "Saúde vegetal",
-      "Saúde pública e meio ambiente"
+      "Pesquisa e inovação em geral, com destaque para agricultura, alimentos, bioeconomia e clima nos pilares II e III",
+      "MSCA e ERC para pesquisadores individuais brasileiros"
     ],
-    "publico": "Membros da FAO, universidades, institutos de pesquisa, organizações de produtores, agências de desenvolvimento, redes de especialistas e demais instituições interessadas em organizar side events; instituições brasileiras podem submeter propostas",
-    "valor": "Sem repasse direto de recursos de pesquisa; oportunidade de visibilidade, networking e influência em agendas globais de One Health em sistemas agroalimentares",
-    "prazo": "2026-05-31",
-    "desc": "Chamado para submissão de propostas de eventos paralelos (‘side events’) vinculados à Conferência Global da FAO sobre ações em One Health em sistemas agroalimentares. Aceita propostas de universidades e institutos de pesquisa, incluindo brasileiros, com foco em ações e evidências de pesquisa e inovação em One Health aplicada à agropecuária.",
-    "url": "https://www.fao.org/one-health/resources/events/fao-global-conference-for-actions-on-one-health-in-agrifood-systems/call-for-proposals",
+    "publico": "Instituições de pesquisa brasileiras e pesquisadores individuais interessados em participar de projetos Horizon Europe",
+    "valor": "Variável por chamada; documento descreve elegibilidade e possibilidades de cofinanciamento para instituições brasileiras",
+    "prazo": "null",
+    "desc": "Documento informativo sobre a elegibilidade de instituições e pesquisadores brasileiros no Horizon Europe, destacando que instituições do Brasil são plenamente elegíveis para participar da maioria das chamadas, embora não tenham financiamento automático em muitos casos, exceto quando explicitamente indicadas na chamada ou quando a autoridade concedente considerar essencial a participação. Pesquisadores individuais brasileiros são elegíveis a financiamento no pilar de Excelent Science (MSCA e ERC). Para pesquisa agropecuária, isso abre acesso a múltiplas chamadas de 2026–2027 em agricultura, sistemas alimentares, bioeconomia e clima, desde que em consórcios com parceiros europeus.",
+    "url": "https://euraxess.ec.europa.eu/worldwide/lac/news/horizon-europe-work-programmes-2026-2027",
     "descobertoEm": "2026-08-15"
   },
   {
@@ -7999,5 +7994,82 @@
     "desc": "Chamada pública da FAPEMIG para o programa EPAMIG 5.0 – Agricultura do Futuro, voltada ao financiamento de projetos que desenvolvam soluções científicas, tecnológicas e de inovação para a agricultura. O período de submissão das propostas vai de 15/07/2026 a 24/08/2026, conforme notícia oficial da FAPEMIG. O edital contempla linhas de pesquisa relacionadas a modernização da agropecuária, uso de tecnologias digitais e de precisão, sustentabilidade ambiental e aumento da eficiência produtiva em sistemas agrícolas e pecuários.",
     "url": "https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-16-2026-epamig-5-0-desenvolvimento-de-solucoes-cientificas-tecnologicas-e-de-inovacao-para-a-agricultura-do-futuro",
     "descobertoEm": "2026-08-22"
+  },
+  {
+    "id": "cnpq-biotecnologia-2026",
+    "titulo": "Chamada CNPq/MCTI/FNDCT – Biotecnologia para saúde humana, agropecuária, ambiental e industrial (2026)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Agricultura",
+      "Pecuária",
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial",
+      "Saúde humana"
+    ],
+    "publico": "Pesquisadores de ICTs brasileiras com projetos em biotecnologia aplicados às áreas de saúde humana, agropecuária, ambiental e industrial",
+    "valor": "Recursos do FNDCT; valores por projeto variam conforme a linha e faixa de enquadramento (informados no texto da chamada)",
+    "prazo": null,
+    "desc": "Chamada de fomento à pesquisa em biotecnologia com foco em aplicações em saúde humana, agropecuária, meio ambiente e indústria, financiada com recursos do FNDCT. Apoia projetos de grupos de pesquisa consolidados e emergentes em ICTs, com forte aderência a temas de agropecuária, melhoramento genético, sanidade animal e vegetal, bioprocessos e sustentabilidade, alinhados às demandas da Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-08-23"
+  },
+  {
+    "id": "amazonia-2026-desafios-bioeconomia",
+    "titulo": "Programa Desafios da Amazônia – chamada pública 2026",
+    "orgao": "CONFAP / Fundo Amazônia / FAPs participantes",
+    "origem": "Nacional",
+    "areas": [
+      "sociobioeconomia",
+      "bioeconomia",
+      "açaí",
+      "castanha-da-amazônia",
+      "cacau",
+      "babaçu",
+      "recursos pesqueiros"
+    ],
+    "publico": "Pesquisadores e instituições nas Fundações Estaduais de Amparo à Pesquisa participantes",
+    "valor": "Entre R$ 6.000.000,00 e R$ 8.000.000,00 por proposta, podendo chegar a R$ 10.000.000,00 com contrapartidas",
+    "prazo": "2026-09-01",
+    "desc": "Chamada pública para projetos de pesquisa, desenvolvimento e inovação voltados à sociobioeconomia amazônica, incluindo cadeias produtivas diretamente ligadas à Amazônia.",
+    "url": "https://www.amazoniamaisdez.org.br/chamadas-abertas",
+    "descobertoEm": "2026-08-23"
+  },
+  {
+    "id": "mma-2026-floresta-mais-amazonia",
+    "titulo": "Edital de Apoio a Projetos Locais nº 01/2026 – Modalidade Comunidades do Projeto Floresta+ Amazônia",
+    "orgao": "Ministério do Meio Ambiente e Mudança do Clima",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia Legal",
+      "territórios tradicionais",
+      "floresta",
+      "projetos comunitários"
+    ],
+    "publico": "Organizações representativas de povos indígenas e povos e comunidades tradicionais",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": "2026-09-04",
+    "desc": "Edital federal para apoio a iniciativas em territórios da Amazônia Legal, com potencial de interesse para pesquisa-ação e extensão em áreas amazônicas.",
+    "url": "https://www.gov.br/mma/pt-br/noticias-defeso-eleitoral/aberto-edital-para-apoio-a-iniciativas-em-territorios-da-amazonia-legal",
+    "descobertoEm": "2026-08-23"
+  },
+  {
+    "id": "conab-2026-amazonia-viva-01",
+    "titulo": "Chamada Pública Conab nº 01/2026 – Fundo Amazônia (Amazônia Viva)",
+    "orgao": "CONAB",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "segurança alimentar",
+      "cadeias produtivas",
+      "agricultura familiar"
+    ],
+    "publico": "Proponentes conforme regras da chamada pública da CONAB",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": "2026-05-03",
+    "desc": "Chamada pública vinculada ao Fundo Amazônia, com potencial relevância para agricultura familiar e sistemas produtivos amazônicos.",
+    "url": "https://www.gov.br/conab/pt-br/atuacao/paa/amazonia-viva/edital-amazonia-viva/1-chamada-publica-conab-01-2026_amazonia-viva.pdf",
+    "descobertoEm": "2026-08-23"
   }
 ]
