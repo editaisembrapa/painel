@@ -1753,17 +1753,17 @@
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Biotecnologia agropecuária",
-      "Biotecnologia para saúde humana",
-      "Biotecnologia ambiental",
-      "Biotecnologia industrial"
+      "todas as áreas do conhecimento",
+      "ciência",
+      "tecnologia",
+      "inovação",
+      "agropecuária"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições científicas, tecnológicas e de inovação (ICTs) nacionais",
-    "valor": "Até aproximadamente R$ 243.520,00 por proposta em faixas iniciais; faixas superiores com teto em torno de R$ 250.000,00–R$ 300.000,00 e orçamento global da chamada em torno de R$ 300 milhões",
+    "publico": "Pesquisadores doutores vinculados ou não a ICTs, em qualquer área, incluindo grupos consolidados e grupos com doutorado recente",
+    "valor": "Até R$ 243.520,00 (Faixa A), até R$ 200.000,00 (Faixa B), até R$ 250.000,00 (Faixa C); dotação global de aproximadamente R$ 300.000.000,00",
     "prazo": "2026-08-03",
-    "desc": "Chamada Universal para apoio a projetos de pesquisa em qualquer área do conhecimento, com foco em contribuição significativa para o desenvolvimento científico e tecnológico e a inovação. Prevê financiamento de custeio, capital e bolsas (incluindo PDJ e PDS) com vigência típica de até 24–36 meses, sendo elegíveis projetos em biotecnologia agropecuária, cadeias produtivas agrícolas e temas de interesse da Embrapa.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "desc": "Chamada Universal de fomento à pesquisa científica e tecnológica em qualquer área do conhecimento, com três faixas de apoio voltadas a grupos liderados por pesquisadores com doutorado recente ou consolidados. Pelo menos 30% dos recursos são destinados a projetos com instituições executoras das regiões Norte, Nordeste ou Centro-Oeste. Abrange projetos de PD&I e infraestrutura de pesquisa em universidades e ICTs, sendo plenamente aplicável a grupos de pesquisa em agropecuária e unidades da Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamadauniversal062026.pdf",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -2532,18 +2532,21 @@
   },
   {
     "id": "cnpq-mcti-15-2026-proafrica",
-    "titulo": "Chamada CNPq/MCTI Nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia - PROÁFRICA",
+    "titulo": "Chamada Pública CNPq/MCTI nº 15/2026 – Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia (PROAFRICA)",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Cooperação internacional",
-      "Ciência e tecnologia",
-      "Desenvolvimento e inovação"
+      "ciência",
+      "tecnologia",
+      "inovação",
+      "cooperação internacional",
+      "agropecuária",
+      "desenvolvimento sustentável"
     ],
-    "publico": "Pesquisadores e instituições brasileiras com interesse em cooperação com países africanos",
-    "valor": null,
+    "publico": "Grupos de pesquisa brasileiros em cooperação com instituições de países africanos, em temas de ciência, tecnologia e inovação",
+    "valor": "Valores de apoio por projeto conforme faixas estabelecidas no edital (não detalhadas no trecho acessível)",
     "prazo": "2026-08-31",
-    "desc": "Programa de cooperação científica e tecnológica com potencial para projetos em agricultura, alimentos, ambiente e inovação aplicados ao contexto agropecuário.",
+    "desc": "Chamada pública para apoiar projetos de pesquisa colaborativa que fortaleçam a cooperação científica, tecnológica e de inovação entre o Brasil e países africanos. Abrange diversas áreas, incluindo temas de agropecuária, segurança alimentar, recursos naturais e desenvolvimento sustentável, com potencial relevância para grupos da Embrapa interessados em cooperação internacional.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-15-2026/chamada-publica-cnpq-N-15-2026",
     "descobertoEm": "2026-07-01"
   },
@@ -2795,21 +2798,21 @@
   },
   {
     "id": "confap-nexbio-amazonia-2026",
-    "titulo": "Chamada nexBio Amazônia 2026",
-    "orgao": "CONFAP e Fundações de Amparo à Pesquisa participantes (incluindo FAPEAM, FAPEAP, FAPESP)",
+    "titulo": "Chamada nexBio Amazônia 2026 – Programa Desafios da Amazônia (Iniciativa Amazônia +10)",
+    "orgao": "CONFAP e FAPs participantes (inclui FAPEAM/AM)",
     "origem": "Nacional",
     "areas": [
       "Bioeconomia",
-      "Inovação",
-      "Startups",
+      "Inovação tecnológica",
+      "Startups de base científica",
       "Amazônia",
-      "Biodiversidade",
-      "Tecnologias de base biológica"
+      "Agropecuária",
+      "Cadeias produtivas sustentáveis"
     ],
-    "publico": "Representantes de startups e pesquisadores vinculados às FAPs participantes (FAPEAM, FAPEAP, FAPESP) nos estados correspondentes",
-    "valor": null,
+    "publico": "Pesquisadores e representantes de startups vinculados às Fundações de Amparo à Pesquisa participantes, incluindo FAPEAM (Amazonas)",
+    "valor": "Valor global da chamada: R$ 107.100.000,00",
     "prazo": "2026-05-18",
-    "desc": "Terceira chamada nexBio Amazônia para apoiar projetos de startups e pesquisadores em bioeconomia e inovação baseada na biodiversidade amazônica, com submissão eletrônica até 18 de maio de 2026.",
+    "desc": "Chamada nacional voltada a enfrentar desafios da Amazônia por meio de projetos de pesquisa aplicada e inovação, com forte ênfase em bioeconomia, uso sustentável da biodiversidade, cadeias agroprodutivas e desenvolvimento regional. Aberta a pesquisadores e startups vinculados às FAPs participantes (incluída FAPEAM/AM), com submissão em formulário eletrônico até 18/05/2026.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-07-04"
   },
@@ -8071,5 +8074,119 @@
     "desc": "Chamada pública vinculada ao Fundo Amazônia, com potencial relevância para agricultura familiar e sistemas produtivos amazônicos.",
     "url": "https://www.gov.br/conab/pt-br/atuacao/paa/amazonia-viva/edital-amazonia-viva/1-chamada-publica-conab-01-2026_amazonia-viva.pdf",
     "descobertoEm": "2026-08-23"
+  },
+  {
+    "id": "cnpq-apoio-pdi-biotecnologia-2026",
+    "titulo": "Chamada de apoio à pesquisa, desenvolvimento e inovação em biotecnologia",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "biotecnologia",
+      "ciência e tecnologia",
+      "saúde",
+      "agropecuária",
+      "PD&I"
+    ],
+    "publico": "Pesquisadores vinculados a Instituições Científicas, Tecnológicas e de Inovação (ICTs) interessadas em projetos de PD&I em biotecnologia",
+    "valor": "Não explicitado no trecho acessível; valores definidos por projeto conforme edital",
+    "prazo": "2026-09-18",
+    "desc": "Chamada pública do CNPq para apoio à pesquisa, desenvolvimento e inovação em biotecnologia, voltada a projetos que contribuam para o desenvolvimento científico, tecnológico e a inovação. Apesar do foco transversal em biotecnologia, é relevante para pesquisadores da agropecuária e unidades da Embrapa que atuem em temas como melhoramento de plantas e animais, bioinsumos, genética, sanidade e outras aplicações biotecnológicas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-08-24"
+  },
+  {
+    "id": "cnpq-apoio-eventos-empreendedorismo-inovacao-2026",
+    "titulo": "Chamada de Apoio a Eventos de Promoção do Empreendedorismo e da Inovação – 2ª rodada",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "empreendedorismo",
+      "inovação",
+      "PD&I",
+      "ciência e tecnologia",
+      "agropecuária"
+    ],
+    "publico": "Instituições e pesquisadores responsáveis por organização de eventos técnico-científicos e tecnológicos voltados à promoção do empreendedorismo e da inovação",
+    "valor": "Valores de apoio por evento definidos em faixas no edital (não detalhadas no trecho acessível)",
+    "prazo": "2026-09-18",
+    "desc": "Chamada pública do CNPq para apoio financeiro à realização de eventos que promovam o empreendedorismo e a inovação em diversas áreas. Embora não seja fomento direto a projetos de pesquisa, pode apoiar eventos técnico-científicos e tecnológicos organizados por grupos de pesquisa em agropecuária e Embrapa, fortalecendo redes e ambientes de inovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-08-24"
+  },
+  {
+    "id": "capes-oportunidades-bertha-2026",
+    "titulo": "Editais e Chamadas com oportunidades em aberto – Plataforma Bertha Lutz",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "pós-graduação",
+      "formação de recursos humanos",
+      "bolsas",
+      "todas as áreas do conhecimento",
+      "agropecuária"
+    ],
+    "publico": "Programas de pós-graduação, docentes e discentes elegíveis às oportunidades de bolsas e projetos gerenciados pela CAPES",
+    "valor": "Variável conforme cada edital específico disponível na plataforma (bolsas de estudo, projetos de cooperação, etc.)",
+    "prazo": "null",
+    "desc": "Ambiente da CAPES que reúne os editais e chamadas com oportunidades em aberto, incluindo bolsas, projetos de cooperação e outras ações de fomento à pós-graduação. Embora a plataforma contenha múltiplos editais, ela é relevante como ponto de acesso único a oportunidades para pesquisadores e estudantes em agropecuária ligados à Embrapa e programas de pós-graduação.",
+    "url": "https://bertha.capes.gov.br/oportunidades",
+    "descobertoEm": "2026-08-24"
+  },
+  {
+    "id": "capes-06-2026-amazonia-legal",
+    "titulo": "Edital n.º 6/2026 – Programa de Desenvolvimento da Pós‑Graduação (PDPG) – Parcerias Estratégicas nos Estados V – Rede de Pesquisa e Desenvolvimento da Amazônia Legal",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Pós-graduação",
+      "Rede de pesquisa",
+      "Amazônia Legal",
+      "Desenvolvimento regional",
+      "Meio ambiente",
+      "Agropecuária e sistemas produtivos na Amazônia"
+    ],
+    "publico": "Programas de pós‑graduação e redes de pesquisa propostas por dirigentes de Fundações Estaduais de Amparo à Pesquisa (inclui FAPEAM/AM) nos estados da Amazônia Legal",
+    "valor": null,
+    "prazo": "2026-10-02",
+    "desc": "Edital voltado à constituição de redes de pesquisa e desenvolvimento na Amazônia Legal, apoiando projetos de pós‑graduação em temas estratégicos como desenvolvimento sustentável, sistemas produtivos agropecuários, biodiversidade e formação de recursos humanos. As propostas devem ser apresentadas por dirigentes das FAPs da Amazônia Legal, com submissão via SICAPES até 02/10/2026.",
+    "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/redes-de-pesquisa-e-desenvolvimento/programa-rede-de-pesquisa-e-desenvolvimento-da-amazonia-legal",
+    "descobertoEm": "2026-08-24"
+  },
+  {
+    "id": "embrapa_seg_universal_2026",
+    "titulo": "Chamada SEG Universal (aprovação de projetos da Embrapa Agroenergia)",
+    "orgao": "Empresa Brasileira de Pesquisa Agropecuária (Embrapa)",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "Agroenergia"
+    ],
+    "publico": "Pesquisadores e equipes internas da Embrapa com projetos submetidos ao Sistema Embrapa de Gestão (SEG)",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada interna do Sistema Embrapa de Gestão (SEG), modalidade Universal, voltada ao apoio a projetos de PD&I conduzidos por unidades da Embrapa. Em 2026, a Embrapa Agroenergia registrou 100% de aprovação de seus projetos submetidos a essa chamada, evidenciando processo seletivo interno para financiamento e gestão de projetos de pesquisa, desenvolvimento e inovação no âmbito do SEG.",
+    "url": "https://www.embrapa.br/en/minibibliotecas/busca-de-noticias/-/noticia/116467608/embrapa-agroenergia-tem-100-de-aprovacao-na-chamada-seg-universal",
+    "descobertoEm": "2026-08-24"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-07",
+    "titulo": "Strengthening the EU plant protection ecosystem for a future-proof agriculture",
+    "orgao": "Comissão Europeia / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "proteção de plantas",
+      "agroquímicos",
+      "manejo fitossanitário",
+      "agricultura sustentável",
+      "inovação agropecuária"
+    ],
+    "publico": "Consórcios elegíveis ao Horizon Europe; instituições e empresas brasileiras podem participar como parceiras conforme regras do programa.",
+    "valor": "€3.000.000 de orçamento do call/tópico",
+    "prazo": "2026-04-14",
+    "desc": "Chamada do Cluster 6 para fortalecer o ecossistema de proteção de plantas com foco em agricultura futura, mais sustentável e resiliente.",
+    "url": "https://www.euro-access.eu/en/calls/2602/Strengthening-the-EU-plant-protection-ecosystem-for-a-future-proof-agriculture",
+    "descobertoEm": "2026-08-24"
   }
 ]
