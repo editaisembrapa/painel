@@ -1749,21 +1749,20 @@
   },
   {
     "id": "cnpq-06-2026-universal",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "todas as áreas do conhecimento",
-      "ciência",
-      "tecnologia",
-      "inovação",
-      "agropecuária"
+      "Todas as áreas do conhecimento",
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Engenharias"
     ],
-    "publico": "Pesquisadores doutores vinculados ou não a ICTs, em qualquer área, incluindo grupos consolidados e grupos com doutorado recente",
-    "valor": "Até R$ 243.520,00 (Faixa A), até R$ 200.000,00 (Faixa B), até R$ 250.000,00 (Faixa C); dotação global de aproximadamente R$ 300.000.000,00",
+    "publico": "Pesquisadores doutores com currículo Lattes atualizado, coordenando projetos de pesquisa em ICTs brasileiras",
+    "valor": "Financiamento por faixas de projeto (Faixa A, B e C), com valores máximos por projeto definidos no edital",
     "prazo": "2026-08-03",
-    "desc": "Chamada Universal de fomento à pesquisa científica e tecnológica em qualquer área do conhecimento, com três faixas de apoio voltadas a grupos liderados por pesquisadores com doutorado recente ou consolidados. Pelo menos 30% dos recursos são destinados a projetos com instituições executoras das regiões Norte, Nordeste ou Centro-Oeste. Abrange projetos de PD&I e infraestrutura de pesquisa em universidades e ICTs, sendo plenamente aplicável a grupos de pesquisa em agropecuária e unidades da Embrapa.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamadauniversal062026.pdf",
+    "desc": "Chamada Universal para apoiar projetos de pesquisa científica e tecnológica em qualquer área do conhecimento, visando contribuir para o desenvolvimento científico, tecnológico e a inovação do país. Edital relevante para grupos de pesquisa em agropecuária e Embrapa, com diferentes faixas de apoio de acordo com o perfil do coordenador e do grupo.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -7897,12 +7896,12 @@
       "Biotecnologia",
       "PD&I",
       "Ciências Agrárias",
-      "Agropecuária"
+      "Engenharias"
     ],
-    "publico": "Pesquisadores vinculados a Instituições Científicas, Tecnológicas e de Inovação (ICTs), incluindo unidades da Embrapa e demais instituições atuantes em biotecnologia e PD&I",
+    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras; projetos em biotecnologia com foco em PD&I",
     "valor": null,
-    "prazo": "2026-12-11",
-    "desc": "Chamada de apoio à pesquisa, desenvolvimento e inovação em biotecnologia, com foco em projetos que contribuam para o desenvolvimento científico, tecnológico e a inovação no país, potencialmente abrangendo aplicações em agropecuária e cadeias produtivas associadas. Inscrições abertas de 19/08/2026 a 11/12/2026.",
+    "prazo": "2026-09-18",
+    "desc": "Chamada destinada a apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia, alinhados à Estratégia Nacional de CT&I 2023–2030, com foco em soluções tecnológicas e inovadoras aplicáveis a diversos setores, incluindo o agropecuário. Abrange apoio a grupos e redes de pesquisa em diferentes regiões do país.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-08-22"
   },
@@ -8188,5 +8187,135 @@
     "desc": "Chamada do Cluster 6 para fortalecer o ecossistema de proteção de plantas com foco em agricultura futura, mais sustentável e resiliente.",
     "url": "https://www.euro-access.eu/en/calls/2602/Strengthening-the-EU-plant-protection-ecosystem-for-a-future-proof-agriculture",
     "descobertoEm": "2026-08-24"
+  },
+  {
+    "id": "cnpq-atlanticas-20-2026",
+    "titulo": "Chamada Pública MCTI/CNPq/MIR/MMulheres/MPI nº 20/2026 – Atlânticas: Programa Beatriz Nascimento de Mulheres na Ciência",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências Humanas",
+      "Ciências Sociais Aplicadas",
+      "Interdisciplinar",
+      "Políticas de CT&I"
+    ],
+    "publico": "Pesquisadoras mulheres em instituições científicas e tecnológicas brasileiras, em todas as áreas do conhecimento",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada voltada à promoção da participação de mulheres na ciência por meio do fomento a projetos de pesquisa coordenados por pesquisadoras, em diferentes áreas do conhecimento. Pode ser utilizada por pesquisadoras da área de agropecuária interessadas em temas de gênero, desenvolvimento territorial, inovação e políticas públicas no campo.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/Busca_abertas",
+    "descobertoEm": "2026-08-25"
+  },
+  {
+    "id": "finep-fndct-subvencao-2026",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação (2026)",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação",
+      "PD&I empresarial",
+      "Ciências Agrárias",
+      "Agroindústria",
+      "Tecnologias habilitadoras"
+    ],
+    "publico": "Empresas brasileiras inovadoras, em parceria ou não com ICTs; projetos de PD&I com foco em inovação tecnológica",
+    "valor": "Recursos de subvenção econômica provenientes do FNDCT, com valores máximos por projeto definidos no edital",
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública de subvenção econômica para apoiar projetos de pesquisa, desenvolvimento e inovação em empresas, com recursos do FNDCT. Inclui linhas voltadas a cadeias produtivas estratégicas, o que pode abranger projetos de agropecuária, agroindústria, tecnologias digitais para o agro e biotecnologia aplicada.",
+    "url": "https://www.finep.gov.br/chamadas-publicas?situacao=aberta",
+    "descobertoEm": "2026-08-25"
+  },
+  {
+    "id": "finep-fndct-pesquisa-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Pesquisa, Desenvolvimento e Inovação (2026)",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "PD&I",
+      "Infraestrutura de pesquisa",
+      "Ciências Agrárias",
+      "Biotecnologia",
+      "Engenharias"
+    ],
+    "publico": "ICTs públicas e privadas sem fins lucrativos, inclusive unidades da Embrapa, para execução de projetos de PD&I",
+    "valor": null,
+    "prazo": "2026-07-20",
+    "desc": "Chamada de apoio a projetos de pesquisa, desenvolvimento e inovação em ICTs com recursos do FNDCT, incluindo aquisições de equipamentos, infraestrutura laboratorial e atividades de PD&I. Potencialmente relevante para unidades da Embrapa que buscam reforço de infraestrutura e desenvolvimento de tecnologias para o setor agropecuário.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/06_03_26_Edital_Rerratificao.pdf",
+    "descobertoEm": "2026-08-25"
+  },
+  {
+    "id": "fapesp-fapeam-2026-bioeconomia-amazonica",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Pesquisa em Bioeconomia Amazônica",
+    "orgao": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) em cooperação com a FAPEAM",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Ciência e tecnologia na Amazônia",
+      "Agropecuária sustentável",
+      "Recursos naturais",
+      "Inovação em cadeias produtivas amazônicas"
+    ],
+    "publico": "Pesquisadores do Estado de São Paulo e do Estado do Amazonas, vinculados a instituições de pesquisa e ensino, em projetos cooperativos SP–AM em bioeconomia amazônica",
+    "valor": "Valor variável por projeto; chamada indica apoio na forma de Auxílio à Pesquisa Regular (FAPESP) e Auxílios/Bolsas pela FAPEAM",
+    "prazo": "2026-03-23",
+    "desc": "Chamada conjunta FAPEAM–FAPESP para financiamento de pesquisas em ciência, tecnologia e inovação em bioeconomia amazônica, fomentando colaborações entre pesquisadores dos estados de São Paulo e Amazonas. A linha apoia projetos que abordem cadeias produtivas e uso sustentável de recursos amazônicos, incluindo temas agropecuários e florestais.",
+    "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
+    "descobertoEm": "2026-08-25"
+  },
+  {
+    "id": "fapesp-2026-desafios-amazonia",
+    "titulo": "Chamada de Propostas – Programa Desafios da Amazônia (Fundo Amazônia/BNDES e FAPs)",
+    "orgao": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) em articulação com CONFAP e Fundações de Amparo à Pesquisa da Amazônia Legal (inclui FAPEAM)",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "Uso da terra e agropecuária",
+      "Florestas e biodiversidade",
+      "Bioeconomia e cadeias produtivas sustentáveis",
+      "Mudanças climáticas",
+      "Desenvolvimento territorial rural"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa e ensino dos estados da Amazônia Legal e de outras unidades federativas participantes, em consórcios voltados a desafios amazônicos, incluindo temas de agropecuária e uso da terra",
+    "valor": "Orçamento total de R$ 107.100.000,00, sendo R$ 72.000.000,00 do Fundo Amazônia/BNDES e R$ 35.100.000,00 de contrapartida das FAPs; parcela prevista de R$ 5.000.000,00 para a FAPEAM",
+    "prazo": "2026-09-01",
+    "desc": "Chamada do Programa Desafios da Amazônia, coordenada em âmbito nacional, para apoio a pesquisas sobre desafios socioambientais e econômicos da Amazônia, incluindo temas como uso da terra, agropecuária, florestas, bioeconomia e desenvolvimento regional. Prevê submissão de pré-propostas até 01/09/2026 e propostas finais até 08/12/2026, com participação das Fundações de Amparo à Pesquisa dos estados amazônicos, inclusive a FAPEAM.",
+    "url": "https://fapesp.br/18249/chamada-de-propostas-programa-desafios-da-amazonia",
+    "descobertoEm": "2026-08-25"
+  },
+  {
+    "id": "embrapa-seg-ppd-2026",
+    "titulo": "Chamadas de PD&I do Sistema Embrapa de Gestão (SEG) em 2026",
+    "orgao": "Embrapa / Diretoria de Pesquisa e Desenvolvimento (DEPD)",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Agropecuária",
+      "Ciências Agrárias"
+    ],
+    "publico": "Pesquisadores e unidades da Embrapa (chamadas internas de projetos PD&I no SEG)",
+    "valor": "Não explicitado; notícia informa recomposição orçamentária e mais de 20 chamadas de PD&I abertas em 2025, com novo aumento de orçamento em 2026[5]",
+    "prazo": "null",
+    "desc": "Notícia institucional informa que, após 2024 praticamente sem chamadas do Sistema Embrapa de Gestão (SEG), a Diretoria de Pesquisa e Desenvolvimento (DEPD) lançou mais de 20 chamadas internas de PD&I em 2025 e destaca nova ampliação do orçamento da Embrapa em 2026, permitindo continuidade e expansão das chamadas de PD&I no âmbito do SEG[5]. Trata-se de chamadas internas voltadas a projetos de pesquisa, desenvolvimento e inovação, mas a notícia não lista individualmente os editais nem explicita prazos ou valores por chamada.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/105889754/governo-federal-recompoe-orcamento-da-embrapa-e-congresso-aprova-em-plenario",
+    "descobertoEm": "2026-08-25"
+  },
+  {
+    "id": "embrapa-inovacao-aberta-2026",
+    "titulo": "Programas e chamadas de inovação aberta da Embrapa (financiamentos, desafios e programas de inovação)",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Inovação aberta",
+      "Transferência de tecnologia",
+      "Parcerias tecnológicas",
+      "Agropecuária"
+    ],
+    "publico": "Empreendedores, startups, empresas e parceiros interessados em desenvolver soluções tecnológicas sustentáveis para o agronegócio",
+    "valor": "Não explicitado; página institucional descreve programas e financiamentos de inovação sem detalhar valores por chamada[13]",
+    "prazo": "null",
+    "desc": "Página institucional sobre financiamentos, desafios e programas de inovação da Embrapa descreve o programa de inovação aberta da empresa, cujo objetivo é estimular empreendedores a transformar ideias em soluções tecnológicas sustentáveis para o agronegócio[13]. A página indica que há chamada aberta, vinculada a iniciativas de PD&I, transferência de know-how, licenciamento e prestação de serviços, compondo o portfólio de parcerias de inovação da Embrapa[4][13]. Não há, porém, detalhamento de um edital específico com prazo e valor; trata-se de informação geral sobre chamadas e programas de inovação em andamento.",
+    "url": "https://www.embrapa.br/financiamentos-desafios-e-programas-de-inovacao",
+    "descobertoEm": "2026-08-25"
   }
 ]
