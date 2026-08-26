@@ -18,21 +18,21 @@
   },
   {
     "id": "finep-agricultura-familiar-icts-2026",
-    "orgao": "FINEP / MCTI / FNDCT",
+    "orgao": "FINEP · FNDCT · MCTI",
     "origem": "Nacional",
-    "titulo": "MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis para ICTs (AgriFam-ICT 2026)",
     "areas": [
-      "agricultura familiar",
-      "sistemas agroalimentares",
-      "pesquisa aplicada",
-      "transferência de tecnologia",
-      "sustentabilidade"
+      "Agricultura familiar",
+      "Sistemas agroalimentares sustentáveis",
+      "Cadeias socioprodutivas",
+      "Agropecuária",
+      "Desenvolvimento tecnológico"
     ],
-    "publico": "ICTs",
-    "valor": "De R$ 3.000.000,00 a R$ 7.000.000,00 por projeto; investimento total da chamada de R$ 150.000.000,00",
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) brasileiras, incluindo unidades de pesquisa como a Embrapa; propostas coordenadas por pesquisadores dessas instituições",
+    "valor": "Até o limite global de aproximadamente R$ 150.000.000,00 em recursos do FNDCT; valores por proposta definidos de acordo com o edital e linha de apoio",
     "prazo": "2026-06-19",
-    "desc": "Chamada pública para financiar projetos de P&D voltados a produtos, processos, tecnologias e serviços para cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
-    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
+    "desc": "Seleção pública para apoio a projetos de ICTs voltados a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, com foco em PD&I para fortalecer a produção, a inclusão produtiva e a sustentabilidade. O prazo para registro de propostas iniciou em 31/03/2026 e encerra em 19/06/2026, com submissão eletrônica conforme regras da chamada.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -6850,20 +6850,19 @@
   {
     "id": "cnpq-universal-06-2026",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
-    "orgao": "CNPq/FNDCT",
+    "orgao": "CNPq · FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Biotecnologia agropecuária",
-      "Biotecnologia para saúde humana",
-      "Biotecnologia ambiental",
-      "Biotecnologia industrial",
-      "Ciência e tecnologia",
-      "PD&I em agropecuária"
+      "Todas as áreas do conhecimento",
+      "Agropecuária",
+      "Ciências Agrárias",
+      "Ciências Biológicas",
+      "Engenharias"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de ensino e/ou pesquisa no Brasil, incluindo unidades da Embrapa e demais ICTs",
-    "valor": "Valores por faixa de projeto e bolsas de formação (PDJ, PDS etc.) conforme a chamada; exemplo citado: até R$ 136.320,00 por bolsa PDJ e até R$ 143.520,00 por bolsa PDS para 24 meses, via combinação de duas bolsas de até 12 meses cada",
+    "publico": "Pesquisadores vinculados a ICTs brasileiras, incluindo pesquisadores da Embrapa, com título de doutor, em qualquer área do conhecimento",
+    "valor": "Apoio a projetos de pesquisa em três faixas de valores (Faixa A, Faixa B e Faixa C), com recursos do FNDCT; valores máximos por faixa definidos no edital",
     "prazo": "2026-08-03",
-    "desc": "Chamada Universal nacional para apoio a projetos de pesquisa com recursos do FNDCT, cobrindo biotecnologia agropecuária, de saúde, ambiental e industrial, entre outras áreas. Permite solicitar recursos de custeio, capital e bolsas (como PDJ e PDS), sendo particularmente relevante para grupos de pesquisa em agropecuária, melhoramento genético, biotecnologia animal e vegetal, sanidade, sistemas de produção e temas correlatos.",
+    "desc": "Chamada universal para apoiar projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação no país, em qualquer área do conhecimento. As propostas devem ser submetidas via Plataforma Integrada Carlos Chagas, seguindo o cronograma: lançamento em 17/06/2026, prazo limite para submissão em 03/08/2026, julgamento entre 14/09 e 09/10/2026 e divulgação dos resultados em novembro e dezembro de 2026.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-08-16"
   },
@@ -7115,20 +7114,20 @@
   },
   {
     "id": "bndes-inovagro-2026",
-    "titulo": "Inovagro - Programa de Incentivo à Modernização e à Inovação da Produção Agropecuária",
-    "orgao": "BNDES",
+    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação da Produção Agropecuária",
+    "orgao": "BNDES – Banco Nacional de Desenvolvimento Econômico e Social",
     "origem": "Nacional",
     "areas": [
-      "agropecuária",
-      "inovação",
-      "modernização tecnológica",
-      "produção rural"
+      "Inovação agropecuária",
+      "Modernização da produção",
+      "Tecnologias para pecuária e agricultura",
+      "Investimentos produtivos no campo"
     ],
-    "publico": "Empreendimentos individuais e coletivos do setor agropecuário",
-    "valor": "Até R$ 4 milhões por cliente; até R$ 15 milhões para empreendimento coletivo, conforme limites operacionais do programa",
+    "publico": "Produtores rurais (pessoas físicas ou jurídicas), cooperativas e associações do setor agropecuário brasileiro interessados em financiar projetos de modernização e inovação na produção",
+    "valor": "Limite de financiamento de até R$ 4 milhões por cliente em empreendimentos individuais (com limite de R$ 400 mil para animais) e até R$ 15 milhões para empreendimentos coletivos, com possibilidade de financiar até 100% do valor do projeto",
     "prazo": "2027-06-30",
-    "desc": "Linha de financiamento para modernização e inovação na produção agropecuária, com vigência indicada até 30/06/2027.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
+    "desc": "Linha de financiamento do BNDES voltada à modernização e inovação da produção agropecuária, incluindo aquisição de máquinas, equipamentos, infraestrutura e tecnologia para aumento de produtividade e sustentabilidade. A norma vigente está na Circular SUP/ADIG nº 98/2026-BNDES e a linha tem vigência até 30/06/2027, com taxas prefixadas e prazos que podem chegar a 10 anos, com carência. Embora seja uma linha de crédito e não uma chamada competitiva, pode ser articulada com projetos de pesquisa aplicada e inovação tecnológica em agropecuária brasileira, especialmente em parcerias com produtores e cooperativas.[8]",
+    "url": "http://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-08-17"
   },
   {
@@ -8317,5 +8316,80 @@
     "desc": "Página institucional sobre financiamentos, desafios e programas de inovação da Embrapa descreve o programa de inovação aberta da empresa, cujo objetivo é estimular empreendedores a transformar ideias em soluções tecnológicas sustentáveis para o agronegócio[13]. A página indica que há chamada aberta, vinculada a iniciativas de PD&I, transferência de know-how, licenciamento e prestação de serviços, compondo o portfólio de parcerias de inovação da Embrapa[4][13]. Não há, porém, detalhamento de um edital específico com prazo e valor; trata-se de informação geral sobre chamadas e programas de inovação em andamento.",
     "url": "https://www.embrapa.br/financiamentos-desafios-e-programas-de-inovacao",
     "descobertoEm": "2026-08-25"
+  },
+  {
+    "id": "finep-subvencao-agricultura-familiar-2026",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo: Soluções tecnológicas para aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal",
+    "orgao": "FINEP · FNDCT · MCTI",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Aquicultura",
+      "Pesca artesanal",
+      "Inovação tecnológica",
+      "Cadeias agroindustriais sustentáveis",
+      "PD&I"
+    ],
+    "publico": "Empresas e cooperativas brasileiras inovadoras (beneficiárias da subvenção econômica), potencialmente em parceria com ICTs como a Embrapa para desenvolvimento de soluções tecnológicas",
+    "valor": "Financiamento total estimado de cerca de R$ 300.000.000,00 em subvenção econômica à inovação; valor por projeto definido em cada grupo de concorrência no âmbito do Programa 2 – Programa de Inovação para a Reindustrialização Nacional (Mais Inovação Brasil)",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública em fluxo contínuo que concede recursos de subvenção econômica para projetos inovadores e de risco tecnológico voltados ao aumento da produtividade na agricultura familiar, na aquicultura e na pesca artesanal e às cadeias agroindustriais sustentáveis. As propostas são recebidas em fluxo contínuo até 30/09/2026 às 17h, podendo ser interrompidas antes se os recursos dos grupos de concorrência se esgotarem.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-08-26"
+  },
+  {
+    "id": "FAPEMA-20-2026-FAPEMA-SECTI-CNPQ-CAPES",
+    "titulo": "EDITAL nº 20/2026 FAPEMA/SECTI/CNPq/CAPES",
+    "orgao": "FAPEMA – Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão",
+    "origem": "Nacional",
+    "areas": [
+      "Desenvolvimento científico e tecnológico",
+      "Ciências agrárias",
+      "Meio ambiente",
+      "Inovação",
+      "Região Amazônica Legal (inclui Maranhão como estado amazônico em parte de suas políticas públicas)"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de ensino superior e pesquisa do Maranhão, em cooperação com outras instituições nacionais quando previsto",
+    "valor": null,
+    "prazo": "2026-09-09",
+    "desc": "Chamada da FAPEMA em parceria com SECTI, CNPq e CAPES, com período de submissão de 13/08/2026 a 09/09/2026 (até 12h, horário local). O objetivo é fomentar projetos de pesquisa e/ou pós-graduação prioritários para o Estado do Maranhão. Embora o foco principal seja o contexto maranhense, muitos temas podem estar associados à transição Amazônia-Cerrado, agropecuária sustentável, recursos naturais e desenvolvimento regional, sendo relevantes para pesquisadores que trabalham com Amazônia ampliada e sistemas produtivos.",
+    "url": "https://www.fapema.br/category/editais/editais-em-aberto/",
+    "descobertoEm": "2026-08-26"
+  },
+  {
+    "id": "FAPEMA-21-2026-FAPEMA-ESMAM",
+    "titulo": "Edital FAPEMA/ESMAM n° 21/2026",
+    "orgao": "FAPEMA – Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão",
+    "origem": "Nacional",
+    "areas": [
+      "Direito e políticas públicas",
+      "Gestão pública",
+      "Sociedade e desenvolvimento regional"
+    ],
+    "publico": "Pesquisadores e magistrados/servidores vinculados à Escola Superior da Magistratura do Maranhão (ESMAM) e instituições parceiras, conforme o edital",
+    "valor": null,
+    "prazo": "2026-08-31",
+    "desc": "Edital em parceria FAPEMA/ESMAM, com submissões entre 11/08/2026 e 31/08/2026 (até 12h). O foco está em temas de interesse do sistema de justiça e da gestão pública no Maranhão. Pode ser de interesse indireto a pesquisadores que atuem com governança ambiental, regularização fundiária, conflitos socioambientais e questões legais relacionadas à Amazônia, ainda que não seja um edital específico de agropecuária.",
+    "url": "https://www.fapema.br/category/editais/editais-em-aberto/",
+    "descobertoEm": "2026-08-26"
+  },
+  {
+    "id": "horizon-europe-wp-2026-2027-agri",
+    "titulo": "Chamadas Horizon Europe 2026–2027 em agricultura e sistemas alimentares (elegibilidade de instituições brasileiras)",
+    "orgao": "Comissão Europeia – Programa Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa agropecuária",
+      "Sistemas alimentares",
+      "Sustentabilidade agrícola",
+      "Inovação em cadeias agroalimentares",
+      "Cooperação internacional em I&D"
+    ],
+    "publico": "Instituições de pesquisa e universidades brasileiras, empresas e organizações do Brasil interessadas em participar de projetos de pesquisa e inovação em agricultura e sistemas alimentares, em consórcio com instituições europeias e de outros países",
+    "valor": "Cada chamada especifica valores e orçamento próprios dentro dos programas de trabalho 2026–2027; instituições brasileiras podem participar, mas não têm financiamento automático, salvo exceções previstas no programa",
+    "prazo": null,
+    "desc": "Os programas de trabalho 2026–2027 do Horizon Europe incluem diversas chamadas em temas de agricultura, sistemas alimentares, biodiversidade e clima, abertas a consórcios internacionais. Instituições da América Latina e Caribe são elegíveis à participação, porém entidades estabelecidas no Brasil não são automaticamente elegíveis a financiamento da Comissão Europeia. A Euraxess informa que instituições brasileiras podem receber financiamento excepcionalmente quando a chamada ou programa identifica explicitamente o país como elegível ou quando sua participação é considerada essencial pela autoridade concedente, com possibilidades de mecanismos de cofinanciamento. Assim, chamadas agro do Horizon Europe em 2026 são aplicáveis à pesquisa agropecuária brasileira mediante participação em consórcios e arranjos de cofinanciamento.[15]",
+    "url": "https://euraxess.ec.europa.eu/worldwide/lac/news/horizon-europe-work-programmes-2026-2027",
+    "descobertoEm": "2026-08-26"
   }
 ]
