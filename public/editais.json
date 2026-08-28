@@ -7679,32 +7679,29 @@
       "Biotecnologia agropecuária",
       "Biotecnologia para saúde humana",
       "Biotecnologia ambiental",
-      "Biotecnologia industrial",
-      "PD&I em biotecnologia"
+      "Biotecnologia industrial"
     ],
-    "publico": "Pesquisadores e grupos de pesquisa de instituições científicas, tecnológicas e de inovação (ICTs) sediadas no Brasil",
-    "valor": "Valor global não informado na página geral; consultar o texto completo da chamada",
+    "publico": "Pesquisadores e instituições científicas e tecnológicas com projetos de PD&I em biotecnologia, incluindo biotecnologia aplicada à agropecuária",
+    "valor": "Não informado no resumo; edital detalha faixas de financiamento por projeto com recursos do FNDCT/MCTI",
     "prazo": "2026-09-18",
-    "desc": "Chamada destinada a apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia, incluindo biotecnologia agropecuária, visando contribuir para o desenvolvimento científico, tecnológico e a inovação do País, com foco em PD&I em áreas estratégicas.",
+    "desc": "Chamada pública destinada a apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia, visando contribuir de forma significativa para o desenvolvimento científico, tecnológico e a inovação do país, com foco explícito em biotecnologia agropecuária entre as áreas temáticas contempladas.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-08-21"
   },
   {
     "id": "cnpq-capes-30-2026-mai-dai",
     "titulo": "Chamada Pública CNPq/CAPES Nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação (MAI/DAI)",
-    "orgao": "CNPq/CAPES",
+    "orgao": "CNPq · CAPES",
     "origem": "Nacional",
     "areas": [
-      "Inovação",
-      "Engenharias",
-      "Ciências agrárias",
-      "Ciências biológicas",
-      "PD&I em parceria ICT–empresa"
+      "Inovação tecnológica",
+      "PD&I em parceria ICT–empresa",
+      "Setores produtivos diversos (inclui cadeias agroindustriais)"
     ],
-    "publico": "Programas de pós-graduação stricto sensu recomendados pela CAPES e instituições científicas e tecnológicas que desejem estruturar turmas de MAI/DAI em parceria com empresas",
-    "valor": "Valores de bolsas e recursos de custeio definidos no texto da chamada conforme modalidade e quota; consultar edital",
+    "publico": "Programas de pós-graduação stricto sensu e instituições de pesquisa em parceria com empresas interessadas em projetos de mestrado e doutorado voltados à inovação",
+    "valor": "Valor global e número de bolsas definidos no edital; inclui bolsas de mestrado, doutorado e apoio a projetos de inovação",
     "prazo": "2026-12-11",
-    "desc": "Chamada conjunta voltada à seleção de propostas de cursos de mestrado e doutorado acadêmico voltados à inovação, em parceria com empresas, apoiando bolsas e projetos de PD&I, com potencial aplicação em setores como agropecuária, agronegócio e cadeias produtivas relacionadas.",
+    "desc": "Edição 2026 do Programa MAI/DAI, que estimula projetos de mestrado e doutorado acadêmico desenvolvidos em parceria entre universidades/instituições de pesquisa e empresas, com foco em PD&I. É relevante para grupos de pesquisa em agropecuária e Embrapa que atuem em colaboração com empresas do setor agroindustrial e de tecnologias para o agro.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-08-21"
   },
@@ -8564,5 +8561,184 @@
     "desc": "Linha de financiamento do BNDES voltada ao incentivo à modernização e à inovação na produção agropecuária, contemplando investimentos em máquinas, equipamentos, infraestrutura, tecnologias produtivas, sustentabilidade e melhoria de produtividade. A linha está vigente até 30/06/2027, podendo apoiar projetos de pesquisa aplicada e inovação tecnológica na agropecuária brasileira, especialmente quando vinculados a investimentos produtivos.",
     "url": "http://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-08-27"
+  },
+  {
+    "id": "cnpq-19-2026-asas-futuro",
+    "titulo": "Chamada Pública CNPq/MMULHERES Nº 19/2026 – Programa Asas para o Futuro",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Formação em ciência, tecnologia e inovação",
+      "Setores estratégicos para desenvolvimento econômico",
+      "STEM com potencial aplicação em agropecuária e agronegócio"
+    ],
+    "publico": "Institutos Federais de Educação, Ciência e Tecnologia e Universidades Federais para implementação de ações de formação voltadas a mulheres jovens em setores estratégicos",
+    "valor": "Valores de apoio por projeto/programa definidos no edital; fomento a ações educacionais e de formação em CT&I",
+    "prazo": "2026-08-31",
+    "desc": "Chamada que apoia a implementação do Programa Asas para o Futuro, visando ampliar a participação de mulheres jovens em setores estratégicos para o desenvolvimento econômico. Embora não seja específica de agropecuária, permite desenho de projetos de formação e inclusão em áreas como ciências agrárias, agroindústria, biotecnologia e tecnologias aplicadas ao agro.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-19-2026/chamada-publica-cnpq-N-19-2026",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "finep-2026-abertas",
+    "titulo": "Chamadas Públicas FINEP/FNDCT – chamadas com prazo até 31/08/2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação",
+      "Infraestrutura de pesquisa",
+      "Inovação em setores produtivos (inclui agroindústria e agronegócio conforme cada chamada)"
+    ],
+    "publico": "Instituições científicas e tecnológicas, universidades e empresas inovadoras elegíveis às linhas FINEP/FNDCT nas chamadas abertas com prazo até 31/08/2026",
+    "valor": "Valores e modalidades variam por chamada (subvenção econômica, crédito, apoio não reembolsável a infraestrutura ou projetos de PD&I), detalhados individualmente no site da FINEP",
+    "prazo": "2026-08-31",
+    "desc": "Conjunto de chamadas públicas da FINEP financiadas com recursos do FNDCT com situação \"aberta\" e prazos de envio de propostas até 31/08/2026. Essas chamadas contemplam projetos de PD&I e infraestrutura de pesquisa em diversas áreas tecnológicas, incluindo potencial enquadramento de projetos ligados à agropecuária, agroindústria, bioeconomia e tecnologias habilitadoras aplicáveis ao agronegócio.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadaspublicas?situacao=aberta",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "capes-24-2026-pci",
+    "titulo": "Edital CAPES Nº 24/2026 – Projetos de Cooperação entre Instituições para Qualificação de Profissionais de Nível Superior (PCI 2026)",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Formação de recursos humanos de nível superior",
+      "Cooperação interinstitucional",
+      "Áreas diversas de conhecimento, incluindo Ciências Agrárias e áreas correlatas"
+    ],
+    "publico": "Instituições de ensino superior e de pesquisa interessadas em projetos de cooperação para qualificação de profissionais de nível superior",
+    "valor": "Valores e número de bolsas definidos no edital, incluindo bolsas e apoio a projetos interinstitucionais de formação",
+    "prazo": null,
+    "desc": "Edital que convoca o envio de propostas de projetos de cooperação entre instituições para qualificação de profissionais de nível superior (PCI 2026). Abrange diferentes áreas do conhecimento e pode ser utilizado por instituições parceiras da Embrapa ou grupos de pesquisa em agropecuária para estruturar projetos de formação avançada, estágios e qualificação de pessoal em temas ligados ao setor agropecuário.",
+    "url": "https://www.gov.br/capes/pt-br",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "embrapa-2026-edital-02-convenio-cnpq",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Bolsas para projetos de PD&I aprovados pelo SEG",
+    "orgao": "Embrapa Meio-Norte / Embrapa / CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Agronegócio",
+      "Ciências Agrárias"
+    ],
+    "publico": "Estudantes e pesquisadores vinculados a projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": "Vagas de bolsas do Programa Institucional de Bolsas Embrapa/CNPq, com valores conforme normas do CNPq (não detalhados no edital resumido)",
+    "prazo": "2026-04-30",
+    "desc": "Edital da Embrapa Meio-Norte, no âmbito do Convênio Embrapa/CNPq, que regulamenta a oferta de bolsas para apoio a atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). As vagas de bolsistas são destinadas à execução de atividades de PD&I integradas aos projetos aprovados no SEG, com inscrições previstas entre 14 e 30 de abril de 2026. O edital informa que novas chamadas específicas de vagas serão divulgadas oportunamente nos canais oficiais da Embrapa ao longo de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "N2",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – CT-Agro 2026 para ICTs (seleção interna UFSM)",
+    "orgao": "UFSM / MCTI / FINEP / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Sistemas agroalimentares sustentáveis",
+      "Inovação em cadeias produtivas agro",
+      "Pesquisa aplicada em agropecuária"
+    ],
+    "publico": "Grupos de pesquisa e docentes da UFSM interessados em submeter projetos ao CT-Agro 2026",
+    "valor": "Conforme limites e regras da chamada MCTI/FINEP/FNDCT CT-Agro 2026",
+    "prazo": "2026-06-19",
+    "desc": "Chamada interna da UFSM para seleção de propostas institucionais a serem submetidas à Chamada Pública MCTI/FINEP/FNDCT – CT-Agro 2026, voltada ao desenvolvimento de soluções científicas e tecnológicas para cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis. Orienta a estruturação de projetos de pesquisa agropecuária alinhados ao edital nacional de CT-Agro.",
+    "url": "https://www.ufsm.br/pro-reitorias/proinova/editais/012-2026",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "N3",
+    "titulo": "Chamada Pública para concessão de bolsas de estímulo à inovação – Projeto Embrapii/Embrapa Agroenergia/Pilzer (Chamada nº 207/2026)",
+    "orgao": "Funarbe / Embrapii / Embrapa Agroenergia",
+    "origem": "Nacional",
+    "areas": [
+      "Agroenergia",
+      "Pesquisa e inovação industrial em agro",
+      "Biocombustíveis",
+      "Biotecnologia aplicada ao agronegócio"
+    ],
+    "publico": "Pesquisadores e bolsistas vinculados ou vinculáveis a projeto Embrapii/Embrapa Agroenergia",
+    "valor": "Valores de bolsas de estímulo à inovação conforme categorias previstas na chamada",
+    "prazo": "2026-05-18",
+    "desc": "Chamada pública para seleção de bolsistas de estímulo à inovação para o projeto Embrapii/Embrapa Agroenergia/Pilzer (PEAE-2508.0024 - CG2), gerenciado pela Funarbe. Visa apoiar atividades de pesquisa, desenvolvimento e inovação em agroenergia e temas correlatos, no âmbito de parceria Embrapii–Embrapa, aplicáveis à inovação agropecuária.",
+    "url": "https://agrega.funarbe.org.br/bolsas/bolsas/view-dados-para-edital?id=828035",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "E1",
+    "titulo": "Edital nº 08/2026 – SECTIES/FAPESQ/PB – Quarta Chamada Desafios Tecnológicos e Inovação – Conectando Startups – Segurança Alimentar e Nutricional (SAN)",
+    "orgao": "SECTIES / FAPESQ/PB",
+    "origem": "Nacional",
+    "areas": [
+      "Segurança alimentar e nutricional",
+      "Inovação tecnológica em alimentos",
+      "Startups de base tecnológica",
+      "Sistemas alimentares sustentáveis"
+    ],
+    "publico": "Startups inovadoras interessadas em desafios tecnológicos em segurança alimentar e nutricional",
+    "valor": "Valores e faixas de apoio conforme regras específicas do edital",
+    "prazo": "2026-05-22",
+    "desc": "Quarta chamada do programa Desafios Tecnológicos e Inovação – Conectando Startups, com foco em segurança alimentar e nutricional (SAN). Apoia startups com soluções tecnológicas inovadoras para sistemas alimentares, podendo incluir aplicações em produção, processamento e distribuição de alimentos relacionadas à agropecuária.",
+    "url": "https://fapesq.rpp.br/editais/editais-2026/03_07_26-edital-no-08-2026-quarta-chamada-desafios-tecnologicos-e-inovacao-2013-conectando-startups-2013-seguranca-alimentar-e-nutricional-san-retificado-em-03-07-2026-item-6.pdf",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "I1",
+    "titulo": "FAO & AUN-AFS Research Proposal Competition for Youth 2026 – Amplifying Young Voices for a Sustainable and Resilient Agrifood System",
+    "orgao": "FAO / ASEAN University Network – Agriculture and Food Systems (AUN-AFS)",
+    "origem": "Internacional",
+    "areas": [
+      "Sistemas agroalimentares sustentáveis",
+      "Resiliência climática na agricultura",
+      "Inovação em agrifood systems",
+      "Segurança alimentar",
+      "Desenvolvimento rural"
+    ],
+    "publico": "Jovens pesquisadores e estudantes de graduação e pós-graduação, globalmente (incluindo elegíveis no Brasil, sujeito às regras da competição)",
+    "valor": "Premiações e apoio à pesquisa conforme categorias da competição",
+    "prazo": "2026-05-31",
+    "desc": "Competição internacional de propostas de pesquisa voltada a jovens, focada em sistemas agroalimentares sustentáveis e resilientes. Incentiva projetos inovadores em agricultura, segurança alimentar e transformação de sistemas alimentares. Pesquisadores brasileiros podem participar desde que atendam às condições de elegibilidade estabelecidas pela FAO e pela rede AUN-AFS.",
+    "url": "https://www.fao.org/partnerships/academia/news/news-detail/amplifying-young-voices-for-a-sustainable-and-resilient-agrifood-system--fao---aun-afs-research-proposal-competition-for-youth-2026/en",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "I2",
+    "titulo": "Call for proposals – Side events on One Health in agrifood systems – FAO Global Conference for Actions on One Health in Agrifood Systems",
+    "orgao": "FAO",
+    "origem": "Internacional",
+    "areas": [
+      "One Health em sistemas agroalimentares",
+      "Saúde animal e vegetal",
+      "Segurança de alimentos",
+      "Sustentabilidade de sistemas produtivos agro"
+    ],
+    "publico": "Instituições, redes de pesquisa e organizações interessadas em organizar eventos paralelos internacionais sobre One Health em agrifood systems",
+    "valor": "Sem apoio financeiro direto detalhado; foco em seleção de propostas de eventos paralelos",
+    "prazo": "2026-05-31",
+    "desc": "Chamada internacional para propostas de eventos paralelos sobre One Health em sistemas agroalimentares, no âmbito da conferência global da FAO. Embora voltada a organização de side events, é aplicável a redes e grupos de pesquisa em agropecuária, inclusive brasileiros, interessados em discutir evidências científicas, experiências e ações em saúde única relacionada à produção de alimentos.",
+    "url": "https://www.fao.org/one-health/resources/events/fao-global-conference-for-actions-on-one-health-in-agrifood-systems/call-for-proposals",
+    "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "I3",
+    "titulo": "Transformative Research Challenge (TRC) 2026 – World Food Forum / FAO",
+    "orgao": "FAO / World Food Forum",
+    "origem": "Internacional",
+    "areas": [
+      "Agricultura sustentável",
+      "Sistemas alimentares",
+      "Inovação agropecuária",
+      "Clima e resiliência",
+      "Desenvolvimento rural",
+      "Digital e precision agriculture"
+    ],
+    "publico": "Jovens pesquisadores do mundo todo com projetos inovadores em agricultura e sistemas alimentares, incluindo brasileiros",
+    "valor": "Prêmios, visibilidade internacional e possível apoio ao desenvolvimento/piloto de projetos selecionados",
+    "prazo": "2026-05-15",
+    "desc": "Competição internacional de pesquisa aplicada voltada a jovens pesquisadores com projetos inovadores em agricultura, sistemas alimentares, resiliência climática e desenvolvimento rural. Os projetos devem apresentar prova de conceito e estar prontos para implementação piloto, sendo adequados para pesquisa agropecuária brasileira com foco em inovação e sustentabilidade.",
+    "url": "https://www.fao.org/e-agriculture/innovate-africa-challenge-2026-3rd-edition-call-applications",
+    "descobertoEm": "2026-08-28"
   }
 ]
