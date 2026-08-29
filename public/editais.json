@@ -1713,18 +1713,21 @@
   },
   {
     "id": "embrapa-paic-fapeam-2026-2027",
-    "titulo": "Edital de Seleção nº 1/2026 - PAIC/FAPEAM",
-    "orgao": "Embrapa",
-    "origem": "Estadual · AM",
+    "titulo": "Edital de Seleção nº 1/2026 – PAIC/FAPEAM 2026–2027 (Embrapa Amazônia Ocidental)",
+    "orgao": "Embrapa Amazônia Ocidental / FAPEAM",
+    "origem": "Interno",
     "areas": [
-      "Pesquisa",
-      "Inovação",
-      "Formação de recursos humanos"
+      "Agropecuária na Amazônia",
+      "Produção vegetal",
+      "Produção animal",
+      "Fitossanidade",
+      "Recursos naturais",
+      "Tecnologias agropecuárias"
     ],
-    "publico": "Estudantes vinculados ao PAIC/FAPEAM",
-    "valor": null,
+    "publico": "Estudantes e bolsistas vinculados a projetos de pesquisa da Embrapa Amazônia Ocidental no âmbito do PAIC/FAPEAM",
+    "valor": "Valores de bolsas e apoio definidos pelo programa PAIC/FAPEAM para o período 2026–2027",
     "prazo": null,
-    "desc": "Edital de seleção para participação em programa de iniciação científica e tecnológica com apoio da FAPEAM.",
+    "desc": "Edital interno da Embrapa Amazônia Ocidental para seleção de bolsistas em cadastro de reserva vinculado ao Programa Institucional de Iniciação Científica (PAIC) apoiado pela FAPEAM. Focado em projetos de pesquisa agropecuária na Amazônia envolvendo sistemas de produção, manejo de solos, recursos genéticos, sanidade vegetal e animal, tecnologias de base sustentável e inovação em cadeias produtivas amazônicas.",
     "url": "https://www.embrapa.br/documents/1354286/112750754/EDITAL_SELECAO+PAIC-FAPEAM_2026-2027.pdf/2f883f76-6ad3-bacb-e256-1ab601eb74e8?download=true",
     "descobertoEm": "2026-06-21"
   },
@@ -1753,16 +1756,14 @@
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Agrárias",
-      "Ciências ambientais",
-      "Engenharias",
-      "Biotecnologia agropecuária"
+      "Todas as áreas",
+      "Ciências Agrárias",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa brasileiras (ICTs públicas ou privadas), incluindo pesquisadores da Embrapa e demais instituições de agropecuária",
-    "valor": "Faixas de financiamento definidas no edital Universal CNPq/FNDCT (valores máximos por projeto conforme faixa de enquadramento)",
-    "prazo": null,
-    "desc": "Chamada Universal para apoio a projetos de pesquisa científica, tecnológica e de inovação em todas as áreas do conhecimento, com financiamento do FNDCT, permitindo a submissão de propostas em temas de agropecuária, produção agrícola, pecuária, biotecnologia, solos, fitossanidade, melhoramento genético, entre outros. A chamada contempla diferentes faixas de valor por projeto, de acordo com o perfil e porte da proposta. As inscrições ocorreram entre 17/06/2026 e 03/08/2026; consultar a página oficial para confirmar situação (encerrada ou prorrogada).",
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino no Brasil",
+    "valor": "Valor global estimado em cerca de R$ 300.000.000, com faixas de projeto de pequeno, médio e grande porte",
+    "prazo": "2026-08-03",
+    "desc": "Chamada Universal para apoio a projetos de pesquisa científica, tecnológica e de inovação em todas as áreas do conhecimento, com recursos do FNDCT, incluindo Ciências Agrárias e temas de agropecuária relevantes a pesquisadores da Embrapa.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-06-22"
   },
@@ -7743,18 +7744,18 @@
   },
   {
     "id": "capes-19-2026-buffalo",
-    "titulo": "Edital CAPES/Universidade de Buffalo Nº 19/2026",
+    "titulo": "CAPES/Universidade de Buffalo – Edital nº 19/2026",
     "orgao": "CAPES",
-    "origem": "Internacional",
+    "origem": "Nacional",
     "areas": [
-      "Cooperação internacional",
-      "Pós-graduação",
-      "Áreas elegíveis conforme edital (incluindo ciências agrárias e afins, quando previstas)"
+      "Multidisciplinar",
+      "Ciências Agrárias",
+      "Agropecuária"
     ],
-    "publico": "Estudantes de pós-graduação e pesquisadores vinculados a programas de pós-graduação recomendados pela CAPES, nas áreas contempladas pelo acordo com a Universidade de Buffalo",
-    "valor": "Auxílios e bolsas definidos por modalidade (passagens, diárias, bolsas no exterior etc.); consultar edital",
+    "publico": "Docentes e pesquisadores vinculados a programas de pós-graduação recomendados pela CAPES interessados em cooperação internacional com a Universidade de Buffalo",
+    "valor": "Bolsas e recursos de custeio/mobilidade internacional conforme regras do edital",
     "prazo": "2026-08-31",
-    "desc": "Oportunidade de cooperação internacional entre CAPES e Universidade de Buffalo, com inscrições abertas até 31/08/2026, oferecendo bolsas e apoio à mobilidade acadêmica em áreas definidas pelo edital, potencialmente incluindo temas relevantes à agropecuária e ciências agrárias.",
+    "desc": "Edital de cooperação internacional CAPES/Universidade de Buffalo para apoio à mobilidade acadêmica, bolsas e projetos conjuntos de pesquisa em diversas áreas, incluindo Ciências Agrárias.",
     "url": "https://bertha.capes.gov.br/oportunidades",
     "descobertoEm": "2026-08-21"
   },
@@ -7887,19 +7888,19 @@
   },
   {
     "id": "cnpq-24-2026-biotec",
-    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI nº 24/2026 – Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI nº 24/2026 - Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Biotecnologia",
-      "PD&I",
       "Ciências Agrárias",
-      "Engenharias"
+      "Agropecuária",
+      "PD&I"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras; projetos em biotecnologia com foco em PD&I",
-    "valor": null,
+    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, coordenando projetos em biotecnologia",
+    "valor": "Valor global não especificado no extrato consultado; apoio a projetos de PD&I em biotecnologia com recursos do FNDCT",
     "prazo": "2026-09-18",
-    "desc": "Chamada destinada a apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia, alinhados à Estratégia Nacional de CT&I 2023–2030, com foco em soluções tecnológicas e inovadoras aplicáveis a diversos setores, incluindo o agropecuário. Abrange apoio a grupos e redes de pesquisa em diferentes regiões do país.",
+    "desc": "Chamada para seleção de projetos de pesquisa, desenvolvimento e inovação em biotecnologia, contemplando aplicações em saúde, meio ambiente, agropecuária, indústria e outras, com foco em desenvolvimento tecnológico e inovação.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-08-22"
   },
@@ -8740,5 +8741,244 @@
     "desc": "Competição internacional de pesquisa aplicada voltada a jovens pesquisadores com projetos inovadores em agricultura, sistemas alimentares, resiliência climática e desenvolvimento rural. Os projetos devem apresentar prova de conceito e estar prontos para implementação piloto, sendo adequados para pesquisa agropecuária brasileira com foco em inovação e sustentabilidade.",
     "url": "https://www.fao.org/e-agriculture/innovate-africa-challenge-2026-3rd-edition-call-applications",
     "descobertoEm": "2026-08-28"
+  },
+  {
+    "id": "cnpq-30-2026-mai-dai",
+    "titulo": "Chamada Pública CNPq/CAPES nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação – MAI/DAI",
+    "orgao": "CNPq/CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação",
+      "Engenharias",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "PD&I"
+    ],
+    "publico": "Programas de pós-graduação stricto sensu recomendados pela CAPES em parceria com empresas ou instituições do setor produtivo",
+    "valor": "Concessão de bolsas de mestrado e doutorado acadêmico para inovação e recursos de custeio conforme faixas definidas no edital",
+    "prazo": "2026-12-11",
+    "desc": "Chamada para apoiar projetos de formação de recursos humanos em nível de mestrado e doutorado acadêmico para inovação, em parceria com empresas e instituições do setor produtivo, incluindo potenciais projetos voltados a temas de agropecuária e inovação tecnológica.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "cnpq-19-2026-mm",
+    "titulo": "Chamada Pública CNPq/MMULHERES nº 19/2026 – Programa Asas para o Futuro",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Multiprofissional",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Ciências Humanas e Sociais"
+    ],
+    "publico": "Pesquisadoras e grupos de pesquisa coordenados por mulheres em instituições de pesquisa e ensino no Brasil",
+    "valor": "Valor global não informado no extrato consultado; apoio a projetos de pesquisa coordenados por mulheres",
+    "prazo": "2026-08-31",
+    "desc": "Chamada voltada ao apoio a projetos de pesquisa coordenados por mulheres, em diversas áreas do conhecimento, incluindo Ciências Agrárias, com foco em promoção da equidade de gênero na ciência e na tecnologia.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-19-2026/chamada-publica-cnpq-N-19-2026",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "finep-2026-subv-ec",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Finep Mais Inovação Brasil – Rodada 2 – Economia Circular e Cidades Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Inovação",
+      "Economia Circular",
+      "Sustentabilidade",
+      "PD&I",
+      "Agropecuária (cadeias e resíduos)"
+    ],
+    "publico": "Empresas e cooperativas brasileiras que desenvolvam projetos de inovação tecnológica",
+    "valor": "Subvenção econômica à inovação; valores por projeto definidos por faixa de enquadramento no edital",
+    "prazo": "2026-08-31",
+    "desc": "Seleção pública em fluxo contínuo para apoio, com subvenção econômica, a projetos de inovação relacionados a economia circular e cidades sustentáveis, incluindo potencialmente soluções para cadeias agropecuárias, gestão de resíduos, água e energia em sistemas produtivos.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/13_02_2026_EC_Regulamento.pdf",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "finep-2026-subv-te",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Finep Mais Inovação Brasil – Rodada 2 – Transição Energética",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Transição Energética",
+      "Energia Renovável",
+      "PD&I",
+      "Agroenergia",
+      "Bioenergia"
+    ],
+    "publico": "Empresas e cooperativas brasileiras",
+    "valor": "Subvenção econômica à inovação; valores conforme faixas definidas no edital",
+    "prazo": "2026-08-31",
+    "desc": "Seleção pública em fluxo contínuo para apoio a projetos empresariais de inovação relacionados à transição energética, contemplando, entre outros, temas de bioenergia e agroenergia relevantes a cadeias produtivas agropecuárias.",
+    "url": "https://www.finep.gov.br/",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "finep-2026-subv-mineral",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Finep Mais Inovação Brasil – Rodada 2 – Transformação Mineral",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Transformação Mineral",
+      "Indústria",
+      "PD&I",
+      "Cadeias produtivas"
+    ],
+    "publico": "Empresas e cooperativas brasileiras",
+    "valor": "Subvenção econômica para projetos de inovação; limites e condições de financiamento definidos no edital",
+    "prazo": "2026-08-31",
+    "desc": "Seleção pública para apoio com subvenção econômica a projetos de inovação em transformação mineral, com potencial interface com cadeias agroindustriais que utilizem insumos minerais e materiais avançados.",
+    "url": "https://www.finep.gov.br/",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "finep-2026-subv-mob",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Finep Mais Inovação Brasil – Rodada 2 – Mobilidade Sustentável",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Mobilidade Sustentável",
+      "Logística",
+      "PD&I",
+      "Cadeias produtivas agropecuárias"
+    ],
+    "publico": "Empresas e cooperativas brasileiras",
+    "valor": "Subvenção econômica para inovação; montantes variáveis por projeto",
+    "prazo": "2026-08-31",
+    "desc": "Seleção pública para apoio à inovação em mobilidade sustentável, incluindo soluções de logística e transporte que podem ser aplicadas à distribuição e escoamento da produção agropecuária.",
+    "url": "https://www.finep.gov.br/",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "finep-2026-subv-saude-emp",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Finep Mais Inovação Brasil – Rodada 2 – Saúde/Empresas",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Saúde",
+      "Biotecnologia",
+      "PD&I",
+      "Saúde animal",
+      "One Health"
+    ],
+    "publico": "Empresas brasileiras do setor de saúde e correlatos",
+    "valor": "Subvenção econômica; faixas de financiamento definidas no edital",
+    "prazo": "2026-08-31",
+    "desc": "Seleção pública para apoio a projetos empresariais de inovação em saúde, com possíveis interfaces com saúde animal, zoonoses e abordagens One Health relevantes para a agropecuária.",
+    "url": "https://www.finep.gov.br/",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "ilmd-fiocruz-profix-interno-016-2026",
+    "titulo": "Edital interno – Seleção para o Edital nº 016/2026 PROFIX-CB FAPEAM – Programa de Apoio à Fixação de Doutores no Brasil (Conhecimento Brasil)",
+    "orgao": "ILMD/Fiocruz Amazônia (seleção interna para chamada FAPEAM)",
+    "origem": "Interno",
+    "areas": [
+      "Saúde pública na Amazônia",
+      "Ciências da saúde",
+      "Bioeconomia em saúde (potencial)",
+      "Pesquisa aplicada em contexto amazônico"
+    ],
+    "publico": "Doutores interessados em pré-seleção interna ao edital FAPEAM PROFIX-CB para fixação de pesquisadores na Amazônia, vinculados à Fiocruz/UFAM/UEA",
+    "valor": "Valores de bolsas e auxílios definidos no Edital nº 016/2026 PROFIX-CB da FAPEAM (seleção interna não define valores próprios)",
+    "prazo": "2026-07-31",
+    "desc": "Seleção interna do ILMD/Fiocruz Amazônia, em parceria com UFAM e UEA, para pré-selecionar candidatos ao Edital nº 016/2026 PROFIX-CB da FAPEAM, voltado à fixação de doutores no Brasil. Focado em pesquisadores atuando em temas de saúde pública e correlatos na região amazônica. As inscrições internas são realizadas por envio de documentação até 31 de julho de 2026, às 18h (horário de Manaus).",
+    "url": "https://amazonia.fiocruz.br/wp-content/uploads/2026/07/Edital_interno_-_PROFIX_DASPAM_assinado.pdf",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-01-two-stage",
+    "titulo": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+    "orgao": "European Commission / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura",
+      "inovação",
+      "sustentabilidade",
+      "eficiência produtiva"
+    ],
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe",
+    "valor": "€13.500.000",
+    "prazo": "2026-09-15",
+    "desc": "Chamada em duas etapas do Cluster 6, com abertura em 12/02/2026 e prazo final da segunda etapa em 15/09/2026; voltada a aumentar competitividade e uso sustentável de fatores de produção agrícola.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-improving-competitiveness-agricultural-sector-enhancing-efficient-and-sustainable-use",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "HORIZON-CL6-2026-04-GOVERNANCE-01",
+    "titulo": "Innovative governance, environmental observations and digital solutions in support of the Green Deal",
+    "orgao": "European Commission / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "governança",
+      "observações ambientais",
+      "soluções digitais",
+      "agricultura",
+      "ambiente"
+    ],
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada do Cluster 6 com abertura indicada para 25/08/2026, aplicável a projetos com interface em agricultura, meio ambiente e soluções digitais.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "HORIZON-CL6-2026-01-BIODIV-06",
+    "titulo": "Boosting agrobiodiversity for food security and sustainable competitiveness",
+    "orgao": "European Commission / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agrobiodiversidade",
+      "segurança alimentar",
+      "competitividade sustentável",
+      "produção primária"
+    ],
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe",
+    "valor": "€12.000.000",
+    "prazo": null,
+    "desc": "Chamada Horizon Europe voltada a agrobiodiversidade e competitividade sustentável; a fonte consultada confirma que está em 2026, mas não trouxe o prazo final completo.",
+    "url": "https://www.efsa.europa.eu/en/funding-calls/boosting-agrobiodiversity-food-security-and-sustainable-competitiveness-horizon-cl6",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "FAO-2026-INNOVATE-AFRICA",
+    "titulo": "The Innovate Africa Challenge 2026 (3rd Edition)",
+    "orgao": "FAO",
+    "origem": "Internacional",
+    "areas": [
+      "inovação",
+      "segurança alimentar",
+      "agricultura",
+      "tecnologia"
+    ],
+    "publico": "Proponentes elegíveis ao desafio FAO",
+    "valor": null,
+    "prazo": "2026-08-31",
+    "desc": "Desafio da FAO com inscrições até 31/08/2026; a fonte oficial consultada confirma o prazo e o caráter de inovação em agricultura e segurança alimentar.",
+    "url": "https://www.fao.org/e-agriculture/innovate-africa-challenge-2026-3rd-edition-call-applications",
+    "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "MCTI-FINEP-FNDCT-CT-AGRO-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT/CT-Agro 2026",
+    "orgao": "MCTI / FINEP / FNDCT / CT-Agro",
+    "origem": "Nacional",
+    "areas": [
+      "agropecuária",
+      "inovação",
+      "cadeias produtivas",
+      "bioeconomia"
+    ],
+    "publico": "ICTs e instituições proponentes no Brasil",
+    "valor": null,
+    "prazo": "2026-06-26",
+    "desc": "Chamada pública para projetos voltados a soluções científicas e tecnológicas em cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis; prazo final citado em 26/06/2026.",
+    "url": "https://www.ufsm.br/pro-reitorias/proinova/editais/012-2026",
+    "descobertoEm": "2026-08-29"
   }
 ]
