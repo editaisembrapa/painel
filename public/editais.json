@@ -724,20 +724,21 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "Chamada Pública BNDES Bioinsumos – Fortalecimento da Produção de Bioinsumos pela Agricultura Familiar",
+    "titulo": "BNDES Bioinsumos",
     "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "bioinsumos agrícolas",
-      "agricultura familiar",
-      "inovação em insumos biológicos",
-      "autonomia produtiva"
+      "bioinsumos",
+      "agricultura sustentável",
+      "produção agrícola",
+      "multiplicação de insumos",
+      "segurança alimentar"
     ],
-    "publico": "Cooperativas e associações da agricultura familiar no Brasil",
-    "valor": "Edital com recursos de aproximadamente R$ 40.000.000,00 para projetos selecionados",
-    "prazo": null,
-    "desc": "Chamada pública inserida no programa BNDES Bioinsumos, destinada a apoiar projetos de cooperativas e associações da agricultura familiar voltados à produção própria de insumos biológicos, com foco em redução de custos, aumento da autonomia produtiva e estímulo à inovação em bioinsumos para uso agrícola.",
-    "url": "https://www.cnnbrasil.com.br/agro/bndes-faz-chamada-publica-de-r-40-milhoes-para-producao-de-bioinsumos/",
+    "publico": "cooperativas da agricultura familiar e instituições elegíveis conforme a chamada",
+    "valor": "R$ 40 milhões adicionais anunciados em 2026",
+    "prazo": "2026-08-31",
+    "desc": "Nova chamada pública para produção e multiplicação de bioinsumos acessíveis e replicáveis, dando continuidade à iniciativa iniciada em 2025.",
+    "url": "https://agenciadenoticias.bndes.gov.br/sul/BNDES-anuncia-mais-R$-40-mi-para-producao-de-bioinsumos-e-chega-a-mais-de-R$-24-bi-para-seguranca-alimentar/",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -1756,14 +1757,15 @@
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas",
+      "Todas as áreas do conhecimento",
       "Ciências Agrárias",
-      "Agropecuária"
+      "Ciências Biológicas",
+      "Engenharias"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino no Brasil",
-    "valor": "Valor global estimado em cerca de R$ 300.000.000, com faixas de projeto de pequeno, médio e grande porte",
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino brasileiras, com projetos de pesquisa em qualquer área do conhecimento",
+    "valor": null,
     "prazo": "2026-08-03",
-    "desc": "Chamada Universal para apoio a projetos de pesquisa científica, tecnológica e de inovação em todas as áreas do conhecimento, com recursos do FNDCT, incluindo Ciências Agrárias e temas de agropecuária relevantes a pesquisadores da Embrapa.",
+    "desc": "Chamada universal para financiamento de projetos de pesquisa científica e tecnológica em todas as áreas do conhecimento, com recursos do FNDCT, abrangendo também projetos em agropecuária e áreas correlatas.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-06-22"
   },
@@ -7804,14 +7806,15 @@
     "origem": "Nacional",
     "areas": [
       "inovação",
-      "pesquisa aplicada",
-      "desenvolvimento tecnológico"
+      "PDI",
+      "desafios tecnológicos",
+      "sustentabilidade"
     ],
-    "publico": "Empresas e instituições aptas a participar de chamadas públicas do BNDES",
+    "publico": "instituições e proponentes conforme cada chamada pública",
     "valor": null,
     "prazo": null,
-    "desc": "Portal oficial do BNDES com listagem de chamadas e editais abertos para contratação de inovação. O conteúdo consultado em 2026 não exibiu, no resultado recuperado, um edital agro específico aberto.",
-    "url": "https://www.bndes.gov.br/wps/vanityurl/chamadadeinovacao",
+    "desc": "Página oficial do BNDES com chamadas e editais abertos; em 2026 inclui chamadas de inovação. Não foi identificado, nas evidências coletadas, um edital agro específico ainda aberto nesta página.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/licitacoes-contratos/licitacoes/chamadas-publicas-inovacao2",
     "descobertoEm": "2026-08-21"
   },
   {
@@ -7888,19 +7891,19 @@
   },
   {
     "id": "cnpq-24-2026-biotec",
-    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI nº 24/2026 - Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 - Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Biotecnologia",
+      "PD&I",
       "Ciências Agrárias",
-      "Agropecuária",
-      "PD&I"
+      "Tecnologia"
     ],
-    "publico": "Pesquisadores doutores vinculados a ICTs brasileiras, coordenando projetos em biotecnologia",
-    "valor": "Valor global não especificado no extrato consultado; apoio a projetos de PD&I em biotecnologia com recursos do FNDCT",
+    "publico": "Pesquisadores vinculados a ICTs e instituições de pesquisa brasileiras com projetos de PD&I em biotecnologia",
+    "valor": null,
     "prazo": "2026-09-18",
-    "desc": "Chamada para seleção de projetos de pesquisa, desenvolvimento e inovação em biotecnologia, contemplando aplicações em saúde, meio ambiente, agropecuária, indústria e outras, com foco em desenvolvimento tecnológico e inovação.",
+    "desc": "Chamada pública para apoio financeiro a projetos de pesquisa, desenvolvimento e inovação em biotecnologia, utilizando recursos do FNDCT, com foco em aplicações estratégicas, incluindo cadeias produtivas agroindustriais e uso de biotecnologia em sistemas produtivos.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-08-22"
   },
@@ -8744,20 +8747,20 @@
   },
   {
     "id": "cnpq-30-2026-mai-dai",
-    "titulo": "Chamada Pública CNPq/CAPES nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação – MAI/DAI",
+    "titulo": "Chamada Pública CNPq/CAPES Nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação (MAI/DAI)",
     "orgao": "CNPq/CAPES",
     "origem": "Nacional",
     "areas": [
       "Inovação",
-      "Engenharias",
-      "Ciências Agrárias",
-      "Agropecuária",
-      "PD&I"
+      "PD&I",
+      "Pós-graduação",
+      "Setores produtivos",
+      "Ciências Agrárias"
     ],
-    "publico": "Programas de pós-graduação stricto sensu recomendados pela CAPES em parceria com empresas ou instituições do setor produtivo",
-    "valor": "Concessão de bolsas de mestrado e doutorado acadêmico para inovação e recursos de custeio conforme faixas definidas no edital",
+    "publico": "Programas de pós-graduação stricto sensu e empresas parceiras interessadas em desenvolver projetos de pesquisa de mestrado e doutorado voltados à inovação",
+    "valor": null,
     "prazo": "2026-12-11",
-    "desc": "Chamada para apoiar projetos de formação de recursos humanos em nível de mestrado e doutorado acadêmico para inovação, em parceria com empresas e instituições do setor produtivo, incluindo potenciais projetos voltados a temas de agropecuária e inovação tecnológica.",
+    "desc": "Chamada pública para seleção de propostas de programas de pós-graduação, em parceria com empresas, para concessão de bolsas de mestrado e doutorado e apoio a projetos de pesquisa voltados à inovação em diferentes setores produtivos, incluindo agropecuária.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-08-29"
   },
@@ -8980,5 +8983,150 @@
     "desc": "Chamada pública para projetos voltados a soluções científicas e tecnológicas em cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis; prazo final citado em 26/06/2026.",
     "url": "https://www.ufsm.br/pro-reitorias/proinova/editais/012-2026",
     "descobertoEm": "2026-08-29"
+  },
+  {
+    "id": "finep-2026-pdi-3009",
+    "titulo": "Seleção Pública FINEP – apoio a projetos de PD&I (prazo até 30/09/2026)",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação",
+      "Tecnologia",
+      "Setores produtivos",
+      "Agroindústria"
+    ],
+    "publico": "Empresas, ICTs e instituições de pesquisa interessadas em projetos de PD&I em áreas estratégicas, incluindo cadeias produtivas agroindustriais",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública com recursos de subvenção econômica do FNDCT, voltada ao apoio a projetos de pesquisa, desenvolvimento e inovação em setores estratégicos. Entre os temas incluídos nas chamadas abertas em 2026 há foco em ecossistemas tecnológicos e cadeias produtivas, potencialmente relevantes a projetos em agropecuária.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadaspublicas?situacao=aberta",
+    "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "embrapa-obs-mulheres-2026",
+    "titulo": "Edital do Observatório das Mulheres Rurais do Brasil",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "agropecuária",
+      "gênero",
+      "desenvolvimento rural",
+      "inovação social"
+    ],
+    "publico": "Pesquisadores, equipes técnicas e parceiros envolvidos em ações do Observatório das Mulheres Rurais do Brasil",
+    "valor": null,
+    "prazo": "2026-12-04",
+    "desc": "Chamada vinculada ao Observatório das Mulheres Rurais do Brasil, coordenado pela Embrapa, para seleção de propostas/ações relacionadas a mulheres rurais, com inscrições abertas até 04 de dezembro de 2026.",
+    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "bndes-cerrado-cooperativo-2026",
+    "titulo": "Cerrado +Cooperativo",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "beneficiamento",
+      "comercialização",
+      "cadeias agroindustriais",
+      "bioeconomia"
+    ],
+    "publico": "instituições sem fins lucrativos, cooperativas e associações da agricultura familiar com atuação no bioma Cerrado",
+    "valor": "R$ 50 milhões",
+    "prazo": "2026-07-31",
+    "desc": "Chamada pública para fortalecer agricultores familiares no Cerrado, com ações obrigatórias de beneficiamento e comercialização da produção de alimentos.",
+    "url": "https://agenciadenoticias.bndes.gov.br/pequenos-negocios/BNDES-lanca-chamada-Cerrado-Cooperativo-com-R$-50-mi-para-fortalecer-agricultores-familiares/",
+    "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "embrapii-ifg-capacitacao-40-2026",
+    "titulo": "Edital nº 28/2026 – Programa EMBRAPII Capacitação 4.0",
+    "orgao": "IFG / Unidade EMBRAPII do IFG",
+    "origem": "Nacional",
+    "areas": [
+      "capacitação",
+      "indústria 4.0",
+      "inovação",
+      "pesquisa aplicada"
+    ],
+    "publico": "pesquisadores e estudantes selecionados como bolsistas",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada de seleção de bolsistas para atuação no Programa Embrapii Capacitação 4.0; não é um edital agro específico.",
+    "url": "https://www.ifg.edu.br/editais-pesquisa-e-pos-graduacao/pesquisa-inovacao-em-andamento/46450-edital-n-28-2026",
+    "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "fao-trc-2026",
+    "titulo": "Transformative Research Challenge 2026",
+    "orgao": "FAO / World Food Forum",
+    "origem": "Internacional",
+    "areas": [
+      "sistemas agroalimentares",
+      "pesquisa aplicada",
+      "inovação",
+      "transformação de sistemas alimentares"
+    ],
+    "publico": "jovens pesquisadores do mundo todo",
+    "valor": null,
+    "prazo": "2026-05-15",
+    "desc": "Competição global para apoiar soluções inovadoras para a transformação de sistemas agroalimentares.",
+    "url": "https://www.fao.org/e-agriculture/news/applications-open-world-food-forum-transformative-research-challenge-2026",
+    "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "horizon-cl6-2026-02-farm2fork-01-two-stage",
+    "titulo": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura sustentável",
+      "competitividade agrícola",
+      "uso eficiente de fatores de produção",
+      "pesquisa agropecuária"
+    ],
+    "publico": "consórcios elegíveis ao Horizon Europe",
+    "valor": null,
+    "prazo": "2026-09-15",
+    "desc": "Tópico em duas etapas do Cluster 6, com abertura em 12/02/2026 e segunda data-limite em 15/09/2026.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-improving-competitiveness-agricultural-sector-enhancing-efficient-and-sustainable-use",
+    "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "horizon-cl6-2026-02-farm2fork-02-two-stage",
+    "titulo": "Open topic: Boosting organic farming for a competitive, sustainable and resilient farming sector",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura orgânica",
+      "sustentabilidade",
+      "resiliência agrícola",
+      "pesquisa agropecuária"
+    ],
+    "publico": "consórcios elegíveis ao Horizon Europe",
+    "valor": null,
+    "prazo": "2026-09-15",
+    "desc": "Tópico em duas etapas do Cluster 6, com abertura em 12/02/2026 e segunda data-limite em 15/09/2026.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-boosting-organic-farming-competitive-sustainable-and-resilient-farming-sector-42033",
+    "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "horizon-cl6-2026-04-governance-01",
+    "titulo": "Innovative governance, environmental observations and digital solutions in support of the Green Deal",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "governança inovadora",
+      "observações ambientais",
+      "soluções digitais",
+      "agricultura e meio ambiente"
+    ],
+    "publico": "consórcios elegíveis ao Horizon Europe",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada do Cluster 6 com abertura prevista para 25/08/2026; aplicável a projetos com interface agroambiental e digital.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
+    "descobertoEm": "2026-08-30"
   }
 ]
