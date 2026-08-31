@@ -5697,16 +5697,17 @@
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Agroindústria",
-      "Sustentabilidade",
       "PD&I",
-      "Inovação tecnológica em agropecuária"
+      "Inovação",
+      "Cadeias agroindustriais",
+      "Sustentabilidade",
+      "Agropecuária"
     ],
-    "publico": "Empresas, ICTs e demais instituições que desenvolvem projetos de inovação em cadeias agroindustriais, incluindo instituições de pesquisa agropecuária e parcerias com Embrapa",
+    "publico": "Empresas, instituições de pesquisa e desenvolvimento tecnológico e demais organizações elegíveis interessadas em projetos de inovação em cadeias agroindustriais sustentáveis",
     "valor": null,
     "prazo": "2026-09-30",
-    "desc": "Seleção pública da linha Finep Mais Inovação Brasil, voltada à promoção de projetos de PD&I em cadeias agroindustriais sustentáveis. A chamada financia projetos de inovação orientados à sustentabilidade em sistemas produtivos agroindustriais. Prazo para envio de propostas até 30/09/2026.",
-    "url": "http://www.finep.gov.br/chamadas-publicas",
+    "desc": "Chamada da FINEP, financiada com recursos do FNDCT, focada em projetos de inovação voltados a cadeias agroindustriais sustentáveis, contemplando desenvolvimento tecnológico, infraestrutura de PD&I e soluções inovadoras para o agronegócio, produção agrícola e pecuária com foco em sustentabilidade.[7]",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-08-02"
   },
   {
@@ -8248,20 +8249,22 @@
   },
   {
     "id": "fapesp-fapeam-2026-bioeconomia-amazonica",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Pesquisa em Bioeconomia Amazônica",
-    "orgao": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) em cooperação com a FAPEAM",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – Bioeconomia Amazônica",
+    "orgao": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) · Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM)",
     "origem": "Nacional",
     "areas": [
-      "Bioeconomia amazônica",
-      "Ciência e tecnologia na Amazônia",
-      "Agropecuária sustentável",
-      "Recursos naturais",
-      "Inovação em cadeias produtivas amazônicas"
+      "Bioeconomia",
+      "Amazônia",
+      "Ciências agrárias",
+      "Ciências ambientais",
+      "Desenvolvimento sustentável",
+      "Inovação",
+      "Sociobiodiversidade"
     ],
-    "publico": "Pesquisadores do Estado de São Paulo e do Estado do Amazonas, vinculados a instituições de pesquisa e ensino, em projetos cooperativos SP–AM em bioeconomia amazônica",
-    "valor": "Valor variável por projeto; chamada indica apoio na forma de Auxílio à Pesquisa Regular (FAPESP) e Auxílios/Bolsas pela FAPEAM",
+    "publico": "Pesquisadores dos estados de São Paulo e Amazonas elegíveis às modalidades de fomento das respectivas FAPs",
+    "valor": "FAPEAM destina R$ 2.000.000,00; FAPESP destina R$ 6.000.000,00 (valores globais da chamada)",
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta FAPEAM–FAPESP para financiamento de pesquisas em ciência, tecnologia e inovação em bioeconomia amazônica, fomentando colaborações entre pesquisadores dos estados de São Paulo e Amazonas. A linha apoia projetos que abordem cadeias produtivas e uso sustentável de recursos amazônicos, incluindo temas agropecuários e florestais.",
+    "desc": "Chamada conjunta FAPEAM–FAPESP voltada ao financiamento de pesquisas em ciência, tecnologia e inovação em bioeconomia amazônica, estimulando colaborações entre pesquisadores de São Paulo e do Amazonas. Apoia projetos que desenvolvam tecnologias, processos e produtos inovadores para valorização da sociobiodiversidade amazônica, transição para economia de baixo carbono e inclusão social, incluindo temas de produção sustentável, sistemas agroflorestais, cadeias agropecuárias e uso sustentável de recursos naturais na Amazônia.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-08-25"
   },
@@ -8553,16 +8556,15 @@
     "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Modernização da produção agropecuária",
-      "Inovação tecnológica no campo",
-      "Investimentos em infraestrutura, máquinas e equipamentos agro",
-      "Melhoria de produtividade e sustentabilidade",
-      "Agroindústria e produção agropecuária"
+      "modernização agropecuária",
+      "inovação tecnológica no campo",
+      "infraestrutura produtiva",
+      "agricultura de precisão"
     ],
-    "publico": "Produtores rurais, cooperativas e demais agentes do setor agropecuário com projetos de investimento em modernização e inovação na produção agropecuária",
-    "valor": "Financiamento de até 100% do valor do projeto. Limites indicativos: até R$ 4.000.000,00 por cliente em empreendimentos individuais (até R$ 400.000,00 para aquisição de animais) e até R$ 15.000.000,00 em empreendimentos coletivos, respeitando limites individuais.",
+    "publico": "Produtores rurais, cooperativas e demais empreendimentos rurais (individual e coletivo)",
+    "valor": "Até R$ 4.000.000,00 por cliente em empreendimentos individuais e até R$ 15.000.000,00 em empreendimentos coletivos",
     "prazo": "2027-06-30",
-    "desc": "Linha de financiamento do BNDES voltada ao incentivo à modernização e à inovação na produção agropecuária, contemplando investimentos em máquinas, equipamentos, infraestrutura, tecnologias produtivas, sustentabilidade e melhoria de produtividade. A linha está vigente até 30/06/2027, podendo apoiar projetos de pesquisa aplicada e inovação tecnológica na agropecuária brasileira, especialmente quando vinculados a investimentos produtivos.",
+    "desc": "Linha de financiamento voltada à modernização e à inovação na produção agropecuária, incluindo investimentos em máquinas, equipamentos, infraestrutura de armazenagem e tecnologias de gestão e produção, com vigência até 30/06/2027.",
     "url": "http://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-08-27"
   },
@@ -9128,5 +9130,137 @@
     "desc": "Chamada do Cluster 6 com abertura prevista para 25/08/2026; aplicável a projetos com interface agroambiental e digital.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
     "descobertoEm": "2026-08-30"
+  },
+  {
+    "id": "fapesp-desafios-amazonia-2026",
+    "titulo": "Chamada de Propostas – Programa Desafios da Amazônia (FAPs/Fundo Amazônia/BNDES)",
+    "orgao": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) e demais Fundações de Amparo à Pesquisa participantes, incluindo FAPEAM",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "Bioeconomia",
+      "Produção sustentável",
+      "Agropecuária",
+      "Conservação florestal",
+      "Desenvolvimento territorial",
+      "Inovação em cadeias produtivas"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa das FAPs participantes, com foco em Amazônia Legal",
+    "valor": "Orçamento global de R$ 107.100.000,00 (R$ 72.000.000,00 do Fundo Amazônia/BNDES e R$ 35.100.000,00 de contrapartida das FAPs); quota de R$ 5.000.000,00 para FAPEAM",
+    "prazo": "2026-12-08",
+    "desc": "Chamada do Programa Desafios da Amazônia voltada ao financiamento de projetos de pesquisa e inovação que enfrentem desafios estruturais da Amazônia Legal, incluindo produção sustentável, cadeias agropecuárias e florestais, bioeconomia e conservação ambiental. Prevê apresentação de pré‑propostas até 01/09/2026 e propostas finais até 08/12/2026, com recursos do Fundo Amazônia/BNDES e contrapartidas das FAPs, entre elas a FAPEAM, contemplando projetos em desenvolvimento rural sustentável, sistemas agrícolas de baixo impacto e valorização de produtos da sociobiodiversidade.",
+    "url": "https://fapesp.br/18249/chamada-de-propostas-programa-desafios-da-amazonia",
+    "descobertoEm": "2026-08-31"
+  },
+  {
+    "id": "embrapa-seg-2009-chamadas-internas",
+    "titulo": "Chamadas internas para novos projetos de pesquisa, transferência de tecnologia e desenvolvimento institucional (carteira SEG)",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Transferência de Tecnologia",
+      "Desenvolvimento Institucional",
+      "Agronegócio",
+      "Macroprogramas SEG (MP1 a MP6)"
+    ],
+    "publico": "Pesquisadores e analistas de todos os centros de pesquisa da Embrapa",
+    "valor": null,
+    "prazo": null,
+    "desc": "Conjunto de cinco chamadas internas da Embrapa para submissão de cartas-consulta, pré-propostas e propostas de projetos de pesquisa, transferência de tecnologia e desenvolvimento institucional, visando compor a carteira de projetos do Sistema Embrapa de Gestão (SEG) por meio de seus Macroprogramas MP1 a MP6.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/18051186/embrapa-lanca-chamadas-para-novos-projetos",
+    "descobertoEm": "2026-08-31"
+  },
+  {
+    "id": "embrapa-cafe-seg-illinois-2025",
+    "titulo": "Acolhimento de projetos de PD&I Embrapa–Universidade de Illinois na programação ordinária de pesquisa (SEG)",
+    "orgao": "Embrapa Café / Embrapa",
+    "origem": "Internacional",
+    "areas": [
+      "Mudanças Climáticas",
+      "Bioeconomia",
+      "Pesquisa Colaborativa Internacional",
+      "PD&I em Café e Agronegócio",
+      "Programação ordinária SEG"
+    ],
+    "publico": "Pesquisadores com projetos de PD&I aprovados e financiados na chamada conjunta Embrapa–Universidade de Illinois",
+    "valor": null,
+    "prazo": null,
+    "desc": "A Embrapa, no âmbito de sua programação ordinária de pesquisa do Sistema Embrapa de Gestão (SEG), acolhe projetos de PD&I aprovados e financiados na chamada conjunta Embrapa–Universidade de Illinois, incentivando pesquisa colaborativa em temas de Mudanças Climáticas e Bioeconomia.",
+    "url": "https://www.embrapa.br/en/web/cafe/editais-e-oportunidades/outras-chamadas-e-editais",
+    "descobertoEm": "2026-08-31"
+  },
+  {
+    "id": "embrapa-cafe-seg-bayer-ii",
+    "titulo": "Acolhimento de projetos de PD&I apoiados pelo Fundo de Pesquisa Bayer II na programação SEG",
+    "orgao": "Embrapa Café / Embrapa",
+    "origem": "Internacional",
+    "areas": [
+      "PD&I em Agronegócio",
+      "Parcerias com Empresas",
+      "Desafios para Inovação Embrapa–Bayer",
+      "Programação ordinária SEG"
+    ],
+    "publico": "Proponentes de projetos de PD&I apoiados pelo Fundo de Pesquisa Bayer II nas áreas relacionadas aos Desafios para Inovação Embrapa–Bayer",
+    "valor": null,
+    "prazo": null,
+    "desc": "No âmbito da programação ordinária de pesquisa do Sistema Embrapa de Gestão (SEG), a Embrapa acolhe projetos de PD&I apoiados pelo Fundo de Pesquisa Bayer II, destinados a propostas em áreas relacionadas aos Desafios para Inovação priorizados pelo Comitê Gestor de Parcerias Embrapa–Bayer.",
+    "url": "https://www.embrapa.br/en/web/cafe/editais-e-oportunidades/outras-chamadas-e-editais",
+    "descobertoEm": "2026-08-31"
+  },
+  {
+    "id": "finep_mais_inovacao_agro2_2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP",
+    "origem": "Nacional",
+    "areas": [
+      "agroindústria",
+      "cadeias agroindustriais sustentáveis",
+      "inovação tecnológica",
+      "segurança alimentar",
+      "P,D&I agropecuária"
+    ],
+    "publico": "Empresas brasileiras (individualmente ou em cooperação, inclusive com ICTs)",
+    "valor": "Orçamento total de R$ 300.000.000,00 em subvenção econômica",
+    "prazo": "2026-??-??",
+    "desc": "Seleção pública para concessão de subvenção econômica a projetos de desenvolvimento de produtos e processos inovadores voltados ao fortalecimento de cadeias agroindustriais sustentáveis, visando à segurança alimentar e nutricional da população brasileira.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadapublica/774",
+    "descobertoEm": "2026-08-31"
+  },
+  {
+    "id": "embrapii_embrapa_agroenergia_2026",
+    "titulo": "Chamada nº 207/2026 – Bolsas de Estímulo à Inovação – Projeto Embrapii/Embrapa Agroenergia/Pilzer",
+    "orgao": "Embrapii / Embrapa Agroenergia / Funarbe",
+    "origem": "Nacional",
+    "areas": [
+      "bioenergia",
+      "agroenergia",
+      "inovação industrial em agropecuária",
+      "biotecnologia aplicada ao agro"
+    ],
+    "publico": "Pesquisadores e bolsistas vinculados a projeto Embrapii na Embrapa Agroenergia",
+    "valor": "Valores de bolsas de estímulo à inovação conforme categorias previstas no edital",
+    "prazo": "2026-05-18",
+    "desc": "Chamada pública para concessão de bolsas de estímulo à inovação vinculadas ao projeto Embrapii/Embrapa Agroenergia/Pilzer, visando apoiar atividades de P,D&I em agroenergia em unidade Embrapii/Embrapa, com inscrições até 18/05/2026.",
+    "url": "https://agrega.funarbe.org.br/bolsas/bolsas/view-dados-para-edital?id=828035",
+    "descobertoEm": "2026-08-31"
+  },
+  {
+    "id": "ungm_fao_brazil_2026",
+    "titulo": "GEOREFERENCING AND ALLOCATION OF RURAL PROPERTIES FOR LAND REGULARIZATION AND TERRITORIAL MANAGEMENT IN MARANHÃO AND PARÁ",
+    "orgao": "FAO / ONU (via plataforma de compras da ONU)",
+    "origem": "Internacional",
+    "areas": [
+      "georreferenciamento de imóveis rurais",
+      "regularização fundiária",
+      "gestão territorial",
+      "desenvolvimento rural"
+    ],
+    "publico": "Instituições e empresas elegíveis a licitações da ONU para execução de serviços técnicos no Brasil",
+    "valor": "Valor total definido na solicitação de propostas (RFP) 2026/FLBRA/FLBRA/135999",
+    "prazo": "2026-04-13",
+    "desc": "Request for Proposal para serviços de georreferenciamento e alocação de imóveis rurais visando regularização fundiária e gestão territorial nos estados do Maranhão e Pará, com beneficiário Brasil e prazo final de envio de propostas em 13/04/2026.",
+    "url": "https://www.ungm.org/Public/Notice/293480",
+    "descobertoEm": "2026-08-31"
   }
 ]
