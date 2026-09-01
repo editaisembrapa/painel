@@ -8935,19 +8935,20 @@
   {
     "id": "HORIZON-CL6-2026-01-BIODIV-06",
     "titulo": "Boosting agrobiodiversity for food security and sustainable competitiveness",
-    "orgao": "European Commission / Horizon Europe",
+    "orgao": "Comissão Europeia / Horizon Europe",
     "origem": "Internacional",
     "areas": [
       "agrobiodiversidade",
       "segurança alimentar",
       "competitividade sustentável",
-      "produção primária"
+      "recursos genéticos",
+      "agricultura"
     ],
-    "publico": "Consórcios internacionais elegíveis no Horizon Europe",
-    "valor": "€12.000.000",
-    "prazo": null,
-    "desc": "Chamada Horizon Europe voltada a agrobiodiversidade e competitividade sustentável; a fonte consultada confirma que está em 2026, mas não trouxe o prazo final completo.",
-    "url": "https://www.efsa.europa.eu/en/funding-calls/boosting-agrobiodiversity-food-security-and-sustainable-competitiveness-horizon-cl6",
+    "publico": "consórcios elegíveis ao Horizon Europe, incluindo instituições de pesquisa e inovação",
+    "valor": "€ 12 milhões de orçamento do tópico",
+    "prazo": "2026-09-17",
+    "desc": "Chamada do Cluster 6 do Horizon Europe voltada à agrobiodiversidade, com prazo informado para 17/09/2026.",
+    "url": "https://www.euro-access.eu/en/calls/2775/Boosting-agrobiodiversity-for-food-security-and-sustainable-competitiveness",
     "descobertoEm": "2026-08-29"
   },
   {
@@ -9262,5 +9263,159 @@
     "desc": "Request for Proposal para serviços de georreferenciamento e alocação de imóveis rurais visando regularização fundiária e gestão territorial nos estados do Maranhão e Pará, com beneficiário Brasil e prazo final de envio de propostas em 13/04/2026.",
     "url": "https://www.ungm.org/Public/Notice/293480",
     "descobertoEm": "2026-08-31"
+  },
+  {
+    "id": "finep-rodada2-agro",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agroindústria",
+      "Sustentabilidade",
+      "PD&I",
+      "Inovação tecnológica",
+      "Cadeias produtivas agropecuárias"
+    ],
+    "publico": "Empresas brasileiras que desenvolvem projetos de inovação em cadeias agroindustriais sustentáveis",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública da Finep com recursos do FNDCT para apoio a projetos de inovação em cadeias agroindustriais sustentáveis, incluindo desenvolvimento tecnológico, aumento de competitividade e sustentabilidade de setores ligados à agropecuária.",
+    "url": "http://www.finep.gov.br/chamadas-publicas",
+    "descobertoEm": "2026-09-01"
+  },
+  {
+    "id": "fapeam-paic-1-2026-2027-iniciacao-cientifica",
+    "titulo": "EDITAL de Seleção nº 1/2026 – PAIC/FAPEAM 2026–2027 (Programa de Apoio à Iniciação Científica)",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Amazônia",
+      "Ciências agrárias",
+      "Agropecuária",
+      "Meio ambiente",
+      "Ciências biológicas",
+      "Engenharias",
+      "Ciências sociais aplicadas"
+    ],
+    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino do Amazonas que desejam orientar bolsistas de iniciação científica em qualquer área do conhecimento, incluindo temas amazônicos e agropecuários",
+    "valor": "Valores de bolsas de iniciação científica definidos no edital PAIC/FAPEAM 2026–2027; vigência das bolsas por 12 meses a partir de 01/08/2026",
+    "prazo": null,
+    "desc": "Edital de seleção para cadastro de reserva de orientadores e bolsistas do Programa de Apoio à Iniciação Científica (PAIC) da FAPEAM para o ciclo 2026–2027. O documento especifica que as bolsas têm início em 01/08/2026 e vigência de 12 meses, contemplando projetos em todas as áreas de conhecimento desenvolvidos no estado do Amazonas, inclusive em agropecuária, manejo de recursos naturais, sistemas produtivos e temas relacionados à Amazônia.[9][11]",
+    "url": "https://www.embrapa.br/documents/1354286/112750754/EDITAL_SELECAO+PAIC-FAPEAM_2026-2027.pdf/2f883f76-6ad3-bacb-e256-1ab601eb74e8?download=true",
+    "descobertoEm": "2026-09-01"
+  },
+  {
+    "id": "BNDES-2026-CERRADO-MAIS-COOPERATIVO",
+    "titulo": "Cerrado +Cooperativo",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "agroecologia",
+      "cooperativismo",
+      "agricultura familiar",
+      "beneficiamento de alimentos",
+      "comercialização",
+      "sustentabilidade"
+    ],
+    "publico": "cooperativas e associações da agricultura familiar sem fins lucrativos que atuem no bioma Cerrado",
+    "valor": "R$ 50 milhões em recursos não reembolsáveis; propostas com valor mínimo de R$ 5 milhões",
+    "prazo": "2026-07-31",
+    "desc": "Chamada pública para fortalecer empreendimentos coletivos da agricultura familiar no Cerrado, com apoio a beneficiamento, comercialização, renda e práticas sustentáveis.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/fundos-governamentais/fundo-rio-doce/chamadas-editais",
+    "descobertoEm": "2026-09-01"
+  },
+  {
+    "id": "BNDES-2026-BIOINSUMOS",
+    "titulo": "Chamada pública para produção de bioinsumos",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "bioinsumos",
+      "agricultura sustentável",
+      "inovação agro",
+      "produção biológica",
+      "cadeia produtiva"
+    ],
+    "publico": "instituições e projetos voltados à produção de bioinsumos para o agronegócio",
+    "valor": "R$ 40 milhões",
+    "prazo": null,
+    "desc": "Chamada pública citada como parte da agenda do BNDES para ampliar a produção de bioinsumos no agro; a fonte disponível informa abertura e seleção, mas não traz o edital oficial completo nem prazo preciso.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/fundos-governamentais/fundo-rio-doce/chamadas-editais",
+    "descobertoEm": "2026-09-01"
+  },
+  {
+    "id": "BNDES-2026-CHAMADAS-EDITAIS",
+    "titulo": "Editais e chamadas públicas abertas",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "inovação",
+      "agro",
+      "bioeconomia",
+      "desenvolvimento regional"
+    ],
+    "publico": "proponentes elegíveis conforme cada chamada pública vigente",
+    "valor": null,
+    "prazo": null,
+    "desc": "Página oficial do BNDES com editais e chamadas abertas em 2026; a disponibilidade varia conforme a chamada específica.",
+    "url": "https://conexoes.bndes.gov.br/chamadas-e-editais",
+    "descobertoEm": "2026-09-01"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-01-TWO-STAGE",
+    "titulo": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+    "orgao": "Comissão Europeia / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "competitividade agrícola",
+      "uso eficiente de insumos",
+      "sustentabilidade",
+      "produção agrícola",
+      "inovação"
+    ],
+    "publico": "consórcios elegíveis ao Horizon Europe, incluindo instituições de pesquisa e inovação",
+    "valor": "€ 13,5 milhões de orçamento do tópico",
+    "prazo": "2026-09-15",
+    "desc": "Tópico aberto do Cluster 6 do Horizon Europe, com duas etapas; a segunda fase encerra em 15/09/2026.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-improving-competitiveness-agricultural-sector-enhancing-efficient-and-sustainable-use",
+    "descobertoEm": "2026-09-01"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-02-TWO-STAGE",
+    "titulo": "Open topic: Boosting organic farming for a competitive, sustainable and resilient farming sector",
+    "orgao": "Comissão Europeia / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura orgânica",
+      "sustentabilidade",
+      "resiliência",
+      "produção agrícola",
+      "inovação"
+    ],
+    "publico": "consórcios elegíveis ao Horizon Europe, incluindo instituições de pesquisa e inovação",
+    "valor": "€ 12 milhões de orçamento do tópico",
+    "prazo": "2026-09-15",
+    "desc": "Tópico aberto do Cluster 6 do Horizon Europe para agricultura orgânica competitiva, sustentável e resiliente, com prazo final da segunda etapa em 15/09/2026.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-boosting-organic-farming-competitive-sustainable-and-resilient-farming-sector-42033",
+    "descobertoEm": "2026-09-01"
+  },
+  {
+    "id": "FAO-2026-AMR-DATA-CALL",
+    "titulo": "FAO 2026 data call to strengthen global action on antimicrobial resistance",
+    "orgao": "FAO",
+    "origem": "Internacional",
+    "areas": [
+      "saúde animal",
+      "monitoramento",
+      "dados",
+      "segurança alimentar",
+      "antimicrobianos"
+    ],
+    "publico": "países e instituições que contribuam com dados de vigilância de AMR em sistemas agropecuários e aquicultura",
+    "valor": null,
+    "prazo": "2026-11-30",
+    "desc": "Chamado de dados da FAO aberto de 20/07/2026 a 30/11/2026 para fortalecer a ação global sobre resistência antimicrobiana em sistemas de produção de alimentos.",
+    "url": "https://www.fao.org/members-gateway/news/detail/en/c/1760280/",
+    "descobertoEm": "2026-09-01"
   }
 ]
