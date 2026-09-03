@@ -2065,38 +2065,39 @@
   },
   {
     "id": "embrapii-2026-01",
-    "titulo": "Edital de Credenciamento de Unidades EMBRAPII em Agroindustriais e Alimentos",
-    "orgao": "EMBRAPII - Empresa Brasileira de Pesquisa e Inovação Industrial",
+    "titulo": "Chamada interna nº 01/2026 para a seleção de Unidades e Centros de Competência Embrapii para atuação no Programa Jornada do Conhecimento para Pesquisadores de INCTs",
+    "orgao": "Embrapii",
     "origem": "Nacional",
     "areas": [
-      "Inovação agroindustrial",
-      "Alimentos",
-      "Biotecnologia aplicada ao agro",
-      "Tecnologias digitais para o agronegócio"
+      "inovação",
+      "pesquisa aplicada",
+      "capacitação",
+      "agroindústria"
     ],
-    "publico": "Instituições de ciência e tecnologia brasileiras (ICTs) interessados em credenciamento como Unidade EMBRAPII nas áreas de agroindústria e alimentos",
-    "valor": "Co-financiamento de projetos de P,D&I com empresas, com recursos EMBRAPII típicos de até dezenas de milhões de reais ao longo da vigência da unidade, conforme capacidade de contratação",
-    "prazo": null,
-    "desc": "Chamada pública para credenciamento de novas Unidades EMBRAPII focadas em agroindústria e alimentos, visando apoiar projetos cooperativos de pesquisa, desenvolvimento e inovação com empresas do agronegócio brasileiro. Abrange temas como processamento de alimentos, tecnologias de produção agroindustrial, biotecnologia e transformação digital aplicada à cadeia agroalimentar.",
-    "url": "https://embrapii.org.br/chamadas-publicas",
+    "publico": "Unidades e Centros de Competência Embrapii",
+    "valor": null,
+    "prazo": "2026-06-26",
+    "desc": "Chamada interna da Embrapii com período de inscrições aberto em 2026, voltada à seleção de Unidades e Centros de Competência para atuação em programa de capacitação e conhecimento.",
+    "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-01-2026-para-a-selecao-de-unidades-e-centros-de-competencia-embrapii-para-atuacao-no-programa-jornada-do-conhecimento-para-pesquisadores-de-incts/",
     "descobertoEm": "2026-06-25"
   },
   {
     "id": "bndes-2026-01",
-    "titulo": "BNDES Fundo de Inovação em Agronegócio – apoio a projetos de inovação agropecuária",
-    "orgao": "BNDES - Banco Nacional de Desenvolvimento Econômico e Social",
+    "titulo": "Chamada Cerrado +Cooperativo",
+    "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Inovação no agronegócio",
-      "Agtech",
-      "Sustentabilidade no agro",
-      "Digitalização de cadeias agropecuárias"
+      "agricultura familiar",
+      "bioeconomia",
+      "beneficiamento",
+      "comercialização",
+      "segurança alimentar"
     ],
-    "publico": "Empresas brasileiras e fundos de investimento com projetos de inovação no agronegócio, incluindo agtechs e empresas de base tecnológica",
-    "valor": "Investimentos variáveis em participação societária ou fundos, tipicamente na faixa de milhões de reais por projeto ou cota de fundo, conforme análise do BNDES",
-    "prazo": null,
-    "desc": "Instrumento do BNDES para apoio financeiro a projetos inovadores no agronegócio brasileiro via participação em fundos de investimento e operações estruturadas. Abrange soluções tecnológicas para produção agropecuária, logística, serviços financeiros, sustentabilidade e transformação digital no setor.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/inovacao/fundos-de-investimento",
+    "publico": "Instituições sem fins lucrativos, cooperativas e associações da agricultura familiar com atuação no Cerrado",
+    "valor": "R$ 50 milhões",
+    "prazo": "2026-07-31",
+    "desc": "Chamada pública para fortalecer agricultores familiares no bioma Cerrado, com apoio a ações de beneficiamento e comercialização da produção de alimentos.",
+    "url": "https://agenciadenoticias.bndes.gov.br/pequenos-negocios/BNDES-lanca-chamada-Cerrado-Cooperativo-com-R$-50-mi-para-fortalecer-agricultores-familiares/",
     "descobertoEm": "2026-06-25"
   },
   {
@@ -2139,21 +2140,19 @@
   },
   {
     "id": "fao-2026-01",
-    "titulo": "FAO – Innovation and Digitalization in Agriculture Grants and Partnerships 2026",
-    "orgao": "FAO – Organização das Nações Unidas para Alimentação e Agricultura",
+    "titulo": "FAO 2026 General Call for Expressions of Interest for Institutional Collaborations",
+    "orgao": "FAO",
     "origem": "Internacional",
     "areas": [
-      "Inovação agropecuária",
-      "Digitalização e dados agrícolas",
-      "Segurança alimentar",
-      "Adaptação climática no agro",
-      "Gestão sustentável de recursos"
+      "cooperação institucional",
+      "agricultura",
+      "segurança alimentar"
     ],
-    "publico": "Instituições de pesquisa, governos, organizações da sociedade civil e parceiros privados em países em desenvolvimento, incluindo o Brasil",
-    "valor": "Apoios financeiros e parcerias com valores variáveis por iniciativa e país",
-    "prazo": null,
-    "desc": "Em 2026 a FAO mantém programas e chamadas para projetos de inovação e digitalização na agricultura, voltados a segurança alimentar, adaptação climática e gestão sustentável de recursos. Parte dessas iniciativas é aberta à participação de instituições de pesquisa e parceiros brasileiros, em cooperação com governos e organizações internacionais, por meio de projetos piloto, demonstrações tecnológicas e desenvolvimento de capacidades no setor agro.",
-    "url": "https://www.fao.org/innovation/en",
+    "publico": "Instituições interessadas em colaboração institucional com a FAO",
+    "valor": null,
+    "prazo": "2026-03-15",
+    "desc": "Chamada geral da FAO para expressões de interesse em colaborações institucionais, aberta de 15/12/2025 a 15/03/2026.",
+    "url": "https://www.fao.org/employment/young-talent-programme/internship-programme/call-for-institutional-collaborations",
     "descobertoEm": "2026-06-25"
   },
   {
@@ -7879,14 +7878,13 @@
     "areas": [
       "agrobiodiversidade",
       "segurança alimentar",
-      "competitividade sustentável",
-      "pesquisa e inovação"
+      "competitividade sustentável"
     ],
     "publico": "Consórcios elegíveis ao Horizon Europe",
-    "valor": null,
-    "prazo": null,
-    "desc": "Chamada do Cluster 6 do Horizon Europe relacionada a agrobiodiversidade, segurança alimentar e competitividade sustentável; o resultado recuperado não trouxe prazo fechado no snippet disponível.",
-    "url": "https://www.efsa.europa.eu/en/funding-calls/boosting-agrobiodiversity-food-security-and-sustainable-competitiveness-horizon-cl6",
+    "valor": "€ 12 milhões",
+    "prazo": "2026-09-17",
+    "desc": "Chamada do Cluster 6 com abertura em 17/04/2026 e prazo final em 17/09/2026, voltada a agrobiodiversidade, segurança alimentar e competitividade sustentável.",
+    "url": "https://www.euro-access.eu/en/calls/2775/Boosting-agrobiodiversity-for-food-security-and-sustainable-competitiveness",
     "descobertoEm": "2026-08-21"
   },
   {
@@ -9582,5 +9580,239 @@
     "desc": "No Work Programme 2025 do Horizon Europe para o cluster Food, Bioeconomy, Natural Resources, Agriculture and Environment há pelo menos um tópico em que entidades jurídicas estabelecidas no Brasil são excepcionalmente elegíveis para financiamento da União Europeia, visando resultados em alianças de inovação agroalimentar entre países como Argentina, Brasil, Canadá, Cabo Verde, entre outros. Esse tópico é diretamente aplicável à pesquisa agropecuária brasileira, permitindo participação de instituições nacionais em consórcios internacionais de pesquisa e inovação agrícola. O período exato de submissão depende da call específica dentro do Work Programme 2025.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2025_en.pdf",
     "descobertoEm": "2026-09-02"
+  },
+  {
+    "id": "finep-2026-agri-fam-icts",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agropecuária",
+      "agricultura familiar",
+      "bioinsumos",
+      "sistemas agroalimentares",
+      "inovação",
+      "infraestrutura de pesquisa"
+    ],
+    "publico": "ICTs, incluindo universidades e unidades de pesquisa",
+    "valor": "Até R$ 150.000.000,00",
+    "prazo": "2026-06-19",
+    "desc": "Seleção pública para apoiar cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, com linhas para bioinsumos, produção agroecológica e orgânica, soluções digitais e aquicultura de espécies nativas.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "finep-2026-agroindustriais-sustentaveis",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agropecuária",
+      "agronegócio",
+      "inovação",
+      "PD&I",
+      "saúde animal",
+      "foodtech"
+    ],
+    "publico": "Empresas",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública para subvenção econômica voltada a cadeias agroindustriais sustentáveis, com temas ligados a agricultura, agronegócio e saúde animal.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "finep-2026-pesquisa-aplicada-biotecnologia",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Pesquisa Aplicada em Biotecnologia",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "biotecnologia agropecuária",
+      "biotecnologia ambiental",
+      "biotecnologia industrial",
+      "PD&I"
+    ],
+    "publico": "Não informado no trecho recuperado",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": "2026-10-26",
+    "desc": "Chamada pública de pesquisa aplicada em biotecnologia, incluindo biotecnologia agropecuária, com inscrições abertas em 2026.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/06_03_26_Edital_Rerratificao.pdf",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "cnpq-2025-23-produtividade",
+    "titulo": "Chamada CNPq Nº 23/2025 – Bolsas de Produtividade",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "produtividade em pesquisa",
+      "produtividade em desenvolvimento tecnológico",
+      "extensão inovadora"
+    ],
+    "publico": "Pesquisadores doutores elegíveis às modalidades PQ, PQSr e DT",
+    "valor": "Conforme modalidade de bolsa",
+    "prazo": "2026-01-20",
+    "desc": "Chamada para concessão de bolsas nas modalidades Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/resultados-publicados",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "cnpq-2026-abertas-biotecnologia-agropecuaria",
+    "titulo": "Chamada CNPq com foco em biotecnologia agropecuária",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "biotecnologia agropecuária",
+      "biotecnologia ambiental",
+      "biotecnologia industrial",
+      "inovação"
+    ],
+    "publico": "Pesquisadores e grupos de pesquisa",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": null,
+    "desc": "Página de chamadas abertas do CNPq indica uma chamada financiada pelo MCTI para projetos de biotecnologia, incluindo a área agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "capes-2026-programa-bolsas-humboldt",
+    "titulo": "Programa Bolsas para Pesquisa CAPES/Humboldt",
+    "orgao": "CAPES",
+    "origem": "Internacional",
+    "areas": [
+      "bolsas de pesquisa",
+      "mobilidade internacional",
+      "cooperação científica"
+    ],
+    "publico": "Pesquisadores doutores com atuação em cooperação internacional",
+    "valor": "Não informado no trecho recuperado",
+    "prazo": null,
+    "desc": "Programa de bolsas para pesquisa com foco em cooperação internacional, listado na página de editais abertos da CAPES.",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/editais-e-resultados-capes",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "amazonia-mais-10-desafios-2026",
+    "titulo": "Iniciativa Amazônia+10 – Chamada do Programa Desafios da Amazônia",
+    "orgao": "CONFAP / Iniciativa Amazônia+10",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "sociobioeconomia",
+      "inovação",
+      "pesquisa aplicada"
+    ],
+    "publico": "Pesquisadores vinculados a instituições elegíveis, em articulação com FAPs",
+    "valor": "R$ 107 milhões",
+    "prazo": "2026-09-01",
+    "desc": "Chamada nacional com foco em desafios da Amazônia e sociobioeconomia; pode ser relevante para temas de agropecuária sustentável e cadeias produtivas amazônicas.",
+    "url": "https://news.confap.org.br/iniciativa-amazonia10-lanca-chamada-de-r-107-milhoes-para-fortalecer-sociobioeconomia-da-amazonia/",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "capes-rede-pesquisa-desenvolvimento-amazonia-legal-2026",
+    "titulo": "Programa Rede de Pesquisa e Desenvolvimento da Amazônia Legal – Edital nº 6/2026",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia Legal",
+      "pesquisa em rede",
+      "desenvolvimento regional"
+    ],
+    "publico": "Fundações Estaduais de Amparo à Pesquisa e redes de pesquisa associadas",
+    "valor": null,
+    "prazo": "2026-10-02",
+    "desc": "Programa em rede para a Amazônia Legal, com potencial indireto para projetos de pesquisa em agropecuária e desenvolvimento regional.",
+    "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/redes-de-pesquisa-e-desenvolvimento/programa-rede-de-pesquisa-e-desenvolvimento-da-amazonia-legal",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "bndes-2026-02",
+    "titulo": "Chamada pública BNDES Bioinsumos",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "bioinsumos",
+      "agricultura familiar",
+      "inovação",
+      "segurança alimentar"
+    ],
+    "publico": "Cooperativas da agricultura familiar",
+    "valor": "R$ 40 milhões",
+    "prazo": "2026-08-31",
+    "desc": "Nova chamada pública para produção e multiplicação de bioinsumos acessíveis e replicáveis, em continuidade a iniciativa iniciada em 2025.",
+    "url": "https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-anuncia-mais-R$-40-mi-para-producao-de-bioinsumos-e-chega-a-mais-de-R$-24-bi-para-seguranca-alimentar/",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "bndes-2026-03",
+    "titulo": "CPSI nº 001/2026 – Desafio BNDES Inteligência de Dados em Saúde",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "inovação",
+      "dados",
+      "saúde"
+    ],
+    "publico": "Proponentes de soluções inovadoras para o desafio",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada pública de contratação de inovação do BNDES; não é específica de agro, mas aparece como edital aberto em 2026.",
+    "url": "https://www.bndes.gov.br/wps/vanityurl/chamadadeinovacao",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "horizon-2026-cl6-farm2fork-01",
+    "titulo": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura",
+      "competitividade",
+      "uso eficiente de insumos",
+      "sustentabilidade"
+    ],
+    "publico": "Consórcios elegíveis ao Horizon Europe",
+    "valor": null,
+    "prazo": "2026-09-15",
+    "desc": "Tópico aberto do Cluster 6 com primeira fase em 14/04/2026 e segunda fase em 15/09/2026, aplicável a pesquisa agropecuária e inovação agrícola.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-improving-competitiveness-agricultural-sector-enhancing-efficient-and-sustainable-use",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "horizon-2026-cl6-farm2fork-02",
+    "titulo": "Open topic: Boosting organic farming for a competitive, sustainable and resilient farming sector",
+    "orgao": "Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura orgânica",
+      "sustentabilidade",
+      "resiliência",
+      "inovação"
+    ],
+    "publico": "Consórcios elegíveis ao Horizon Europe",
+    "valor": null,
+    "prazo": "2026-09-15",
+    "desc": "Tópico aberto do Cluster 6 com primeira fase em 14/04/2026 e segunda fase em 15/09/2026, aplicável a projetos agropecuários com foco em agricultura orgânica.",
+    "url": "https://www.horizon-europe.gouv.fr/open-topic-boosting-organic-farming-competitive-sustainable-and-resilient-farming-sector-42033",
+    "descobertoEm": "2026-09-03"
+  },
+  {
+    "id": "fao-2026-02",
+    "titulo": "FAO 2026 data call to strengthen global action on antimicrobial resistance",
+    "orgao": "FAO",
+    "origem": "Internacional",
+    "areas": [
+      "dados",
+      "antimicrobianos",
+      "saúde animal",
+      "produção de alimentos"
+    ],
+    "publico": "Países e instituições com dados de vigilância AMR",
+    "valor": null,
+    "prazo": "2026-11-30",
+    "desc": "Chamada de dados da FAO aberta de 20/07 a 30/11/2026 para fortalecer a ação global sobre resistência antimicrobiana em sistemas agroalimentares.",
+    "url": "https://www.fao.org/members-gateway/news/detail/en/c/1760280/",
+    "descobertoEm": "2026-09-03"
   }
 ]
