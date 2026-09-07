@@ -1751,20 +1751,21 @@
   },
   {
     "id": "cnpq-06-2026-universal",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Todas as áreas do conhecimento",
-      "Ciências Agrárias",
-      "Ciências Biológicas",
+      "Agropecuária",
+      "Ciências agrárias",
+      "Ciências biológicas",
       "Engenharias"
     ],
-    "publico": "Pesquisadores doutores vinculados a instituições de pesquisa e ensino brasileiras, com projetos de pesquisa em qualquer área do conhecimento",
-    "valor": null,
+    "publico": "Pesquisadores vinculados a instituições de pesquisa e ensino brasileiras",
+    "valor": "Valor global anunciado em comunicação institucional de aproximadamente R$ 300 milhões para projetos em todas as áreas; valores por projeto definidos em faixas no edital",
     "prazo": "2026-08-03",
-    "desc": "Chamada universal para financiamento de projetos de pesquisa científica e tecnológica em todas as áreas do conhecimento, com recursos do FNDCT, abrangendo também projetos em agropecuária e áreas correlatas.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "desc": "Chamada Universal destinada a apoiar projetos de pesquisa em todas as áreas do conhecimento que contribuam para o desenvolvimento científico, tecnológico e a inovação do país, incluindo projetos em agropecuária e áreas correlatas, com recursos do FNDCT e submissão pela Plataforma Carlos Chagas.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-06-22"
   },
   {
@@ -2948,19 +2949,22 @@
   },
   {
     "id": "1",
-    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação da Produção Agropecuária",
-    "orgao": "BNDES",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP / FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Inovação agropecuária",
-      "Modernização da produção",
-      "Investimentos produtivos rurais"
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal",
+      "Foodtech",
+      "Agroindústria sustentável",
+      "Inovação tecnológica"
     ],
-    "publico": "Produtores rurais (pessoas físicas e jurídicas), cooperativas e demais empreendimentos agropecuários enquadráveis nas linhas de crédito do BNDES",
-    "valor": "Até R$ 4 milhões por cliente em empreendimentos individuais e até R$ 15 milhões em empreendimentos coletivos, com limite específico para aquisição de animais",
-    "prazo": "2027-06-30",
-    "desc": "Linha de financiamento de longo prazo voltada à modernização e à inovação da produção agropecuária, incluindo investimentos em máquinas, equipamentos, infraestrutura, tecnologias e práticas inovadoras na atividade rural; vigência prorrogada até 30/06/2027, permitindo apoio a projetos de inovação agropecuária em 2026.",
-    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
+    "publico": "Empresas brasileiras (isoladas ou em parceria com ICTs)",
+    "valor": "Não explicitado no extrato; recursos do FNDCT para projetos de inovação em cadeias agroindustriais sustentáveis",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública da Finep, no âmbito do programa Finep Mais Inovação Brasil – Rodada 2, voltada a projetos de desenvolvimento de produtos, processos e serviços inovadores em cadeias agroindustriais sustentáveis, abrangendo temas como agricultura, agronegócio, saúde animal e foodtech. A linha utiliza recursos do FNDCT e é estruturada para apoiar P,D&I empresarial com foco em sustentabilidade e competitividade da agroindústria nacional, incluindo potencial parceria com instituições científicas e tecnológicas.",
+    "url": "https://finep.gov.br/chamadas-publicas",
     "descobertoEm": "2026-07-06"
   },
   {
@@ -5483,56 +5487,61 @@
   },
   {
     "id": "2",
-    "titulo": "Mais Inovação – Ampliação de orçamento e inclusão do setor agropecuário",
-    "orgao": "BNDES",
+    "titulo": "Finep + Inovação Agro – Seleção Pública de Subvenção Econômica para Desenvolvimento de Produtos e Processos Inovadores na Agroindústria Nacional",
+    "orgao": "FINEP / FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Inovação",
-      "Agropecuária",
-      "Produção florestal",
-      "Pesca e aquicultura"
+      "Agro",
+      "Agroindústria",
+      "Segurança alimentar",
+      "Nutrição",
+      "Inovação em produtos e processos",
+      "Parcerias empresa–ICT"
     ],
-    "publico": "Empresários individuais e pessoas físicas que exerçam atividade econômica nos setores agropecuário, de produção florestal, de pesca e aquícola, bem como empresas inovadoras desses segmentos",
-    "valor": "Não especificado no texto público consultado; programa com orçamento ampliado pelo BNDES para apoiar investimentos em inovação",
-    "prazo": null,
-    "desc": "Programa de apoio à inovação com orçamento ampliado pelo BNDES, que passou a incluir explicitamente empreendedores dos setores agropecuário, produção florestal, pesca e aquicultura, permitindo o financiamento de projetos de inovação tecnológica e organizacional nesses segmentos em 2026.",
-    "url": "https://agenciadenoticias.bndes.gov.br/bndes/BNDES-amplia-orcamento-e-setores-beneficiados-pelo-Mais-Inovacao/",
+    "publico": "Empresas brasileiras, em rede ou em parceria com ICTs nacionais",
+    "valor": "Orçamento global de aproximadamente R$ 300 milhões em subvenção econômica",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública com foco em conceder recursos de subvenção econômica a projetos que desenvolvam produtos ou processos inovadores para a agroindústria nacional, visando garantir segurança alimentar e nutricional da população brasileira. O edital incentiva parcerias entre empresas e instituições científicas e tecnológicas, incluindo execução em redes, para P,D&I em agro, com forte aderência à pesquisa agropecuária aplicada via cooperação empresa–ICT.",
+    "url": "http://www.ita.br/sites/default/files/pages/collection/INOVAITA_radar%20de%20oportunidades_fevereiro2026_compressed.pdf",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "3",
-    "titulo": "BNDES Bioinsumos – Chamada pública para fortalecimento da produção de bioinsumos pela agricultura familiar",
-    "orgao": "BNDES",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Agricultura Familiar para ICTs (Fluxo Contínuo)",
+    "orgao": "MCTI / FINEP / FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Bioinsumos agrícolas",
       "Agricultura familiar",
-      "Inovação em insumos",
-      "Sustentabilidade agropecuária"
+      "Segurança alimentar",
+      "Erradicação da fome",
+      "Inclusão socioprodutiva",
+      "Inovação tecnológica agro",
+      "Projetos de risco tecnológico"
     ],
-    "publico": "Cooperativas e associações de agricultura familiar interessadas em desenvolver ou ampliar unidades de produção de bioinsumos",
-    "valor": "Chamada pública com orçamento de aproximadamente R$ 40 milhões para apoio a projetos de produção de bioinsumos",
+    "publico": "Instituições científicas e tecnológicas (ICTs) brasileiras",
+    "valor": "Não explicitado no extrato; linha de fomento do FNDCT para projetos de inovação e risco tecnológico",
     "prazo": null,
-    "desc": "Chamada pública do programa BNDES Bioinsumos, com novo ciclo previsto em 2026 para seleção de projetos voltados ao fortalecimento da produção de bioinsumos pela agricultura familiar, apoiando inovação em insumos agrícolas, redução de custos e aumento da autonomia produtiva.",
-    "url": "https://www.cnnbrasil.com.br/agro/bndes-faz-chamada-publica-de-r-40-milhoes-para-producao-de-bioinsumos/",
+    "desc": "Seleção pública em fluxo contínuo voltada a conceder recursos a projetos inovadores e de risco tecnológico, focados em segurança alimentar, erradicação da fome e inclusão socioprodutiva, com ênfase em agricultura familiar. O foco é financiar P,D&I em ICTs brasileiras, altamente aderente à pesquisa agropecuária, incluindo desenvolvimento de tecnologias, sistemas produtivos e soluções para agricultura familiar.",
+    "url": "http://legacy.finep.gov.br/",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "4",
-    "titulo": "CAPACITAÇÃO PRESENCIAL SOBRE DIREITOS FUNDIÁRIOS E GESTÃO INTEGRADA DE RECURSOS PRODUTIVOS (Request for Proposal 2026/FLBRA/FLBRA/135225)",
-    "orgao": "FAO",
-    "origem": "Internacional",
+    "titulo": "Edital nº 32/2026 – Edital de Fluxo Contínuo FAPESQ e Unidades EMBRAPII",
+    "orgao": "FAPESQ / EMBRAPII",
+    "origem": "Estadual · AM",
     "areas": [
-      "Direitos fundiários",
-      "Gestão integrada de recursos produtivos",
-      "Desenvolvimento rural",
-      "Capacitação em gestão de recursos agropecuários"
+      "Inovação industrial",
+      "Agroindústria",
+      "Tecnologias para agronegócio",
+      "Parcerias empresa–ICT",
+      "P,D&I aplicado"
     ],
-    "publico": "Instituições, organizações e consultorias com atuação em capacitação e gestão de recursos produtivos no Brasil, aptas a executar treinamentos presenciais",
-    "valor": "Valor total não especificado no aviso público; contratação por meio de proposta técnica e financeira",
-    "prazo": "2026-02-23",
-    "desc": "Chamada de propostas da FAO, publicada em 07/01/2026, para realizar capacitação presencial sobre direitos fundiários e gestão integrada de recursos produtivos no Brasil, voltada a fortalecer a governança de terras e o uso sustentável de recursos em contextos agropecuários.",
-    "url": "https://www.ungm.org/Public/Notice/288284",
+    "publico": "Empresas e grupos de pesquisa vinculados às Unidades EMBRAPII em parceria com FAPESQ",
+    "valor": "Não explicitado no extrato; modelo de cofinanciamento EMBRAPII–FAPESQ para projetos de P,D&I",
+    "prazo": null,
+    "desc": "Edital de fluxo contínuo estabelecido pela FAPESQ em parceria com Unidades EMBRAPII para financiamento compartilhado de projetos de pesquisa, desenvolvimento e inovação industrial. Embora setorialmente amplo, permite enquadramento de projetos em agroindústria e tecnologias voltadas ao agronegócio, desde que submetidos por empresas em parceria com unidades EMBRAPII credenciadas, sendo diretamente aplicável a pesquisa agropecuária em formato cooperativo empresa–ICT.",
+    "url": "https://fapesq.rpp.br/editais/2026/edital-no-32-2026-2013-edital-de-fluxo-continuo-fapesq-e-unidades-embrapii",
     "descobertoEm": "2026-07-30"
   },
   {
@@ -5694,17 +5703,17 @@
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "PD&I",
-      "Inovação",
-      "Cadeias agroindustriais",
-      "Sustentabilidade",
-      "Agropecuária"
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal",
+      "Foodtech",
+      "Inovação em cadeias agroindustriais sustentáveis"
     ],
-    "publico": "Empresas, instituições de pesquisa e desenvolvimento tecnológico e demais organizações elegíveis interessadas em projetos de inovação em cadeias agroindustriais sustentáveis",
-    "valor": null,
+    "publico": "Empresas inovadoras atuantes em cadeias agroindustriais, incluindo agropecuária e foodtech",
+    "valor": "Não informado no extrato; financiamento via FINEP/FNDCT com recursos reembolsáveis para inovação empresarial",
     "prazo": "2026-09-30",
-    "desc": "Chamada da FINEP, financiada com recursos do FNDCT, focada em projetos de inovação voltados a cadeias agroindustriais sustentáveis, contemplando desenvolvimento tecnológico, infraestrutura de PD&I e soluções inovadoras para o agronegócio, produção agrícola e pecuária com foco em sustentabilidade.[7]",
-    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "desc": "Seleção pública da linha Finep Mais Inovação Brasil (Rodada 2) focada em cadeias agroindustriais sustentáveis, com apoio financeiro a projetos de PD&I em agricultura, agronegócio, saúde animal e foodtech, voltados a empresas.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-08-02"
   },
   {
@@ -6333,16 +6342,16 @@
     "orgao": "CONFAP",
     "origem": "Nacional",
     "areas": [
-      "bioeconomia",
       "Amazônia",
+      "bioeconomia",
+      "inovação",
       "startups",
-      "pesquisa",
-      "inovação"
+      "pesquisa aplicada"
     ],
-    "publico": "Representantes de startups e pesquisadores dos estados brasileiros das Fundações de Amparo à Pesquisa participantes",
+    "publico": "Pesquisadores e representantes de startups dos estados participantes das FAPs",
     "valor": null,
     "prazo": "2026-05-18",
-    "desc": "Chamada nacional articulada no âmbito da Amazônia+10 para projetos e soluções em bioeconomia na Amazônia.",
+    "desc": "Chamada nacional da iniciativa nexBio Amazônia para propostas de pesquisadores e startups; candidatura encerrada em 18/05/2026.",
     "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
     "descobertoEm": "2026-08-13"
   },
@@ -6778,57 +6787,60 @@
   },
   {
     "id": "5",
-    "titulo": "GEOREFERENCING AND ALLOCATION OF RURAL PROPERTIES FOR LAND REGULARIZATION AND TERRITORIAL MANAGEMENT IN MARANHÃO AND PARÁ (Request for Proposal 2026/FLBRA/FLBRA/135999)",
-    "orgao": "FAO",
+    "titulo": "GEOREFERENCING AND ALLOCATION OF RURAL PROPERTIES FOR LAND REGULARIZATION AND TERRITORIAL MANAGEMENT IN MARANHÃO AND PARÁ (RFP 2026/FLBRA/FLBRA/135999)",
+    "orgao": "Organização das Nações Unidas para Alimentação e Agricultura (FAO)",
     "origem": "Internacional",
     "areas": [
-      "Georreferenciamento de imóveis rurais",
+      "Georreferenciamento de propriedades rurais",
       "Regularização fundiária",
       "Gestão territorial",
-      "Desenvolvimento rural sustentável"
+      "Planejamento rural",
+      "Desenvolvimento agrícola sustentável",
+      "Uso da terra e cadastro rural"
     ],
-    "publico": "Instituições e empresas com capacidade técnica em geoprocessamento, cartografia e regularização fundiária para execução de projetos em áreas rurais do Maranhão e Pará",
-    "valor": "Valor total não informado no aviso; contratação mediante proposta técnica e financeira competitiva",
+    "publico": "Entidades e consórcios com capacidade técnica para atuar no Brasil (Maranhão e Pará), conforme regras de contratação da FAO/ONU",
+    "valor": "Não explicitado no extrato público; contratação via Request for Proposal",
     "prazo": "2026-04-13",
-    "desc": "Solicitação de propostas da FAO, publicada em 11/03/2026, para execução de serviços de georreferenciamento e alocação de imóveis rurais voltados à regularização fundiária e gestão territorial nos estados do Maranhão e Pará, contribuindo para a organização espacial e produtiva da agropecuária nessas regiões.",
+    "desc": "Request for Proposal da FAO voltado ao georreferenciamento e alocação de propriedades rurais para fins de regularização fundiária e gestão territorial nos estados do Maranhão e Pará, no Brasil. A chamada busca serviços especializados que impactam diretamente a base territorial da produção agropecuária, com forte interface com pesquisa aplicada em cadastro rural, ordenamento territorial e políticas agrícolas.",
     "url": "https://www.ungm.org/Public/Notice/293480",
     "descobertoEm": "2026-08-15"
   },
   {
     "id": "6",
-    "titulo": "Horizon Europe Work Programme 2025 – Cluster 6 (Food, Bioeconomy, Natural Resources, Agriculture and Environment) – Chamadas com elegibilidade excepcional para entidades brasileiras",
-    "orgao": "Comissão Europeia – Programa Horizon Europe",
+    "titulo": "ON-SITE CAPACITY BUILDING ON LAND RIGHTS AND INTEGRATED MANAGEMENT OF PRODUCTIVE RESOURCES (RFP 2026/FLBRA/FLBRA/135225)",
+    "orgao": "Organização das Nações Unidas para Alimentação e Agricultura (FAO)",
     "origem": "Internacional",
     "areas": [
-      "Agricultura",
-      "Recursos naturais",
-      "Alimentos e bioeconomia",
-      "Meio ambiente",
-      "Pesquisa oceânica e sistemas agroalimentares (tópicos AAORIA e afins)"
+      "Direitos fundiários",
+      "Gestão integrada de recursos produtivos",
+      "Capacitação rural",
+      "Governança de terras",
+      "Sustentabilidade de sistemas produtivos agrícolas"
     ],
-    "publico": "Consórcios internacionais com pelo menos 3 entidades de países elegíveis; entidades brasileiras podem participar, e em alguns tópicos são excepcionalmente elegíveis para financiamento da União Europeia",
-    "valor": "Valores por tópico variam; cada tópico do programa define orçamento específico (não consolidado em um único valor global na chamada)",
-    "prazo": "null",
-    "desc": "O Work Programme 2025 do Cluster 6 do Horizon Europe inclui tópicos em alimentos, bioeconomia, recursos naturais, agricultura e meio ambiente. Em determinados tópicos, o texto do programa explicita que entidades estabelecidas no Brasil são excepcionalmente elegíveis para financiamento da União Europeia, especialmente em ações relacionadas à Aliança de Pesquisa e Inovação do Atlântico (AAORIA). As chamadas são em 2025, mas com prazos de submissão em 2025–2026 e consórcios que podem incluir instituições brasileiras de pesquisa agropecuária. É necessário consultar cada tópico para prazos específicos e condições de elegibilidade para financiamento.",
-    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2025_en.pdf",
+    "publico": "Instituições e organizações aptas a prestar serviços de capacitação presencial no Brasil, conforme elegibilidade FAO",
+    "valor": "Não explicitado; contratação de serviços de capacitação via RFP",
+    "prazo": "2026-02-23",
+    "desc": "Request for Proposal da FAO para capacitação presencial sobre direitos fundiários e gestão integrada de recursos produtivos. A ação busca fortalecer capacidades locais relativas ao uso da terra e manejo de recursos em contextos rurais brasileiros, estando alinhada a agendas de desenvolvimento agrícola sustentável e podendo ser articulada com projetos de pesquisa agropecuária em temas de governança fundiária e gestão de sistemas produtivos.",
+    "url": "https://www.ungm.org/Public/Notice/288284",
     "descobertoEm": "2026-08-15"
   },
   {
     "id": "7",
-    "titulo": "Horizon Europe 2026–2027 – Chamadas em agricultura com elegibilidade excepcional para financiamento a entidades brasileiras",
-    "orgao": "Comissão Europeia (Horizon Europe)",
+    "titulo": "Call for applications on bioinputs and agricultural plastics in Latin America and the Caribbean",
+    "orgao": "FAO Regional Office for Latin America and the Caribbean",
     "origem": "Internacional",
     "areas": [
-      "Agricultura",
-      "Proteção de plantas",
-      "Gestão sustentável de recursos naturais",
-      "Inovação agroalimentar"
+      "Bioinsumos agrícolas",
+      "Plásticos agrícolas",
+      "Sustentabilidade agroambiental",
+      "Gestão de insumos na agricultura",
+      "Inovação em insumos e materiais agrícolas"
     ],
-    "publico": "Grupos de pesquisa, universidades, empresas e organizações brasileiras participantes em consórcios europeus nas chamadas específicas de Horizon Europe em agricultura que indiquem excepcional elegibilidade de entidades brasileiras ao financiamento",
-    "valor": "Valores variam por tópico, geralmente com orçamento multimilionário por projeto; regras de financiamento seguem os termos de cada chamada do programa Horizon Europe",
+    "publico": "Instituições, organizações e iniciativas da América Latina e Caribe, incluindo Brasil, conforme critérios da chamada",
+    "valor": "Não explicitado no extrato público; apoio técnico/financeiro variável conforme linha da chamada",
     "prazo": null,
-    "desc": "No programa Horizon Europe 2026–2027, instituições da América Latina, incluindo as brasileiras, podem participar das chamadas, porém sem financiamento automático; em tópicos específicos de agricultura e áreas afins, o trabalho programático prevê que, devido ao escopo, entidades estabelecidas no Brasil sejam excepcionalmente elegíveis a financiamento da União, permitindo a participação de pesquisas agropecuárias brasileiras com cofinanciamento europeu em chamadas selecionadas.",
-    "url": "https://euraxess.ec.europa.eu/worldwide/lac/news/horizon-europe-work-programmes-2026-2027",
+    "desc": "Chamada de candidaturas da FAO para iniciativas relacionadas a bioinsumos e plásticos agrícolas na América Latina e Caribe. A chamada incentiva propostas focadas em inovação e sustentabilidade na produção, uso e gestão de insumos biológicos e materiais plásticos na agricultura, sendo diretamente aplicável a grupos de pesquisa agropecuária brasileiros elegíveis que atuem em bioinsumos, manejo de resíduos e tecnologias alternativas.",
+    "url": "https://www.fao.org/americas/events/en",
     "descobertoEm": "2026-08-15"
   },
   {
@@ -7420,21 +7432,21 @@
   },
   {
     "id": "8",
-    "titulo": "Horizon Europe – Cluster 6: Food, Bioeconomy, Natural Resources, Agriculture and Environment (Work Programme 2026–2027)",
-    "orgao": "Comissão Europeia (Horizon Europe – Cluster 6)",
+    "titulo": "Strengthening the EU plant protection ecosystem for a future-proof agriculture (Horizon Europe Call)",
+    "orgao": "Comissão Europeia / Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "Alimentos",
-      "Bioeconomia",
-      "Recursos naturais",
-      "Agricultura",
-      "Ambiente"
+      "Proteção de plantas",
+      "Sanidade vegetal",
+      "Agricultura sustentável",
+      "Sistemas de produção resilientes",
+      "Inovação em defesa vegetal"
     ],
-    "publico": "Consórcios internacionais com participação de instituições de pesquisa e empresas; instituições brasileiras podem participar como parceiras em projetos de pesquisa agropecuária",
-    "valor": "Valores variam por chamada e tópico; financiamento típico de milhões de euros por projeto, com taxas de financiamento até 100%",
-    "prazo": "2026-09-23",
-    "desc": "Conjunto de chamadas do Horizon Europe para 2026–2027 no Cluster 6 (alimentos, bioeconomia, recursos naturais, agricultura e ambiente), com abertura em 12/02/2026 e prazos em duas etapas: primeira em 16/04/2026 e segunda em 23/09/2026, para propostas em temas diversos de agricultura sustentável, recursos naturais e sistemas alimentares, permitindo participação de instituições brasileiras em consórcios internacionais.",
-    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "publico": "Instituições estabelecidas em Estados-membros da UE, países associados ao Horizon Europe e países terceiros listados na chamada; participação brasileira possível apenas via condições específicas de países terceiros ou como parceiro não financiado, conforme regras do programa",
+    "valor": "Montantes de financiamento definidos no texto da call para consórcios de pesquisa e inovação em proteção de plantas",
+    "prazo": null,
+    "desc": "Chamada Horizon Europe voltada a fortalecer o ecossistema europeu de proteção de plantas para uma agricultura preparada para o futuro. A call financia projetos de pesquisa e inovação em sanidade vegetal, sistemas de proteção integrada e resiliência da produção agrícola. Embora o financiamento direto seja reservado a beneficiários de países elegíveis ao Horizon Europe, grupos de pesquisa agropecuária brasileiros podem participar via consórcios internacionais, em modalidade não financiada ou sob regras específicas para países terceiros, desde que aceitos pelo consórcio e pelas regras da call.",
+    "url": "https://www.euro-access.eu/en/calls/2602/Strengthening-the-EU-plant-protection-ecosystem-for-a-future-proof-agriculture",
     "descobertoEm": "2026-08-19"
   },
   {
@@ -7680,14 +7692,14 @@
     "origem": "Nacional",
     "areas": [
       "Biotecnologia agropecuária",
-      "Biotecnologia para saúde humana",
       "Biotecnologia ambiental",
-      "Biotecnologia industrial"
+      "Biotecnologia industrial",
+      "Biotecnologia para saúde humana"
     ],
-    "publico": "Pesquisadores e grupos de pesquisa de ICTs brasileiras com projetos em biotecnologia, incluindo aplicações em agropecuária",
-    "valor": "Não explicitado no resumo; apoio a projetos de pesquisa com recursos do FNDCT",
+    "publico": "Grupos e projetos de pesquisa em instituições científicas e tecnológicas brasileiras",
+    "valor": "Não informado no extrato; chamada voltada a apoio a projetos de pesquisa com recursos do FNDCT",
     "prazo": "2026-09-18",
-    "desc": "Chamada pública destinada a apoiar projetos de pesquisa que contribuam significativamente para o desenvolvimento científico, tecnológico e a inovação do país em biotecnologia, incluindo biotecnologia agropecuária, com financiamento do MCTI e recursos do FNDCT.",
+    "desc": "Chamada pública para apoiar projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação do país, com foco em biotecnologia, incluindo biotecnologia agropecuária, ambiental, industrial e para saúde humana, financiada pelo MCTI/FNDCT.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/chamada-publica-cnpq-N-24-2026",
     "descobertoEm": "2026-08-21"
   },
@@ -10330,5 +10342,204 @@
     "desc": "Chamada Pública nº 12/2026 para seleção de bolsistas vinculados ao Projeto ILPF Regenera, conduzido pela Embrapa Agrossilvipastoril em parceria com Monsanto/Bayer e Fundação Arthur Bernardes (Funarbe). A chamada insere‑se na carteira de PD&I e inovação da Embrapa, voltada a soluções tecnológicas em sistemas agrossilvipastoris e ILPF, com potencial de transferência de tecnologia e parcerias, sob a governança do Sistema Embrapa de Gestão (SEG).",
     "url": "https://www.embrapa.br/en/busca-de-noticias/-/noticia/106385473/chamada-n-122026---selecao-de-bolsistas-para-o-projeto-ilpf-regenera--embrapa-agrossilvipastoril",
     "descobertoEm": "2026-09-06"
+  },
+  {
+    "id": "mcti-finep-fndct-ct-agro-ict-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – CT-Agro – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT (em parceria com MCTI)",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Bioinsumos",
+      "Sistemas de produção agroecológicos e orgânicos",
+      "Soluções digitais para pequena propriedade rural",
+      "Aquicultura de espécies nativas",
+      "Sistemas agroalimentares sustentáveis"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs) brasileiras",
+    "valor": "Investimento total de cerca de R$ 150 milhões via FNDCT, distribuído em quatro linhas temáticas (bioinsumos; sistemas agroecológicos/orgânicos; soluções digitais; aquicultura de espécies nativas)",
+    "prazo": "2026-06-19",
+    "desc": "Seleção pública voltada a ICTs para fomento a projetos de PD&I que desenvolvam soluções científicas e tecnológicas para fortalecimento de cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis, com quatro linhas temáticas e recursos não reembolsáveis do FNDCT.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "mcti-finep-fndct-pesquisa-aplicada-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Pesquisa Aplicada em Inovação (2026)",
+    "orgao": "FINEP/FNDCT (em parceria com MCTI)",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa aplicada em inovação",
+      "PD&I em setores estratégicos",
+      "Possível enquadramento de projetos em agropecuária e agronegócio conforme linhas do edital"
+    ],
+    "publico": "Instituições de pesquisa, empresas e/ou parcerias ICT–empresa, conforme regras da chamada",
+    "valor": "Não informado no extrato; valores e limites por proposta definidos no edital de pesquisa aplicada em inovação com recursos FNDCT",
+    "prazo": null,
+    "desc": "Chamada pública de pesquisa aplicada em inovação com recursos do FNDCT, voltada ao apoio a projetos de PD&I em temas estratégicos, potencialmente incluindo agropecuária e agronegócio, conforme enquadramento nas linhas temáticas do edital.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/06_03_26_Edital_Rerratificao.pdf",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "ufsm-interna-ct-agro-12-2026",
+    "titulo": "Chamada Interna UFSM – Seleção Pública MCTI/FINEP/FNDCT – CT-Agro 2026",
+    "orgao": "UFSM (referente à chamada MCTI/FINEP/FNDCT – CT-Agro)",
+    "origem": "Interno",
+    "areas": [
+      "Agricultura familiar",
+      "Cadeias socioprodutivas",
+      "Sistemas agroalimentares sustentáveis",
+      "PD&I em agropecuária"
+    ],
+    "publico": "Pesquisadores da UFSM interessados em submeter propostas à chamada MCTI/FINEP/FNDCT – CT-Agro 2026",
+    "valor": "Valores de projeto definidos pela chamada MCTI/FINEP/FNDCT – CT-Agro; chamada interna organiza seleção institucional",
+    "prazo": null,
+    "desc": "Chamada interna da UFSM (Chamada Pública 12/2026 – CT-Agro 2026) para seleção de propostas institucionais que serão submetidas à Seleção Pública MCTI/FINEP/FNDCT – CT-Agro – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026, voltada ao fomento de projetos de pesquisa e inovação em agropecuária.",
+    "url": "https://www.ufsm.br/pro-reitorias/proinova/editais/012-2026",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "capes-20-2026-curso-novo",
+    "titulo": "Chamada Pública para Envio de Proposta de Curso Novo – Edital CAPES nº 20/2026",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Pós-graduação stricto sensu",
+      "Cursos novos em diversas áreas, incluindo ciências agrárias e áreas afins"
+    ],
+    "publico": "Instituições de ensino superior que pretendem propor cursos novos de pós-graduação avaliados pela CAPES",
+    "valor": "Não informado no extrato; edital voltado à criação de cursos e não diretamente ao fomento de infraestrutura de pesquisa",
+    "prazo": null,
+    "desc": "Chamada pública da CAPES para submissão de propostas de cursos novos de pós-graduação stricto sensu, abrangendo diversas áreas do conhecimento, possivelmente incluindo cursos voltados à agropecuária e ciências agrárias.",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/editais-e-resultados-capes",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "amazoniamaisdez-2026-desafios-amazonia",
+    "titulo": "Programa Desafios da Amazônia – 1ª Chamada Pública",
+    "orgao": "CONFAP/BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "Amazônia",
+      "sociobioeconomia",
+      "cadeias produtivas",
+      "PD&I"
+    ],
+    "publico": "Pesquisadores e organizações socioprodutivas da Amazônia Legal",
+    "valor": "R$ 107,1 milhões no total; até R$ 10 milhões por projeto",
+    "prazo": "2026-09-01",
+    "desc": "Chamada para projetos de pesquisa, desenvolvimento e inovação ligados à sociobioeconomia amazônica; pré-propostas até 01/09/2026.",
+    "url": "https://www.amazoniamaisdez.org.br/chamadas-abertas",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "fapespa-2026-001-eventos-cientificos",
+    "titulo": "CHAMADA PÚBLICA Nº 001/2026 – Apoio a eventos científicos, tecnológicos e de inovação",
+    "orgao": "FAPESPA",
+    "origem": "Estadual · AM",
+    "areas": [
+      "ciência",
+      "tecnologia",
+      "inovação",
+      "eventos científicos",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores vinculados a ICTs públicas ou privadas sem fins lucrativos no Pará",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada da FAPESPA para apoio a eventos científicos, tecnológicos e de inovação; página oficial publicada em 2026.",
+    "url": "https://www.fapespa.pa.gov.br/2026/08/03/chamada-publica-no-001-2026/",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "fapespa-2026-003-biotecnologia-mulheres",
+    "titulo": "CHAMADA PÚBLICA Nº 003/2026 – Fortalecimento de Projetos em Biotecnologia Coordenados por Mulheres no Estado do Pará",
+    "orgao": "FAPESPA",
+    "origem": "Estadual · AM",
+    "areas": [
+      "biotecnologia",
+      "Amazônia",
+      "pesquisa científica",
+      "mulheres na ciência"
+    ],
+    "publico": "Pesquisadoras e líderes de grupos de pesquisa vinculadas a ICTs sediadas no Pará",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada voltada a projetos de biotecnologia com liderança feminina, com foco em soluções para problemas amazônicos.",
+    "url": "https://www.fapespa.pa.gov.br/2026/08/13/chamada-publica-no-003-2026/",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "embrapa-funarbe-11-2026-ilpf-regenera",
+    "titulo": "Chamada nº 11/2026 – Seleção de bolsistas de inovação – Projeto ILPF Regenera",
+    "orgao": "Embrapa / Fundação Arthur Bernardes (Funarbe)",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Inovação",
+      "Sistemas de Integração Lavoura-Pecuária-Floresta (ILPF)",
+      "Agropecuária sustentável"
+    ],
+    "publico": "Bolsistas de inovação vinculados a projeto da Embrapa em parceria com Funarbe",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada interna, operacionalizada via Embrapa e Funarbe, para seleção de bolsistas de inovação vinculados ao Projeto ILPF Regenera, no âmbito das ações de PD&I e inovação da Embrapa. A chamada apoia atividades de pesquisa e inovação alinhadas à agenda da empresa e ao sistema de gestão SEG.",
+    "url": "https://www.embrapa.br/50-anos/busca-de-noticias/-/noticia/106385421/chamada-n-112026---embrapa-e-funarbe-abrem-selecao-para-bolsistas-de-inovacao-projeto-ilpf-regenera",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "funarbe-207-2026-peae-2508-0024",
+    "titulo": "Chamada nº 207/2026 para Seleção de Bolsistas – Projeto Embrapii/Embrapa Agroenergia/Pilzer (PEAE-2508.0024 - CG2)",
+    "orgao": "Fundação Arthur Bernardes (Funarbe) / Embrapa Agroenergia / Embrapii",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Bioenergia",
+      "Bioinsumos",
+      "Transferência de tecnologia",
+      "Propriedade intelectual",
+      "Extensão tecnológica"
+    ],
+    "publico": "Bolsistas de estímulo à inovação para projeto Embrapii/Embrapa Agroenergia/Pilzer",
+    "valor": "Bolsas de estímulo à inovação (valores definidos no edital da Funarbe)",
+    "prazo": "2026-05-18",
+    "desc": "Chamada pública para concessão de bolsas de estímulo à inovação, destinada à formação e capacitação de recursos humanos para execução de projeto de PD&I Embrapii/Embrapa Agroenergia/Pilzer. Inclui atividades de extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologia de interesse da Embrapa, em conformidade com o Manual de Normas da Embrapa nº 39 e o Acordo Geral de Parceria entre Fundações de Apoio e Embrapa. Inscrições até 18/05/2026.",
+    "url": "https://agrega.funarbe.org.br/bolsas/bolsas/view-dados-para-edital?id=828035",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "embrapa-capmna-cnpq-02-2026",
+    "titulo": "Edital 02/2026 – Chamada 02 – Programa de Bolsas Embrapa/CNPq (Convênio Embrapa/CNPq)",
+    "orgao": "Embrapa / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Inovação",
+      "Capacitação de recursos humanos em PD&I agropecuário"
+    ],
+    "publico": "Estudantes e pesquisadores elegíveis ao Programa de Bolsas Embrapa/CNPq vinculados a projetos registrados no SEG",
+    "valor": "Bolsas acadêmicas Embrapa/CNPq (valores conforme modalidades estabelecidas no edital)",
+    "prazo": "2026-04-30",
+    "desc": "Edital de chamada interna do Programa de Bolsas Embrapa/CNPq (Convênio Embrapa/CNPq), vinculando as bolsas a projetos cadastrados e gerenciados pelo Sistema Embrapa de Gestão (SEG). As inscrições são realizadas por e-mail, no período de 14 a 30 de abril de 2026, conforme regras do edital.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "embrapa-cafe-uiuc-seg-2026",
+    "titulo": "Acolhimento de projetos de PD&I – Chamada conjunta Embrapa–Universidade de Illinois (programação SEG)",
+    "orgao": "Embrapa Café / Embrapa (programação SEG) / Universidade de Illinois",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
+      "Mudanças climáticas",
+      "Bioeconomia",
+      "Café"
+    ],
+    "publico": "Projetos de PD&I aprovados na chamada conjunta Embrapa–Universidade de Illinois, acolhidos na programação ordinária de pesquisa da Embrapa (SEG)",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada conjunta internacional entre Embrapa e Universidade de Illinois em Mudanças Climáticas e Bioeconomia, cujos projetos aprovados de PD&I são acolhidos na programação ordinária de pesquisa da Embrapa, gerida pelo Sistema Embrapa de Gestão (SEG), no âmbito da Embrapa Café. Trata-se de chamada de parceria e PD&I, com foco em pesquisa colaborativa.",
+    "url": "https://www.embrapa.br/web/cafe/editais-e-oportunidades/outras-chamadas-e-editais",
+    "descobertoEm": "2026-09-07"
   }
 ]
