@@ -722,21 +722,20 @@
   },
   {
     "id": "bndes-bioinsumos-2026",
-    "titulo": "BNDES Bioinsumos – Chamada Pública para Fortalecimento da Produção de Bioinsumos pela Agricultura Familiar (novo ciclo 2026)",
-    "orgao": "BNDES",
+    "titulo": "Chamada Pública BNDES Bioinsumos – Agricultura Familiar",
+    "orgao": "BNDES – Banco Nacional de Desenvolvimento Econômico e Social",
     "origem": "Nacional",
     "areas": [
-      "Bioinsumos",
+      "Bioinsumos agrícolas",
       "Agricultura familiar",
-      "Agroecologia",
-      "Inovação agro",
-      "Produção de insumos biológicos"
+      "Inovação em insumos biológicos",
+      "Autonomia produtiva"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares, além de organizações habilitadas a estruturar unidades industriais ou semi-industriais de produção de bioinsumos",
-    "valor": "Chamada pública de aproximadamente R$ 40 milhões em recursos do BNDES Fundo Socioambiental para projetos de produção de bioinsumos; valores por projeto definidos no edital",
-    "prazo": "2026-08-31",
-    "desc": "Novo ciclo da iniciativa BNDES Bioinsumos, com chamada pública focada no fortalecimento da produção de bioinsumos pela agricultura familiar. A chamada financia estruturas industriais ou semi-industriais para produção de bioprodutos integrados a agroecossistemas, permitindo transição tecnológica para alimentos saudáveis. Os projetos apoiados envolvem inovação em insumos biológicos para uso agropecuário e são aplicáveis diretamente à pesquisa e à inovação agropecuária brasileira.",
-    "url": "https://www.embrapa.br/en/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "publico": "Cooperativas e associações da agricultura familiar interessadas em fortalecer e instalar capacidade produtiva de bioinsumos",
+    "valor": "Chamada pública com valor de até R$ 40.000.000,00 para apoio à produção de bioinsumos por cooperativas e associações de agricultura familiar",
+    "prazo": null,
+    "desc": "Chamada pública vinculada ao programa BNDES Bioinsumos, lançada em maio de 2026, voltada ao fortalecimento da produção de bioinsumos pela agricultura familiar. A iniciativa apoia cooperativas e associações na produção própria de insumos biológicos, visando redução de custos e maior autonomia produtiva. O novo edital prevê cerca de R$ 40 milhões para expansão da iniciativa, em continuidade ao primeiro ciclo que selecionou quatro projetos.",
+    "url": "https://www.cnnbrasil.com.br/agro/bndes-faz-chamada-publica-de-r-40-milhoes-para-producao-de-bioinsumos/",
     "descobertoEm": "2026-06-14"
   },
   {
@@ -6866,20 +6865,20 @@
   },
   {
     "id": "cnpq-universal-06-2026",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
-    "orgao": "CNPq · FNDCT",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Todas as áreas do conhecimento",
-      "Agropecuária",
       "Ciências Agrárias",
       "Ciências Biológicas",
-      "Engenharias"
+      "Engenharias",
+      "Ciências Exatas e da Terra",
+      "Interdisciplinar"
     ],
-    "publico": "Pesquisadores vinculados a ICTs brasileiras, incluindo pesquisadores da Embrapa, com título de doutor, em qualquer área do conhecimento",
-    "valor": "Apoio a projetos de pesquisa em três faixas de valores (Faixa A, Faixa B e Faixa C), com recursos do FNDCT; valores máximos por faixa definidos no edital",
+    "publico": "Pesquisadores vinculados a ICTs brasileiras, incluindo unidades da Embrapa, com projetos de pesquisa em qualquer área do conhecimento",
+    "valor": "Recursos não reembolsáveis do FNDCT para apoio a projetos de pesquisa em todas as áreas; valores máximos por faixa definidos no edital",
     "prazo": "2026-08-03",
-    "desc": "Chamada universal para apoiar projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação no país, em qualquer área do conhecimento. As propostas devem ser submetidas via Plataforma Integrada Carlos Chagas, seguindo o cronograma: lançamento em 17/06/2026, prazo limite para submissão em 03/08/2026, julgamento entre 14/09 e 09/10/2026 e divulgação dos resultados em novembro e dezembro de 2026.",
+    "desc": "Chamada pública destinada a apoiar projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação do País, em qualquer área do conhecimento. As propostas devem ser submetidas exclusivamente pela Plataforma Integrada Carlos Chagas, dentro do cronograma do edital. É elegível a participação de pesquisadores da área de agropecuária e de instituições como a Embrapa, desde que atendidos os requisitos gerais de elegibilidade da chamada.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-08-16"
   },
@@ -8470,20 +8469,21 @@
   },
   {
     "id": "confap-2026-desafios-amazonia",
-    "titulo": "Programa Desafios da Amazônia",
-    "orgao": "CONFAP",
+    "titulo": "Programa Desafios da Amazônia – 1ª Chamada",
+    "orgao": "CONFAP / BNDES / Fundo Amazônia",
     "origem": "Nacional",
     "areas": [
+      "Amazônia",
       "bioeconomia",
-      "Amazônia legal",
-      "pesquisa aplicada",
-      "inovação"
+      "sociobioeconomia",
+      "cadeias produtivas",
+      "pesquisa e inovação"
     ],
     "publico": "Pesquisadores e organizações socioprodutivas da Amazônia Legal",
-    "valor": "R$ 107,1 milhões",
+    "valor": "R$ 107,1 milhões no total; até R$ 10 milhões por projeto",
     "prazo": "2026-09-01",
-    "desc": "Chamada pública para financiar projetos de pesquisa, desenvolvimento e inovação voltados à sociobioeconomia amazônica.",
-    "url": "https://www.fappr.pr.gov.br/Programas-Abertos",
+    "desc": "Chamada aberta para projetos de pesquisa, desenvolvimento e inovação voltados à sociobioeconomia amazônica, com forte relevância para cadeias agropecuárias e produtivas.",
+    "url": "https://www.amazoniamaisdez.org.br/chamadas-abertas",
     "descobertoEm": "2026-08-27"
   },
   {
@@ -9541,20 +9541,20 @@
   },
   {
     "id": "finep-inovacao-agro-2026",
-    "titulo": "Seleção Pública Finep – Inovação Agro (subvenção econômica para desenvolvimento de produtos e processos inovadores na agroindústria nacional)",
-    "orgao": "Finep",
+    "titulo": "Seleção Pública Finep + Inovação Agro",
+    "orgao": "Finep – Financiadora de Estudos e Projetos",
     "origem": "Nacional",
     "areas": [
-      "Inovação agro",
       "Agroindústria",
-      "Segurança alimentar e nutricional",
-      "Parcerias empresa–ICT",
-      "Pesquisa aplicada em agricultura e agropecuária"
+      "Inovação tecnológica no agro",
+      "Segurança alimentar",
+      "Processos e produtos inovadores",
+      "Parcerias empresa–ICT"
     ],
-    "publico": "Empresas brasileiras e instituições científicas e tecnológicas (ICTs) interessadas em desenvolver projetos de inovação na agroindústria nacional, em arranjos individuais ou em redes",
-    "valor": "Orçamento global da chamada de aproximadamente R$ 300 milhões em recursos de subvenção econômica; valores por projeto definidos no edital oficial",
+    "publico": "Empresas brasileiras e Instituições Científicas e Tecnológicas (ICTs) com projetos de desenvolvimento de produtos ou processos inovadores na agroindústria nacional",
+    "valor": "Orçamento total de R$ 300.000.000,00 em subvenção econômica para desenvolvimento de produtos/processos inovadores na agroindústria; projetos em parceria entre empresas e ICTs",
     "prazo": "2026-09-30",
-    "desc": "Seleção Pública da Finep voltada à Inovação Agro, com concessão de recursos de subvenção econômica para desenvolvimento de produtos ou processos inovadores que promovam o desenvolvimento da agroindústria nacional, visando garantir a segurança alimentar e nutricional da população brasileira. A chamada estimula parcerias entre empresas e ICTs, inclusive em projetos em rede, diretamente aplicáveis à pesquisa agropecuária nacional e à inovação tecnológica no setor agrícola.",
+    "desc": "Seleção pública que concede recursos de subvenção econômica para o desenvolvimento de produtos ou processos inovadores, promovendo o desenvolvimento da agroindústria nacional e a segurança alimentar e nutricional no Brasil. Incentiva a formação de parcerias entre empresas e ICTs e projetos em rede, com foco em inovação agro industrial. Indicada em radar de oportunidades de 2026 como \"Finep + Inovação Agro\", com prazo até 30/09/2026 e orçamento de R$ 300 milhões.",
     "url": "http://www.ita.br/sites/default/files/pages/collection/INOVAITA_radar%20de%20oportunidades_fevereiro2026_compressed.pdf",
     "descobertoEm": "2026-09-02"
   },
@@ -10541,5 +10541,190 @@
     "desc": "Chamada conjunta internacional entre Embrapa e Universidade de Illinois em Mudanças Climáticas e Bioeconomia, cujos projetos aprovados de PD&I são acolhidos na programação ordinária de pesquisa da Embrapa, gerida pelo Sistema Embrapa de Gestão (SEG), no âmbito da Embrapa Café. Trata-se de chamada de parceria e PD&I, com foco em pesquisa colaborativa.",
     "url": "https://www.embrapa.br/web/cafe/editais-e-oportunidades/outras-chamadas-e-editais",
     "descobertoEm": "2026-09-07"
+  },
+  {
+    "id": "finep-agroindustriais-mais-inovacao-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura",
+      "Agronegócio",
+      "Saúde Animal",
+      "Foodtech",
+      "Inovação em cadeias agroindustriais sustentáveis"
+    ],
+    "publico": "Empresas e cooperativas com projetos inovadores de risco tecnológico em cadeias agroindustriais sustentáveis; possibilidade de interação com ICTs como Embrapa via parcerias empresa-ICT",
+    "valor": "Subvenção econômica com financiamento total em torno de R$ 300.000.000,00; valor por projeto definido conforme faixa/linha de apoio do edital",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública no âmbito do Programa Mais Inovação Brasil, voltada a projetos inovadores e de risco tecnológico em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech. Concede recursos de subvenção econômica não reembolsável para empresas, com prazo de submissão até 30/09/2026, em fluxo contínuo até o esgotamento dos recursos de cada grupo de concorrência. Relevante para PD&I em agropecuária, especialmente em projetos cooperativos entre empresas e instituições de pesquisa como a Embrapa.",
+    "url": "http://www.finep.gov.br/chamadas-publicas",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "finep-cadeias-socioprodutivas-agricultura-familiar-icts-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura Familiar",
+      "Sistemas Agroalimentares Sustentáveis",
+      "Desenvolvimento Rural",
+      "Inovação em agropecuária",
+      "Infraestrutura e projetos de ICTs"
+    ],
+    "publico": "Instituições Científicas e Tecnológicas (ICTs) brasileiras, incluindo centros de pesquisa agropecuária como a Embrapa, com projetos voltados a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis",
+    "valor": "Recursos não reembolsáveis do FNDCT até aproximadamente R$ 150.000.000,00 para apoio a projetos de ICTs, conforme faixas e limites estabelecidos no edital",
+    "prazo": "null",
+    "desc": "Chamada pública específica para ICTs, financiada com recursos não reembolsáveis do FNDCT, voltada ao fortalecimento de cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis. Apoia projetos de pesquisa, desenvolvimento tecnológico, extensão e consolidação de infraestrutura ligada a esses temas em instituições de ciência e tecnologia. Edital relevante para unidades da Embrapa que atuam com agricultura familiar, sistemas produtivos sustentáveis e desenvolvimento de tecnologias agroalimentares.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "confap-2026-108",
+    "titulo": "Chamada nexBio Amazônia 2026",
+    "orgao": "CONFAP / Swissnex / Leading House",
+    "origem": "Nacional",
+    "areas": [
+      "bioeconomia",
+      "Amazônia",
+      "inovação sustentável",
+      "pesquisa",
+      "startups"
+    ],
+    "publico": "Representantes de startups e pesquisadores dos estados participantes das FAPs",
+    "valor": null,
+    "prazo": "2026-05-18",
+    "desc": "Chamada internacionalmente articulada, com participação de pesquisadores brasileiros dos estados das FAPs, voltada à bioeconomia amazônica e inovação sustentável.",
+    "url": "https://confap.org.br/pt/editais/108/chamada-nexbio-amazonia-2026",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "capes-2026-006",
+    "titulo": "Edital n.º 6/2026 – PDPG Parcerias Estratégicas nos Estados V – Rede de Pesquisa e Desenvolvimento da Amazônia Legal",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "pós-graduação",
+      "Amazônia Legal",
+      "pesquisa e desenvolvimento"
+    ],
+    "publico": "Programas de pós-graduação e instituições participantes",
+    "valor": null,
+    "prazo": "2026-10-02",
+    "desc": "Edital federal para projetos de pós-graduação na Amazônia Legal, relevante para grupos de pesquisa com interesse em Amazônia, agricultura e desenvolvimento regional.",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/noticias-defeso-eleitoral/abertas-as-inscricoes-para-projetos-de-pos-graduacao-na-amazonia-legal",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "fapespa-2026-003",
+    "titulo": "CHAMADA PÚBLICA Nº 003/2026",
+    "orgao": "FAPESPA",
+    "origem": "Estadual · AM",
+    "areas": [
+      "biotecnologia",
+      "Amazônia",
+      "pesquisa científica",
+      "mulheres na ciência"
+    ],
+    "publico": "Pesquisadoras, líderes de grupos de pesquisa vinculadas a ICTs no Pará",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada da FAPESPA para projetos em biotecnologia coordenados por mulheres no Pará, com aderência temática a soluções para problemas amazônicos.",
+    "url": "https://www.fapespa.pa.gov.br/2026/08/13/chamada-publica-no-003-2026/",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "bndes-mais-inovacao-2026-agro",
+    "titulo": "Programa BNDES Mais Inovação – Setor Agropecuário",
+    "orgao": "BNDES – Banco Nacional de Desenvolvimento Econômico e Social",
+    "origem": "Nacional",
+    "areas": [
+      "Agropecuária",
+      "Produção florestal",
+      "Pesca",
+      "Aquicultura",
+      "Inovação produtiva e tecnológica"
+    ],
+    "publico": "Empresários individuais e pessoas físicas que exerçam atividade econômica nos setores agropecuário, de produção florestal, de pesca e aquícola, além de empresas que invistam em inovação",
+    "valor": "Orçamento global do programa de R$ 12 bilhões em 2026; operações de crédito direto com valor mínimo de R$ 10 milhões (Norte e Nordeste) e R$ 20 milhões (demais regiões), segundo radar de oportunidades",
+    "prazo": "2026-12-31",
+    "desc": "Programa de financiamento à inovação que, em 2026, ampliou setores beneficiados para incluir o setor agropecuário, produção florestal, pesca e aquicultura, apoiando empresários individuais e pessoas físicas por meio de instituições financeiras credenciadas. O orçamento para 2026 foi ampliado para R$ 12 bilhões, com vigência para aprovação de pleitos de crédito direto até 31/12/2026, conforme a Lei nº 14.592/2023.",
+    "url": "https://www.bndes.gov.br/wps/vanityurl/bndes-mais-inovacao/",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "fao-bioinputs-plastics-2026",
+    "titulo": "Call for applications on bioinputs and agricultural plastics in Latin America and the Caribbean",
+    "orgao": "FAO – Organização das Nações Unidas para Alimentação e Agricultura",
+    "origem": "Internacional",
+    "areas": [
+      "Bioinsumos",
+      "Plásticos agrícolas",
+      "Sustentabilidade agrícola",
+      "Gestão de insumos no agro"
+    ],
+    "publico": "Organizações, projetos e iniciativas da América Latina e Caribe atuando com bioinsumos e gestão de plásticos agrícolas; inclui potencial participação de instituições brasileiras",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada da FAO para submissão de candidaturas sobre bioinsumos e plásticos agrícolas na América Latina e Caribe, com foco em práticas sustentáveis e gestão adequada de insumos no agro. A chamada é coordenada pelo Escritório Regional da FAO para a América Latina e Caribe e é aplicável a instituições brasileiras que atuem nos temas de bioinsumos e plásticos agrícolas.",
+    "url": "https://www.fao.org/americas/events/en",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "fao-geo-rural-brasil-2026",
+    "titulo": "Request for Proposal – Georeferencing and allocation of rural properties for land regularization and territorial management in Maranhão and Pará",
+    "orgao": "FAO – Organização das Nações Unidas para Alimentação e Agricultura",
+    "origem": "Internacional",
+    "areas": [
+      "Regularização fundiária rural",
+      "Gestão territorial",
+      "Georreferenciamento de propriedades rurais",
+      "Desenvolvimento rural"
+    ],
+    "publico": "Entidades e empresas com capacidade de executar serviços de georreferenciamento e gestão territorial em propriedades rurais nos estados do Maranhão e Pará (Brasil)",
+    "valor": null,
+    "prazo": "2026-04-13",
+    "desc": "Solicitação de propostas (RFP) da FAO para serviços de georreferenciamento e alocação de imóveis rurais visando regularização fundiária e gestão territorial nos estados do Maranhão e Pará, Brasil. O aviso indica beneficiário Brasil, com publicação em 11/03/2026 e prazo final em 13/04/2026 para submissão de propostas técnicas e financeiras.",
+    "url": "https://www.ungm.org/Public/Notice/293480",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "fao-capacitacao-fundiaria-2026",
+    "titulo": "Request for Proposal – Capacitação presencial sobre direitos fundiários e gestão integrada de recursos produtivos",
+    "orgao": "FAO – Organização das Nações Unidas para Alimentação e Agricultura",
+    "origem": "Internacional",
+    "areas": [
+      "Direitos fundiários",
+      "Gestão integrada de recursos produtivos",
+      "Capacitação rural",
+      "Governança de terras agrícolas"
+    ],
+    "publico": "Instituições e organizações aptas a ofertar capacitação presencial em direitos fundiários e gestão de recursos produtivos, com atuação no Brasil",
+    "valor": null,
+    "prazo": "2026-02-23",
+    "desc": "Solicitação de propostas para oferta de capacitação presencial sobre direitos fundiários e gestão integrada de recursos produtivos, com foco em participantes no Brasil. O aviso especifica a natureza de treinamento em direitos de terra e gestão de recursos produtivos, publicado em 07/01/2026, com prazo até 23/02/2026.",
+    "url": "https://www.ungm.org/Public/Notice/288284",
+    "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "horizon-europe-2026-cluster6-brasil",
+    "titulo": "Horizon Europe 2026–2027 Work Programme – Cluster 6 (Food, Bioeconomy, Natural Resources, Agriculture and Environment) – Topics com elegibilidade excepcional para entidades brasileiras",
+    "orgao": "Comissão Europeia – Programa Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "Sistemas alimentares sustentáveis",
+      "Bioeconomia",
+      "Recursos naturais",
+      "Agricultura",
+      "Meio ambiente",
+      "Cooperação internacional UE–Brasil"
+    ],
+    "publico": "Instituições de pesquisa, universidades, empresas e organizações brasileiras elegíveis em chamadas específicas do Cluster 6 com cláusula excepcional de financiamento a entidades estabelecidas no Brasil",
+    "valor": null,
+    "prazo": null,
+    "desc": "Conjunto de chamadas de 2026–2027 do Cluster 6 do Horizon Europe, abrangendo sistemas alimentares justos e saudáveis, bioeconomia, recursos naturais, agricultura e meio ambiente. O documento de trabalho indica explicitamente que, devido ao escopo de determinados tópicos, entidades legais estabelecidas no Brasil são excepcionalmente elegíveis para financiamento da União, abrindo oportunidade para participação de instituições brasileiras em projetos de pesquisa agropecuária e sistemas alimentares em consórcios internacionais.",
+    "url": "https://www.nks-bio-umw.de/lw_resource/datapool/systemfiles/elements/files/7966990a-08f0-11f1-a9f4-fa163ebab5e5/current/document/260213_NKS_BU_INCO-Cl.6_Calls_2026-27.pdf",
+    "descobertoEm": "2026-09-08"
   }
 ]
