@@ -5506,41 +5506,39 @@
   },
   {
     "id": "3",
-    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Agricultura Familiar para ICTs (Fluxo Contínuo)",
-    "orgao": "MCTI / FINEP / FNDCT",
+    "titulo": "Programa Inovagro – Incentivo à Modernização e à Inovação na Agropecuária",
+    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
     "origem": "Nacional",
     "areas": [
-      "Agricultura familiar",
-      "Segurança alimentar",
-      "Erradicação da fome",
-      "Inclusão socioprodutiva",
-      "Inovação tecnológica agro",
-      "Projetos de risco tecnológico"
+      "Inovação agropecuária",
+      "Modernização de propriedades rurais",
+      "Tecnologias de produção agropecuária",
+      "Infraestrutura e equipamentos agro"
     ],
-    "publico": "Instituições científicas e tecnológicas (ICTs) brasileiras",
-    "valor": "Não explicitado no extrato; linha de fomento do FNDCT para projetos de inovação e risco tecnológico",
-    "prazo": null,
-    "desc": "Seleção pública em fluxo contínuo voltada a conceder recursos a projetos inovadores e de risco tecnológico, focados em segurança alimentar, erradicação da fome e inclusão socioprodutiva, com ênfase em agricultura familiar. O foco é financiar P,D&I em ICTs brasileiras, altamente aderente à pesquisa agropecuária, incluindo desenvolvimento de tecnologias, sistemas produtivos e soluções para agricultura familiar.",
-    "url": "http://legacy.finep.gov.br/",
+    "publico": "Produtores rurais, empresas e empreendimentos individuais ou coletivos do setor agropecuário que atendam às condições de crédito rural estabelecidas pelo BNDES e agentes financeiros credenciados",
+    "valor": "Limite de financiamento de até R$ 4.000.000,00 por cliente em empreendimentos individuais (com limite de R$ 400.000,00 para aquisição de animais) e até R$ 15.000.000,00 para empreendimentos coletivos, respeitado o limite individual por participante",
+    "prazo": "2027-06-30",
+    "desc": "Linha de financiamento do BNDES voltada à modernização e inovação na agropecuária, apoiando investimentos em infraestrutura, máquinas, equipamentos e tecnologias que aumentem produtividade, eficiência e sustentabilidade em propriedades rurais e empreendimentos agropecuários. O programa está vigente até 30 de junho de 2027, sendo aplicável a projetos de modernização tecnológica e inovação em sistemas produtivos agropecuários brasileiros.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "4",
-    "titulo": "Edital nº 32/2026 – Edital de Fluxo Contínuo FAPESQ e Unidades EMBRAPII",
-    "orgao": "FAPESQ / EMBRAPII",
-    "origem": "Estadual · AM",
+    "titulo": "Mais Inovação BNDES – Inclusão do setor agropecuário e bioeconomia",
+    "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
+    "origem": "Nacional",
     "areas": [
-      "Inovação industrial",
-      "Agroindústria",
-      "Tecnologias para agronegócio",
-      "Parcerias empresa–ICT",
-      "P,D&I aplicado"
+      "Inovação agropecuária",
+      "Produção florestal",
+      "Pesca e aquicultura",
+      "Serviços relacionados à agropecuária",
+      "Bioinsumos (em sinergia com chamadas específicas)"
     ],
-    "publico": "Empresas e grupos de pesquisa vinculados às Unidades EMBRAPII em parceria com FAPESQ",
-    "valor": "Não explicitado no extrato; modelo de cofinanciamento EMBRAPII–FAPESQ para projetos de P,D&I",
-    "prazo": null,
-    "desc": "Edital de fluxo contínuo estabelecido pela FAPESQ em parceria com Unidades EMBRAPII para financiamento compartilhado de projetos de pesquisa, desenvolvimento e inovação industrial. Embora setorialmente amplo, permite enquadramento de projetos em agroindústria e tecnologias voltadas ao agronegócio, desde que submetidos por empresas em parceria com unidades EMBRAPII credenciadas, sendo diretamente aplicável a pesquisa agropecuária em formato cooperativo empresa–ICT.",
-    "url": "https://fapesq.rpp.br/editais/2026/edital-no-32-2026-2013-edital-de-fluxo-continuo-fapesq-e-unidades-embrapii",
+    "publico": "Empresários individuais e pessoas físicas que exerçam atividade econômica nos setores agropecuário, de produção florestal, de pesca e aquícola, inclusive serviços diretamente relacionados, bem como empresas inovadoras enquadradas no programa",
+    "valor": "Montantes variáveis conforme projeto e linha dentro do programa Mais Inovação; inclui ampliação de orçamento para apoio a diversos setores, com foco em inovação produtiva",
+    "prazo": "null",
+    "desc": "Programa Mais Inovação do BNDES com orçamento ampliado e inclusão explícita de setores agropecuário, produção florestal, pesca e aquicultura, além de serviços correlatos. Opera por chamadas e financiamentos para projetos de inovação tecnológica e produtiva, incluindo desenvolvimento e adoção de novas tecnologias, processos e produtos na agropecuária brasileira. A ampliação anunciada em 2026 aumenta a elegibilidade de projetos agropecuários, inclusive de pequenos empreendedores e produtores.",
+    "url": "https://agenciadenoticias.bndes.gov.br/bndes/BNDES-amplia-orcamento-e-setores-beneficiados-pelo-Mais-Inovacao/",
     "descobertoEm": "2026-07-30"
   },
   {
@@ -6786,40 +6784,39 @@
   },
   {
     "id": "5",
-    "titulo": "GEOREFERENCING AND ALLOCATION OF RURAL PROPERTIES FOR LAND REGULARIZATION AND TERRITORIAL MANAGEMENT IN MARANHÃO AND PARÁ (RFP 2026/FLBRA/FLBRA/135999)",
-    "orgao": "Organização das Nações Unidas para Alimentação e Agricultura (FAO)",
+    "titulo": "Request for Proposal – GEOREFERENCING AND ALLOCATION OF RURAL PROPERTIES FOR LAND REGULARIZATION AND TERRITORIAL MANAGEMENT IN MARANHÃO AND PARÁ",
+    "orgao": "FAO (Food and Agriculture Organization of the United Nations)",
     "origem": "Internacional",
     "areas": [
-      "Georreferenciamento de propriedades rurais",
+      "Gestão territorial rural",
       "Regularização fundiária",
-      "Gestão territorial",
-      "Planejamento rural",
-      "Desenvolvimento agrícola sustentável",
-      "Uso da terra e cadastro rural"
+      "Georreferenciamento de imóveis rurais",
+      "Planejamento de uso da terra",
+      "Governança de recursos naturais"
     ],
-    "publico": "Entidades e consórcios com capacidade técnica para atuar no Brasil (Maranhão e Pará), conforme regras de contratação da FAO/ONU",
-    "valor": "Não explicitado no extrato público; contratação via Request for Proposal",
+    "publico": "Instituições e empresas elegíveis para contratação pela FAO, com capacidade técnica em georreferenciamento, regularização fundiária e gestão territorial em áreas rurais no Brasil, especialmente nos estados do Maranhão e Pará",
+    "valor": "Valor total contratual não informado publicamente no resumo da chamada; definido em documentação detalhada da RFP",
     "prazo": "2026-04-13",
-    "desc": "Request for Proposal da FAO voltado ao georreferenciamento e alocação de propriedades rurais para fins de regularização fundiária e gestão territorial nos estados do Maranhão e Pará, no Brasil. A chamada busca serviços especializados que impactam diretamente a base territorial da produção agropecuária, com forte interface com pesquisa aplicada em cadastro rural, ordenamento territorial e políticas agrícolas.",
+    "desc": "Chamada internacional (Request for Proposal) da FAO para serviços de georreferenciamento e alocação de imóveis rurais voltados à regularização fundiária e gestão territorial em Maranhão e Pará. A iniciativa contribui à organização territorial rural e pode gerar bases de dados e instrumentos relevantes para pesquisa agropecuária brasileira em temas de uso da terra, governança de recursos produtivos e planejamento territorial. Beneficiary country indicado como Brasil, com prazo de submissão até 13 de abril de 2026.",
     "url": "https://www.ungm.org/Public/Notice/293480",
     "descobertoEm": "2026-08-15"
   },
   {
     "id": "6",
-    "titulo": "ON-SITE CAPACITY BUILDING ON LAND RIGHTS AND INTEGRATED MANAGEMENT OF PRODUCTIVE RESOURCES (RFP 2026/FLBRA/FLBRA/135225)",
-    "orgao": "Organização das Nações Unidas para Alimentação e Agricultura (FAO)",
+    "titulo": "Request for Proposal – CAPACITAÇÃO PRESENCIAL SOBRE DIREITOS FUNDIÁRIOS E GESTÃO INTEGRADA DE RECURSOS PRODUTIVOS",
+    "orgao": "FAO (Food and Agriculture Organization of the United Nations)",
     "origem": "Internacional",
     "areas": [
       "Direitos fundiários",
       "Gestão integrada de recursos produtivos",
       "Capacitação rural",
       "Governança de terras",
-      "Sustentabilidade de sistemas produtivos agrícolas"
+      "Sustentabilidade de sistemas produtivos"
     ],
-    "publico": "Instituições e organizações aptas a prestar serviços de capacitação presencial no Brasil, conforme elegibilidade FAO",
-    "valor": "Não explicitado; contratação de serviços de capacitação via RFP",
+    "publico": "Instituições e organizações com experiência em capacitação presencial em direitos fundiários e gestão integrada de recursos produtivos em contexto rural brasileiro, elegíveis para contratos da FAO",
+    "valor": "Valor contratual não especificado no resumo público da RFP; detalhado em documentos da licitação",
     "prazo": "2026-02-23",
-    "desc": "Request for Proposal da FAO para capacitação presencial sobre direitos fundiários e gestão integrada de recursos produtivos. A ação busca fortalecer capacidades locais relativas ao uso da terra e manejo de recursos em contextos rurais brasileiros, estando alinhada a agendas de desenvolvimento agrícola sustentável e podendo ser articulada com projetos de pesquisa agropecuária em temas de governança fundiária e gestão de sistemas produtivos.",
+    "desc": "Chamada internacional da FAO em formato de Request for Proposal para realização de capacitação presencial sobre direitos fundiários e gestão integrada de recursos produtivos, destinada ao contexto brasileiro. A ação busca fortalecer capacidades locais em governança de terras e manejo sustentável de recursos produtivos, sendo aplicável a temas de pesquisa e extensão agropecuária, especialmente em dimensões socioinstitucionais, políticas de terras e sustentabilidade de sistemas agrícolas.",
     "url": "https://www.ungm.org/Public/Notice/288284",
     "descobertoEm": "2026-08-15"
   },
@@ -7705,18 +7702,20 @@
   {
     "id": "cnpq-capes-30-2026-mai-dai",
     "titulo": "Chamada Pública CNPq/CAPES Nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação (MAI/DAI)",
-    "orgao": "CNPq · CAPES",
+    "orgao": "CNPq/CAPES",
     "origem": "Nacional",
     "areas": [
-      "Inovação tecnológica",
-      "PD&I em parceria ICT–empresa",
-      "Setores produtivos diversos (inclui cadeias agroindustriais)"
+      "Inovação",
+      "Pós-graduação stricto sensu",
+      "PD&I",
+      "Ciências Agrárias",
+      "Agropecuária"
     ],
-    "publico": "Programas de pós-graduação stricto sensu e instituições de pesquisa em parceria com empresas interessadas em projetos de mestrado e doutorado voltados à inovação",
-    "valor": "Valor global e número de bolsas definidos no edital; inclui bolsas de mestrado, doutorado e apoio a projetos de inovação",
+    "publico": "Programas de pós-graduação acadêmicos de instituições de ensino superior brasileiras, em parceria com empresas, interessados em desenvolver projetos de mestrado e doutorado voltados à inovação em setores produtivos, incluindo o agronegócio e a agropecuária",
+    "valor": "Concessão de bolsas de mestrado e doutorado acadêmico para inovação e recursos de fomento associados, conforme regras e quotas da chamada",
     "prazo": "2026-12-11",
-    "desc": "Edição 2026 do Programa MAI/DAI, que estimula projetos de mestrado e doutorado acadêmico desenvolvidos em parceria entre universidades/instituições de pesquisa e empresas, com foco em PD&I. É relevante para grupos de pesquisa em agropecuária e Embrapa que atuem em colaboração com empresas do setor agroindustrial e de tecnologias para o agro.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "desc": "Edição 2026 do Programa MAI/DAI, que estimula a realização de pesquisas de mestrado e doutorado em universidades em parceria com empresas, com foco em inovação. As propostas podem abranger temas de interesse do setor agropecuário e da Embrapa, desde que enquadrados na agenda de PD&I e articulados com demandas empresariais.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-30-2026/chamada-publica-cnpq-N-30-2026",
     "descobertoEm": "2026-08-21"
   },
   {
@@ -7901,23 +7900,20 @@
   },
   {
     "id": "cnpq-24-2026-biotec",
-    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 - Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 – Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Biotecnologia agropecuária",
-      "Biotecnologia ambiental",
-      "Biotecnologia industrial",
-      "Biotecnologia em saúde humana",
-      "Bioinsumos para agropecuária",
-      "Agricultura",
-      "Pecuária"
+      "Biotecnologia",
+      "PD&I",
+      "Ciências Agrárias",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores vinculados a ICTs brasileiras (instituições científicas, tecnológicas e de inovação), elegíveis nas regras do CNPq/MCTI/FNDCT, incluindo grupos de pesquisa em agropecuária e potencialmente pesquisadores da Embrapa em parceria com ICTs",
-    "valor": "Valor por proposta e orçamento total variam por linha temática; consultar o anexo orçamentário da chamada no PDF oficial",
+    "publico": "Grupos de pesquisa e instituições científicas e tecnológicas que desenvolvam projetos de pesquisa, desenvolvimento e inovação em biotecnologia, incluindo aplicações em agricultura, pecuária, sanidade animal e vegetal, bioinsumos e genética",
+    "valor": "Não explicitado no resumo; valores e faixas de financiamento definidos no texto completo da chamada",
     "prazo": "2026-09-18",
-    "desc": "Chamada de fomento à pesquisa, desenvolvimento e inovação em biotecnologia, com linhas específicas para biotecnologia agropecuária e bioinsumos para agropecuária sustentável, incluindo desenvolvimento de soluções biológicas para fixação biológica de nitrogênio, controle biológico de pragas e doenças na agricultura e pecuária, e outras aplicações em cadeias produtivas do agronegócio.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/chamada-publica-cnpq-N-24-2026",
+    "desc": "Chamada pública destinada a apoiar projetos de pesquisa, desenvolvimento e inovação em biotecnologia em áreas estratégicas, com foco em soluções tecnológicas para setores produtivos, incluindo o agropecuário. As propostas devem ser submetidas por instituições de pesquisa brasileiras, podendo envolver parcerias com empresas, visando consolidar competências científicas e tecnológicas e promover inovação.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
     "descobertoEm": "2026-08-22"
   },
   {
@@ -10726,5 +10722,23 @@
     "desc": "Conjunto de chamadas de 2026–2027 do Cluster 6 do Horizon Europe, abrangendo sistemas alimentares justos e saudáveis, bioeconomia, recursos naturais, agricultura e meio ambiente. O documento de trabalho indica explicitamente que, devido ao escopo de determinados tópicos, entidades legais estabelecidas no Brasil são excepcionalmente elegíveis para financiamento da União, abrindo oportunidade para participação de instituições brasileiras em projetos de pesquisa agropecuária e sistemas alimentares em consórcios internacionais.",
     "url": "https://www.nks-bio-umw.de/lw_resource/datapool/systemfiles/elements/files/7966990a-08f0-11f1-a9f4-fa163ebab5e5/current/document/260213_NKS_BU_INCO-Cl.6_Calls_2026-27.pdf",
     "descobertoEm": "2026-09-08"
+  },
+  {
+    "id": "FAPEMA-20-2026-SECTI-CNPq-CAPES",
+    "titulo": "EDITAL nº 20/2026 FAPEMA/SECTI/CNPq/CAPES",
+    "orgao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão)",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências Agrárias",
+      "Meio Ambiente",
+      "Desenvolvimento Regional",
+      "Inovação Tecnológica"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa e ensino do Maranhão, com projetos em áreas estratégicas apoiadas por FAPEMA/SECTI/CNPq/CAPES",
+    "valor": "Valor global e por projeto definidos no texto do edital 20/2026 (não detalhado no extrato consultado)",
+    "prazo": "2026-09-09",
+    "desc": "Edital de fomento da FAPEMA em parceria com SECTI, CNPq e CAPES. O período de submissão das propostas vai de 13/08/2026 a 09/09/2026 (até às 12h). Apoia projetos de pesquisa e pós-graduação em áreas prioritárias para o desenvolvimento científico e tecnológico do estado, com potencial relevância para temas amazônicos e agropecuários via biomas de transição e cadeias produtivas regionais.",
+    "url": "https://www.fapema.br/category/editais/editais-em-aberto/",
+    "descobertoEm": "2026-09-09"
   }
 ]
