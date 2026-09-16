@@ -6349,19 +6349,21 @@
   },
   {
     "id": "fapesp-fapeam-2026",
-    "titulo": "Chamada FAPEAM/FAPESP 2026",
-    "orgao": "FAPEAM / FAPESP",
+    "titulo": "Chamada FAPESP/FAPEAM 2026 – Bioeconomia Amazônica",
+    "orgao": "FAPESP · FAPEAM",
     "origem": "Nacional",
     "areas": [
-      "bioeconomia",
-      "desenvolvimento sustentável",
-      "pesquisa",
-      "Amazônia"
+      "Bioeconomia",
+      "Ciências Agrárias",
+      "Ciências Ambientais",
+      "Ciências Biológicas",
+      "Inovação em Cadeias Produtivas da Amazônia",
+      "Agropecuária Sustentável"
     ],
-    "publico": "Pesquisadores e instituições elegíveis nos termos da chamada conjunta",
-    "valor": null,
+    "publico": "Pesquisadores vinculados a instituições de pesquisa do Estado de São Paulo (FAPESP) e do Estado do Amazonas (FAPEAM), em regime de colaboração",
+    "valor": "Apoio a projetos de pesquisa com duração de até 36 meses; valores e modalidades de financiamento definidos pelas regras da FAPESP e da FAPEAM para a chamada conjunta",
     "prazo": "2026-03-23",
-    "desc": "Chamada conjunta para submissão de propostas em parceria entre FAPEAM e FAPESP, com duração prevista de 36 meses.",
+    "desc": "Chamada conjunta FAPESP/FAPEAM destinada ao financiamento de pesquisas em ciência, tecnologia e inovação em bioeconomia amazônica, articulando colaborações entre pesquisadores dos estados de São Paulo e Amazonas. A chamada prioriza temas ligados à Amazônia, cadeias produtivas bioeconômicas e sistemas agropecuários sustentáveis, com prazo final para inscrições em 23/03/2026 e duração dos projetos de até 36 meses.[10][12]",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-08-13"
   },
@@ -8900,18 +8902,19 @@
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK-01-two-stage",
     "titulo": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
-    "orgao": "European Commission / Horizon Europe",
+    "orgao": "European Commission",
     "origem": "Internacional",
     "areas": [
       "agricultura",
       "inovação",
+      "competitividade",
       "sustentabilidade",
-      "eficiência produtiva"
+      "uso eficiente de insumos"
     ],
-    "publico": "Consórcios internacionais elegíveis no Horizon Europe",
+    "publico": "Consórcios elegíveis ao Horizon Europe, incluindo universidades, centros de pesquisa, empresas e ICTs com participação internacional",
     "valor": "€13.500.000",
     "prazo": "2026-09-15",
-    "desc": "Chamada em duas etapas do Cluster 6, com abertura em 12/02/2026 e prazo final da segunda etapa em 15/09/2026; voltada a aumentar competitividade e uso sustentável de fatores de produção agrícola.",
+    "desc": "Chamada do Horizon Europe Cluster 6 voltada a projetos de inovação para aumentar a competitividade do setor agrícola com uso eficiente e sustentável dos fatores de produção.",
     "url": "https://www.horizon-europe.gouv.fr/open-topic-improving-competitiveness-agricultural-sector-enhancing-efficient-and-sustainable-use",
     "descobertoEm": "2026-08-29"
   },
@@ -8937,20 +8940,20 @@
   {
     "id": "HORIZON-CL6-2026-01-BIODIV-06",
     "titulo": "Boosting agrobiodiversity for food security and sustainable competitiveness",
-    "orgao": "European Commission / Horizon Europe",
+    "orgao": "European Commission",
     "origem": "Internacional",
     "areas": [
       "agrobiodiversidade",
       "segurança alimentar",
-      "competitividade sustentável",
-      "agricultura",
-      "biodiversidade"
+      "sustentabilidade",
+      "competitividade",
+      "pesquisa agropecuária"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe; participação brasileira possível conforme regras do programa",
-    "valor": "Call budget: €12.000.000; estimated EU contribution per project: €6.000.000",
+    "publico": "Consórcios elegíveis ao Horizon Europe, incluindo instituições de pesquisa e parceiros internacionais",
+    "valor": "€12.000.000",
     "prazo": "2026-09-17",
-    "desc": "Chamada do Cluster 6 para soluções de agrobiodiversidade voltadas à segurança alimentar e competitividade sustentável.",
-    "url": "https://www.euro-access.eu/en/calls/2775/Boosting-agrobiodiversity-for-food-security-and-sustainable-competitiveness",
+    "desc": "Chamada do Horizon Europe Cluster 6 para fortalecer a agrobiodiversidade com foco em segurança alimentar e competitividade sustentável.",
+    "url": "https://www.efsa.europa.eu/en/funding-calls/boosting-agrobiodiversity-food-security-and-sustainable-competitiveness-horizon-cl6",
     "descobertoEm": "2026-08-29"
   },
   {
@@ -11949,5 +11952,196 @@
     "desc": "Request for Proposal internacional da FAO para georreferenciamento e alocação de imóveis rurais destinados à regularização fundiária e gestão territorial nos estados do Maranhão e Pará, Brasil. Embora seja uma licitação de serviços e não um edital de subvenção, configura oportunidade de financiamento para projetos técnicos de geotecnologias aplicadas à gestão rural, com potencial interação com pesquisa aplicada em agropecuária e ordenamento territorial.",
     "url": "https://www.ungm.org/Public/Notice/293480",
     "descobertoEm": "2026-09-15"
+  },
+  {
+    "id": "finep-mais-inovacao-rodada2-agroindustriais-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura",
+      "Agronegócio",
+      "Sistemas agroindustriais sustentáveis",
+      "Saúde animal",
+      "Foodtech",
+      "PD&I"
+    ],
+    "publico": "Empresas e cooperativas com projetos de inovação em cadeias agroindustriais sustentáveis",
+    "valor": "Recursos não reembolsáveis do FNDCT, valor global não especificado na listagem; condições detalhadas no edital oficial",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública voltada ao apoio a projetos de inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech, com foco em PD&I. A linha é financiada por FINEP e FNDCT e se insere no programa Finep Mais Inovação Brasil – Rodada 2.",
+    "url": "http://www.finep.gov.br/chamadas-publicas",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "cnpq-2026-biotec-agropecuaria",
+    "titulo": "Chamada CNPq – Projetos de Pesquisa em Biotecnologia Agropecuária (Chamada 2026)",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial",
+      "PD&I em agropecuária",
+      "Ciência e tecnologia"
+    ],
+    "publico": "Pesquisadores vinculados a instituições de pesquisa e ensino, incluindo pesquisadores da Embrapa, com projetos nas áreas de biotecnologia agropecuária, ambiental e industrial",
+    "valor": "Valores e faixas de apoio por projeto definidos no texto da chamada; recursos do MCTI via CNPq para projetos de pesquisa",
+    "prazo": null,
+    "desc": "Chamada aberta para submissão com objeto de apoiar projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação do país nas áreas de biotecnologia para saúde humana, biotecnologia agropecuária, biotecnologia ambiental e biotecnologia industrial. Relevante para grupos de pesquisa em agropecuária e biotecnologia vinculados à Embrapa.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "cnpq-23-2025-bolsas-produtividade-pq-dt-2026-inscricoes-ate-2026-01-20",
+    "titulo": "Chamada CNPq Nº 23/2025 – Bolsas de Produtividade em Pesquisa (PQ, PQ-Sr) e Desenvolvimento Tecnológico e Extensão Inovadora (DT) – Vigência a partir de 2026",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Todas as áreas de conhecimento",
+      "Agropecuária",
+      "Desenvolvimento tecnológico",
+      "Extensão inovadora"
+    ],
+    "publico": "Pesquisadores doutores com trajetória consolidada, incluindo pesquisadores da Embrapa, concorrendo às modalidades PQ, PQ-Sr e DT; exige título de doutor até 2023 e critérios específicos de produção",
+    "valor": "Investimento total estimado em cerca de R$ 600 milhões; previsão de aproximadamente 5.499 bolsas PQ/PQ-Sr e 263 bolsas DT, com valores mensais variando entre R$ 1.100 e R$ 1.500, além de adicional de bancada conforme nível",
+    "prazo": "2026-01-20",
+    "desc": "Chamada nacional de bolsas de produtividade que apoia pesquisadores em diferentes áreas, incluindo agropecuária. Prevê oferta de milhares de bolsas PQ, PQ-Sr e DT com início de vigência em 2026, reconhecendo e apoiando trajetória acadêmica consolidada. Inscrições abertas até 20 de janeiro de 2026, com critérios definidos em documentos complementares de comitês assessores.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-29-2026",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "fapeam-003-2026",
+    "titulo": "Edital FAPEAM n.º 003/2026 – Programa de Apoio à Realização de Eventos Científicos e Tecnológicos no Estado do Amazonas – PAREV 2026 – Chamada I",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Ciências Agrárias",
+      "Ciências Ambientais",
+      "Ciências Biológicas",
+      "Desenvolvimento Regional",
+      "Amazônia"
+    ],
+    "publico": "Instituições de ensino e pesquisa e grupos de pesquisa sediados no Amazonas interessados em organizar eventos científicos e tecnológicos",
+    "valor": "Auxílios para organização de eventos científicos e tecnológicos, com valores e categorias definidos no edital PAREV 2026 – Chamada I",
+    "prazo": "2026-03-15",
+    "desc": "Programa de apoio à realização de eventos científicos e tecnológicos no Estado do Amazonas, com o objetivo de fomentar a divulgação científica e a integração de pesquisadores, incluindo temas estratégicos como Amazônia e agropecuária. A Chamada I contempla eventos realizados entre agosto e dezembro de 2026, com submissão eletrônica via SIGFAPEAM até 15/03/2026.[2][9]",
+    "url": "https://inove.ufam.edu.br/index.php/editais",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "amazonia10-desafios-2026",
+    "titulo": "Programa Desafios da Amazônia – 1ª Chamada (Iniciativa Amazônia+10 / BNDES / CONFAP)",
+    "orgao": "CONFAP · Iniciativa Amazônia+10 · BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "Bioeconomia Amazônica",
+      "Desenvolvimento Socioprodutivo",
+      "Agropecuária Sustentável",
+      "Conservação e Uso Sustentável de Recursos Naturais",
+      "Inovação em Cadeias Produtivas da Amazônia"
+    ],
+    "publico": "Pesquisadores vinculados às Fundações Estaduais de Amparo à Pesquisa participantes e organizações socioprodutivas (cooperativas e associações comunitárias) da Amazônia Legal",
+    "valor": "Apoio financeiro com recursos do Fundo Amazônia para projetos de pesquisa e inovação; valores por projeto definidos no edital do Programa Desafios da Amazônia",
+    "prazo": "2026-12-08",
+    "desc": "Primeira chamada do Programa Desafios da Amazônia, no âmbito da Iniciativa Amazônia+10, voltada ao apoio de projetos de pesquisa e inovação com recursos do Fundo Amazônia. As propostas devem ser submetidas em duas fases pelo sistema SIGCONFAP, contemplando pré-propostas até 01/09/2026 e propostas finais até 08/12/2026. O foco é apoiar pesquisadores e organizações socioprodutivas da Amazônia Legal em temas como bioeconomia, cadeias produtivas agropecuárias sustentáveis e desenvolvimento territorial.[14]",
+    "url": "https://www.amazoniamaisdez.org.br/chamadas-abertas",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "capes-pdpg-amazonia-legal-06-2026",
+    "titulo": "Edital CAPES n.º 6/2026 – PDPG Parcerias Estratégicas nos Estados V – Rede de Pesquisa e Desenvolvimento da Amazônia Legal",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Pós-graduação",
+      "Desenvolvimento Regional",
+      "Ciências Agrárias",
+      "Ciências Ambientais",
+      "Bioeconomia e Produção Sustentável na Amazônia Legal"
+    ],
+    "publico": "Programas de pós-graduação e redes de pesquisa vinculadas a instituições de ensino superior da Amazônia Legal",
+    "valor": "Financiamento de projetos de pós-graduação e redes de pesquisa, incluindo bolsas e custeio, conforme limites estabelecidos no edital PDPG",
+    "prazo": "2026-10-02",
+    "desc": "Edital do Programa de Desenvolvimento da Pós-Graduação (PDPG) – Parcerias Estratégicas nos Estados V, voltado à constituição e fortalecimento de rede de pesquisa e desenvolvimento na Amazônia Legal. As inscrições permanecem abertas até 02/10/2026 e visam apoiar projetos de pós-graduação em temas estratégicos para a região, incluindo agropecuária, uso sustentável de recursos naturais e bioeconomia.[15]",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/noticias-defeso-eleitoral/abertas-as-inscricoes-para-projetos-de-pos-graduacao-na-amazonia-legal",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "embrapa-licenciamento-11-2026",
+    "titulo": "Oferta 11-2026: Erva-mate BRS 408, BRS 409, BRS BLD Aupaba e BRS BLD Yari",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "PD&I",
+      "Transferência de tecnologia",
+      "Licenciamento de cultivares",
+      "Agronegócio",
+      "Erva-mate"
+    ],
+    "publico": "Empresas e instituições interessadas em licenciamento de cultivares de erva-mate da Embrapa",
+    "valor": null,
+    "prazo": null,
+    "desc": "Oferta pública interna da Embrapa para licenciamento de quatro cultivares de erva-mate (BRS 408, BRS 409, BRS BLD Aupaba e BRS BLD Yari), publicada como edital/oferta 11-2026 em 04/09/2026, no contexto dos editais e ofertas públicas para licenciamento vinculados à carteira de projetos do Sistema Embrapa de Gestão (SEG).",
+    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "embrapa-licenciamento-09-2026",
+    "titulo": "Edital de Seleção 09-2026: Gestão de produção de sementes de genética vegetal da Embrapa Trigo",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "PD&I",
+      "Transferência de tecnologia",
+      "Parcerias tecnológicas",
+      "Sementes",
+      "Genética vegetal",
+      "Trigo"
+    ],
+    "publico": "Empresas produtoras de sementes, cooperativas e demais organizações interessadas em parceria para gestão da produção de sementes de genética vegetal da Embrapa Trigo",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital interno de seleção 09-2026, publicado em 07/07/2026, voltado à gestão da produção de sementes de genética vegetal gerada pela Embrapa Trigo. Configura chamada para estabelecimento de parcerias tecnológicas e de transferência de tecnologia com foco em PD&I e licenciamento de materiais, no âmbito dos editais e ofertas públicas para licenciamento da Embrapa relacionados ao Sistema Embrapa de Gestão (SEG).",
+    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "FNDCT-2026-AGRICULTURA-FAMILIAR",
+    "titulo": "Chamada pública para cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis",
+    "orgao": "MCTI / FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "bioinsumos",
+      "agroecologia",
+      "soluções digitais",
+      "aquicultura"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação (ICTs)",
+    "valor": "R$ 150.000.000",
+    "prazo": "2026-06-19",
+    "desc": "Chamada nacional para projetos institucionais de desenvolvimento de soluções científicas e tecnológicas voltadas a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/03/estao-abertas-as-inscricoes-para-chamada-de-r-150-milhoes-sobre-agricultura-familiar",
+    "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "INOVAITA-2026-FINEP-AGRO",
+    "titulo": "Seleção Pública Inovação Agro",
+    "orgao": "Finep",
+    "origem": "Nacional",
+    "areas": [
+      "agroindústria",
+      "inovação",
+      "P&D",
+      "segurança alimentar",
+      "parcerias ICT-empresa"
+    ],
+    "publico": "Empresas e ICTs em parceria, com projetos de inovação e desenvolvimento tecnológico",
+    "valor": "R$ 300.000.000",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública para concessão de subvenção econômica a projetos inovadores voltados ao desenvolvimento da agroindústria nacional e parcerias entre empresas e ICTs.",
+    "url": "http://www.ita.br/sites/default/files/pages/collection/INOVAITA_radar%20de%20oportunidades_fevereiro2026_compressed.pdf",
+    "descobertoEm": "2026-09-16"
   }
 ]
