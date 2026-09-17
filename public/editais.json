@@ -960,20 +960,21 @@
   },
   {
     "id": "fapeam-fapesp-2026-articula-bio",
-    "titulo": "Chamada FAPEAM/FAPESP 2026 – Programa de Apoio à Articulação de Pesquisas em Bioeconomia e Desenvolvimento Sustentável",
-    "orgao": "FAPEAM/FAPESP",
-    "origem": "Estadual · AM",
+    "titulo": "Chamada FAPEAM/FAPESP 2026 – ARTICULA BIO",
+    "orgao": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas e FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
+    "origem": "Nacional",
     "areas": [
-      "Bioeconomia amazônica",
-      "Sustentabilidade",
-      "Meio ambiente",
-      "Ciências agrárias",
-      "Recursos naturais"
+      "Bioeconomia",
+      "Biotecnologia",
+      "Agropecuária sustentável",
+      "Cadeias produtivas da biodiversidade amazônica",
+      "Inovação tecnológica em sistemas agroflorestais",
+      "Ciências agrárias e ambientais"
     ],
-    "publico": "Pesquisadores vinculados a instituições de ensino superior e/ou pesquisa dos estados do Amazonas e de São Paulo",
-    "valor": "Auxílio à Pesquisa Regular FAPESP; valores conforme regras da modalidade APR e normas orçamentárias da FAPEAM na chamada",
+    "publico": "Pesquisadores vinculados a instituições de pesquisa do Amazonas (para submissão à FAPEAM) e de São Paulo (para submissão à FAPESP), interessados em projetos colaborativos em bioeconomia",
+    "valor": "Auxílio à pesquisa com duração de até 36 meses, com financiamento em paralelo pelas duas Fundações; cada parte contempla custeio, capital e bolsas conforme as respectivas normas de fomento",
     "prazo": "2026-03-23",
-    "desc": "Chamada para projetos colaborativos entre pesquisadores do Amazonas e de São Paulo voltados ao fortalecimento de parcerias interinstitucionais e ao desenvolvimento de soluções inovadoras em bioeconomia amazônica, incluindo uso sustentável de recursos naturais, cadeias produtivas e desenvolvimento sustentável na região.",
+    "desc": "Chamada de cooperação entre FAPEAM e FAPESP voltada à **articulação de pesquisas em bioeconomia** (ARTICULA BIO), com foco em projetos colaborativos envolvendo biodiversidade amazônica, sistemas agropecuários sustentáveis, desenvolvimento de produtos e processos biotecnológicos associados à bioeconomia e cadeias produtivas da floresta. As propostas devem ser submetidas simultaneamente às duas Fundações, com **data limite de 23/03/2026** e duração prevista dos projetos de 36 meses. A chamada prevê apoio a equipes multidisciplinares que integrem conhecimentos em ciências agrárias, ambientais, biológicas e tecnológicas aplicados à Amazônia e à bioeconomia.",
     "url": "https://fapesp.br/17974/chamada-fapeamfapesp-2026",
     "descobertoEm": "2026-06-17"
   },
@@ -2948,21 +2949,21 @@
   },
   {
     "id": "1",
-    "titulo": "Finep + Inovação Agro – Seleção Pública de subvenção econômica para inovação na agroindústria nacional",
-    "orgao": "Finep",
+    "titulo": "Inovagro – Programa de Incentivo à Modernização da Produção e da Comercialização de Produtos e Serviços Agropecuários",
+    "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Inovação agroindustrial",
-      "Agroindústria",
-      "Segurança alimentar",
-      "PD&I em agro",
-      "Parcerias empresa–ICT"
+      "inovação agro",
+      "modernização agropecuária",
+      "crédito para investimento rural",
+      "agricultura de precisão",
+      "infraestrutura de produção"
     ],
-    "publico": "Empresas brasileiras, em parceria ou não com Instituições Científicas e Tecnológicas (ICTs), com projetos de desenvolvimento de produtos ou processos inovadores voltados à agroindústria nacional",
-    "valor": "Orçamento total de aproximadamente R$ 300 milhões em subvenção econômica para desenvolvimento de produtos e processos inovadores na agroindústria",
-    "prazo": "2026-09-30",
-    "desc": "Seleção Pública voltada à concessão de subvenção econômica para projetos de pesquisa, desenvolvimento e inovação em produtos e processos voltados à agroindústria nacional, com foco em segurança alimentar e nutricional e em parcerias entre empresas e ICTs, incluindo projetos desenvolvidos em redes. O radar de oportunidades do InovaITA (fevereiro/2026) destaca esta chamada na área 'Agro', com prazo até 30/09/2026, indicando que se trata de um edital vigente em 2026 aplicável à pesquisa e inovação agropecuária brasileira, especialmente via cooperação ICT–empresa em PD&I.",
-    "url": "http://www.ita.br/sites/default/files/pages/collection/INOVAITA_radar%20de%20oportunidades_fevereiro2026_compressed.pdf",
+    "publico": "Produtores rurais, cooperativas, empresas do agronegócio e demais pessoas jurídicas que invistam em modernização da produção e comercialização agropecuária no Brasil",
+    "valor": "Programa de financiamento com vigência até 30/06/2027; valor máximo e condições variam conforme operação aprovada pelo BNDES e agentes financeiros",
+    "prazo": null,
+    "desc": "Linha de financiamento reembolsável do BNDES voltada a apoiar a modernização da produção e da comercialização de produtos e serviços agropecuários, incluindo investimentos em máquinas, equipamentos, estruturas de armazenagem, sistemas de irrigação, tecnologias de agricultura de precisão e infraestrutura associada. Vigente até 30/06/2027, podendo apoiar projetos de inovação e aumento de produtividade em propriedades e empresas brasileiras do setor agro.",
+    "url": "http://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
     "descobertoEm": "2026-07-06"
   },
   {
@@ -3209,19 +3210,18 @@
   },
   {
     "id": "embrapa-seg-2026-01",
-    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Bolsas de Fomento à Pesquisa",
-    "orgao": "Embrapa",
+    "titulo": "Edital 02/2026 – Chamada 02 – Programa de Bolsas Embrapa/CNPq",
+    "orgao": "Embrapa / CNPq",
     "origem": "Interno",
     "areas": [
-      "Pesquisa, Desenvolvimento e Inovação (PD&I)",
-      "Ciências Agrárias",
-      "Inovação Tecnológica"
+      "Pesquisa",
+      "Desenvolvimento e Inovação (PD&I)"
     ],
-    "publico": "Pesquisadores e bolsistas vinculados a projetos de PD&I em parceria Embrapa/CNPq",
-    "valor": "Valores conforme normas gerais e específicas das modalidades de bolsas de fomento do CNPq e do convênio Embrapa/CNPq",
-    "prazo": null,
-    "desc": "Chamada interna no âmbito do Convênio Embrapa/CNPq para concessão de bolsas de fomento à pesquisa, com critérios de elegibilidade alinhados às normas das modalidades de bolsas de fomento e aos objetivos de PD&I da Embrapa.",
-    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+Embrapa+CNpQ/f1d6cc73-7ebb-67a4-ec05-168cc38c047d",
+    "publico": "Estudantes e bolsistas vinculados a projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Chamada interna vinculada ao Edital 02/2026 do convênio Embrapa/CNPq, destinada à concessão de bolsas para execução de atividades em projetos de pesquisa, desenvolvimento e inovação previamente aprovados pelo Sistema Embrapa de Gestão (SEG). As inscrições ocorrem no período de 14 a 30 de abril de 2026, contemplando vagas associadas a projetos institucionalmente registrados e validados no SEG.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-07-08"
   },
   {
@@ -5485,55 +5485,59 @@
   },
   {
     "id": "2",
-    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação da Produção e do Agrobusiness",
-    "orgao": "BNDES",
+    "titulo": "Chamada pública para concessão de bolsas de estímulo à inovação – Projeto Embrapii/Embrapa Agroenergia/Pilzer (PEAE-2508.0024-CG2)",
+    "orgao": "Funarbe / Embrapii / Embrapa Agroenergia",
     "origem": "Nacional",
     "areas": [
-      "Inovação agropecuária",
-      "Modernização da produção rural",
-      "Tecnologias agro",
-      "Investimentos produtivos no campo"
+      "bioenergia",
+      "agroenergia",
+      "inovação tecnológica em agropecuária",
+      "P&D aplicado ao agronegócio",
+      "biocombustíveis e co-produtos agroindustriais"
     ],
-    "publico": "Produtores rurais, cooperativas e demais agentes do setor agro que desejem financiar investimentos para modernização, inovação tecnológica e ampliação da competitividade da produção agropecuária",
-    "valor": "Limite de até R$ 4 milhões por cliente em empreendimentos individuais e até R$ 15 milhões em empreendimentos coletivos, respeitados limites individuais; programa com vigência ativa até 30/06/2027",
-    "prazo": "2027-06-30",
-    "desc": "Linha de financiamento do BNDES voltada à modernização e ao incremento de inovação na produção agropecuária, incluindo aquisição de máquinas, equipamentos, tecnologias embarcadas, melhorias de infraestrutura e outros investimentos inovadores na atividade rural. O programa está vigente até 30/06/2027 e pode ser usado como instrumento de fomento à adoção de tecnologias e resultados de pesquisa agropecuária, especialmente quando articulado a projetos de inovação em propriedades rurais ou cooperativas.",
-    "url": "http://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
+    "publico": "Estudantes e pesquisadores elegíveis às bolsas de estímulo à inovação vinculadas ao projeto Embrapii/Embrapa Agroenergia/Pilzer, conforme critérios do edital",
+    "valor": "Concessão de bolsas de estímulo à inovação, com valores definidos por categoria de bolsa no edital específico do projeto Embrapii/Embrapa Agroenergia/Pilzer",
+    "prazo": "2026-05-18",
+    "desc": "Chamada pública gerenciada pela Fundação Arthur Bernardes (Funarbe) para seleção de bolsistas em projeto Embrapii/Embrapa Agroenergia/Pilzer (Embrapii - PEAE-2508.0024 - CG2). O edital concede bolsas de estímulo à inovação para atuação em atividades de pesquisa, desenvolvimento e inovação em agroenergia e bioenergia, inseridas em contexto agropecuário e agroindustrial brasileiro. As inscrições são recebidas até as 23h59 do dia 18/05/2026.",
+    "url": "https://agrega.funarbe.org.br/bolsas/bolsas/view-dados-para-edital?id=828035",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "3",
-    "titulo": "Chamada pública BNDES – Produção de bioinsumos para agricultura familiar",
-    "orgao": "BNDES",
+    "titulo": "Chamada interna nº 01/2026 – Seleção de Unidades e Centros de Competência Embrapii para atuação no Programa Jornada do Conhecimento (INCTs)",
+    "orgao": "Embrapii",
     "origem": "Nacional",
     "areas": [
-      "Bioinsumos",
-      "Agricultura familiar",
-      "Inovação tecnológica agro",
-      "Produção sustentável"
+      "gestão de projetos de P&D&I com empresas",
+      "parcerias ICT–empresa",
+      "transferência de tecnologia",
+      "prospecção de projetos Embrapii junto à indústria",
+      "apoio a INCTs com foco potencial em agro e tecnologias habilitadoras"
     ],
-    "publico": "Organizações, instituições e empreendimentos envolvidos na produção, desenvolvimento e disseminação de bioinsumos voltados à agricultura familiar, conforme critérios do edital do BNDES",
-    "valor": "Valor total da chamada de aproximadamente R$ 40 milhões destinados ao fortalecimento da produção de bioinsumos para agricultura familiar",
-    "prazo": null,
-    "desc": "Chamada pública lançada em maio de 2026 pelo BNDES com foco em fortalecimento da produção de bioinsumos para a agricultura familiar, mobilizando cerca de R$ 40 milhões. A chamada apoia projetos e iniciativas que visem ampliar a oferta, capacidade produtiva e inovação em bioinsumos, alinhados à sustentabilidade da produção agropecuária familiar. Trata-se de fomento diretamente aplicável a pesquisa, desenvolvimento tecnológico e escalonamento de soluções em bioinsumos para uso em sistemas agropecuários brasileiros.",
-    "url": "https://www.cnnbrasil.com.br/agro/bndes-faz-chamada-publica-de-r-40-milhoes-para-producao-de-bioinsumos/",
+    "publico": "Unidades Embrapii e Centros de Competência Embrapii interessados em atuar na Jornada do Conhecimento para pesquisadores de INCTs",
+    "valor": "Seleção de até 10 Unidades ou Centros de Competência Embrapii; condições de apoio e valores são definidos pela Embrapii no âmbito da Jornada do Conhecimento",
+    "prazo": "2026-06-26",
+    "desc": "Chamada interna da Embrapii nº 01/2026 para selecionar até 10 Unidades Embrapii ou Centros de Competência para atuar na Jornada do Conhecimento, iniciativa em parceria com o CNPq voltada a pesquisadores de INCTs. Embora seja uma chamada interna (voltada às unidades Embrapii), suporta diretamente projetos de P&D&I com empresas em diversas áreas tecnológicas, incluindo potenciais temas agroindustriais, biotecnologia, sistemas embarcados, fibras florestais e outras tecnologias aplicáveis à agropecuária. O período de inscrições vai de 08/06 a 26/06/2026.",
+    "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-01-2026-para-a-selecao-de-unidades-e-centros-de-competencia-embrapii-para-atuacao-no-programa-jornada-do-conhecimento-para-pesquisadores-de-incts/",
     "descobertoEm": "2026-07-30"
   },
   {
     "id": "4",
-    "titulo": "Edital nº 32/2026 – Fluxo Contínuo FAPESQ e Unidades EMBRAPII",
-    "orgao": "FAPESQ (Fundação de Apoio à Pesquisa do Estado da Paraíba) em cooperação com Unidades Embrapii",
-    "origem": "Estadual · AM",
+    "titulo": "Innovate Africa Challenge (3rd Edition) – AI Solutions for Climate-Smart Agriculture",
+    "orgao": "Smart Africa / FAO",
+    "origem": "Internacional",
     "areas": [
-      "Inovação tecnológica",
-      "Agro e setores correlatos via Unidades Embrapii",
-      "PD&I em parceria empresa–ICT"
+      "agricultura inteligente no clima",
+      "inteligência artificial aplicada à agricultura",
+      "inovação digital em sistemas agroalimentares",
+      "agricultura de precisão",
+      "resiliência climática no agro"
     ],
-    "publico": "Empresas e instituições da Paraíba, em cooperação com Unidades Embrapii credenciadas, para projetos de pesquisa, desenvolvimento e inovação em diversas áreas, incluindo agro quando abarcado pelo escopo das unidades parceiras",
-    "valor": null,
-    "prazo": null,
-    "desc": "Edital de fluxo contínuo lançado em 2026 pela FAPESQ em parceria com Unidades Embrapii, com objetivo de apoiar projetos de pesquisa, desenvolvimento e inovação em regime de cooperação ICT–empresa. Embora não seja exclusivo ao agro, permite financiamento de projetos de inovação agropecuária quando enquadrados nas áreas de atuação das Unidades Embrapii participantes. O edital opera em fluxo contínuo, favorecendo a submissão de projetos ao longo do período de vigência.",
-    "url": "https://fapesq.rpp.br/editais/2026/edital-no-32-2026-2013-edital-de-fluxo-continuo-fapesq-e-unidades-embrapii",
+    "publico": "Empreendedores, empresas de base tecnológica, equipes de inovação e organizações que desenvolvem soluções de inteligência artificial aplicadas à agricultura em países africanos; participação brasileira depende de enquadramento nas regras da iniciativa continental africana",
+    "valor": "Desafio continental com apoio financeiro e técnico a soluções selecionadas; valores específicos por desafio e apoio são detalhados nas regras da edição 2026",
+    "prazo": "2026-08-31",
+    "desc": "Terceira edição do Innovate Africa Challenge, iniciativa continental organizada por Smart Africa e FAO para acelerar a implantação de soluções de inteligência artificial voltadas à agricultura inteligente no clima. A edição 2026 tem o tema “From Ideation to Deployment” e busca levar inovações de IA para escala, gerando benefícios mensuráveis a agricultores e sistemas agrícolas. Trata-se de chamada internacional focada em África; pesquisadores e empresas brasileiras só podem participar se atenderem às regras de elegibilidade e escopo geográfico da competição.",
+    "url": "https://www.africaeuropeinnovation.net/funding-opportunity/innovate-africa-challenge-3rd-edition/",
     "descobertoEm": "2026-07-30"
   },
   {
@@ -6781,38 +6785,40 @@
   },
   {
     "id": "5",
-    "titulo": "Chamada interna nº 01/2026 – Seleção de Unidades e Centros de Competência Embrapii para o Programa Jornada do Conhecimento",
-    "orgao": "Embrapii em parceria com CNPq",
-    "origem": "Nacional",
+    "titulo": "FAO – Global Conference for Actions on One Health in Agrifood Systems: Call for Proposals – Side Events",
+    "orgao": "FAO",
+    "origem": "Internacional",
     "areas": [
-      "Apoio à pesquisa e inovação",
-      "Capacitação de pesquisadores",
-      "Unidades Embrapii com foco potencial em agro",
-      "Integração INCTs–Unidades Embrapii"
+      "One Health em sistemas agroalimentares",
+      "saúde animal, humana e ambiental",
+      "segurança alimentar",
+      "sustentabilidade de sistemas agropecuários",
+      "governança de riscos sanitários e ambientais"
     ],
-    "publico": "Unidades Embrapii e Centros de Competência Embrapii já credenciados, que podem indicar bolsistas para atuar como facilitadores na Jornada do Conhecimento; indiretamente beneficia grupos de pesquisa, inclusive na área agro",
-    "valor": null,
-    "prazo": "2026-06-26",
-    "desc": "Chamada interna publicada em junho de 2026 para selecionar até 10 Unidades e Centros de Competência Embrapii para atuar no Programa Jornada do Conhecimento, em parceria com o CNPq. A chamada é restrita às Unidades Embrapii e Centros de Competência credenciados, que indicam bolsistas facilitadores para atividades ligadas à integração de INCTs e programas de inovação. Embora não seja um edital direto de financiamento de projetos agropecuários, fortalece a estrutura de apoio à pesquisa e inovação, incluindo unidades com foco em agro, agroenergia e cadeias produtivas agrícolas.",
-    "url": "https://embrapii.org.br/chamadas-publicas/chamada-interna-no-01-2026-para-a-selecao-de-unidades-e-centros-de-competencia-embrapii-para-atuacao-no-programa-jornada-do-conhecimento-para-pesquisadores-de-incts/",
+    "publico": "Estados membros da FAO, universidades, centros de pesquisa, organizações internacionais e outras instituições que proponham eventos paralelos sobre One Health em sistemas agroalimentares",
+    "valor": "Chamada para propostas de eventos paralelos; não é um edital típico de fomento financeiro, mas pode envolver apoio institucional e visibilidade para projetos e redes de pesquisa",
+    "prazo": "2026-05-31",
+    "desc": "Chamada de propostas da FAO para organização de side events na Global Conference for Actions on One Health in Agrifood Systems. As propostas devem tratar de ações realizadas ou propostas em One Health nos sistemas agroalimentares, com foco em resultados e escalabilidade. Pesquisadores e instituições brasileiras podem submeter propostas se enquadrados como membros ou parceiros da FAO, sendo um instrumento relevante para internacionalização de agendas de pesquisa agropecuária ligada a saúde única.",
+    "url": "https://www.fao.org/one-health/resources/events/fao-global-conference-for-actions-on-one-health-in-agrifood-systems/call-for-proposals/en",
     "descobertoEm": "2026-08-15"
   },
   {
     "id": "6",
-    "titulo": "Chamada nº 207/2026 – Bolsas de estímulo à inovação – Projeto Embrapii/Embrapa Agroenergia/Pilzer (Bioestimulante microbiano para canola)",
-    "orgao": "Funarbe em parceria com Embrapa Agroenergia e Embrapii",
-    "origem": "Interno",
+    "titulo": "FAO & AUN-AFS Research Proposal Competition for Youth 2026",
+    "orgao": "FAO / AUN-AFS",
+    "origem": "Internacional",
     "areas": [
-      "Bioestimulantes microbianos",
-      "Agroenergia",
-      "Inovação em cultivos de canola",
-      "PD&I em bioinsumos"
+      "sistemas agroalimentares sustentáveis",
+      "segurança alimentar e nutricional",
+      "produção agrícola sustentável",
+      "inovação em cadeias agroalimentares",
+      "clima e meio ambiente na agricultura"
     ],
-    "publico": "Pesquisadores, estudantes e profissionais elegíveis a bolsas de estímulo à inovação para atuação no projeto de PD&I Embrapii/Embrapa Agroenergia/Pilzer, com foco no desenvolvimento de bioestimulante microbiano para aumento da produção de canola",
-    "valor": null,
-    "prazo": "2026-05-18",
-    "desc": "Chamada pública da Funarbe (nº 207/2026) para concessão de bolsas de estímulo à inovação em projeto Embrapii/Embrapa Agroenergia/Pilzer, voltado ao desenvolvimento de bioestimulante microbiano pré-formulado para incremento da produção de canola (Brassica napus L.). Apoia formação e capacitação de recursos humanos e especialistas em pesquisa, desenvolvimento e inovação, incluindo atividades de PD&I e extensão tecnológica, diretamente aplicáveis à pesquisa agropecuária brasileira na área de bioinsumos e cultivos oleaginosos.",
-    "url": "https://agrega.funarbe.org.br/bolsas/bolsas/view-dados-para-edital?id=828035",
+    "publico": "Jovens pesquisadores, estudantes de graduação e pós-graduação e jovens profissionais elegíveis conforme regras do concurso, em universidades e instituições parceiras; participação brasileira depende de elegibilidade institucional e regional",
+    "valor": "Competição de propostas de pesquisa, com premiações e apoio não necessariamente estruturados como bolsas contínuas; valores e tipos de prêmio são especificados nas regras do concurso 2026",
+    "prazo": "2026-05-31",
+    "desc": "Competição internacional de propostas de pesquisa voltada a jovens, organizada pela FAO em parceria com a AUN-AFS, com foco em amplificar vozes jovens para sistemas agroalimentares sustentáveis e resilientes. As propostas devem abordar temas de agricultura, segurança alimentar, sustentabilidade ambiental e inovação em sistemas agroalimentares. A chamada de 2026 aceita propostas até 31 de maio de 2026, e pode ser uma via de visibilidade internacional e colaboração para jovens pesquisadores ligados à pesquisa agropecuária, inclusive brasileiros, se elegíveis.",
+    "url": "https://www.fao.org/partnerships/academia/news/news-detail/amplifying-young-voices-for-a-sustainable-and-resilient-agrifood-system--fao---aun-afs-research-proposal-competition-for-youth-2026/en",
     "descobertoEm": "2026-08-15"
   },
   {
@@ -12143,5 +12149,22 @@
     "desc": "Seleção pública para concessão de subvenção econômica a projetos inovadores voltados ao desenvolvimento da agroindústria nacional e parcerias entre empresas e ICTs.",
     "url": "http://www.ita.br/sites/default/files/pages/collection/INOVAITA_radar%20de%20oportunidades_fevereiro2026_compressed.pdf",
     "descobertoEm": "2026-09-16"
+  },
+  {
+    "id": "finep-2026-centros-rerrat",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Pesquisa Aplicada em Centros (Rerratificação 2026)",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa aplicada",
+      "Infraestrutura e gestão de centros de PD&I",
+      "Possíveis centros voltados à agropecuária"
+    ],
+    "publico": "Instituições de CT&I proponentes de centros de pesquisa",
+    "valor": "Não explicitado no resumo; complemento/ajuste de condições da chamada original de pesquisa aplicada em centros",
+    "prazo": null,
+    "desc": "Documento de rerratificação da chamada de Pesquisa Aplicada em Centros, com cronograma de fases e divulgação de resultados, mantendo o foco em apoiar centros de pesquisa com recursos do FNDCT, potencialmente relevantes para centros Embrapa/universidade em agropecuária.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/06_03_26_Edital_Rerratificao.pdf",
+    "descobertoEm": "2026-09-17"
   }
 ]
