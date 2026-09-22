@@ -6150,38 +6150,38 @@
   },
   {
     "id": "CNPq-24-2026",
-    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI Nº 24/2026 – Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI nº 24/2026",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Biotecnologia agropecuária",
-      "Biotecnologia para saúde humana",
-      "Biotecnologia ambiental",
-      "Biotecnologia industrial"
+      "Biotecnologia",
+      "Agropecuária",
+      "Biotecnologia agrícola",
+      "Desenvolvimento tecnológico",
+      "PD&I"
     ],
-    "publico": "Pesquisadores e grupos de pesquisa de instituições científicas e tecnológicas brasileiras",
-    "valor": "Não explicitado na página de chamada (apoio a projetos de PD&I em biotecnologia com recursos do FNDCT/MCTI)",
+    "publico": "Pesquisadores e instituições elegíveis conforme as regras da chamada",
+    "valor": "Não informado nos dados disponíveis",
     "prazo": "2026-09-18",
-    "desc": "Chamada voltada a apoiar projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação em biotecnologia, incluindo biotecnologia agropecuária. Abrange propostas de PD&I que fortaleçam cadeias produtivas, geração de produtos, processos e serviços inovadores nas áreas temáticas definidas.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/chamada-publica-cnpq-N-24-2026",
+    "desc": "Apoio a projetos de ciência, tecnologia e inovação relacionados à biotecnologia, com bolsas nas modalidades ITI, ATP, DTI, BSP, BEP, EV, SET e outras previstas no edital.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/Chamada_24_2026.pdf",
     "descobertoEm": "2026-08-08"
   },
   {
     "id": "CNPq-06-2026",
-    "titulo": "Chamada CNPq/FNDCT Nº 06/2026 – Universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa",
-      "Ciência e tecnologia",
       "Agropecuária",
-      "Inovação",
-      "Desenvolvimento científico"
+      "Ciências agrárias",
+      "Pesquisa científica",
+      "Pesquisa tecnológica"
     ],
-    "publico": "Pesquisadores com propostas de pesquisa em qualquer área do conhecimento, incluindo agropecuária",
-    "valor": "R$ 300 milhões",
-    "prazo": "2026-08-03",
-    "desc": "Chamada universal de fomento à pesquisa com ampla abrangência temática, potencialmente relevante para projetos em agropecuária e Embrapa.",
+    "publico": "Pesquisadores vinculados a instituições de ensino, pesquisa, desenvolvimento tecnológico e inovação, conforme regras da chamada",
+    "valor": "Não informado nos dados disponíveis",
+    "prazo": null,
+    "desc": "Chamada universal para apoio a projetos de pesquisa, com possibilidade de concessão de bolsas de Iniciação Científica, Iniciação Tecnológica Industrial, Apoio Técnico e Pós-Doutorado Júnior.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-08-08"
   },
@@ -12783,5 +12783,60 @@
     "desc": "Chamada para projetos de pós-graduação e redes de pesquisa voltados ao fortalecimento científico e à cooperação na Amazônia Legal.",
     "url": "https://www.gov.br/capes/pt-br/assuntos/noticias-defeso-eleitoral/abertas-as-inscricoes-para-projetos-de-pos-graduacao-na-amazonia-legal",
     "descobertoEm": "2026-09-21"
+  },
+  {
+    "id": "FINEP-739",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo: Soluções Tecnológicas para Aumento da Produtividade na Agricultura Familiar, Aquicultura e Pesca Artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Aquicultura",
+      "Pesca artesanal",
+      "Produtividade agrícola",
+      "Inovação tecnológica",
+      "PD&I"
+    ],
+    "publico": "Empresas brasileiras e demais proponentes elegíveis conforme a chamada pública",
+    "valor": "Não informado nos dados disponíveis",
+    "prazo": null,
+    "desc": "Subvenção econômica em fluxo contínuo para desenvolvimento de soluções tecnológicas destinadas ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-09-22"
+  },
+  {
+    "id": "embrapa-selecao-09-2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 – Gestão de produção de sementes de genética vegetal da Embrapa Trigo",
+    "orgao": "Embrapa Trigo",
+    "origem": "Nacional",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Cultivares de trigo e culturas de inverno e verão"
+    ],
+    "publico": "Produtor inscrito no RENASEM, interessado na produção e comercialização de sementes das cultivares da Embrapa Trigo.",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de um parceiro para cooperação técnica na produção e comercialização exclusiva de sementes genéticas e básicas de cultivares de titularidade da Embrapa Trigo, mediante contrato com duração prevista de cinco anos.",
+    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento/",
+    "descobertoEm": "2026-09-22"
+  },
+  {
+    "id": "embrapa-oferta-publica-05-2026",
+    "titulo": "Edital de Seleção 05/2026 – Feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão",
+    "origem": "Nacional",
+    "areas": [
+      "Transferência de tecnologia",
+      "Parcerias estratégicas",
+      "Desenvolvimento e lançamento de cultivar",
+      "Licenciamento de sementes"
+    ],
+    "publico": "Produtor de sementes de feijão comum inscrito no RENASEM, interessado em celebrar Acordo de Cooperação Técnica e Financeira (ACTF) com a Embrapa.",
+    "valor": null,
+    "prazo": "2026-03-09",
+    "desc": "Oferta pública para seleção de um produtor parceiro com o objetivo de finalizar o desenvolvimento tecnológico, promover o lançamento comercial da cultivar de feijão BRS FS318 e licenciar sua multiplicação de sementes.",
+    "url": "https://www.embrapa.br/acessoainformacao/editais/-/asset_publisher/jbbk8GGGeRx0/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "descobertoEm": "2026-09-22"
   }
 ]
