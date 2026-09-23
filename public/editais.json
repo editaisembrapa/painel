@@ -12838,5 +12838,156 @@
     "desc": "Oferta pública para seleção de um produtor parceiro com o objetivo de finalizar o desenvolvimento tecnológico, promover o lançamento comercial da cultivar de feijão BRS FS318 e licenciar sua multiplicação de sementes.",
     "url": "https://www.embrapa.br/acessoainformacao/editais/-/asset_publisher/jbbk8GGGeRx0/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
     "descobertoEm": "2026-09-22"
+  },
+  {
+    "id": "FINEP-AGRO-2026-01",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal",
+      "Foodtech",
+      "Cadeias agroindustriais sustentáveis"
+    ],
+    "publico": "Empresas",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública de subvenção econômica à inovação voltada a cadeias agroindustriais sustentáveis.",
+    "url": "https://legacy.finep.gov.br/en/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "FINEP-AGRICULTURA-FAMILIAR-2026-01",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Soluções Tecnológicas para Aumento da Produtividade na Agricultura Familiar, Aquicultura e Pesca Artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Aquicultura",
+      "Pesca artesanal",
+      "Produtividade agrícola",
+      "Soluções tecnológicas"
+    ],
+    "publico": null,
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada em fluxo contínuo para apoio a soluções tecnológicas destinadas ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-01",
+    "titulo": "Developing innovative phytosanitary treatments for regulated plant pests to support safe international trade",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "sanidade vegetal",
+      "tratamentos fitossanitários",
+      "pragas regulamentadas",
+      "comércio internacional agrícola"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras quando atendidas as regras de participação e financiamento aplicáveis",
+    "valor": null,
+    "prazo": null,
+    "desc": "Tópico do programa de trabalho 2026–2027 do Cluster 6, voltado ao desenvolvimento de tratamentos fitossanitários inovadores para pragas vegetais regulamentadas.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-13",
+    "titulo": "Boosting plant health and reducing losses on farm and during storage for sustainable growth in Africa",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "saúde vegetal",
+      "redução de perdas agrícolas",
+      "armazenamento",
+      "agricultura sustentável",
+      "África"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação brasileira conforme as regras do tópico",
+    "valor": null,
+    "prazo": null,
+    "desc": "Tópico voltado à melhoria da saúde vegetal e à redução de perdas na produção e no armazenamento agrícola para crescimento sustentável na África.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK",
+    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption — two-stage call",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "sistemas alimentares",
+      "competitividade agrícola",
+      "agricultura orgânica",
+      "produção primária",
+      "sustentabilidade ambiental"
+    ],
+    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, incluindo organizações brasileiras nos casos permitidos",
+    "valor": "€25,5 milhões de orçamento indicativo",
+    "prazo": "2026-09-15",
+    "desc": "Chamada em duas etapas com tópicos sobre melhoria da competitividade do setor agrícola e fortalecimento da agricultura orgânica. A data indicada corresponde ao prazo da segunda etapa.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
+    "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "HORIZON-CL6-2026-01-CIRCBIO",
+    "titulo": "Circular economy and bioeconomy sectors — Horizon Europe 2026",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "economia circular",
+      "bioeconomia",
+      "inovação de base biológica",
+      "recuperação de matérias-primas",
+      "embalagens alimentares"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
+    "valor": "€101 milhões de orçamento indicativo para a chamada de etapa única",
+    "prazo": "2026-09-17",
+    "desc": "Chamada com tópicos sobre embalagens plásticas para alimentos, reciclagem têxtil, recuperação de matérias-primas críticas, inovação de base biológica e normalização.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
+    "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "HORIZON-CL6-2026-01-CIRCBIO-01-twostage",
+    "titulo": "Circular Cities and Regions Initiative",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "economia circular",
+      "bioeconomia",
+      "cidades circulares",
+      "regiões circulares",
+      "inovação territorial"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação brasileira quando autorizada pelo tópico",
+    "valor": "€28 milhões de orçamento indicativo",
+    "prazo": "2026-09-23",
+    "desc": "Chamada em duas etapas no âmbito da Circular Cities and Regions Initiative. A data indicada corresponde ao prazo da segunda etapa.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
+    "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "HORIZON-CL6-2026-01-BIODIV",
+    "titulo": "Biodiversity and ecosystem services — Horizon Europe 2026",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "biodiversidade",
+      "agrobiodiversidade",
+      "serviços ecossistêmicos",
+      "declínio de insetos",
+      "conservação ambiental"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo organizações brasileiras conforme as regras dos tópicos",
+    "valor": null,
+    "prazo": "2026-09-17",
+    "desc": "Chamada com tópicos relacionados à agrobiodiversidade, declínio de insetos, avaliação de ecossistemas subterrâneos, conservação de ecossistemas e economia positiva para a natureza.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/biodiversity-and-ecosystem-services_en",
+    "descobertoEm": "2026-09-23"
   }
 ]
