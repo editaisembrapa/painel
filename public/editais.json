@@ -5055,18 +5055,19 @@
   {
     "id": "CNPq-FNDCT-06-2026",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
-    "orgao": "CNPq",
+    "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa",
-      "Inovação",
-      "Ciências Agrárias",
-      "Agropecuária"
+      "Agropecuária",
+      "Agronomia",
+      "Ciências agrárias",
+      "Biotecnologia",
+      "Desenvolvimento tecnológico"
     ],
-    "publico": "Pesquisadores doutores coordenadores de projetos em ICTs elegíveis; grupos de pesquisa em qualquer área do conhecimento.",
-    "valor": "Faixa A: até R$ 243.520,00; outras faixas previstas no edital.",
-    "prazo": "2026-08-03",
-    "desc": "Apoia projetos de pesquisa que contribuam significativamente para o desenvolvimento científico e tecnológico e a inovação do país, em qualquer área do conhecimento.",
+    "publico": "Pesquisadores vinculados a instituições de ensino, pesquisa, desenvolvimento tecnológico e inovação, conforme requisitos do edital.",
+    "valor": "Recursos para custeio, capital e bolsas nas modalidades IC, ITI, AT e PDJ, conforme faixa e disponibilidade do edital.",
+    "prazo": null,
+    "desc": "Chamada universal para apoio a projetos de pesquisa, desenvolvimento tecnológico e inovação em diversas áreas do conhecimento, incluindo possibilidade de bolsas e aplicação em temas agropecuários.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-27"
   },
@@ -12935,39 +12936,38 @@
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Circular economy and bioeconomy sectors — Horizon Europe 2026",
-    "orgao": "European Commission — Horizon Europe",
+    "titulo": "Horizon Europe 2026 – Circular economy and bioeconomy sectors",
+    "orgao": "European Commission / Research Executive Agency",
     "origem": "Internacional",
     "areas": [
       "economia circular",
       "bioeconomia",
       "inovação de base biológica",
-      "recuperação de matérias-primas",
-      "embalagens alimentares"
+      "reciclagem",
+      "recuperação de matérias-primas"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
-    "valor": "€101 milhões de orçamento indicativo para a chamada de etapa única",
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
+    "valor": "€101 milhões no conjunto da chamada de etapa única",
     "prazo": "2026-09-17",
-    "desc": "Chamada com tópicos sobre embalagens plásticas para alimentos, reciclagem têxtil, recuperação de matérias-primas críticas, inovação de base biológica e normalização.",
+    "desc": "Chamada de etapa única com tópicos relacionados a embalagens plásticas para alimentos, reciclagem têxtil, recuperação de matérias-primas críticas, inovação de base biológica e padronização.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO-01-twostage",
-    "titulo": "Circular Cities and Regions Initiative",
-    "orgao": "European Commission — Horizon Europe",
+    "titulo": "Horizon Europe 2026 – Circular Cities and Regions Initiative",
+    "orgao": "European Commission / Research Executive Agency",
     "origem": "Internacional",
     "areas": [
       "economia circular",
       "bioeconomia",
-      "cidades circulares",
-      "regiões circulares",
-      "inovação territorial"
+      "inovação regional",
+      "sustentabilidade"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação brasileira quando autorizada pelo tópico",
-    "valor": "€28 milhões de orçamento indicativo",
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
+    "valor": "€28 milhões no conjunto da chamada de duas etapas",
     "prazo": "2026-09-23",
-    "desc": "Chamada em duas etapas no âmbito da Circular Cities and Regions Initiative. A data indicada corresponde ao prazo da segunda etapa.",
+    "desc": "Chamada de duas etapas voltada à Circular Cities and Regions Initiative, aplicável a projetos de bioeconomia e inovação territorial com conexão a sistemas agroalimentares.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -12989,5 +12989,97 @@
     "desc": "Chamada com tópicos relacionados à agrobiodiversidade, declínio de insetos, avaliação de ecossistemas subterrâneos, conservação de ecossistemas e economia positiva para a natureza.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/biodiversity-and-ecosystem-services_en",
     "descobertoEm": "2026-09-23"
+  },
+  {
+    "id": "FINEP-FNDCT-AGRI-FAM-ICT-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar – AgriFam-ICT 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Agropecuária",
+      "Cadeias socioprodutivas",
+      "Tecnologias sociais",
+      "Desenvolvimento territorial"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação e demais instituições elegíveis previstas no edital.",
+    "valor": "Conforme limites, itens financiáveis e disponibilidade orçamentária definidos no edital.",
+    "prazo": null,
+    "desc": "Seleção pública para apoio a projetos relacionados às cadeias socioprodutivas da agricultura familiar, com foco em pesquisa, desenvolvimento tecnológico, inovação e soluções aplicadas.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "descobertoEm": "2026-09-24"
+  },
+  {
+    "id": "FINEP-MAIS-INOVACAO-AGRO-2026-R2",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura",
+      "Agronegócio",
+      "Cadeias agroindustriais sustentáveis",
+      "Saúde animal",
+      "Foodtech"
+    ],
+    "publico": "Empresas, conforme condições de elegibilidade e participação estabelecidas pela chamada.",
+    "valor": "Financiamento conforme modalidade, linha temática, porte da empresa e condições definidas pela FINEP.",
+    "prazo": "2026-09-30",
+    "desc": "Chamada de apoio à inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech, com recursos FINEP/FNDCT.",
+    "url": "https://legacy.finep.gov.br/en/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-09-24"
+  },
+  {
+    "id": "FINEP-FNDCT-AGRICULTURA-FAMILIAR-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Agricultura Familiar 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Agropecuária",
+      "Tecnologia e inovação",
+      "Desenvolvimento rural"
+    ],
+    "publico": "Instituições e entidades elegíveis conforme regras da chamada pública.",
+    "valor": "Conforme modalidade de apoio, itens financiáveis e orçamento estabelecidos no edital.",
+    "prazo": null,
+    "desc": "Chamada pública voltada ao desenvolvimento e à aplicação de soluções de ciência, tecnologia e inovação para a agricultura familiar.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "descobertoEm": "2026-09-24"
+  },
+  {
+    "id": "CONFAP-CDTI-2026-2027",
+    "titulo": "Chamada CONFAP & CDTI 2026-2027",
+    "orgao": "CONFAP e CDTI",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa e inovação tecnológica",
+      "Agropecuária",
+      "Recursos naturais",
+      "Tecnologias aplicadas à Amazônia"
+    ],
+    "publico": "Pesquisadores vinculados a instituições brasileiras e espanholas, conforme regras das FAPs participantes, incluindo a FAPEAM.",
+    "valor": "Financiamento conforme as regras da FAP participante e do CDTI; valor não especificado na página consultada.",
+    "prazo": "2026-10-08",
+    "desc": "Chamada para projetos colaborativos de pesquisa e inovação tecnológica entre instituições do Brasil e da Espanha. A FAPEAM está entre as Fundações Estaduais participantes. As propostas brasileiras devem ser submetidas pela plataforma do CONFAP.",
+    "url": "https://confap.org.br/pt/editais/114/chamada-confap-cdti-2026-2027",
+    "descobertoEm": "2026-09-24"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-02",
+    "titulo": "Horizon Europe 2026 – Fair, healthy and environmentally friendly food systems from primary production to consumption",
+    "orgao": "European Commission / Research Executive Agency",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura",
+      "produção primária",
+      "competitividade do setor agrícola",
+      "agricultura orgânica"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
+    "valor": "€25,5 milhões no conjunto da chamada em duas etapas",
+    "prazo": "2026-09-15",
+    "desc": "Chamada de duas etapas com tópicos sobre melhoria da competitividade do setor agrícola e fortalecimento da agricultura orgânica. O prazo informado corresponde à segunda etapa.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
+    "descobertoEm": "2026-09-24"
   }
 ]
