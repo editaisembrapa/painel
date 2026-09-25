@@ -13081,5 +13081,58 @@
     "desc": "Chamada de duas etapas com tópicos sobre melhoria da competitividade do setor agrícola e fortalecimento da agricultura orgânica. O prazo informado corresponde à segunda etapa.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-24"
+  },
+  {
+    "id": "embrapa-trigo-selecao-tecnologica-09-2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Seleção de produtor para multiplicação e comercialização de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "transferência de tecnologia",
+      "produção de sementes",
+      "melhoramento de plantas"
+    ],
+    "publico": "Produtor inscrito no Registro Nacional de Sementes e Mudas (RENASEM), para cooperação técnica com a Embrapa Trigo.",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de um produtor para multiplicação e comercialização de sementes de cultivares dos programas de melhoramento de inverno e de verão da Embrapa Trigo, com exclusividade para as categorias Genética e Básica.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-09-25"
+  },
+  {
+    "id": "embrapa-agrossilvipastoril-ilpf-regenera-2026",
+    "titulo": "Seleção de parceiros para pesquisas sobre sistemas de integração lavoura-pecuária-floresta (ILPF) — Projeto ILPF Regenera",
+    "orgao": "Embrapa Agrossilvipastoril",
+    "origem": "Interno",
+    "areas": [
+      "PD&I",
+      "inovação aberta",
+      "sistemas ILPF",
+      "agropecuária regenerativa"
+    ],
+    "publico": "Parceiros públicos ou privados interessados em participar de pesquisas sobre sistemas de integração lavoura-pecuária-floresta.",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada para seleção de parceiros públicos ou privados para pesquisas na plataforma experimental de sistemas ILPF e agropecuária regenerativa da Embrapa Agrossilvipastoril. A fonte oficial consultada não informa prazo final.",
+    "url": "https://www.embrapa.br/web/agrossilvipastoril",
+    "descobertoEm": "2026-09-25"
+  },
+  {
+    "id": "embrapa-funarbe-chamada-11-2026",
+    "titulo": "Chamada nº 11/2026 — Seleção para bolsistas de inovação do Projeto ILPF Regenera",
+    "orgao": "Embrapa e Funarbe",
+    "origem": "Interno",
+    "areas": [
+      "inovação",
+      "PD&I",
+      "sistemas ILPF",
+      "agropecuária regenerativa"
+    ],
+    "publico": "Candidatos habilitados conforme os requisitos do edital para bolsas de inovação do Projeto ILPF Regenera.",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada oficial para seleção de bolsistas de inovação vinculados ao Projeto ILPF Regenera. A fonte consultada não informa prazo final nem valores das bolsas.",
+    "url": "https://www.embrapa.br/50-anos/busca-de-noticias/-/noticia/106385421/chamada-n-112026---embrapa-e-funarbe-abrem-selecao-para-bolsistas-de-inovacao-projeto-ilpf-regenera",
+    "descobertoEm": "2026-09-25"
   }
 ]
