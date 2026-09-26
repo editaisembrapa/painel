@@ -8909,21 +8909,20 @@
   },
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK-01-two-stage",
-    "titulo": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
-    "orgao": "European Commission",
+    "titulo": "Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+    "orgao": "European Commission — Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "agricultura",
-      "inovação",
-      "competitividade",
-      "sustentabilidade",
-      "uso eficiente de insumos"
+      "agricultura sustentável",
+      "competitividade agrícola",
+      "uso eficiente de fatores de produção",
+      "inovação agropecuária"
     ],
-    "publico": "Consórcios elegíveis ao Horizon Europe, incluindo universidades, centros de pesquisa, empresas e ICTs com participação internacional",
-    "valor": "€13.500.000",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
+    "valor": "€25,5 milhões no total indicativo da chamada",
     "prazo": "2026-09-15",
-    "desc": "Chamada do Horizon Europe Cluster 6 voltada a projetos de inovação para aumentar a competitividade do setor agrícola com uso eficiente e sustentável dos fatores de produção.",
-    "url": "https://www.horizon-europe.gouv.fr/open-topic-improving-competitiveness-agricultural-sector-enhancing-efficient-and-sustainable-use",
+    "desc": "Chamada em duas etapas do Cluster 6 do Horizon Europe, aplicável a projetos de pesquisa e inovação voltados à competitividade e sustentabilidade do setor agrícola.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-08-29"
   },
   {
@@ -12936,38 +12935,39 @@
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Horizon Europe 2026 – Circular economy and bioeconomy sectors",
-    "orgao": "European Commission / Research Executive Agency",
+    "titulo": "Circular economy and bioeconomy sectors",
+    "orgao": "European Commission — Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "economia circular",
       "bioeconomia",
+      "economia circular",
       "inovação de base biológica",
-      "reciclagem",
-      "recuperação de matérias-primas"
+      "recursos renováveis",
+      "embalagens alimentares"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
-    "valor": "€101 milhões no conjunto da chamada de etapa única",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
+    "valor": "€101 milhões no total indicativo da chamada",
     "prazo": "2026-09-17",
-    "desc": "Chamada de etapa única com tópicos relacionados a embalagens plásticas para alimentos, reciclagem têxtil, recuperação de matérias-primas críticas, inovação de base biológica e padronização.",
+    "desc": "Chamada de uma etapa do Cluster 6 com tópicos relacionados à inovação de base biológica, tecnologias circulares e soluções aplicáveis às cadeias agroalimentares.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO-01-twostage",
-    "titulo": "Horizon Europe 2026 – Circular Cities and Regions Initiative",
-    "orgao": "European Commission / Research Executive Agency",
+    "titulo": "Circular Cities and Regions Initiative",
+    "orgao": "European Commission — Horizon Europe",
     "origem": "Internacional",
     "areas": [
       "economia circular",
       "bioeconomia",
-      "inovação regional",
+      "sistemas alimentares",
+      "inovação territorial",
       "sustentabilidade"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
-    "valor": "€28 milhões no conjunto da chamada de duas etapas",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
+    "valor": "€28 milhões no total indicativo da chamada",
     "prazo": "2026-09-23",
-    "desc": "Chamada de duas etapas voltada à Circular Cities and Regions Initiative, aplicável a projetos de bioeconomia e inovação territorial com conexão a sistemas agroalimentares.",
+    "desc": "Chamada em duas etapas para iniciativas de economia circular em cidades e regiões, potencialmente aplicável a sistemas agroalimentares e bioeconomia territorial.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13134,5 +13134,82 @@
     "desc": "Chamada oficial para seleção de bolsistas de inovação vinculados ao Projeto ILPF Regenera. A fonte consultada não informa prazo final nem valores das bolsas.",
     "url": "https://www.embrapa.br/50-anos/busca-de-noticias/-/noticia/106385421/chamada-n-112026---embrapa-e-funarbe-abrem-selecao-para-bolsistas-de-inovacao-projeto-ilpf-regenera",
     "descobertoEm": "2026-09-25"
+  },
+  {
+    "id": "finep-agri-fam-ict-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT — Cadeias Socioprodutivas da Agricultura Familiar 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "agropecuária",
+      "desenvolvimento tecnológico",
+      "inovação",
+      "cadeias socioprodutivas"
+    ],
+    "publico": "Instituições científicas, tecnológicas e de inovação e demais instituições elegíveis conforme o edital",
+    "valor": "Até R$ 150.000.000,00 em recursos não reembolsáveis do FNDCT",
+    "prazo": null,
+    "desc": "Chamada pública para apoiar projetos de ciência, tecnologia e inovação relacionados às cadeias socioprodutivas da agricultura familiar. O resultado disponível confirma recursos não reembolsáveis de até R$ 150 milhões; o prazo final não está identificado nas informações coletadas.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "descobertoEm": "2026-09-26"
+  },
+  {
+    "id": "finep-subvencao-agricultura-familiar-aquicultura-pesca",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT — Soluções Tecnológicas para Aumento da Produtividade na Agricultura Familiar, Aquicultura e Pesca Artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "aquicultura",
+      "pesca artesanal",
+      "produtividade",
+      "soluções tecnológicas",
+      "inovação"
+    ],
+    "publico": "Empresas brasileiras elegíveis à subvenção econômica, conforme o regulamento",
+    "valor": null,
+    "prazo": null,
+    "desc": "Seleção pública em fluxo contínuo para concessão de subvenção econômica a projetos inovadores e de risco tecnológico voltados ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-09-26"
+  },
+  {
+    "id": "HORIZON-CL6-2026-03-GOVERNANCE-DATA",
+    "titulo": "Additional activities for the European Partnership of Agriculture of Data",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura digital",
+      "dados agrícolas",
+      "inteligência artificial",
+      "agricultura de precisão",
+      "transformação digital"
+    ],
+    "publico": "Consórcios e entidades elegíveis no Horizon Europe, com participação internacional conforme as regras do tópico",
+    "valor": "€23 milhões no total indicativo do tópico",
+    "prazo": null,
+    "desc": "Tópico do Cluster 6 dedicado a atividades adicionais da parceria europeia de agricultura de dados, relevante para pesquisa agropecuária digital e soluções baseadas em dados.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
+    "descobertoEm": "2026-09-26"
+  },
+  {
+    "id": "BNDES-BIOINSUMOS-2-CICLO",
+    "titulo": "BNDES Bioinsumos — 2º Ciclo — Chamada Permanente",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "bioinsumos",
+      "agricultura sustentável",
+      "insumos biológicos",
+      "pesquisa aplicada",
+      "produção agropecuária"
+    ],
+    "publico": "Instituições e organizações elegíveis segundo o regulamento e o roteiro de apresentação de projetos do BNDES Fundo Socioambiental",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada permanente do BNDES Fundo Socioambiental para apresentação de projetos do 2º ciclo do BNDES Bioinsumos. A submissão é realizada pelo Portal do Cliente, mediante cadastro e envio da documentação exigida.",
+    "url": "https://www.bndes.gov.br/wps/vanityurl/bioinsumos",
+    "descobertoEm": "2026-09-26"
   }
 ]
