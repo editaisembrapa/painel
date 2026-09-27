@@ -11286,19 +11286,20 @@
   },
   {
     "id": "CNPq-CAPES-30-2026",
-    "titulo": "Chamada Pública CNPq/CAPES Nº 30/2026",
-    "orgao": "CNPq / CAPES",
+    "titulo": "Chamada Pública CNPq/CAPES nº 30/2026 – Programa de Mestrado e Doutorado para Inovação (MAI/DAI)",
+    "orgao": "CNPq/CAPES",
     "origem": "Nacional",
     "areas": [
-      "Biotecnologia agropecuária",
-      "Pesquisa",
-      "Pós-graduação"
+      "Pesquisa e desenvolvimento",
+      "Inovação",
+      "Agropecuária",
+      "Desenvolvimento tecnológico"
     ],
-    "publico": "Pesquisadores vinculados a instituições de pesquisa e pós-graduação",
+    "publico": "Instituições de ensino e pesquisa interessadas em desenvolver projetos de mestrado e doutorado em parceria com empresas, órgãos públicos e entidades do terceiro setor.",
     "valor": null,
-    "prazo": "2026-09-18",
-    "desc": "Chamada aberta para apoio a projetos de pesquisa nas áreas de biotecnologia, incluindo biotecnologia agropecuária.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "prazo": "2026-12-11",
+    "desc": "Chamada para apresentação de propostas de projetos de mestrado e doutorado em inovação, com possibilidade de aplicação em temas agropecuários e parcerias institucionais.",
+    "url": "http://www.gov.br/capes/pt-br/assuntos/noticias-defeso-eleitoral/abertas-as-inscricoes-para-o-programa-de-mestrado-e-doutorado-para-inovacao-em-parceria-com-empresas",
     "descobertoEm": "2026-09-12"
   },
   {
@@ -12936,19 +12937,18 @@
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
     "titulo": "Circular economy and bioeconomy sectors",
-    "orgao": "European Commission — Horizon Europe",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
-      "economia circular",
       "inovação de base biológica",
-      "recursos renováveis",
-      "embalagens alimentares"
+      "economia circular",
+      "tecnologias agroalimentares"
     ],
-    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
-    "valor": "€101 milhões no total indicativo da chamada",
+    "publico": "Consórcios internacionais de entidades elegíveis no Horizon Europe; entidades brasileiras podem participar conforme as regras de elegibilidade e financiamento aplicáveis",
+    "valor": "€101 milhões no conjunto da chamada; valores por tópico variam",
     "prazo": "2026-09-17",
-    "desc": "Chamada de uma etapa do Cluster 6 com tópicos relacionados à inovação de base biológica, tecnologias circulares e soluções aplicáveis às cadeias agroalimentares.",
+    "desc": "Chamada de etapa única com 11 tópicos, incluindo inovação de base biológica e tecnologias relacionadas à economia circular, aplicáveis a pesquisa e inovação agropecuária e agroalimentar.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13211,5 +13211,41 @@
     "desc": "Chamada permanente do BNDES Fundo Socioambiental para apresentação de projetos do 2º ciclo do BNDES Bioinsumos. A submissão é realizada pelo Portal do Cliente, mediante cadastro e envio da documentação exigida.",
     "url": "https://www.bndes.gov.br/wps/vanityurl/bioinsumos",
     "descobertoEm": "2026-09-26"
+  },
+  {
+    "id": "CAPES-20-2026",
+    "titulo": "Chamada Pública para Envio de Proposta de Curso Novo – Edital nº 20/2026",
+    "orgao": "CAPES",
+    "origem": "Nacional",
+    "areas": [
+      "Pós-graduação",
+      "Pesquisa",
+      "Ciências agrárias"
+    ],
+    "publico": "Instituições de ensino superior habilitadas a apresentar propostas de cursos novos de pós-graduação.",
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital listado pela CAPES entre as chamadas abertas em 2026 para envio de propostas de cursos novos. O prazo e os valores não foram identificados no resultado oficial consultado.",
+    "url": "https://www.gov.br/capes/pt-br/assuntos/editais-e-resultados-capes",
+    "descobertoEm": "2026-09-27"
+  },
+  {
+    "id": "HORIZON-CL6-2026-03-GOVERNANCE",
+    "titulo": "Innovative governance, environmental observations and digital solutions in support of the Green Deal",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura digital",
+      "inteligência artificial",
+      "governança inovadora",
+      "observação ambiental",
+      "dados agrícolas"
+    ],
+    "publico": "Consórcios internacionais de entidades elegíveis no Horizon Europe; participação brasileira sujeita às regras do tópico e às condições de financiamento aplicáveis",
+    "valor": "€96,5 milhões no conjunto da chamada; valores por tópico variam",
+    "prazo": "2026-09-30",
+    "desc": "A chamada inclui tópicos sobre soluções de inteligência artificial para alimentos, inovação na agricultura por aprendizagem entre pares e atividades relacionadas à agricultura baseada em dados. O prazo informado corresponde à segunda etapa da chamada.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
+    "descobertoEm": "2026-09-27"
   }
 ]
