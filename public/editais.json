@@ -12937,18 +12937,19 @@
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
     "titulo": "Circular economy and bioeconomy sectors",
-    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
+    "orgao": "European Commission — Research Executive Agency",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
       "inovação de base biológica",
-      "economia circular",
-      "tecnologias agroalimentares"
+      "embalagens alimentares",
+      "reciclagem",
+      "recuperação de matérias-primas"
     ],
-    "publico": "Consórcios internacionais de entidades elegíveis no Horizon Europe; entidades brasileiras podem participar conforme as regras de elegibilidade e financiamento aplicáveis",
-    "valor": "€101 milhões no conjunto da chamada; valores por tópico variam",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do programa",
+    "valor": "€101 milhões no total indicativo da chamada",
     "prazo": "2026-09-17",
-    "desc": "Chamada de etapa única com 11 tópicos, incluindo inovação de base biológica e tecnologias relacionadas à economia circular, aplicáveis a pesquisa e inovação agropecuária e agroalimentar.",
+    "desc": "Chamada Horizon Europe Cluster 6 com tópicos de inovação em bioeconomia e soluções circulares aplicáveis a cadeias agroalimentares.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -12973,20 +12974,20 @@
   },
   {
     "id": "HORIZON-CL6-2026-01-BIODIV",
-    "titulo": "Biodiversity and ecosystem services — Horizon Europe 2026",
-    "orgao": "European Commission — Horizon Europe",
+    "titulo": "Biodiversity and ecosystem services",
+    "orgao": "European Commission — Research Executive Agency",
     "origem": "Internacional",
     "areas": [
-      "biodiversidade",
       "agrobiodiversidade",
+      "biodiversidade",
       "serviços ecossistêmicos",
       "declínio de insetos",
       "conservação ambiental"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo organizações brasileiras conforme as regras dos tópicos",
-    "valor": null,
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do programa",
+    "valor": "€76 milhões no total indicativo da chamada",
     "prazo": "2026-09-17",
-    "desc": "Chamada com tópicos relacionados à agrobiodiversidade, declínio de insetos, avaliação de ecossistemas subterrâneos, conservação de ecossistemas e economia positiva para a natureza.",
+    "desc": "Chamada com tópicos relacionados à agrobiodiversidade, conservação de ecossistemas e economia positiva para a natureza, aplicáveis à pesquisa agropecuária.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/biodiversity-and-ecosystem-services_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13247,5 +13248,76 @@
     "desc": "A chamada inclui tópicos sobre soluções de inteligência artificial para alimentos, inovação na agricultura por aprendizagem entre pares e atividades relacionadas à agricultura baseada em dados. O prazo informado corresponde à segunda etapa da chamada.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
     "descobertoEm": "2026-09-27"
+  },
+  {
+    "id": "embrapa-selecao-tecnologica-09-2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento genético de culturas de inverno e verão"
+    ],
+    "publico": "Produtor de sementes inscrito no RENASEM, interessado em cooperação técnica com a Embrapa Trigo",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para multiplicação e comercialização, com exclusividade, de sementes nas categorias Genética e Básica de cultivares dos programas de melhoramento da Embrapa Trigo. Período de seleção: 08/07/2026 a 07/08/2026.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-09-28"
+  },
+  {
+    "id": "embrapa-edital-05-2026-feijao-brs-fs318",
+    "titulo": "Edital de Seleção nº 05/2026 — Feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Melhoramento genético",
+      "Produção e licenciamento de sementes",
+      "Parcerias estratégicas"
+    ],
+    "publico": "Produtor de sementes de feijão comum inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-03-09",
+    "desc": "Oferta pública para selecionar um produtor interessado em estabelecer Acordo de Cooperação Técnica e Financeira (ACTF), finalizar o desenvolvimento tecnológico, promover o lançamento comercial da cultivar BRS FS318 e obter licenciamento para multiplicação de sementes.",
+    "url": "https://www.embrapa.br/acessoainformacao/editais/-/asset_publisher/jbbk8GGGeRx0/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "descobertoEm": "2026-09-28"
+  },
+  {
+    "id": "embrapa-cpamn-edital-02-2026-chamada-02",
+    "titulo": "Edital 02/2026 — Chamada 02 — Programa de Bolsas Embrapa/CNPq",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento e inovação",
+      "Formação de recursos humanos"
+    ],
+    "publico": "Candidatos elegíveis ao Programa de Bolsas Embrapa/CNPq, conforme regras do edital",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Chamada do Programa de Bolsas Embrapa/CNPq. O período de inscrições informado no edital foi de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-09-28"
+  },
+  {
+    "id": "HORIZON-CL6-2026-01-ZEROPOLLUTION-02-twostage",
+    "titulo": "Clean environment and zero pollution — second stage",
+    "orgao": "European Commission — Research Executive Agency",
+    "origem": "Internacional",
+    "areas": [
+      "descontaminação",
+      "biorremediação",
+      "poluição ambiental",
+      "recursos hídricos",
+      "sustentabilidade agroambiental"
+    ],
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do programa",
+    "valor": "€23 milhões no total indicativo do tópico",
+    "prazo": "2026-09-29",
+    "desc": "Segunda etapa de tópico Horizon Europe voltado à descontaminação e biorremediação de poluição aquática, com possível aplicação a ambientes e sistemas produtivos agropecuários.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/clean-environment-and-zero-pollution_en",
+    "descobertoEm": "2026-09-28"
   }
 ]
