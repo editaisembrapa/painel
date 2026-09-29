@@ -7542,19 +7542,19 @@
   {
     "id": "FINEP-MAIS-INOVACAO-AGRO-2026",
     "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
-    "orgao": "FINEP",
+    "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "PD&I",
-      "Agroindústria",
-      "Agricultura",
-      "Agronegócio",
-      "Saúde animal"
+      "agricultura",
+      "agronegócio",
+      "saúde animal",
+      "foodtech",
+      "cadeias agroindustriais sustentáveis"
     ],
     "publico": "Empresas",
     "valor": null,
     "prazo": "2026-09-30",
-    "desc": "Chamada pública voltada a projetos em cadeias agroindustriais sustentáveis, com temas em agricultura, agronegócio, saúde animal e foodtech.",
+    "desc": "Chamada de apoio à inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech. O prazo informado para envio de propostas é 30 de setembro de 2026.",
     "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-08-20"
   },
@@ -12936,20 +12936,20 @@
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Circular economy and bioeconomy sectors",
-    "orgao": "European Commission — Research Executive Agency",
+    "titulo": "Circular economy and bioeconomy sectors — Horizon Europe 2026",
+    "orgao": "European Commission / Horizon Europe",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
-      "inovação de base biológica",
-      "embalagens alimentares",
-      "reciclagem",
-      "recuperação de matérias-primas"
+      "economia circular",
+      "bioprodutos",
+      "valorização de biomassa",
+      "inovação agroindustrial"
     ],
-    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do programa",
-    "valor": "€101 milhões no total indicativo da chamada",
+    "publico": "Consórcios elegíveis conforme o Horizon Europe, com participação brasileira sujeita às regras do tópico e às condições de financiamento aplicáveis a países associados ou terceiros",
+    "valor": "Não informado na página oficial consultada",
     "prazo": "2026-09-17",
-    "desc": "Chamada Horizon Europe Cluster 6 com tópicos de inovação em bioeconomia e soluções circulares aplicáveis a cadeias agroalimentares.",
+    "desc": "Chamada do Cluster 6 para setores de economia circular e bioeconomia, potencialmente aplicável a pesquisa agropecuária e agroindustrial conforme o tópico selecionado.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13251,18 +13251,18 @@
   },
   {
     "id": "embrapa-selecao-tecnologica-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 – Multiplicação de sementes",
     "orgao": "Embrapa Trigo",
     "origem": "Interno",
     "areas": [
       "Transferência de tecnologia",
       "Produção e comercialização de sementes",
-      "Melhoramento genético de culturas de inverno e verão"
+      "Melhoramento vegetal"
     ],
-    "publico": "Produtor de sementes inscrito no RENASEM, interessado em cooperação técnica com a Embrapa Trigo",
+    "publico": "Produtor de sementes inscrito no RENASEM",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para multiplicação e comercialização, com exclusividade, de sementes nas categorias Genética e Básica de cultivares dos programas de melhoramento da Embrapa Trigo. Período de seleção: 08/07/2026 a 07/08/2026.",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares desenvolvidas pela Embrapa Trigo, com exclusividade para sementes genéticas e básicas.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-09-28"
   },
@@ -13319,5 +13319,95 @@
     "desc": "Segunda etapa de tópico Horizon Europe voltado à descontaminação e biorremediação de poluição aquática, com possível aplicação a ambientes e sistemas produtivos agropecuários.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/clean-environment-and-zero-pollution_en",
     "descobertoEm": "2026-09-28"
+  },
+  {
+    "id": "FINEP-AGRICULTURA-FAMILIAR-AQUICULTURA-PESCA-2026",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – Subvenção Econômica à Inovação em Fluxo Contínuo – Soluções Tecnológicas para Aumento da Produtividade na Agricultura Familiar, Aquicultura e Pesca Artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "aquicultura",
+      "pesca artesanal",
+      "produtividade agrícola",
+      "inovação tecnológica"
+    ],
+    "publico": "Empresas, conforme regulamento da seleção pública",
+    "valor": null,
+    "prazo": null,
+    "desc": "Concessão de recursos de subvenção econômica para projetos inovadores e de risco tecnológico voltados ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-09-29"
+  },
+  {
+    "id": "embrapa-edital-selecao-05-2026-feijao-brs-fs318",
+    "titulo": "Edital de Seleção 05/2026 – Feijão BRS FS318",
+    "orgao": "Embrapa",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Melhoramento vegetal",
+      "Produção de sementes",
+      "Parcerias estratégicas"
+    ],
+    "publico": "Produtor de sementes de feijão comum inscrito no RENASEM",
+    "valor": null,
+    "prazo": null,
+    "desc": "Seleção de produtor para celebração de Acordo de Cooperação Técnica e Financeira destinado a finalizar o desenvolvimento tecnológico, promover o lançamento comercial e licenciar a multiplicação de sementes da cultivar de feijão BRS FS318.",
+    "url": "https://www.embrapa.br/acessoainformacao/editais/-/asset_publisher/jbbk8GGGeRx0/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719",
+    "descobertoEm": "2026-09-29"
+  },
+  {
+    "id": "embrapa-chamamento-publico-01-2026",
+    "titulo": "Edital de Chamamento Público nº 01/2026",
+    "orgao": "Embrapa",
+    "origem": "Nacional",
+    "areas": [
+      "Parcerias institucionais",
+      "Acordos de cooperação"
+    ],
+    "publico": "Organizações da Sociedade Civil aptas à celebração de acordo de cooperação",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamamento público para seleção de organização da sociedade civil, com apresentação de plano de trabalho e posterior celebração de acordo de cooperação, conforme a Lei nº 13.019/2014.",
+    "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
+    "descobertoEm": "2026-09-29"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-FARM2FORK-XX",
+    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption — segunda etapa",
+    "orgao": "European Commission / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura sustentável",
+      "competitividade do setor agrícola",
+      "agricultura orgânica",
+      "sistemas alimentares"
+    ],
+    "publico": "Consórcios elegíveis conforme as regras do Horizon Europe, incluindo instituições brasileiras quando atendidos os requisitos de participação e financiamento",
+    "valor": "€25,5 milhões de orçamento indicativo total",
+    "prazo": "2026-09-15",
+    "desc": "Chamada em duas etapas do Cluster 6 do Horizon Europe 2026; a segunda etapa contempla temas de melhoria da competitividade agrícola e promoção da agricultura orgânica. A elegibilidade e o financiamento de entidades brasileiras devem ser confirmados no tópico específico do Funding & Tenders Portal.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
+    "descobertoEm": "2026-09-29"
+  },
+  {
+    "id": "HORIZON-CL6-2026-01-CIRCBIO-2",
+    "titulo": "Circular economy and bioeconomy sectors — segunda etapa",
+    "orgao": "European Commission / Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "bioeconomia",
+      "economia circular",
+      "agricultura",
+      "agroindústria",
+      "recursos biológicos"
+    ],
+    "publico": "Consórcios elegíveis conforme as regras do Horizon Europe; a participação e o financiamento de instituições brasileiras dependem do tópico específico",
+    "valor": "Não informado na página oficial consultada",
+    "prazo": "2026-09-23",
+    "desc": "Segunda etapa de chamada do Cluster 6 relacionada a economia circular e bioeconomia. A aplicação depende de proposta submetida na primeira etapa e de convite para a fase completa.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
+    "descobertoEm": "2026-09-29"
   }
 ]
