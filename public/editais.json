@@ -5773,20 +5773,18 @@
   {
     "id": "finep-mais-inovacao-brasil-rodada-2-cadeias-agroindustriais-sustentaveis-2026",
     "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
-    "orgao": "FINEP/FNDCT",
+    "orgao": "FINEP",
     "origem": "Nacional",
     "areas": [
-      "Agricultura",
-      "Agronegócio",
-      "Saúde animal",
-      "Foodtech",
-      "Inovação tecnológica",
-      "PD&I"
+      "Agropecuária",
+      "Cadeias agroindustriais",
+      "Sustentabilidade",
+      "Inovação"
     ],
-    "publico": "Empresas (inclui potencialmente cooperativas e empresas parceiras de centros de pesquisa, inclusive agropecuária)",
-    "valor": "Até R$ 300.000.000,00 em recursos de subvenção econômica distribuídos entre projetos; valor por projeto definido no edital específico",
+    "publico": "Empresas",
+    "valor": null,
     "prazo": "2026-09-30",
-    "desc": "Seleção pública no âmbito do programa Finep Mais Inovação Brasil – Rodada 2, voltada a projetos inovadores e de risco tecnológico em cadeias agroindustriais sustentáveis. A chamada utiliza recursos do FNDCT e da Finep para apoiar empresas em temas como agricultura, agronegócio, saúde animal e foodtech. Propostas são recebidas em fluxo contínuo até 30/09/2026 às 17h, podendo ser interrompidas se os recursos forem esgotados.",
+    "desc": "Chamada pública voltada a projetos de inovação relacionados a cadeias agroindustriais sustentáveis. O prazo informado para envio de propostas é 30 de setembro de 2026.",
     "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-08-03"
   },
@@ -13085,18 +13083,18 @@
   },
   {
     "id": "embrapa-trigo-selecao-tecnologica-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Seleção de produtor para multiplicação e comercialização de sementes",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 – Multiplicação de sementes",
     "orgao": "Embrapa Trigo",
-    "origem": "Interno",
+    "origem": "Nacional",
     "areas": [
       "transferência de tecnologia",
-      "produção de sementes",
-      "melhoramento de plantas"
+      "produção e comercialização de sementes",
+      "melhoramento genético"
     ],
-    "publico": "Produtor inscrito no Registro Nacional de Sementes e Mudas (RENASEM), para cooperação técnica com a Embrapa Trigo.",
+    "publico": "Produtor inscrito no RENASEM interessado em cooperação técnica para multiplicação de sementes de cultivares da Embrapa Trigo",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de um produtor para multiplicação e comercialização de sementes de cultivares dos programas de melhoramento de inverno e de verão da Embrapa Trigo, com exclusividade para as categorias Genética e Básica.",
+    "desc": "Seleção de parceiro para produção e comercialização exclusiva de sementes genéticas e básicas de cultivares de titularidade da Embrapa Trigo, mediante contrato de cinco anos.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-09-25"
   },
@@ -13409,5 +13407,24 @@
     "desc": "Segunda etapa de chamada do Cluster 6 relacionada a economia circular e bioeconomia. A aplicação depende de proposta submetida na primeira etapa e de convite para a fase completa.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-29"
+  },
+  {
+    "id": "FINEP-MAIS-INOVACAO-RODADA-2-AGRO-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal",
+      "Foodtech",
+      "Cadeias agroindustriais sustentáveis"
+    ],
+    "publico": "Empresas",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Chamada de subvenção econômica à inovação para projetos relacionados a cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-09-30"
   }
 ]
