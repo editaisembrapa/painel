@@ -12934,20 +12934,20 @@
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Circular economy and bioeconomy sectors — Horizon Europe 2026",
-    "orgao": "European Commission / Horizon Europe",
+    "titulo": "Circular economy and bioeconomy sectors — Call 01 (2026)",
+    "orgao": "European Commission — Horizon Europe",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
       "economia circular",
+      "agricultura",
       "bioprodutos",
-      "valorização de biomassa",
-      "inovação agroindustrial"
+      "sistemas agroalimentares"
     ],
-    "publico": "Consórcios elegíveis conforme o Horizon Europe, com participação brasileira sujeita às regras do tópico e às condições de financiamento aplicáveis a países associados ou terceiros",
-    "valor": "Não informado na página oficial consultada",
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras quando permitido pelas regras do tópico",
+    "valor": "Orçamento indicativo do tópico não confirmado na fonte consultada",
     "prazo": "2026-09-17",
-    "desc": "Chamada do Cluster 6 para setores de economia circular e bioeconomia, potencialmente aplicável a pesquisa agropecuária e agroindustrial conforme o tópico selecionado.",
+    "desc": "Chamada do Cluster 6 do Horizon Europe voltada a setores de economia circular e bioeconomia, com possível aplicação a pesquisa agropecuária e cadeias de valor de base biológica.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13426,5 +13426,94 @@
     "desc": "Chamada de subvenção econômica à inovação para projetos relacionados a cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
     "url": "http://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-09-30"
+  },
+  {
+    "id": "FINEP-AGRO-ROD2-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura",
+      "agronegócio",
+      "saúde animal",
+      "foodtech"
+    ],
+    "publico": "Empresas",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Chamada de apoio à inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
+    "url": "http://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-10-01"
+  },
+  {
+    "id": "FINEP-AGRICULTURA-FAMILIAR-2026",
+    "titulo": "Soluções tecnológicas para aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "aquicultura",
+      "pesca artesanal",
+      "produtividade agrícola",
+      "inovação tecnológica"
+    ],
+    "publico": "Empresas e demais proponentes elegíveis conforme o regulamento",
+    "valor": null,
+    "prazo": null,
+    "desc": "Seleção pública de subvenção econômica à inovação para projetos inovadores e de risco tecnológico voltados ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal. A fonte consultada identifica a chamada como fluxo contínuo, mas não informa uma data final verificável.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-10-01"
+  },
+  {
+    "id": "EDITAL-SELECAO-09-2026-EMBRAPA-TRIGO",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 – Multiplicação de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento vegetal"
+    ],
+    "publico": "Produtor inscrito no Registro Nacional de Sementes e Mudas (RENASEM), interessado na cooperação técnica para produção e comercialização de sementes de cultivares da Embrapa Trigo",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de parceiro para cooperação técnica e financeira na produção e comercialização exclusiva de sementes genéticas e básicas de cultivares de titularidade da Embrapa Trigo, mediante contrato com vigência prevista de cinco anos.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-10-01"
+  },
+  {
+    "id": "EDITAL-SELECAO-05-2026-BRS-FS318",
+    "titulo": "Edital de Seleção 05/2026 – Feijão BRS FS318",
+    "orgao": "Embrapa Arroz e Feijão",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Parceria estratégica",
+      "Melhoramento vegetal",
+      "Produção de sementes"
+    ],
+    "publico": "Produtor de sementes de feijão-comum inscrito no Registro Nacional de Sementes e Mudas (RENASEM)",
+    "valor": null,
+    "prazo": "2026-03-09",
+    "desc": "Seleção de um produtor para estabelecer Acordo de Cooperação Técnica e Financeira com o objetivo de finalizar o desenvolvimento tecnológico, promover o lançamento comercial da cultivar BRS FS318 e licenciar a multiplicação de sementes.",
+    "url": "https://www.embrapa.br/acessoainformacao/editais/-/asset_publisher/jbbk8GGGeRx0/content/edital-de-selecao-05-2026-feijao-brs-fs318/1355719?inheritRedirect=false?p_p_id=101_INSTANCE_jbbk8GGGeRx0&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1",
+    "descobertoEm": "2026-10-01"
+  },
+  {
+    "id": "EDITAL-CHAMAMENTO-01-2026-EMBRAPA",
+    "titulo": "Edital de Chamamento Público nº 01/2026",
+    "orgao": "Embrapa",
+    "origem": "Nacional",
+    "areas": [
+      "Parcerias",
+      "Cooperação institucional",
+      "Pesquisa e desenvolvimento"
+    ],
+    "publico": "Organizações da sociedade civil aptas à celebração de acordo de cooperação com a Embrapa",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamamento público para seleção de organização da sociedade civil, com apresentação de plano de trabalho e posterior celebração de acordo de cooperação, conforme a Lei nº 13.019/2014.",
+    "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
+    "descobertoEm": "2026-10-01"
   }
 ]
