@@ -7543,16 +7543,15 @@
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "agricultura",
-      "agronegócio",
-      "saúde animal",
-      "foodtech",
-      "cadeias agroindustriais sustentáveis"
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal",
+      "Foodtech"
     ],
     "publico": "Empresas",
     "valor": null,
     "prazo": "2026-09-30",
-    "desc": "Chamada de apoio à inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech. O prazo informado para envio de propostas é 30 de setembro de 2026.",
+    "desc": "Chamada de subvenção econômica para projetos de inovação relacionados a cadeias agroindustriais sustentáveis.",
     "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-08-20"
   },
@@ -13048,18 +13047,19 @@
   {
     "id": "CONFAP-CDTI-2026-2027",
     "titulo": "Chamada CONFAP & CDTI 2026-2027",
-    "orgao": "CONFAP e CDTI",
+    "orgao": "CONFAP, CDTI e FAPs participantes, incluindo FAPEAM",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa e inovação tecnológica",
+      "Pesquisa aplicada",
+      "Inovação tecnológica",
       "Agropecuária",
-      "Recursos naturais",
-      "Tecnologias aplicadas à Amazônia"
+      "Bioeconomia",
+      "Sustentabilidade"
     ],
-    "publico": "Pesquisadores vinculados a instituições brasileiras e espanholas, conforme regras das FAPs participantes, incluindo a FAPEAM.",
-    "valor": "Financiamento conforme as regras da FAP participante e do CDTI; valor não especificado na página consultada.",
+    "publico": "Pesquisadores vinculados a instituições brasileiras elegíveis e parceiros empresariais espanhóis, conforme as regras da chamada e das FAPs participantes.",
+    "valor": "Conforme regras da chamada, da CDTI e da FAP participante; valor não informado na página consultada.",
     "prazo": "2026-10-08",
-    "desc": "Chamada para projetos colaborativos de pesquisa e inovação tecnológica entre instituições do Brasil e da Espanha. A FAPEAM está entre as Fundações Estaduais participantes. As propostas brasileiras devem ser submetidas pela plataforma do CONFAP.",
+    "desc": "Chamada de cooperação internacional entre pesquisadores brasileiros e empresas espanholas, com participação da FAPEAM entre as instituições estaduais envolvidas. As propostas brasileiras devem ser submetidas pela plataforma do CONFAP.",
     "url": "https://confap.org.br/pt/editais/114/chamada-confap-cdti-2026-2027",
     "descobertoEm": "2026-09-24"
   },
@@ -13324,16 +13324,16 @@
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "agricultura familiar",
-      "aquicultura",
-      "pesca artesanal",
-      "produtividade agrícola",
-      "inovação tecnológica"
+      "Agricultura familiar",
+      "Aquicultura",
+      "Pesca artesanal",
+      "Produtividade agrícola",
+      "Inovação tecnológica"
     ],
-    "publico": "Empresas, conforme regulamento da seleção pública",
+    "publico": "Empresas e demais proponentes elegíveis conforme o regulamento",
     "valor": null,
     "prazo": null,
-    "desc": "Concessão de recursos de subvenção econômica para projetos inovadores e de risco tecnológico voltados ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "desc": "Seleção pública em fluxo contínuo para concessão de recursos de subvenção econômica a projetos inovadores e de risco tecnológico voltados ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
     "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
     "descobertoEm": "2026-09-29"
   },
@@ -13515,5 +13515,60 @@
     "desc": "Chamamento público para seleção de organização da sociedade civil, com apresentação de plano de trabalho e posterior celebração de acordo de cooperação, conforme a Lei nº 13.019/2014.",
     "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
     "descobertoEm": "2026-10-01"
+  },
+  {
+    "id": "CONFAP-WBI-BELGICA-2026",
+    "titulo": "Chamada CONFAP & WBI – Bélgica 2026",
+    "orgao": "CONFAP, Wallonie-Bruxelles International e FAPs participantes, incluindo FAPEAM",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa científica",
+      "Inovação",
+      "Sustentabilidade",
+      "Bioeconomia",
+      "Agropecuária"
+    ],
+    "publico": "Pesquisadores brasileiros vinculados a instituições elegíveis nos estados das FAPs participantes e pesquisadores parceiros da Bélgica, conforme regras da chamada.",
+    "valor": "Conforme as modalidades e limites definidos pelo WBI e pela FAP participante; valor não informado na página consultada.",
+    "prazo": "2026-10-30",
+    "desc": "Chamada de cooperação internacional com a Bélgica. A FAPEAM figura entre as FAPs participantes; os candidatos brasileiros devem observar as regras estaduais de elegibilidade e submeter propostas em inglês pela plataforma do CONFAP.",
+    "url": "https://confap.org.br/pt/editais/111/chamada-confap-wbi-belgica-2026",
+    "descobertoEm": "2026-10-02"
+  },
+  {
+    "id": "horizon-cl6-2026-01-circbio",
+    "titulo": "HORIZON-CL6-2026-01-CIRCBIO — Circular economy and bioeconomy sectors",
+    "orgao": "Comissão Europeia — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "bioeconomia",
+      "economia circular",
+      "inovação de base biológica",
+      "reciclagem"
+    ],
+    "publico": "Entidades jurídicas elegíveis participantes de consórcios internacionais; instituições brasileiras podem participar, mas não têm financiamento automático da Comissão Europeia",
+    "valor": "Orçamento indicativo não informado na página oficial da chamada",
+    "prazo": "2026-09-17",
+    "desc": "Chamada do Cluster 6 do Horizon Europe com tópicos sobre inovação de base biológica, embalagens de alimentos e recuperação de matérias-primas; aplicabilidade agropecuária depende do tópico específico.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
+    "descobertoEm": "2026-10-02"
+  },
+  {
+    "id": "bndes-fip-conexoes-startups-2026",
+    "titulo": "Chamada Pública para Seleção de Fundo de Investimento em Participações — FIP Conexões Startups — 2026",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "startups",
+      "inovação",
+      "investimento de risco",
+      "tecnologias agropecuárias"
+    ],
+    "publico": "Gestores e fundos de investimento elegíveis conforme o edital; não é chamada direta para pesquisadores",
+    "valor": "Não informado na página oficial",
+    "prazo": null,
+    "desc": "Chamada pública em andamento para seleção de fundo de investimento. Pode ser aplicável indiretamente a empresas e startups de inovação agropecuária, conforme a tese de investimento e as regras do edital.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/mercado-de-capitais/fundos-de-investimentos/chamadas-publicas-para-selecao-de-fundos",
+    "descobertoEm": "2026-10-02"
   }
 ]
