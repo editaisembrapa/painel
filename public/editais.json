@@ -7520,20 +7520,20 @@
   },
   {
     "id": "FINEP-AGRIFAM-ICT-2026",
-    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar e da Agroecologia",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Infraestrutura de pesquisa",
-      "Agropecuária",
       "Agricultura familiar",
-      "Sistemas agroalimentares",
-      "PD&I"
+      "Agroecologia",
+      "Cadeias socioprodutivas",
+      "Pesquisa e desenvolvimento",
+      "Inovação"
     ],
-    "publico": "ICTs",
-    "valor": "até R$ 150.000.000,00",
-    "prazo": "2026-06-19",
-    "desc": "Seleção pública para apoio não reembolsável a projetos com bioinsumos, sistemas agroecológicos e orgânicos, soluções digitais para pequena propriedade e aquicultura de espécies nativas.",
+    "publico": "Instituições de ciência, tecnologia e inovação e demais entidades elegíveis conforme o edital",
+    "valor": "Até R$ 150.000.000,00 em recursos não reembolsáveis do FNDCT",
+    "prazo": null,
+    "desc": "Chamada pública para apoio a projetos em cadeias socioprodutivas da agricultura familiar e da agroecologia, com prazo de execução de até 36 meses, prorrogável conforme o edital.",
     "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
     "descobertoEm": "2026-08-20"
   },
@@ -12914,21 +12914,22 @@
   },
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK",
-    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption — two-stage call",
-    "orgao": "European Commission — Horizon Europe",
+    "titulo": "Horizon Europe Cluster 6 – Food, Bioeconomy, Natural Resources, Agriculture and Environment",
+    "orgao": "Comissão Europeia / European Research Executive Agency",
     "origem": "Internacional",
     "areas": [
+      "agricultura",
       "sistemas alimentares",
-      "competitividade agrícola",
-      "agricultura orgânica",
-      "produção primária",
-      "sustentabilidade ambiental"
+      "bioeconomia",
+      "recursos naturais",
+      "ambiente",
+      "inovação agropecuária"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, incluindo organizações brasileiras nos casos permitidos",
-    "valor": "€25,5 milhões de orçamento indicativo",
-    "prazo": "2026-09-15",
-    "desc": "Chamada em duas etapas com tópicos sobre melhoria da competitividade do setor agrícola e fortalecimento da agricultura orgânica. A data indicada corresponde ao prazo da segunda etapa.",
-    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do tópico",
+    "valor": "Orçamento variável por tópico; consultar o programa de trabalho e o Funding & Tenders Portal",
+    "prazo": "2026-11-26",
+    "desc": "Chamada do programa de trabalho 2026–2027 do Cluster 6, com tópicos relacionados à agricultura, recursos naturais, alimentos, bioeconomia e ambiente. A página oficial indica abertura em 25 de agosto de 2026 e prazo em 26 de novembro de 2026.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-09-23"
   },
   {
@@ -13570,5 +13571,135 @@
     "desc": "Chamada pública em andamento para seleção de fundo de investimento. Pode ser aplicável indiretamente a empresas e startups de inovação agropecuária, conforme a tese de investimento e as regras do edital.",
     "url": "https://www.bndes.gov.br/wps/portal/site/home/mercado-de-capitais/fundos-de-investimentos/chamadas-publicas-para-selecao-de-fundos",
     "descobertoEm": "2026-10-02"
+  },
+  {
+    "id": "FINEP-AGRO-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal",
+      "Foodtech",
+      "Cadeias agroindustriais sustentáveis"
+    ],
+    "publico": "Empresas",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Chamada de subvenção econômica à inovação voltada a cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-10-03"
+  },
+  {
+    "id": "FINEP-739-2026",
+    "titulo": "Soluções Tecnológicas para Aumento da Produtividade na Agricultura Familiar, Aquicultura e Pesca Artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Aquicultura",
+      "Pesca artesanal",
+      "Inovação tecnológica",
+      "Produtividade"
+    ],
+    "publico": null,
+    "valor": null,
+    "prazo": null,
+    "desc": "Seleção pública em fluxo contínuo para concessão de subvenção econômica a projetos inovadores e de risco tecnológico voltados ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-10-03"
+  },
+  {
+    "id": "FINEP-C-AGRO-2026",
+    "titulo": "Seleção Pública MCTI/FINEP/FNDCT – C. Agro",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Produtividade agrícola",
+      "Segurança alimentar",
+      "Fixação biológica de nitrogênio",
+      "Solubilização de fósforo e potássio",
+      "Pesquisa e desenvolvimento agropecuário"
+    ],
+    "publico": null,
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada de subvenção econômica à inovação com linhas temáticas para pesquisa, desenvolvimento e inovação em produtividade agrícola e segurança alimentar, incluindo tecnologias relacionadas à fixação biológica de nitrogênio e à solubilização de fósforo e potássio.",
+    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/06_02_2026_C_Agro_Anexo1.pdf",
+    "descobertoEm": "2026-10-03"
+  },
+  {
+    "id": "embrapa-chamada-11-2026-ilpf-regenera",
+    "titulo": "Chamada nº 11/2026 – Seleção para bolsistas de inovação do Projeto ILPF Regenera",
+    "orgao": "Embrapa e Funarbe",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, desenvolvimento e inovação",
+      "Agropecuária de baixa emissão de carbono",
+      "Integração lavoura-pecuária-floresta"
+    ],
+    "publico": "Bolsistas de inovação, conforme requisitos da chamada",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada para seleção de bolsistas de inovação vinculados ao Projeto ILPF Regenera. O resultado disponível não informa prazo final nem valores das bolsas.",
+    "url": "https://www.embrapa.br/50-anos/busca-de-noticias/-/noticia/106385421/chamada-n-112026---embrapa-e-funarbe-abrem-selecao-para-bolsistas-de-inovacao-projeto-ilpf-regenera",
+    "descobertoEm": "2026-10-03"
+  },
+  {
+    "id": "embrapa-chamada-12-2026-ilpf-regenera",
+    "titulo": "Chamada Pública nº 12/2026 – Seleção de bolsistas para o Projeto ILPF Regenera",
+    "orgao": "Embrapa Agrossilvipastoril, Monsanto/Bayer e Funarbe",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, desenvolvimento e inovação",
+      "Desenvolvimento tecnológico",
+      "Extensão tecnológica",
+      "Sustentabilidade agropecuária",
+      "Integração lavoura-pecuária-floresta"
+    ],
+    "publico": "Especialistas e estudantes, conforme requisitos da chamada",
+    "valor": null,
+    "prazo": "2026-01-28",
+    "desc": "Chamada Pública nº 12/2026 para concessão de Bolsas de Estímulo à Inovação no projeto ILPF Regenera, voltado a indicadores ambientais de sustentabilidade para agropecuária de baixa emissão de carbono.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/106385473/chamada-n-122026---selecao-de-bolsistas-para-o-projeto-ilpf-regenera--embrapa-agrossilvipastoril",
+    "descobertoEm": "2026-10-03"
+  },
+  {
+    "id": "embrapa-bolsas-estimulo-inovacao-editais-73-74-75-2026",
+    "titulo": "Editais nº 73, 74 e 75/2026 – Bolsas de Estímulo à Inovação",
+    "orgao": "Embrapa Roraima e FAPEG",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa, desenvolvimento e inovação",
+      "Extensão tecnológica",
+      "Propriedade intelectual",
+      "Transferência de tecnologia"
+    ],
+    "publico": "Estudantes de graduação em Agronomia, Biologia, Engenharia Florestal ou curso técnico agrícola, conforme o edital",
+    "valor": null,
+    "prazo": "2026-08-10",
+    "desc": "Chamada pública para concessão de bolsas de estímulo à inovação destinadas à formação e capacitação de recursos humanos e ao apoio a projetos de PD&I, extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologias da Embrapa.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/146166639/abertas-inscricoes-para-selecao-de-bolsistas-de-estimulo-a-inovacao",
+    "descobertoEm": "2026-10-03"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-OPEN",
+    "titulo": "Horizon Europe Cluster 6 – Circular Economy and Bioeconomy Sectors",
+    "orgao": "Comissão Europeia / European Research Executive Agency",
+    "origem": "Internacional",
+    "areas": [
+      "economia circular",
+      "bioeconomia",
+      "agricultura",
+      "uso sustentável de recursos",
+      "inovação agropecuária"
+    ],
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do tópico",
+    "valor": "Orçamento variável por tópico; consultar o programa de trabalho e o Funding & Tenders Portal",
+    "prazo": "2026-09-17",
+    "desc": "Chamada do Cluster 6 com tópicos de economia circular e bioeconomia aplicáveis a cadeias agropecuárias e agroindustriais. A fonte oficial indica 17 de setembro de 2026 como prazo para submissão.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
+    "descobertoEm": "2026-10-03"
   }
 ]
