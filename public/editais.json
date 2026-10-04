@@ -6168,20 +6168,20 @@
   },
   {
     "id": "CNPq-06-2026",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
-    "orgao": "CNPq",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Agropecuária",
-      "Ciências agrárias",
       "Pesquisa científica",
-      "Pesquisa tecnológica"
+      "Desenvolvimento tecnológico",
+      "Inovação",
+      "Ciências agrárias"
     ],
-    "publico": "Pesquisadores vinculados a instituições de ensino, pesquisa, desenvolvimento tecnológico e inovação, conforme regras da chamada",
-    "valor": "Não informado nos dados disponíveis",
+    "publico": "Pesquisadores vinculados a instituições de pesquisa, ensino superior e demais instituições elegíveis conforme o edital",
+    "valor": "Não identificado nos dados disponíveis",
     "prazo": null,
-    "desc": "Chamada universal para apoio a projetos de pesquisa, com possibilidade de concessão de bolsas de Iniciação Científica, Iniciação Tecnológica Industrial, Apoio Técnico e Pós-Doutorado Júnior.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "desc": "Apoia projetos de pesquisa, em qualquer área do conhecimento, que contribuam para o desenvolvimento científico, tecnológico e a inovação do País. A pertinência específica para agropecuária depende do projeto e das regras completas da chamada.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/Chamada_Universal_06_2026_corrigida_24julho2026.pdf",
     "descobertoEm": "2026-08-08"
   },
   {
@@ -12934,20 +12934,20 @@
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Circular economy and bioeconomy sectors — Call 01 (2026)",
-    "orgao": "European Commission — Horizon Europe",
+    "titulo": "Circular economy and bioeconomy sectors",
+    "orgao": "European Commission / REA",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
       "economia circular",
-      "agricultura",
-      "bioprodutos",
-      "sistemas agroalimentares"
+      "inovação de base biológica",
+      "embalagens alimentares",
+      "reciclagem"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras quando permitido pelas regras do tópico",
-    "valor": "Orçamento indicativo do tópico não confirmado na fonte consultada",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, com participação de instituições brasileiras conforme as regras do tópico",
+    "valor": "€101 milhões no total indicativo da chamada",
     "prazo": "2026-09-17",
-    "desc": "Chamada do Cluster 6 do Horizon Europe voltada a setores de economia circular e bioeconomia, com possível aplicação a pesquisa agropecuária e cadeias de valor de base biológica.",
+    "desc": "Chamada do Cluster 6 do Horizon Europe com 11 tópicos, incluindo inovação de base biológica e tecnologias relacionadas a cadeias agroalimentares.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -12973,19 +12973,19 @@
   {
     "id": "HORIZON-CL6-2026-01-BIODIV",
     "titulo": "Biodiversity and ecosystem services",
-    "orgao": "European Commission — Research Executive Agency",
+    "orgao": "European Commission / REA",
     "origem": "Internacional",
     "areas": [
       "agrobiodiversidade",
       "biodiversidade",
       "serviços ecossistêmicos",
-      "declínio de insetos",
-      "conservação ambiental"
+      "conservação",
+      "sistemas agroecológicos"
     ],
-    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do programa",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, com participação de instituições brasileiras conforme as regras do tópico",
     "valor": "€76 milhões no total indicativo da chamada",
     "prazo": "2026-09-17",
-    "desc": "Chamada com tópicos relacionados à agrobiodiversidade, conservação de ecossistemas e economia positiva para a natureza, aplicáveis à pesquisa agropecuária.",
+    "desc": "Chamada com sete tópicos, incluindo agrobiodiversidade, declínio de insetos, avaliação de ecossistemas e economia positiva para a natureza.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/biodiversity-and-ecosystem-services_en",
     "descobertoEm": "2026-09-23"
   },
