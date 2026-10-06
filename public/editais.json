@@ -12934,20 +12934,20 @@
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Circular economy and bioeconomy sectors",
-    "orgao": "European Commission / REA",
+    "titulo": "Circular economy and bioeconomy sectors — Horizon Europe 2026",
+    "orgao": "European Commission — Research Executive Agency",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
       "economia circular",
-      "inovação de base biológica",
-      "embalagens alimentares",
-      "reciclagem"
+      "agricultura",
+      "sistemas alimentares",
+      "recursos naturais"
     ],
-    "publico": "Consórcios internacionais elegíveis no Horizon Europe, com participação de instituições brasileiras conforme as regras do tópico",
-    "valor": "€101 milhões no total indicativo da chamada",
+    "publico": "Consórcios internacionais de entidades elegíveis; organizações brasileiras podem participar conforme as regras do Horizon Europe.",
+    "valor": null,
     "prazo": "2026-09-17",
-    "desc": "Chamada do Cluster 6 do Horizon Europe com 11 tópicos, incluindo inovação de base biológica e tecnologias relacionadas a cadeias agroalimentares.",
+    "desc": "Chamada de etapa única do Cluster 6 do Horizon Europe, aplicável a projetos de pesquisa e inovação relacionados à economia circular e à bioeconomia.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13701,5 +13701,73 @@
     "desc": "Chamada do Cluster 6 com tópicos de economia circular e bioeconomia aplicáveis a cadeias agropecuárias e agroindustriais. A fonte oficial indica 17 de setembro de 2026 como prazo para submissão.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-10-03"
+  },
+  {
+    "id": "confap-cdti-2026-2027",
+    "titulo": "Chamada CONFAP & CDTI 2026-2027",
+    "orgao": "CONFAP e CDTI",
+    "origem": "Nacional",
+    "areas": [
+      "inovação",
+      "tecnologia",
+      "agropecuária"
+    ],
+    "publico": "Pesquisadores brasileiros vinculados às Fundações Estaduais de Amparo à Pesquisa participantes e parceiros internacionais elegíveis",
+    "valor": "Não informado no resultado consultado",
+    "prazo": "2026-10-08",
+    "desc": "Chamada internacional para projetos cooperativos de pesquisa, desenvolvimento e inovação; submissão brasileira pela plataforma do CONFAP.",
+    "url": "https://confap.org.br/pt/editais/114/chamada-confap-cdti-2026-2027",
+    "descobertoEm": "2026-10-06"
+  },
+  {
+    "id": "confap-erc-2026",
+    "titulo": "Chamada ERC-CONFAP 2026",
+    "orgao": "CONFAP e European Research Council",
+    "origem": "Internacional",
+    "areas": [
+      "pesquisa científica",
+      "interdisciplinar"
+    ],
+    "publico": "Pesquisadores vinculados às Fundações Estaduais de Amparo à Pesquisa participantes, incluindo a FAPEAM, conforme regras de elegibilidade da chamada",
+    "valor": "Não informado no resultado consultado",
+    "prazo": null,
+    "desc": "Chamada de cooperação com o European Research Council; a página oficial confirma a participação da FAPEAM e a submissão pela plataforma do CONFAP, mas o resultado consultado não informa prazo final.",
+    "url": "https://confap.org.br/pt/editais/109/chamada-erc-confap-2026",
+    "descobertoEm": "2026-10-06"
+  },
+  {
+    "id": "confap-forest-2026",
+    "titulo": "Chamada Transnacional Conjunta – FOREST 2026",
+    "orgao": "CONFAP e Fundações Estaduais de Amparo à Pesquisa participantes",
+    "origem": "Internacional",
+    "areas": [
+      "florestas",
+      "biodiversidade",
+      "mudanças climáticas",
+      "Amazônia"
+    ],
+    "publico": "Pesquisadores de instituições elegíveis nos países e estados participantes, incluindo pesquisadores apoiados pela FAPEAM, conforme regras da chamada",
+    "valor": "Não informado no resultado consultado",
+    "prazo": null,
+    "desc": "Chamada transnacional para projetos colaborativos de pesquisa em temas relacionados a florestas; a página oficial confirma a participação da FAPEAM, mas o resultado consultado não informa a data final de submissão.",
+    "url": "https://confap.org.br/pt/editais/119/chamada-transnacional-conjunta-forest-2026",
+    "descobertoEm": "2026-10-06"
+  },
+  {
+    "id": "confap-wbi-belgica-2026",
+    "titulo": "Chamada CONFAP & WBI – Bélgica 2026",
+    "orgao": "CONFAP e Wallonie-Bruxelles International",
+    "origem": "Internacional",
+    "areas": [
+      "pesquisa científica",
+      "inovação",
+      "cooperação internacional"
+    ],
+    "publico": "Pesquisadores brasileiros vinculados às Fundações Estaduais de Amparo à Pesquisa participantes e pesquisadores belgas elegíveis",
+    "valor": "Não informado no resultado consultado",
+    "prazo": "2026-10-30",
+    "desc": "Chamada de cooperação científica internacional; propostas brasileiras devem ser submetidas em inglês pela plataforma do CONFAP, observadas as regras da FAP estadual correspondente.",
+    "url": "https://confap.org.br/pt/editais/111/chamada-confap-wbi-belgica-2026",
+    "descobertoEm": "2026-10-06"
   }
 ]
