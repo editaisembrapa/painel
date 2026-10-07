@@ -12914,40 +12914,40 @@
   },
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK",
-    "titulo": "Horizon Europe Cluster 6 – Food, Bioeconomy, Natural Resources, Agriculture and Environment",
-    "orgao": "Comissão Europeia / European Research Executive Agency",
+    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption",
+    "orgao": "European Commission – Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "agricultura",
-      "sistemas alimentares",
-      "bioeconomia",
-      "recursos naturais",
-      "ambiente",
-      "inovação agropecuária"
+      "pesquisa agropecuária",
+      "produção sustentável",
+      "melhoramento de culturas perenes",
+      "diversificação pecuária",
+      "dietas saudáveis",
+      "agricultura orgânica"
     ],
-    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras do tópico",
-    "valor": "Orçamento variável por tópico; consultar o programa de trabalho e o Funding & Tenders Portal",
-    "prazo": "2026-11-26",
-    "desc": "Chamada do programa de trabalho 2026–2027 do Cluster 6, com tópicos relacionados à agricultura, recursos naturais, alimentos, bioeconomia e ambiente. A página oficial indica abertura em 25 de agosto de 2026 e prazo em 26 de novembro de 2026.",
-    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis no Horizon Europe; participação brasileira sujeita às regras do programa.",
+    "valor": "€138,6 milhões na chamada de etapa única; €25,5 milhões na chamada de duas etapas",
+    "prazo": "2026-09-15",
+    "desc": "A chamada de etapa única teve prazo em 2026-04-14 e está encerrada. A chamada de duas etapas inclui temas sobre competitividade do setor agrícola e agricultura orgânica, com segunda etapa até 2026-09-15.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-23"
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Circular economy and bioeconomy sectors — Horizon Europe 2026",
-    "orgao": "European Commission — Research Executive Agency",
+    "titulo": "Circular economy and bioeconomy sectors",
+    "orgao": "European Commission – Horizon Europe",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
       "economia circular",
-      "agricultura",
-      "sistemas alimentares",
-      "recursos naturais"
+      "inovação de base biológica",
+      "embalagens alimentares",
+      "recuperação de matérias-primas"
     ],
-    "publico": "Consórcios internacionais de entidades elegíveis; organizações brasileiras podem participar conforme as regras do Horizon Europe.",
-    "valor": null,
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis no Horizon Europe; participação brasileira sujeita às regras do programa.",
+    "valor": "€101 milhões na chamada de etapa única; €28 milhões na chamada de duas etapas",
     "prazo": "2026-09-17",
-    "desc": "Chamada de etapa única do Cluster 6 do Horizon Europe, aplicável a projetos de pesquisa e inovação relacionados à economia circular e à bioeconomia.",
+    "desc": "A chamada de etapa única prevê 11 temas relacionados a embalagens alimentares, reciclagem, recuperação de matérias-primas e inovação de base biológica. O prazo informado é 2026-09-17.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13084,18 +13084,18 @@
   },
   {
     "id": "embrapa-trigo-selecao-tecnologica-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 – Multiplicação de sementes",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
     "orgao": "Embrapa Trigo",
-    "origem": "Nacional",
+    "origem": "Interno",
     "areas": [
-      "transferência de tecnologia",
-      "produção e comercialização de sementes",
-      "melhoramento genético"
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento vegetal"
     ],
-    "publico": "Produtor inscrito no RENASEM interessado em cooperação técnica para multiplicação de sementes de cultivares da Embrapa Trigo",
+    "publico": "Produtor inscrito no RENASEM",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de parceiro para produção e comercialização exclusiva de sementes genéticas e básicas de cultivares de titularidade da Embrapa Trigo, mediante contrato de cinco anos.",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes genéticas e básicas de cultivares da Embrapa Trigo, com contrato de cinco anos.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-09-25"
   },
@@ -13769,5 +13769,77 @@
     "desc": "Chamada de cooperação científica internacional; propostas brasileiras devem ser submetidas em inglês pela plataforma do CONFAP, observadas as regras da FAP estadual correspondente.",
     "url": "https://confap.org.br/pt/editais/111/chamada-confap-wbi-belgica-2026",
     "descobertoEm": "2026-10-06"
+  },
+  {
+    "id": "embrapa-meio-norte-cnpq-edital-02-2026",
+    "titulo": "Edital 02/2026 — Convênio Embrapa/CNPq",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação"
+    ],
+    "publico": "Estudantes e bolsistas elegíveis ao Programa Institucional de Bolsas Embrapa/CNPq",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-10-07"
+  },
+  {
+    "id": "embrapa-gado-leite-chamamento-publico-01-2026",
+    "titulo": "Edital de Chamamento Público nº 01/2026",
+    "orgao": "Embrapa Gado de Leite",
+    "origem": "Nacional",
+    "areas": [
+      "Parcerias institucionais",
+      "Cooperação técnica",
+      "Desenvolvimento rural"
+    ],
+    "publico": "Organizações da sociedade civil",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamamento público para celebração de acordo de cooperação com organização da sociedade civil, conforme a Lei nº 13.019/2014.",
+    "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
+    "descobertoEm": "2026-10-07"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02",
+    "titulo": "Innovative governance, environmental observations and digital solutions in support of the Green Deal",
+    "orgao": "European Commission – Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "inovação agrícola",
+      "inteligência artificial aplicada a alimentos",
+      "agricultura digital",
+      "aprendizagem entre pares",
+      "observação ambiental"
+    ],
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis no Horizon Europe; participação brasileira sujeita às regras do programa.",
+    "valor": "€96,5 milhões",
+    "prazo": "2026-08-25",
+    "desc": "A chamada de 2026 inclui temas sobre soluções de inteligência artificial para alimentos, inovação na agricultura por aprendizagem entre pares e atividades adicionais da European Partnership on Agriculture of Data, com próxima abertura indicada para 2026-08-25.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
+    "descobertoEm": "2026-10-07"
+  },
+  {
+    "id": "BNDES-INOVAGRO-2026",
+    "titulo": "Inovagro – Programa de Incentivo à Modernização e à Inovação Tecnológica na Produção Agropecuária",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "inovação tecnológica agropecuária",
+      "modernização de propriedades rurais",
+      "produtividade",
+      "boas práticas agropecuárias",
+      "gestão rural"
+    ],
+    "publico": "Produtores rurais e empreendimentos individuais ou coletivos elegíveis ao financiamento rural.",
+    "valor": "Até R$ 4 milhões por cliente em empreendimento individual e até R$ 15 milhões em empreendimento coletivo, observados os limites aplicáveis.",
+    "prazo": "2027-06-30",
+    "desc": "Programa de financiamento para incorporação de inovação tecnológica nas propriedades rurais. A vigência informada alcança 2027-06-30.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/inovagro",
+    "descobertoEm": "2026-10-07"
   }
 ]
