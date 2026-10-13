@@ -12895,57 +12895,57 @@
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK-13",
     "titulo": "Boosting plant health and reducing losses on farm and during storage for sustainable growth in Africa",
-    "orgao": "European Commission — Horizon Europe",
+    "orgao": "Comissão Europeia",
     "origem": "Internacional",
     "areas": [
-      "saúde vegetal",
-      "redução de perdas agrícolas",
+      "sanidade vegetal",
+      "redução de perdas pós-colheita",
       "armazenamento",
-      "agricultura sustentável",
-      "África"
+      "produção agrícola sustentável",
+      "cooperação África-América Latina"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação brasileira conforme as regras do tópico",
-    "valor": null,
-    "prazo": null,
-    "desc": "Tópico voltado à melhoria da saúde vegetal e à redução de perdas na produção e no armazenamento agrícola para crescimento sustentável na África.",
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e organizações elegíveis; verificar as condições específicas do tópico",
+    "valor": "Aproximadamente €6 milhões de contribuição da União Europeia",
+    "prazo": "2026-11-26",
+    "desc": "Tópico do programa de trabalho Horizon Europe Cluster 6 sobre sanidade vegetal e redução de perdas na fazenda e durante o armazenamento. O documento oficial informa abertura em 25 de agosto e prazo em 26 de novembro de 2026.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-09-23"
   },
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK",
-    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption – Call 02 (2026)",
-    "orgao": "European Commission – Horizon Europe",
+    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption",
+    "orgao": "Comissão Europeia",
     "origem": "Internacional",
     "areas": [
-      "produção agropecuária",
+      "pesquisa agropecuária",
       "sistemas alimentares",
-      "melhoramento vegetal",
-      "pecuária",
-      "agricultura orgânica",
-      "saúde do solo e das plantas"
+      "melhoramento de culturas perenes",
+      "diversificação da pecuária",
+      "agricultura orgânica"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação brasileira conforme os requisitos de cada tópico",
-    "valor": "€138,6 milhões na chamada de etapa única; €25,5 milhões na chamada de duas etapas",
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis; participação brasileira sujeita às regras do tópico",
+    "valor": "€25,5 milhões para os tópicos em duas etapas; €138,6 milhões para os tópicos em etapa única",
     "prazo": "2026-09-15",
-    "desc": "A chamada inclui tópicos sobre competitividade do setor agrícola, agricultura orgânica, melhoramento de culturas perenes, diversificação da pecuária, saúde vegetal e sistemas alimentares. O prazo informado corresponde à segunda etapa da modalidade em duas etapas.",
+    "desc": "Chamada Horizon Europe Cluster 6 com tópicos sobre competitividade do setor agrícola e agricultura orgânica. A primeira etapa da chamada em duas fases teve prazo anterior; a segunda etapa encerra em 15 de setembro de 2026.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-23"
   },
   {
     "id": "HORIZON-CL6-2026-01-CIRCBIO",
-    "titulo": "Circular economy and bioeconomy sectors – Call 01 (2026)",
-    "orgao": "European Commission – Horizon Europe",
+    "titulo": "Circular economy and bioeconomy sectors",
+    "orgao": "Comissão Europeia",
     "origem": "Internacional",
     "areas": [
       "bioeconomia",
       "economia circular",
-      "biotecnologia",
-      "recursos biológicos"
+      "embalagens para alimentos",
+      "inovação de base biológica",
+      "recuperação de matérias-primas"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação brasileira quando permitida pelo tópico",
-    "valor": "Não informado na página oficial consultada",
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis",
+    "valor": "€101 milhões",
     "prazo": "2026-09-17",
-    "desc": "Chamada Horizon Europe 2026 de economia circular e bioeconomia, aplicável a projetos de pesquisa e inovação relacionados a cadeias agroalimentares e recursos biológicos conforme os tópicos específicos.",
+    "desc": "Chamada do Horizon Europe Cluster 6 com tópicos sobre inovação de base biológica, embalagens de alimentos, reciclagem e recuperação de matérias-primas, aplicável a projetos agroalimentares e de bioeconomia.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/circular-economy-and-bioeconomy-sectors_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13984,18 +13984,20 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq Nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Ciências Agrárias",
       "Agropecuária",
-      "Pesquisa e desenvolvimento tecnológico"
+      "Ciências Agrárias",
+      "Pesquisa",
+      "Desenvolvimento tecnológico",
+      "Inovação"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação compatível com as modalidades PQ, PQ-Sr e DT",
-    "valor": "Bolsas de produtividade conforme modalidade e normas vigentes do CNPq",
+    "publico": "Pesquisadores elegíveis às bolsas de Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sr).",
+    "valor": null,
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de produtividade em pesquisa e desenvolvimento tecnológico, incluindo a modalidade de Pesquisador Sênior. A chamada está aberta em 2026 e pode atender pesquisadores da agropecuária conforme a área de atuação e os critérios dos comitês de assessoramento.",
+    "desc": "Concessão de bolsas para pesquisadores com produção científica, tecnológica e de inovação de destaque, incluindo projetos em áreas de interesse agropecuário.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-10"
   },
@@ -14027,15 +14029,14 @@
     "orgao": "Embrapa Gado de Leite",
     "origem": "Interno",
     "areas": [
-      "Pesquisa",
-      "Desenvolvimento",
-      "Inovação",
-      "Parcerias"
+      "Parcerias",
+      "Cooperação institucional",
+      "Pesquisa e desenvolvimento"
     ],
-    "publico": "Instituições interessadas na celebração de acordo de cooperação com a Embrapa Gado de Leite",
+    "publico": "Organizações da Sociedade Civil (OSC)",
     "valor": null,
     "prazo": null,
-    "desc": "Chamamento público para apresentação de propostas visando à celebração de parceria e acordo de cooperação com a Embrapa Gado de Leite. O edital tem vigência de 12 meses a partir da homologação do resultado definitivo.",
+    "desc": "Chamamento público para seleção de organização da sociedade civil visando à celebração de acordo de cooperação com a Embrapa Gado de Leite. Publicado em 09/02/2026; o edital informa vigência de 12 meses a contar da homologação do resultado definitivo.",
     "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
     "descobertoEm": "2026-10-10"
   },
@@ -14216,5 +14217,96 @@
     "desc": "Tópico da chamada de biodiversidade que contempla agrobiodiversidade e pode abranger pesquisa agropecuária, conservação de recursos genéticos e sistemas produtivos sustentáveis.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/biodiversity-and-ecosystem-services_en",
     "descobertoEm": "2026-10-12"
+  },
+  {
+    "id": "CONFAP-WBI-2026",
+    "titulo": "Chamada CONFAP & WBI 2026",
+    "orgao": "CONFAP e Wallonie-Bruxelles International",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa e inovação",
+      "Amazônia",
+      "Agropecuária"
+    ],
+    "publico": "Pesquisadores vinculados a instituições dos estados participantes, incluindo a FAPEAM",
+    "valor": null,
+    "prazo": "2026-10-30",
+    "desc": "Apoio a projetos conjuntos de pesquisa e inovação entre Brasil e Bélgica, com participação da FAPEAM entre as fundações estaduais participantes.",
+    "url": "https://news.confap.org.br/lancada-a-chamada-confap-wbi-2026-para-apoio-a-projetos-conjuntos-de-pesquisa-e-inovacao-entre-brasil-e-belgica/",
+    "descobertoEm": "2026-10-13"
+  },
+  {
+    "id": "FOREST-2026",
+    "titulo": "Chamada Transnacional Conjunta FOREST 2026",
+    "orgao": "CONFAP e Parceria Europeia FOREST",
+    "origem": "Internacional",
+    "areas": [
+      "Florestas",
+      "Silvicultura",
+      "Bioeconomia",
+      "Sustentabilidade",
+      "Amazônia"
+    ],
+    "publico": "Consórcios internacionais de pesquisa com participação de instituições brasileiras vinculadas às FAPs participantes, incluindo a FAPEAM",
+    "valor": null,
+    "prazo": "2026-12-02",
+    "desc": "Financiamento de pré-propostas colaborativas sobre florestas resilientes e soluções sustentáveis para o setor florestal.",
+    "url": "https://confap.org.br/pt/editais/119/chamada-transnacional-conjunta-forest-2026",
+    "descobertoEm": "2026-10-13"
+  },
+  {
+    "id": "EDITAL-02-2026-CHAMADA-02-EMBRAPA-CNPQ",
+    "titulo": "Edital 02/2026 – Chamada 02/2026 – Programa de Bolsas Embrapa/CNPq",
+    "orgao": "Embrapa Meio-Norte / CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
+    ],
+    "publico": "Estudantes e candidatos a bolsas PIBIC e PIBITI do Programa Embrapa/CNPq",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). As inscrições ocorreram de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-10-13"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-COMMUNITIES-01",
+    "titulo": "Boosting sustainable competitiveness in rural areas through innovation",
+    "orgao": "Comissão Europeia",
+    "origem": "Internacional",
+    "areas": [
+      "inovação rural",
+      "desenvolvimento territorial",
+      "agricultura sustentável",
+      "competitividade agropecuária"
+    ],
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas, organizações rurais e entidades públicas elegíveis",
+    "valor": "€11,8 milhões",
+    "prazo": "2026-04-14",
+    "desc": "Tópico do Horizon Europe Cluster 6 voltado ao aumento da competitividade sustentável de áreas rurais por meio da inovação. O prazo informado para 2026 foi 14 de abril.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/resilient-inclusive-healthy-and-green-rural-coastal-and-urban-communities_en",
+    "descobertoEm": "2026-10-13"
+  },
+  {
+    "id": "HORIZON-CL6-2026-02-CLIMATE-01",
+    "titulo": "Towards more effective, fair and coherent policies for climate change mitigation and adaptation in agriculture and forestry",
+    "orgao": "Comissão Europeia",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura e mudanças climáticas",
+      "adaptação climática",
+      "mitigação",
+      "silvicultura",
+      "políticas agroambientais"
+    ],
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, órgãos públicos e demais entidades elegíveis",
+    "valor": "€16 milhões",
+    "prazo": "2026-04-14",
+    "desc": "Tópico do Horizon Europe para políticas mais eficazes, justas e coerentes de mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura. O prazo informado para 2026 foi 14 de abril.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/land-oceans-and-water-climate-action_en",
+    "descobertoEm": "2026-10-13"
   }
 ]
