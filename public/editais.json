@@ -8943,20 +8943,18 @@
   {
     "id": "HORIZON-CL6-2026-01-BIODIV-06",
     "titulo": "Boosting agrobiodiversity for food security and sustainable competitiveness",
-    "orgao": "European Commission",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
     "origem": "Internacional",
     "areas": [
       "agrobiodiversidade",
       "segurança alimentar",
-      "sustentabilidade",
-      "competitividade",
-      "pesquisa agropecuária"
+      "competitividade sustentável"
     ],
-    "publico": "Consórcios elegíveis ao Horizon Europe, incluindo instituições de pesquisa e parceiros internacionais",
-    "valor": "€12.000.000",
-    "prazo": "2026-09-17",
-    "desc": "Chamada do Horizon Europe Cluster 6 para fortalecer a agrobiodiversidade com foco em segurança alimentar e competitividade sustentável.",
-    "url": "https://www.efsa.europa.eu/en/funding-calls/boosting-agrobiodiversity-food-security-and-sustainable-competitiveness-horizon-cl6",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, com participação de entidades brasileiras conforme as regras da chamada",
+    "valor": null,
+    "prazo": null,
+    "desc": "Tópico de pesquisa e inovação para ampliar a agrobiodiversidade em apoio à segurança alimentar e à competitividade sustentável.",
+    "url": "https://ec.europa.eu/transparency/comitology-register/core/api/integration/ers/498170/107407/4/attachment",
     "descobertoEm": "2026-08-29"
   },
   {
@@ -14292,20 +14290,19 @@
   {
     "id": "HORIZON-CL6-2026-02-CLIMATE-01",
     "titulo": "Towards more effective, fair and coherent policies for climate change mitigation and adaptation in agriculture and forestry",
-    "orgao": "Comissão Europeia",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
     "origem": "Internacional",
     "areas": [
       "agricultura",
       "silvicultura",
       "mudanças climáticas",
-      "mitigação",
       "adaptação",
-      "políticas públicas"
+      "mitigação"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação brasileira conforme as regras do programa",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, com participação de entidades brasileiras conforme as regras da chamada",
     "valor": null,
     "prazo": null,
-    "desc": "Tópico do programa Horizon Europe 2026-2027 dedicado a políticas mais eficazes, justas e coerentes de mitigação e adaptação climática na agricultura e na silvicultura.",
+    "desc": "Tópico de pesquisa e inovação do programa de trabalho Horizon Europe 2026–2027 voltado a políticas mais eficazes, justas e coerentes para mitigação e adaptação climática na agricultura e na silvicultura.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-10-13"
   },
@@ -14416,5 +14413,64 @@
     "desc": "Chamada para concessão de bolsas destinadas à formação e capacitação de recursos humanos em projetos de PD&I, extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologias de interesse da Embrapa.",
     "url": "https://www.fapeg.org.br/",
     "descobertoEm": "2026-10-16"
+  },
+  {
+    "id": "finep-fndct-agroindustriais-sustentaveis-2026",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura",
+      "agronegócio",
+      "saúde animal",
+      "foodtech",
+      "cadeias agroindustriais sustentáveis",
+      "PD&I"
+    ],
+    "publico": "Empresas",
+    "valor": "Subvenção econômica à inovação; valor conforme regulamento da chamada",
+    "prazo": "2026-09-30",
+    "desc": "Seleção pública para apoio a projetos de inovação em cadeias agroindustriais sustentáveis.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadaspublicas",
+    "descobertoEm": "2026-10-17"
+  },
+  {
+    "id": "finep-cooperamais-tecnologia-ict-2026",
+    "titulo": "COOPERAMAIS Tecnologia – ICT",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "cooperativismo",
+      "pesquisa",
+      "desenvolvimento tecnológico",
+      "extensão tecnológica",
+      "PD&I"
+    ],
+    "publico": "ICTs públicas e privadas em parceria com cooperativas da agricultura familiar",
+    "valor": "R$ 100.000.000,00 em recursos não reembolsáveis do FNDCT/CT-Agro",
+    "prazo": "2026-12-08",
+    "desc": "Seleção de projetos de PD&I para soluções tecnológicas voltadas à agricultura familiar brasileira, com reserva mínima de 30% dos recursos para as regiões Norte, Nordeste e Centro-Oeste, condicionada à existência de projetos meritórios.",
+    "url": "https://www.finep.gov.br/e/chamada-publica/222684/1060260",
+    "descobertoEm": "2026-10-17"
+  },
+  {
+    "id": "cnpq-33-2026",
+    "titulo": "Chamada CNPq Nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "ciências agrárias",
+      "agropecuária",
+      "pesquisa científica",
+      "desenvolvimento tecnológico",
+      "produtividade em pesquisa"
+    ],
+    "publico": "Pesquisadores com destaque entre seus pares, conforme requisitos do CNPq e critérios dos Comitês de Assessoramento",
+    "valor": "Bolsa de produtividade; valor conforme modalidade e normas vigentes do CNPq",
+    "prazo": "2027-01-07",
+    "desc": "Chamada para concessão de Bolsas de Produtividade, destinada a pesquisadores com liderança e produção científica e/ou tecnológica destacada.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
+    "descobertoEm": "2026-10-17"
   }
 ]
