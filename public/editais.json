@@ -13076,18 +13076,18 @@
   },
   {
     "id": "embrapa-trigo-selecao-tecnologica-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Produção e comercialização de sementes",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — seleção de produtor para multiplicação de sementes",
     "orgao": "Embrapa Trigo",
     "origem": "Interno",
     "areas": [
-      "Transferência de tecnologia",
-      "Produção de sementes",
-      "Cooperação técnica"
+      "transferência de tecnologia",
+      "produção e comercialização de sementes",
+      "cooperação técnica"
     ],
-    "publico": "Produtor inscrito no Registro Nacional de Sementes e Mudas (RENASEM).",
-    "valor": "Não informado",
+    "publico": "Produtor rural inscrito no RENASEM",
+    "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares desenvolvidas pela Embrapa Trigo, com previsão de contrato de cinco anos.",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes genéticas e básicas de cultivares da Embrapa Trigo, com previsão de contrato de cinco anos.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-09-25"
   },
@@ -14472,5 +14472,42 @@
     "desc": "Chamada para concessão de Bolsas de Produtividade, destinada a pesquisadores com liderança e produção científica e/ou tecnológica destacada.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-17"
+  },
+  {
+    "id": "FINEP-COOPERAMAIS-TECNOLOGIA-ICT-2026",
+    "titulo": "COOPERAMAIS Tecnologia – ICT",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Agroindustrialização",
+      "Transformação digital",
+      "Economia circular",
+      "Eficiência energética",
+      "Resiliência climática"
+    ],
+    "publico": "ICTs públicas e privadas, obrigatoriamente em parceria com cooperativas da agricultura familiar",
+    "valor": "Até R$ 100.000.000 em recursos não reembolsáveis do FNDCT/CT-Agro",
+    "prazo": "2026-12-08",
+    "desc": "Chamada para projetos de pesquisa, desenvolvimento e inovação voltados a soluções tecnológicas para a agricultura familiar brasileira. O prazo indicado é até 8 de dezembro de 2026, às 18h.",
+    "url": "https://www.finep.gov.br/e/chamada-publica/222684/1060260",
+    "descobertoEm": "2026-10-18"
+  },
+  {
+    "id": "embrapa-meio-norte-chamada-02-2026",
+    "titulo": "Chamada nº 02/2026 — Programa de Bolsas Embrapa-CNPq",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Interno",
+    "areas": [
+      "pesquisa",
+      "desenvolvimento e inovação",
+      "projetos aprovados pelo Sistema Embrapa de Gestão"
+    ],
+    "publico": "Candidatos a bolsas nas atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo SEG",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atividades vinculadas a projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-10-18"
   }
 ]
