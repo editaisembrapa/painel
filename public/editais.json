@@ -12910,19 +12910,19 @@
   },
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK",
-    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption — two-stage call",
-    "orgao": "Comissão Europeia — Horizon Europe",
+    "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption — Call 02 (2026)",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
     "origem": "Internacional",
     "areas": [
-      "sistemas alimentares",
-      "competitividade agrícola",
-      "agricultura orgânica",
-      "produção primária"
+      "sistemas alimentares sustentáveis",
+      "produção agropecuária",
+      "saúde vegetal",
+      "bioeconomia"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, incluindo parceiros brasileiros quando admissíveis",
-    "valor": "€25,5 milhões no conjunto da chamada",
-    "prazo": "2026-09-15",
-    "desc": "Chamada em duas etapas com tópicos sobre aumento da competitividade do setor agrícola e fortalecimento da agricultura orgânica; o prazo informado é da segunda etapa.",
+    "publico": "Consórcios internacionais de instituições de pesquisa, empresas e demais entidades elegíveis; participação brasileira sujeita às regras do tópico",
+    "valor": "Orçamento por tópico conforme o Work Programme 2026–2027; valor não especificado na fonte oficial",
+    "prazo": "2026-04-14",
+    "desc": "Chamada de propostas para sistemas alimentares justos, saudáveis e ambientalmente sustentáveis, com tópicos relacionados à produção primária e agricultura.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-23"
   },
@@ -14326,20 +14326,19 @@
   },
   {
     "id": "HORIZON-CL6-2026-02-CLIMATE",
-    "titulo": "Horizon Europe Cluster 6 — Land, oceans and water for climate action",
-    "orgao": "European Commission / European Research Executive Agency",
+    "titulo": "Land, oceans and water for climate action — Call 02 (2026)",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
     "origem": "Internacional",
     "areas": [
-      "mudanças climáticas",
-      "agricultura",
-      "silvicultura",
-      "adaptação climática",
-      "mitigação"
+      "agricultura e mudanças climáticas",
+      "mitigação",
+      "adaptação",
+      "florestas"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação de instituições brasileiras conforme as regras do programa",
-    "valor": "€16 milhões",
+    "publico": "Consórcios internacionais de instituições de pesquisa, empresas e demais entidades elegíveis; participação brasileira sujeita às regras do tópico",
+    "valor": "Orçamento por tópico conforme o Work Programme 2026–2027; valor não especificado na fonte oficial",
     "prazo": "2026-04-14",
-    "desc": "Chamada para políticas eficazes, justas e coerentes de mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura; o prazo indicado na página oficial foi 14 de abril de 2026.",
+    "desc": "Chamada com tópicos sobre políticas mais eficazes, justas e coerentes para mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/land-oceans-and-water-climate-action_en",
     "descobertoEm": "2026-10-14"
   },
@@ -14475,21 +14474,19 @@
   },
   {
     "id": "FINEP-COOPERAMAIS-TECNOLOGIA-ICT-2026",
-    "titulo": "COOPERAMAIS Tecnologia – ICT",
+    "titulo": "COOPERAMAIS Tecnologia - ICT",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
       "Agricultura familiar",
-      "Agroindustrialização",
-      "Transformação digital",
-      "Economia circular",
-      "Eficiência energética",
-      "Resiliência climática"
+      "Agropecuária",
+      "Desenvolvimento tecnológico",
+      "PD&I"
     ],
-    "publico": "ICTs públicas e privadas, obrigatoriamente em parceria com cooperativas da agricultura familiar",
-    "valor": "Até R$ 100.000.000 em recursos não reembolsáveis do FNDCT/CT-Agro",
+    "publico": "ICTs públicas e privadas em parceria obrigatória com cooperativas da agricultura familiar",
+    "valor": "Até R$ 100.000.000,00 em recursos não reembolsáveis do FNDCT/CT-Agro",
     "prazo": "2026-12-08",
-    "desc": "Chamada para projetos de pesquisa, desenvolvimento e inovação voltados a soluções tecnológicas para a agricultura familiar brasileira. O prazo indicado é até 8 de dezembro de 2026, às 18h.",
+    "desc": "Seleciona projetos de pesquisa, desenvolvimento e inovação para soluções tecnológicas voltadas à agricultura familiar brasileira.",
     "url": "https://www.finep.gov.br/e/chamada-publica/222684/1060260",
     "descobertoEm": "2026-10-18"
   },
@@ -14509,5 +14506,60 @@
     "desc": "Seleção de bolsistas para atividades vinculadas a projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão.",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-10-18"
+  },
+  {
+    "id": "FINEP-PRODUTIVIDADE-AGRICULTURA-FAMILIAR-2026",
+    "titulo": "Soluções Tecnológicas para Aumento da Produtividade na Agricultura Familiar, Aquicultura e Pesca Artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Aquicultura",
+      "Pesca artesanal",
+      "Tecnologia",
+      "PD&I"
+    ],
+    "publico": "Empresas e demais beneficiários elegíveis conforme o regulamento da seleção pública",
+    "valor": null,
+    "prazo": null,
+    "desc": "Seleção pública em fluxo contínuo para concessão de recursos destinados a soluções tecnológicas voltadas ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "url": "https://www.finep.gov.br/chamadas-publicas/chamadapublica/739",
+    "descobertoEm": "2026-10-19"
+  },
+  {
+    "id": "HORIZON-MISS-2026-05",
+    "titulo": "EU Mission: A Soil Deal for Europe — Call 2026",
+    "orgao": "Comissão Europeia — Horizon Europe, Mission Soil",
+    "origem": "Internacional",
+    "areas": [
+      "saúde do solo",
+      "solos agrícolas",
+      "resiliência climática",
+      "contaminantes e resistência antimicrobiana"
+    ],
+    "publico": "Consórcios internacionais de instituições de pesquisa, empresas e demais entidades elegíveis; participação brasileira sujeita às regras do tópico",
+    "valor": "€33.000.000 de orçamento indicativo total",
+    "prazo": "2026-09-23",
+    "desc": "Chamada da Missão Solo com quatro tópicos, incluindo saúde do solo, resistência antimicrobiana e biossíntese de antibióticos em solos.",
+    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/soil-mission_en",
+    "descobertoEm": "2026-10-19"
+  },
+  {
+    "id": "BNDES-RESTAURA-RIO-DOCE-2026",
+    "titulo": "Edital Restaura Rio Doce",
+    "orgao": "BNDES e Ministério do Meio Ambiente e Mudança do Clima",
+    "origem": "Nacional",
+    "areas": [
+      "restauração ecológica",
+      "restauração produtiva",
+      "agropecuária sustentável",
+      "recuperação de bacias hidrográficas"
+    ],
+    "publico": "Parceiros aglutinadores responsáveis pela coordenação e execução de projetos de restauração",
+    "valor": "Até R$ 618.750.000,00 no total",
+    "prazo": "2026-09-30",
+    "desc": "Chamada pública para selecionar até cinco parceiros aglutinadores para coordenar e executar projetos de restauração ecológica e produtiva em 12,5 mil hectares da Bacia do Rio Doce.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/fundos-governamentais/fundo-rio-doce/edital-restaura-rio-doce",
+    "descobertoEm": "2026-10-19"
   }
 ]
