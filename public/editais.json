@@ -13890,20 +13890,21 @@
   },
   {
     "id": "HORIZON-CL6-2026-01",
-    "titulo": "Horizon Europe Cluster 6 — Biodiversity and ecosystem services",
-    "orgao": "European Commission / European Research Executive Agency",
+    "titulo": "Horizon Europe Work Programme 2026-2027 — Food, Bioeconomy, Natural Resources, Agriculture and Environment",
+    "orgao": "Comissão Europeia",
     "origem": "Internacional",
     "areas": [
-      "biodiversidade",
-      "serviços ecossistêmicos",
       "agricultura sustentável",
-      "recursos naturais"
+      "sistemas alimentares",
+      "bioeconomia",
+      "recursos naturais",
+      "ambiente"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação brasileira conforme as regras do programa",
-    "valor": "Não informado nos resultados oficiais",
-    "prazo": "2026-09-17",
-    "desc": "Chamada de etapa única do Cluster 6 relacionada a biodiversidade e serviços ecossistêmicos, aplicável a pesquisas agropecuárias e de recursos naturais.",
-    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment_en",
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis; participação brasileira sujeita às regras específicas do Horizon Europe",
+    "valor": "Orçamento agregado de €676,4 milhões para sete chamadas e 57 tópicos",
+    "prazo": null,
+    "desc": "Programa de trabalho com chamadas de 2026 aplicáveis a pesquisa agropecuária, incluindo sistemas agrícolas sustentáveis, alimentos, bioeconomia, biodiversidade, recursos naturais e comunidades rurais. As datas de encerramento variam conforme o tópico, entre abril e novembro de 2026.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-10-08"
   },
   {
@@ -13985,15 +13986,14 @@
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Agronomia",
-      "Ciências Agrárias",
       "Pesquisa agropecuária",
-      "Desenvolvimento tecnológico"
+      "Desenvolvimento tecnológico",
+      "Ciências agrárias"
     ],
-    "publico": "Pesquisadores elegíveis às modalidades PQ, PQ-Sr e produtividade em desenvolvimento tecnológico, conforme requisitos da chamada",
-    "valor": "Bolsas conforme modalidade e nível definidos pelo CNPq",
+    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação compatível com as modalidades PQ, DT e PQ-Sr",
+    "valor": "Bolsas e benefícios conforme modalidade e normas vigentes do CNPq",
     "prazo": "2027-01-07",
-    "desc": "Concede bolsas de produtividade, incluindo a modalidade Produtividade em Pesquisa Sênior (PQ-Sr), para pesquisadores com produção científica e/ou tecnológica de destaque.",
+    "desc": "Chamada para bolsas de produtividade em pesquisa, desenvolvimento tecnológico e inovação, incluindo a modalidade Produtividade em Pesquisa Sênior.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-10"
   },
@@ -14276,36 +14276,35 @@
     "orgao": "Comissão Europeia",
     "origem": "Internacional",
     "areas": [
-      "áreas rurais",
-      "inovação",
-      "desenvolvimento sustentável",
-      "competitividade rural"
+      "inovação rural",
+      "competitividade sustentável",
+      "desenvolvimento rural",
+      "agricultura"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação brasileira conforme as regras do programa",
+    "publico": "Consórcios internacionais de pesquisa e inovação com entidades elegíveis no Horizon Europe",
     "valor": null,
     "prazo": null,
-    "desc": "Tópico do Horizon Europe para fortalecimento da competitividade sustentável de áreas rurais por meio da inovação.",
-    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "desc": "Tópico do Horizon Europe 2026 para fortalecer a competitividade sustentável de áreas rurais por meio da inovação, com possível aplicação a cadeias e sistemas agropecuários brasileiros.",
+    "url": "https://ec.europa.eu/transparency/comitology-register/core/api/integration/ers/475277/107407/2/attachment",
     "descobertoEm": "2026-10-13"
   },
   {
     "id": "HORIZON-CL6-2026-02-CLIMATE-01",
     "titulo": "Towards more effective, fair and coherent policies for climate change mitigation and adaptation in agriculture and forestry",
-    "orgao": "European Commission — Horizon Europe",
+    "orgao": "Comissão Europeia",
     "origem": "Internacional",
     "areas": [
+      "mitigação climática",
+      "adaptação climática",
       "agricultura",
       "silvicultura",
-      "mudanças climáticas",
-      "mitigação",
-      "adaptação",
       "políticas públicas"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis no Horizon Europe, incluindo instituições brasileiras quando admitidas pelas regras do tópico.",
+    "publico": "Consórcios internacionais de pesquisa e inovação com entidades elegíveis no Horizon Europe",
     "valor": null,
     "prazo": null,
-    "desc": "Tópico do programa de trabalho Horizon Europe 2026–2027 voltado a políticas mais eficazes, justas e coerentes para mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura.",
-    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "desc": "Tópico do Horizon Europe 2026 voltado a políticas mais eficazes, justas e coerentes de mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura.",
+    "url": "https://ec.europa.eu/transparency/comitology-register/core/api/integration/ers/475277/107407/2/attachment",
     "descobertoEm": "2026-10-13"
   },
   {
@@ -14563,5 +14562,76 @@
     "desc": "Chamada pública para selecionar até cinco parceiros aglutinadores para coordenar e executar projetos de restauração ecológica e produtiva em 12,5 mil hectares da Bacia do Rio Doce.",
     "url": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/fundos-governamentais/fundo-rio-doce/edital-restaura-rio-doce",
     "descobertoEm": "2026-10-19"
+  },
+  {
+    "id": "FINEP-AGRICULTURA-FAMILIAR-FLUXO-CONTINUO-2026",
+    "titulo": "Soluções Tecnológicas para Aumento da Produtividade na Agricultura Familiar, Aquicultura e Pesca Artesanal",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura familiar",
+      "Aquicultura",
+      "Pesca artesanal",
+      "Inovação tecnológica",
+      "Agropecuária"
+    ],
+    "publico": "Empresas brasileiras interessadas em projetos de inovação tecnológica com risco tecnológico",
+    "valor": "Subvenção econômica à inovação, conforme regulamento da seleção",
+    "prazo": null,
+    "desc": "Seleção pública em fluxo contínuo para apoiar projetos inovadores destinados ao aumento da produtividade na agricultura familiar, aquicultura e pesca artesanal.",
+    "url": "https://www.finep.gov.br/e/chamada-publica/222684/748141",
+    "descobertoEm": "2026-10-21"
+  },
+  {
+    "id": "EDITAL-02-2026-EMBRAPA-CNPQ-CHAMADA-02",
+    "titulo": "Edital 02/2026 — Chamada 02 — Convênio Embrapa/CNPq",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação"
+    ],
+    "publico": "Bolsistas interessados em atuar em projetos de PD&I aprovados pelo Sistema Embrapa de Gestão (SEG)",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo SEG. Inscrições de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-10-21"
+  },
+  {
+    "id": "ET-09-2026-EMBRAPA-TRIGO",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Cooperação técnica"
+    ],
+    "publico": "Produtor inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, incluindo exclusividade para sementes genéticas e básicas.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-10-21"
+  },
+  {
+    "id": "BNDES-FIP-CONEXOES-STARTUPS-2026",
+    "titulo": "Chamada Pública para Seleção de Fundo de Investimento em Participações — FIP Conexões Startups 2026",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "startups",
+      "inovação",
+      "tecnologia",
+      "investimento em participações"
+    ],
+    "publico": "Gestores e fundos de investimento elegíveis conforme regras da chamada pública",
+    "valor": null,
+    "prazo": null,
+    "desc": "Chamada pública em andamento para seleção de fundo de investimento em participações voltado a conexões com startups. Pode ser aplicável a startups agtech conforme os critérios do edital.",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/mercado-de-capitais/fundos-de-investimentos/chamadas-publicas-para-selecao-de-fundos",
+    "descobertoEm": "2026-10-21"
   }
 ]
