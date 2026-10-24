@@ -5035,20 +5035,20 @@
   },
   {
     "id": "bndes-bioinsumos-2-ciclo-2026",
-    "titulo": "Chamada de projetos para o 2º ciclo do BNDES Bioinsumos",
+    "titulo": "Chamada de projetos do BNDES Bioinsumos (2º ciclo)",
     "orgao": "BNDES",
     "origem": "Nacional",
     "areas": [
-      "Bioinsumos",
-      "Agricultura sustentável",
-      "Inovação em insumos biológicos",
-      "Agropecuária de baixo carbono"
+      "bioinsumos",
+      "agricultura familiar",
+      "inovação agropecuária",
+      "cooperativismo"
     ],
-    "publico": "Instituições, organizações e empresas elegíveis ao apoio do BNDES Fundo Socioambiental em projetos de bioinsumos para uso agropecuário no Brasil",
-    "valor": "Prêmio ou apoio financeiro de até R$ 5.000.000,00 para projetos selecionados",
+    "publico": "Cooperativas e associações de agricultores familiares",
+    "valor": null,
     "prazo": "2026-08-31",
-    "desc": "Chamada de projetos do BNDES Bioinsumos, no âmbito do Fundo Socioambiental, voltada a iniciativas de desenvolvimento, produção e uso de bioinsumos aplicáveis à agropecuária brasileira, incentivando práticas sustentáveis e redução do uso de insumos químicos.",
-    "url": "https://www.embrapa.br/observatorio-das-mulheres-rurais-do-brasil/editais",
+    "desc": "Seleção de projetos para fomentar a produção de bioinsumos e ampliar a autonomia da agricultura familiar no acesso a esses insumos.",
+    "url": "https://conexoes.bndes.gov.br/chamadas-e-editais/",
     "descobertoEm": "2026-07-26"
   },
   {
@@ -14138,13 +14138,13 @@
       "Infraestrutura de pesquisa",
       "Equipamentos",
       "Laboratórios",
-      "Agropecuária"
+      "Pesquisa agropecuária"
     ],
-    "publico": "Instituições científicas, tecnológicas e de inovação, conforme edital",
-    "valor": null,
+    "publico": "Instituições de ciência, tecnologia e inovação elegíveis conforme o edital",
+    "valor": "Não informado nos resultados consultados",
     "prazo": "2026-03-31",
-    "desc": "Apoio à expansão e modernização da infraestrutura de pesquisa.",
-    "url": "https://www.finep.gov.br/chamadas-publicas?situacao=aberta&tFonte=0",
+    "desc": "Chamada pública para expansão e modernização da infraestrutura de pesquisa, potencialmente aplicável a instituições e unidades de pesquisa agropecuária.",
+    "url": "https://legacy.finep.gov.br/en/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-10-12"
   },
   {
@@ -14785,5 +14785,74 @@
     "desc": "Seleção de projetos para fortalecer a capacidade produtiva e promover a adoção de práticas sustentáveis na agricultura familiar do Cerrado.",
     "url": "https://conexoes.bndes.gov.br/chamadas-e-editais/",
     "descobertoEm": "2026-10-23"
+  },
+  {
+    "id": "edital-02-2026-convenio-embrapa-cnpq-chamada-02",
+    "titulo": "Edital nº 02/2026 — Chamada nº 02/2026 — Convênio Embrapa/CNPq",
+    "orgao": "Embrapa/CNPq",
+    "origem": "Nacional",
+    "areas": [],
+    "publico": null,
+    "valor": null,
+    "prazo": null,
+    "desc": "Edital oficial identificado como Convênio Embrapa/CNPq. Os resultados disponíveis não informam, com segurança, áreas, público, valor ou prazo de submissão.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-10-24"
+  },
+  {
+    "id": "selecao-tecnologica-09-2026-embrapa-trigo",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Produção e comercialização de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção de sementes",
+      "Melhoramento vegetal"
+    ],
+    "publico": "Produtor inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes genéticas e básicas de cultivares da Embrapa Trigo, com previsão de parceria exclusiva por cinco anos.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-10-24"
+  },
+  {
+    "id": "bndes-cerrado-mais-cooperativo-1-ciclo-2026",
+    "titulo": "Chamada de projetos do Cerrado +Cooperativo (1º ciclo)",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "agricultura sustentável",
+      "Cerrado",
+      "cooperativismo",
+      "produção de alimentos"
+    ],
+    "publico": "Cooperativas e associações de agricultores familiares do Cerrado brasileiro",
+    "valor": null,
+    "prazo": "2026-07-31",
+    "desc": "Seleção de projetos para fortalecer a capacidade produtiva e promover a adoção de práticas sustentáveis na agricultura familiar do Cerrado.",
+    "url": "https://conexoes.bndes.gov.br/chamadas-e-editais/",
+    "descobertoEm": "2026-10-24"
+  },
+  {
+    "id": "horizon-cl6-2026-02",
+    "titulo": "Horizon Europe Cluster 6 — Food, Bioeconomy, Natural Resources, Agriculture and Environment — Call 02 (2026)",
+    "orgao": "Comissão Europeia",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura sustentável",
+      "bioeconomia",
+      "recursos naturais",
+      "saúde vegetal",
+      "mudanças climáticas",
+      "silvicultura"
+    ],
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis, incluindo participantes brasileiros conforme as regras da chamada",
+    "valor": null,
+    "prazo": null,
+    "desc": "Programa de trabalho com tópicos sobre tratamentos fitossanitários inovadores, saúde vegetal, redução de perdas agrícolas e políticas de mitigação e adaptação climática na agricultura e silvicultura.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "descobertoEm": "2026-10-24"
   }
 ]
