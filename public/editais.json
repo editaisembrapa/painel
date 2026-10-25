@@ -7106,21 +7106,18 @@
   },
   {
     "id": "embrapa-cnpq-02-2026-chamada-02",
-    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Chamada 02 – Programa de Bolsas Embrapa/CNPq",
-    "orgao": "Embrapa / CNPq",
+    "titulo": "Edital 02/2026 — Convênio Embrapa/CNPq — Chamada nº 02/2026",
+    "orgao": "Embrapa Meio-Norte",
     "origem": "Interno",
     "areas": [
       "Pesquisa",
-      "Desenvolvimento",
-      "Inovação",
-      "PD&I",
-      "Agronegócio",
-      "Ciências Agrárias"
+      "Desenvolvimento e inovação",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
     ],
-    "publico": "Projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG), com concessão de bolsas vinculadas a esses projetos",
-    "valor": "Não explicitado no extrato; valores das bolsas e modalidades são definidos no Programa de Bolsas Embrapa/CNPq conforme a chamada específica",
+    "publico": "Bolsistas interessados em atuar em projetos de PD&I aprovados pelo SEG",
+    "valor": null,
     "prazo": "2026-04-30",
-    "desc": "Chamada interna vinculada ao Edital 02/2026 do Convênio Embrapa/CNPq, destinada à seleção de bolsistas para atuar em atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). O período de inscrições informado no edital para esta chamada é de 14 a 30 de abril de 2026, com vagas distribuídas entre diferentes projetos SEG. Trata-se de instrumento de fomento interno para execução de PD&I no âmbito da Embrapa, utilizando bolsas de estímulo e apoio, com regras definidas no Programa de Bolsas Embrapa/CNPq.",
+    "desc": "Seleção de bolsistas do Programa Institucional de Bolsas Embrapa/CNPq para atividades em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão.",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-08-17"
   },
@@ -12875,36 +12872,38 @@
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK-01",
     "titulo": "Developing innovative phytosanitary treatments for regulated plant pests to support safe international trade",
-    "orgao": "Comissão Europeia",
+    "orgao": "Comissão Europeia — Horizon Europe Cluster 6",
     "origem": "Internacional",
     "areas": [
       "sanidade vegetal",
       "tratamentos fitossanitários",
       "pragas regulamentadas",
-      "comércio internacional seguro"
+      "comércio internacional",
+      "pesquisa agropecuária"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação brasileira conforme as regras do programa",
+    "publico": "Consórcios internacionais de entidades elegíveis, incluindo organizações brasileiras conforme as regras do Horizon Europe",
     "valor": null,
     "prazo": null,
-    "desc": "Tópico do programa de trabalho Horizon Europe 2026-2027 para desenvolvimento de tratamentos fitossanitários inovadores contra pragas regulamentadas.",
+    "desc": "Tópico do programa de trabalho 2026–2027 voltado ao desenvolvimento de tratamentos fitossanitários inovadores para pragas regulamentadas de plantas.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-09-23"
   },
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK-13",
     "titulo": "Boosting plant health and reducing losses on farm and during storage for sustainable growth in Africa",
-    "orgao": "Comissão Europeia",
+    "orgao": "Comissão Europeia — Horizon Europe Cluster 6",
     "origem": "Internacional",
     "areas": [
       "saúde vegetal",
-      "perdas pós-colheita",
+      "redução de perdas",
       "armazenamento",
-      "agricultura sustentável"
+      "agricultura sustentável",
+      "África"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação elegíveis ao Horizon Europe, com participação brasileira conforme as regras do programa",
+    "publico": "Consórcios internacionais de entidades elegíveis, incluindo organizações brasileiras conforme as regras do Horizon Europe",
     "valor": null,
     "prazo": null,
-    "desc": "Tópico do Horizon Europe voltado à saúde vegetal e à redução de perdas na produção e no armazenamento, com foco em crescimento sustentável na África.",
+    "desc": "Tópico de pesquisa e inovação sobre saúde vegetal e redução de perdas na produção e no armazenamento, com foco no crescimento sustentável em África.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-09-23"
   },
@@ -13077,18 +13076,18 @@
   },
   {
     "id": "embrapa-trigo-selecao-tecnologica-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
     "orgao": "Embrapa Trigo",
     "origem": "Interno",
     "areas": [
       "Transferência de tecnologia",
       "Produção e comercialização de sementes",
-      "Melhoramento genético"
+      "Cooperação técnica"
     ],
     "publico": "Produtor inscrito no RENASEM",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares dos programas de melhoramento de inverno e verão da Embrapa Trigo, com previsão de parceria exclusiva por cinco anos.",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, incluindo exclusividade para sementes genéticas e básicas.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-09-25"
   },
@@ -14291,20 +14290,21 @@
   {
     "id": "HORIZON-CL6-2026-02-CLIMATE-01",
     "titulo": "Towards more effective, fair and coherent policies for climate change mitigation and adaptation in agriculture and forestry",
-    "orgao": "Comissão Europeia",
+    "orgao": "Comissão Europeia — Horizon Europe Cluster 6",
     "origem": "Internacional",
     "areas": [
-      "mitigação climática",
-      "adaptação climática",
+      "mudanças climáticas",
+      "mitigação",
+      "adaptação",
       "agricultura",
       "silvicultura",
       "políticas públicas"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação com entidades elegíveis no Horizon Europe",
+    "publico": "Consórcios internacionais de entidades elegíveis, incluindo organizações brasileiras conforme as regras do Horizon Europe",
     "valor": null,
     "prazo": null,
-    "desc": "Tópico do Horizon Europe 2026 voltado a políticas mais eficazes, justas e coerentes de mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura.",
-    "url": "https://ec.europa.eu/transparency/comitology-register/core/api/integration/ers/475277/107407/2/attachment",
+    "desc": "Tópico de pesquisa sobre políticas mais eficazes, justas e coerentes para mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-10-13"
   },
   {
@@ -14530,18 +14530,19 @@
   {
     "id": "HORIZON-MISS-2026-05",
     "titulo": "EU Mission: A Soil Deal for Europe",
-    "orgao": "Comissão Europeia",
+    "orgao": "Comissão Europeia — Horizon Europe Mission Soil",
     "origem": "Internacional",
     "areas": [
       "saúde do solo",
-      "agricultura sustentável",
-      "degradação do solo",
-      "serviços ecossistêmicos"
+      "agricultura",
+      "biossíntese de antibióticos",
+      "resistência antimicrobiana",
+      "sustentabilidade"
     ],
-    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e organizações elegíveis; participação brasileira sujeita às regras do tópico",
-    "valor": null,
+    "publico": "Consórcios internacionais de entidades elegíveis, incluindo organizações brasileiras conforme as regras do Horizon Europe",
+    "valor": "€33.000.000 de orçamento indicativo total",
     "prazo": "2026-09-23",
-    "desc": "Chamada do Horizon Europe dedicada à missão de proteger e restaurar a saúde dos solos, com oportunidades de pesquisa e inovação aplicáveis a sistemas agropecuários.",
+    "desc": "Chamada de estágio único com quatro tópicos relacionados à saúde do solo, incluindo resistência antimicrobiana e biossíntese de antibióticos em solos.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/soil-mission_en",
     "descobertoEm": "2026-10-19"
   },
@@ -14758,13 +14759,13 @@
     "areas": [
       "bioinsumos",
       "agricultura familiar",
-      "inovação agropecuária",
-      "cooperativismo"
+      "cooperativismo",
+      "inovação agropecuária"
     ],
     "publico": "Cooperativas e associações de agricultores familiares",
     "valor": null,
     "prazo": "2026-08-31",
-    "desc": "Seleção de projetos que contribuam para ampliar a produção e o acesso a bioinsumos por cooperativas e associações de agricultores familiares nas regiões brasileiras.",
+    "desc": "Seleção de projetos que contribuam para ampliar a produção de bioinsumos e a autonomia da agricultura familiar nas regiões brasileiras.",
     "url": "https://conexoes.bndes.gov.br/chamadas-e-editais/",
     "descobertoEm": "2026-10-23"
   },
@@ -14776,13 +14777,14 @@
     "areas": [
       "agricultura familiar",
       "Cerrado",
-      "produção sustentável",
-      "inovação agropecuária"
+      "práticas sustentáveis",
+      "produção de alimentos",
+      "cooperativismo"
     ],
-    "publico": "Cooperativas e associações de agricultores familiares que atuem no Cerrado brasileiro",
+    "publico": "Cooperativas e associações de agricultores familiares do Cerrado",
     "valor": null,
     "prazo": "2026-07-31",
-    "desc": "Seleção de projetos para fortalecer a capacidade produtiva e promover a adoção de práticas sustentáveis na agricultura familiar do Cerrado.",
+    "desc": "Apoio a projetos voltados ao fortalecimento da capacidade produtiva e à adoção de práticas sustentáveis na agricultura familiar do Cerrado.",
     "url": "https://conexoes.bndes.gov.br/chamadas-e-editais/",
     "descobertoEm": "2026-10-23"
   },
@@ -14854,5 +14856,61 @@
     "desc": "Programa de trabalho com tópicos sobre tratamentos fitossanitários inovadores, saúde vegetal, redução de perdas agrícolas e políticas de mitigação e adaptação climática na agricultura e silvicultura.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-10-24"
+  },
+  {
+    "id": "FINEP-AGRO-2026-ROD2",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "Agricultura",
+      "Agronegócio",
+      "Saúde animal",
+      "Foodtech",
+      "Agritech",
+      "Sustentabilidade"
+    ],
+    "publico": "Empresas",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Chamada para projetos de inovação em cadeias agroindustriais sustentáveis.",
+    "url": "https://www.finep.gov.br/en/chamadas-publicas",
+    "descobertoEm": "2026-10-25"
+  },
+  {
+    "id": "embrapa-cnpq-02-2026-chamada-01",
+    "titulo": "Edital 02/2026 — Convênio Embrapa/CNPq — Chamada nº 01/2026",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento e inovação",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
+    ],
+    "publico": "Bolsistas interessados em atuar em projetos de PD&I aprovados pelo SEG",
+    "valor": null,
+    "prazo": "2026-03-15",
+    "desc": "Seleção de bolsistas do Programa de Bolsas Embrapa/CNPq para atividades em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão, com vagas em Teresina e Oeiras (PI).",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+Embrapa+CNpQ/f1d6cc73-7ebb-67a4-ec05-168cc38c047d",
+    "descobertoEm": "2026-10-25"
+  },
+  {
+    "id": "BNDES-FLORESTA-VIVA-RECAATINGAR-2026-1",
+    "titulo": "Edital de Projetos do Floresta Viva 2 – Recaatingar (1º ciclo)",
+    "orgao": "BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "Caatinga",
+      "recuperação de terras degradadas",
+      "agrobiodiversidade",
+      "sociobiodiversidade",
+      "agricultura sustentável"
+    ],
+    "publico": "Organizações e instituições elegíveis conforme o edital",
+    "valor": null,
+    "prazo": "2026-08-10",
+    "desc": "Seleção de projetos para recuperação socioprodutiva de terras degradadas na Caatinga, com espécies nativas ou não invasoras da agrobiodiversidade local.",
+    "url": "https://conexoes.bndes.gov.br/chamadas-e-editais/",
+    "descobertoEm": "2026-10-25"
   }
 ]
