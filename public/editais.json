@@ -13076,18 +13076,18 @@
   },
   {
     "id": "embrapa-trigo-selecao-tecnologica-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — multiplicação de sementes",
     "orgao": "Embrapa Trigo",
     "origem": "Interno",
     "areas": [
-      "Transferência de tecnologia",
-      "Produção e comercialização de sementes",
-      "Cooperação técnica"
+      "produção de sementes",
+      "melhoramento vegetal",
+      "transferência de tecnologia"
     ],
     "publico": "Produtor inscrito no RENASEM",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, incluindo exclusividade para sementes genéticas e básicas.",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares desenvolvidas pela Embrapa Trigo, com exclusividade para sementes das categorias Genética e Básica.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-09-25"
   },
@@ -13949,14 +13949,14 @@
     "origem": "Nacional",
     "areas": [
       "Pesquisa científica",
-      "Pesquisa tecnológica",
-      "Agronomia",
-      "Agropecuária"
+      "Agropecuária",
+      "Ciências agrárias",
+      "Bolsas de produtividade"
     ],
-    "publico": "Pesquisadores com destaque entre seus pares e produção científica e/ou tecnológica relevante",
-    "valor": null,
+    "publico": "Pesquisadores elegíveis conforme os critérios da chamada",
+    "valor": "Bolsas de produtividade conforme modalidade e tabela vigente do CNPq",
     "prazo": "2027-01-07",
-    "desc": "Chamada para concessão de Bolsas de Produtividade do CNPq a pesquisadores líderes em suas áreas de atuação.",
+    "desc": "Concessão de bolsas de produtividade do CNPq para pesquisadores com produção científica, tecnológica e de inovação compatível com os critérios estabelecidos no edital.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-09"
   },
@@ -14475,20 +14475,21 @@
   },
   {
     "id": "FINEP-COOPERAMAIS-TECNOLOGIA-ICT-2026",
-    "titulo": "COOPERAMAIS Tecnologia - ICT",
+    "titulo": "Chamada Pública COOPERAMAIS Tecnologia – ICT",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
       "Agricultura familiar",
-      "Agropecuária",
-      "Desenvolvimento tecnológico",
+      "Agricultura",
+      "Agroindústria",
+      "Cooperativismo",
       "PD&I"
     ],
-    "publico": "ICTs públicas e privadas em parceria obrigatória com cooperativas da agricultura familiar",
+    "publico": "ICTs públicas e privadas, obrigatoriamente em parceria com cooperativas da agricultura familiar",
     "valor": "Até R$ 100.000.000,00 em recursos não reembolsáveis do FNDCT/CT-Agro",
     "prazo": "2026-12-08",
-    "desc": "Seleciona projetos de pesquisa, desenvolvimento e inovação para soluções tecnológicas voltadas à agricultura familiar brasileira.",
-    "url": "https://www.finep.gov.br/e/chamada-publica/222684/1060260",
+    "desc": "Apoio a projetos de pesquisa, desenvolvimento e inovação voltados a soluções tecnológicas para a agricultura familiar brasileira, incluindo cadeias produtivas, agroindustrialização, comercialização, mercados e logística cooperativa.",
+    "url": "https://www.finep.gov.br/en/l/1060260",
     "descobertoEm": "2026-10-18"
   },
   {
@@ -14912,5 +14913,73 @@
     "desc": "Seleção de projetos para recuperação socioprodutiva de terras degradadas na Caatinga, com espécies nativas ou não invasoras da agrobiodiversidade local.",
     "url": "https://conexoes.bndes.gov.br/chamadas-e-editais/",
     "descobertoEm": "2026-10-25"
+  },
+  {
+    "id": "horizon-europe-cl6-2026-01-biodiv-06",
+    "titulo": "Boosting agrobiodiversity for food security and sustainable competitiveness",
+    "orgao": "Comissão Europeia",
+    "origem": "Internacional",
+    "areas": [
+      "agrobiodiversidade",
+      "segurança alimentar",
+      "competitividade agrícola"
+    ],
+    "publico": "Consórcios elegíveis do Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
+    "valor": "Não informado nos resultados consultados",
+    "prazo": null,
+    "desc": "Tópico do programa Horizon Europe 2026-2027 para impulsionar a agrobiodiversidade, a segurança alimentar e a competitividade sustentável.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "descobertoEm": "2026-10-26"
+  },
+  {
+    "id": "horizon-europe-cl6-2026-02-farm2fork-01",
+    "titulo": "Developing innovative phytosanitary treatments for regulated plant pests to support safe international trade",
+    "orgao": "Comissão Europeia",
+    "origem": "Internacional",
+    "areas": [
+      "sanidade vegetal",
+      "tratamentos fitossanitários",
+      "comércio internacional"
+    ],
+    "publico": "Consórcios elegíveis do Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
+    "valor": "Não informado nos resultados consultados",
+    "prazo": null,
+    "desc": "Tópico do Horizon Europe voltado ao desenvolvimento de tratamentos fitossanitários inovadores contra pragas regulamentadas de plantas.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "descobertoEm": "2026-10-26"
+  },
+  {
+    "id": "horizon-europe-cl6-2026-02-farm2fork-01-two-stage",
+    "titulo": "Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+    "orgao": "Comissão Europeia",
+    "origem": "Internacional",
+    "areas": [
+      "sistemas agrícolas sustentáveis",
+      "eficiência produtiva",
+      "competitividade agrícola"
+    ],
+    "publico": "Consórcios elegíveis do Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
+    "valor": "Não informado nos resultados consultados",
+    "prazo": null,
+    "desc": "Tópico em duas etapas para melhorar a competitividade agrícola mediante uso eficiente e sustentável dos fatores de produção.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "descobertoEm": "2026-10-26"
+  },
+  {
+    "id": "horizon-europe-cl6-2026-02-communities-01",
+    "titulo": "Boosting sustainable competitiveness in rural areas through innovation",
+    "orgao": "Comissão Europeia",
+    "origem": "Internacional",
+    "areas": [
+      "inovação rural",
+      "desenvolvimento territorial",
+      "competitividade sustentável"
+    ],
+    "publico": "Consórcios elegíveis do Horizon Europe, incluindo participantes brasileiros conforme as regras do programa",
+    "valor": "Não informado nos resultados consultados",
+    "prazo": null,
+    "desc": "Tópico do Horizon Europe para promover a competitividade sustentável em áreas rurais por meio da inovação.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
+    "descobertoEm": "2026-10-26"
   }
 ]
