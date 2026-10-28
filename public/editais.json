@@ -8949,12 +8949,12 @@
       "agrobiodiversidade",
       "segurança alimentar",
       "competitividade sustentável",
-      "conservação de recursos genéticos"
+      "agricultura"
     ],
-    "publico": "Universidades, instituições de pesquisa, empresas, organizações públicas e consórcios internacionais elegíveis; participação brasileira depende das regras específicas do tópico",
-    "valor": null,
-    "prazo": "2026-09-16",
-    "desc": "Tópico do Cluster 6 do Horizon Europe voltado ao fortalecimento da agrobiodiversidade para segurança alimentar e competitividade sustentável. O programa de trabalho prevê chamadas de 2026 com encerramento entre abril e novembro de 2026.",
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
+    "valor": "Contribuição estimada de EUR 6.000.000 por projeto; orçamento indicativo total de EUR 12.000.000",
+    "prazo": null,
+    "desc": "Tópico do programa de trabalho 2026–2027 voltado ao fortalecimento da agrobiodiversidade para segurança alimentar e competitividade sustentável; a fonte consultada não informa prazo definitivo.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-08-29"
   },
@@ -12919,12 +12919,12 @@
       "agricultura sustentável",
       "sistemas alimentares",
       "produção primária",
-      "tratamentos fitossanitários"
+      "bioeconomia"
     ],
-    "publico": "Universidades, instituições de pesquisa, empresas, organizações públicas e consórcios internacionais elegíveis; participação brasileira depende das regras específicas do tópico",
-    "valor": null,
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
+    "valor": "Não especificado na página da chamada",
     "prazo": "2026-04-14",
-    "desc": "Chamada do Cluster 6 do Horizon Europe com tópicos relacionados a sistemas alimentares sustentáveis e inovação agrícola. A chamada foi aberta em 14 de janeiro de 2026 e tem prazo final de 14 de abril de 2026; tópicos em duas etapas podem ter prazo inicial na mesma data.",
+    "desc": "Chamada de propostas do Cluster 6 para sistemas alimentares justos, saudáveis e ambientalmente sustentáveis; inclui submissão em uma ou duas etapas.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-23"
   },
@@ -13985,19 +13985,21 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq Nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa agropecuária",
+      "Ciências Agrárias",
+      "Agropecuária",
+      "Pesquisa",
       "Desenvolvimento tecnológico",
-      "Ciências agrárias"
+      "Extensão inovadora"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação compatível com as modalidades PQ, DT e PQ-Sr",
-    "valor": "Bolsas e benefícios conforme modalidade e normas vigentes do CNPq",
+    "publico": "Pesquisadores elegíveis às modalidades Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQSr)",
+    "valor": "Bolsas de produtividade; valores conforme modalidade e normas vigentes do CNPq",
     "prazo": "2027-01-07",
-    "desc": "Chamada para bolsas de produtividade em pesquisa, desenvolvimento tecnológico e inovação, incluindo a modalidade Produtividade em Pesquisa Sênior.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
+    "desc": "Concede bolsas de produtividade a pesquisadores com produção científica, tecnológica e de inovação de destaque, incluindo propostas relevantes às Ciências Agrárias e à agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -15009,7 +15011,7 @@
   },
   {
     "id": "selecao-tecnologica-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Cooperação Técnica e Financeira para Produção de Sementes de Genética Vegetal",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — multiplicação de sementes",
     "orgao": "Embrapa Trigo",
     "origem": "Interno",
     "areas": [
@@ -15020,7 +15022,7 @@
     "publico": "Produtor inscrito no RENASEM",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para multiplicação exclusiva e comercialização de sementes genéticas e básicas de cultivares da Embrapa Trigo, mediante cooperação técnica e financeira.",
+    "desc": "Seleção de parceiro para produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, mediante cooperação técnica e financeira.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-10-27"
   },
@@ -15041,5 +15043,59 @@
     "desc": "Chamada pública para concessão de bolsas destinadas à formação e capacitação de recursos humanos em atividades de PD&I, extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologias de interesse da Embrapa.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/147175395/inscricoes-abertas-para-bolsistas-de-tecnico-agricola-ou-florestal-pela-fapeg-ate-30-de-setembro",
     "descobertoEm": "2026-10-27"
+  },
+  {
+    "id": "HORIZON-CL6-2026-03",
+    "titulo": "Cluster 6 Call 03 — Food, Bioeconomy, Natural Resources, Agriculture and Environment",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura",
+      "sistemas de conhecimento e inovação agrícola",
+      "tecnologias digitais",
+      "governança ambiental"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
+    "valor": "EUR 96.500.000",
+    "prazo": "2026-04-15",
+    "desc": "Chamada de etapa única com dez tópicos, incluindo ações de pesquisa e inovação, ações de coordenação e apoio e ações de inovação relacionadas a agricultura, ambiente e sistemas de conhecimento agrícola.",
+    "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/3a48ab65-6c43-4c83-bdc5-4ce99649cba8/download",
+    "descobertoEm": "2026-10-28"
+  },
+  {
+    "id": "HORIZON-CL6-2026-03-TWO-STAGE",
+    "titulo": "Cluster 6 Call 03 — Two-stage",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura",
+      "pesquisa e inovação",
+      "ambiente",
+      "sistemas alimentares"
+    ],
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
+    "valor": "EUR 12.000.000",
+    "prazo": "2026-04-15",
+    "desc": "Chamada de pesquisa e inovação em duas etapas; a primeira etapa tem prazo em 15 de abril de 2026 e a segunda em 30 de setembro de 2026.",
+    "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/3a48ab65-6c43-4c83-bdc5-4ce99649cba8/download",
+    "descobertoEm": "2026-10-28"
+  },
+  {
+    "id": "HORIZON-CL6-2026-04",
+    "titulo": "European Partnership of Agriculture of Data",
+    "orgao": "European Commission — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura de dados",
+      "digitalização agrícola",
+      "dados ambientais",
+      "inovação agropecuária"
+    ],
+    "publico": "Consórcios e entidades elegíveis ao Horizon Europe conforme as condições específicas da parceria",
+    "valor": "EUR 23.000.000",
+    "prazo": "2026-11-26",
+    "desc": "Chamada de etapa única para a parceria europeia de agricultura de dados, com abertura em 25 de agosto de 2026.",
+    "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/3a48ab65-6c43-4c83-bdc5-4ce99649cba8/download",
+    "descobertoEm": "2026-10-28"
   }
 ]
