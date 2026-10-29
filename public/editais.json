@@ -13947,20 +13947,19 @@
   },
   {
     "id": "CNPQ-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Produtividade em Pesquisa (PQ)",
-      "Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT)",
-      "Produtividade em Pesquisa Sênior (PQSr)",
-      "Agropecuária",
-      "Ciência e tecnologia"
+      "produtividade em pesquisa",
+      "produtividade em desenvolvimento tecnológico e extensão inovadora",
+      "pesquisa agropecuária",
+      "agronomia"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação de destaque, conforme requisitos da chamada",
+    "publico": "Pesquisadores elegíveis às modalidades PQ, DT e PQ-Sênior, conforme requisitos da chamada",
     "valor": null,
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de produtividade nas modalidades PQ, DT e PQSr para valorização de pesquisadores e apoio a projetos de pesquisa, desenvolvimento tecnológico e inovação.",
+    "desc": "Concessão de bolsas de Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sênior).",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-09"
   },
@@ -14101,18 +14100,18 @@
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "agricultura",
-      "agronegócio",
-      "saúde animal",
-      "foodtech",
-      "cadeias agroindustriais sustentáveis",
-      "PD&I"
+      "cadeias agroindustriais",
+      "PD&I",
+      "produtividade agrícola",
+      "segurança alimentar",
+      "insumos agrícolas",
+      "sustentabilidade"
     ],
-    "publico": "Empresas",
+    "publico": "Empresas e instituições elegíveis conforme regras da chamada",
     "valor": null,
     "prazo": "2026-09-30",
-    "desc": "Subvenção econômica à inovação em fluxo contínuo para projetos de cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
-    "url": "https://www.finep.gov.br/chamadas-publicas",
+    "desc": "Chamada de apoio à inovação em cadeias agroindustriais sustentáveis, incluindo linhas de pesquisa e desenvolvimento relacionadas ao aumento da produtividade agrícola e à segurança alimentar nacional.",
+    "url": "https://legacy.finep.gov.br/en/chamadas-publicas/chamadaspublicas",
     "descobertoEm": "2026-10-11"
   },
   {
@@ -15097,5 +15096,25 @@
     "desc": "Chamada de etapa única para a parceria europeia de agricultura de dados, com abertura em 25 de agosto de 2026.",
     "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/3a48ab65-6c43-4c83-bdc5-4ce99649cba8/download",
     "descobertoEm": "2026-10-28"
+  },
+  {
+    "id": "FINEP-FNDCT-AGRICULTURA-FAMILIAR-ICTS-2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura familiar",
+      "sistemas agroalimentares",
+      "biodiversidade",
+      "pesquisa e desenvolvimento",
+      "tecnologias agropecuárias",
+      "sustentabilidade"
+    ],
+    "publico": "Instituições de Ciência, Tecnologia e Inovação (ICTs), conforme regras da chamada",
+    "valor": null,
+    "prazo": "2026-07-03",
+    "desc": "Apoio financeiro não reembolsável a projetos institucionais para desenvolvimento de produtos, processos, tecnologias e serviços voltados a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares e florestais sustentáveis.",
+    "url": "https://www.finep.gov.br/en/chamadas-publicas/chamadapublica/783",
+    "descobertoEm": "2026-10-29"
   }
 ]
