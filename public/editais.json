@@ -7543,14 +7543,13 @@
       "Agronegócio",
       "Saúde animal",
       "Foodtech",
-      "Agritech",
-      "Sustentabilidade",
+      "Cadeias agroindustriais",
       "PD&I"
     ],
     "publico": "Empresas",
     "valor": null,
     "prazo": "2026-09-30",
-    "desc": "Chamada para apoio a projetos de inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal, foodtech e agritech.",
+    "desc": "Apoio a projetos de inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
     "url": "https://www.finep.gov.br/en/chamadas-publicas",
     "descobertoEm": "2026-08-20"
   },
@@ -9141,23 +9140,24 @@
   },
   {
     "id": "fapesp-desafios-amazonia-2026",
-    "titulo": "Chamada de Propostas – Programa Desafios da Amazônia",
-    "orgao": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), em parceria com Fundações Estaduais (incluindo FAPEAM)",
+    "titulo": "Programa Desafios da Amazônia — Chamada de Propostas",
+    "orgao": "FAPESP / Iniciativa Amazônia+10",
     "origem": "Nacional",
     "areas": [
       "Sociobioeconomia",
       "Amazônia",
-      "Bioeconomia",
-      "Conservação ambiental",
-      "Desenvolvimento sustentável",
-      "Cadeias produtivas amazônicas",
-      "Agropecuária sustentável"
+      "Açaí",
+      "Castanha",
+      "Cacau",
+      "Babaçu",
+      "Recursos pesqueiros",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores vinculados a instituições de pesquisa que se enquadrem nas regras de submissão via SIGCONFAP, em estados participantes da chamada, incluindo Amazonas e São Paulo, com foco em projetos cooperativos sobre desafios da Amazônia.",
-    "valor": "Recursos distintos por agência; o quadro da chamada indica, por exemplo, R$ 5.000.000,00 para FAPEAM (Amazonas) e R$ 6.000.000,00 para FAPESP (São Paulo) para apoio a projetos no âmbito do programa.",
+    "publico": "Redes de pesquisa e inovação",
+    "valor": "R$ 107.000.000 no total",
     "prazo": "2026-12-08",
-    "desc": "Chamada de propostas do Programa Desafios da Amazônia, anunciada em 26/06/2026, com inscrições a partir de 01/07/2026. Prevê prazo para apresentação de pré-propostas em 01/09/2026 e de propostas finais até 08/12/2026, com submissão exclusivamente via Sistema Eletrônico SIGCONFAP. A chamada tem foco em sociobioeconomia e desafios da Amazônia, incluindo temas de cadeias produtivas, bioeconomia, uso sustentável de recursos naturais e agropecuária em contexto amazônico.",
-    "url": "https://fapesp.br/18249/chamada-de-propostas-programa-desafios-da-amazonia",
+    "desc": "Apoio a projetos de redes de pesquisa e inovação voltados a desafios de cinco cadeias da sociobioeconomia amazônica.",
+    "url": "https://fapesp.br/18249",
     "descobertoEm": "2026-08-31"
   },
   {
@@ -12913,18 +12913,19 @@
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK",
     "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption",
-    "orgao": "European Commission — Horizon Europe",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
     "origem": "Internacional",
     "areas": [
-      "agricultura sustentável",
-      "sistemas alimentares",
+      "sistemas alimentares sustentáveis",
+      "agricultura",
       "produção primária",
-      "bioeconomia"
+      "bioeconomia",
+      "inovação agropecuária"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
-    "valor": "Não especificado na página da chamada",
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e organizações elegíveis; participação brasileira sujeita às regras do tópico",
+    "valor": "Não especificado na página oficial do edital",
     "prazo": "2026-04-14",
-    "desc": "Chamada de propostas do Cluster 6 para sistemas alimentares justos, saudáveis e ambientalmente sustentáveis; inclui submissão em uma ou duas etapas.",
+    "desc": "Chamada de propostas do Cluster 6 do Horizon Europe para sistemas alimentares justos, saudáveis e ambientalmente sustentáveis; inclui chamada de uma e duas etapas.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-23"
   },
@@ -12986,21 +12987,22 @@
   },
   {
     "id": "FINEP-FNDCT-AGRI-FAM-ICT-2026",
-    "titulo": "Chamada Pública MCTI/FINEP/FNDCT – Cadeias Socioprodutivas da Agricultura Familiar – AgriFam-ICT 2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT — Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
       "Agricultura familiar",
+      "Sistemas agroalimentares",
       "Agropecuária",
-      "Cadeias socioprodutivas",
-      "Tecnologias sociais",
-      "Desenvolvimento territorial"
+      "Biodiversidade",
+      "Tecnologia e inovação",
+      "Sustentabilidade"
     ],
-    "publico": "Instituições científicas, tecnológicas e de inovação e demais instituições elegíveis previstas no edital.",
-    "valor": "Conforme limites, itens financiáveis e disponibilidade orçamentária definidos no edital.",
-    "prazo": null,
-    "desc": "Seleção pública para apoio a projetos relacionados às cadeias socioprodutivas da agricultura familiar, com foco em pesquisa, desenvolvimento tecnológico, inovação e soluções aplicadas.",
-    "url": "https://premio.finep.gov.br/images/chamadas-publicas/2026/25_03_2026_AgriFam-ICT_2026_Edital.pdf",
+    "publico": "Instituições Científicas, Tecnológicas e de Inovação (ICTs)",
+    "valor": "Até R$ 150.000.000,00 em recursos não reembolsáveis do FNDCT",
+    "prazo": "2026-07-03",
+    "desc": "Apoio a projetos institucionais de pesquisa, desenvolvimento de produtos, processos, tecnologias e serviços voltados a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "url": "https://www.finep.gov.br/en/chamadas-publicas/chamadapublica/783",
     "descobertoEm": "2026-09-24"
   },
   {
@@ -13227,20 +13229,19 @@
   {
     "id": "HORIZON-CL6-2026-03-GOVERNANCE",
     "titulo": "Innovative governance, environmental observations and digital solutions in support of the Green Deal",
-    "orgao": "European Commission — Horizon Europe",
+    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
     "origem": "Internacional",
     "areas": [
-      "inovação agropecuária",
-      "agricultura digital",
-      "inteligência artificial",
-      "dados agrícolas",
-      "governança",
-      "aprendizagem entre pares"
+      "governança inovadora",
+      "observação ambiental",
+      "soluções digitais",
+      "agricultura sustentável",
+      "Pacto Ecológico Europeu"
     ],
-    "publico": "Consórcios internacionais de pesquisa e inovação, incluindo universidades, instituições públicas, empresas e organizações elegíveis ao Horizon Europe",
-    "valor": "€96,5 milhões no conjunto da chamada",
-    "prazo": "2026-09-30",
-    "desc": "A chamada inclui temas de inovação na agricultura por aprendizagem entre pares, soluções de inteligência artificial para alimentos e agricultura e soluções digitais para apoiar o Green Deal. O prazo informado corresponde à segunda etapa de um tópico em duas etapas.",
+    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e organizações elegíveis; participação brasileira sujeita às regras do tópico",
+    "valor": "Não especificado na página oficial do edital",
+    "prazo": "2026-04-15",
+    "desc": "Chamada do Horizon Europe para governança inovadora, observações ambientais e soluções digitais relacionadas ao Pacto Ecológico Europeu, com aplicabilidade a sistemas agropecuários e rurais.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
     "descobertoEm": "2026-09-27"
   },
@@ -13947,20 +13948,20 @@
   },
   {
     "id": "CNPQ-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "produtividade em pesquisa",
-      "produtividade em desenvolvimento tecnológico e extensão inovadora",
-      "pesquisa agropecuária",
-      "agronomia"
+      "Pesquisa científica",
+      "Desenvolvimento tecnológico",
+      "Inovação",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores elegíveis às modalidades PQ, DT e PQ-Sênior, conforme requisitos da chamada",
+    "publico": "Pesquisadores elegíveis às bolsas de Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQSr)",
     "valor": null,
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sênior).",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
+    "desc": "Concessão de bolsas de produtividade para pesquisadores com produção científica, tecnológica e de inovação de destaque, incluindo projetos em áreas relacionadas à agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026",
     "descobertoEm": "2026-10-09"
   },
   {
@@ -14186,18 +14187,18 @@
   },
   {
     "id": "SELECAO-TECNOLOGICA-09-2026-EMBRAPA-TRIGO",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 – Multiplicação de sementes",
     "orgao": "Embrapa Trigo",
     "origem": "Interno",
     "areas": [
       "Transferência de tecnologia",
-      "Produção e comercialização de sementes",
-      "Cooperação técnica"
+      "Produção de sementes",
+      "Melhoramento vegetal"
     ],
-    "publico": "Produtor inscrito no RENASEM",
+    "publico": "Produtor inscrito no RENASEM, apto à multiplicação e comercialização de sementes",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, com exclusividade para sementes genéticas e básicas.",
+    "desc": "Seleção de parceiro para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, incluindo sementes genéticas e básicas.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-10-12"
   },
@@ -14563,10 +14564,10 @@
       "agropecuária sustentável",
       "recuperação de bacias hidrográficas"
     ],
-    "publico": "Parceiros aglutinadores responsáveis pela coordenação e execução de projetos de restauração",
+    "publico": "Entidades parceiras aglutinadoras para coordenação e execução de projetos na Bacia do Rio Doce, em Minas Gerais e no Espírito Santo",
     "valor": "Até R$ 618.750.000,00 no total",
     "prazo": "2026-09-30",
-    "desc": "Chamada pública para selecionar até cinco parceiros aglutinadores para coordenar e executar projetos de restauração ecológica e produtiva em 12,5 mil hectares da Bacia do Rio Doce.",
+    "desc": "Chamada pública para selecionar até cinco parceiros aglutinadores para projetos de restauração ecológica e produtiva em 12,5 mil hectares da Bacia do Rio Doce.",
     "url": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/fundos-governamentais/fundo-rio-doce/edital-restaura-rio-doce",
     "descobertoEm": "2026-10-19"
   },
@@ -15116,5 +15117,23 @@
     "desc": "Apoio financeiro não reembolsável a projetos institucionais para desenvolvimento de produtos, processos, tecnologias e serviços voltados a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares e florestais sustentáveis.",
     "url": "https://www.finep.gov.br/en/chamadas-publicas/chamadapublica/783",
     "descobertoEm": "2026-10-29"
+  },
+  {
+    "id": "EDITAL-02-2026-EMBRAPA-CNPQ-MEIONORTE",
+    "titulo": "Edital 02/2026 – Chamada 2 – Programa Institucional de Bolsas Embrapa-CNPq",
+    "orgao": "Embrapa Meio-Norte / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
+    ],
+    "publico": "Candidatos a bolsas vinculados às atividades de projetos de PD&I aprovados pelo SEG",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão. Inscrições de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-10-30"
   }
 ]
