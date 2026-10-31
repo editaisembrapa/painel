@@ -7535,7 +7535,7 @@
   },
   {
     "id": "FINEP-MAIS-INOVACAO-AGRO-2026",
-    "titulo": "Finep Mais Inovação Brasil — Rodada 2 — Cadeias Agroindustriais Sustentáveis",
+    "titulo": "Finep Mais Inovação Brasil – Rodada 2 – Cadeias Agroindustriais Sustentáveis",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
@@ -7543,13 +7543,13 @@
       "Agronegócio",
       "Saúde animal",
       "Foodtech",
-      "Cadeias agroindustriais",
+      "Cadeias agroindustriais sustentáveis",
       "PD&I"
     ],
     "publico": "Empresas",
     "valor": null,
     "prazo": "2026-09-30",
-    "desc": "Apoio a projetos de inovação em cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
+    "desc": "Chamada para projetos de inovação relacionados a cadeias agroindustriais sustentáveis, incluindo agricultura, agronegócio, saúde animal e foodtech.",
     "url": "https://www.finep.gov.br/en/chamadas-publicas",
     "descobertoEm": "2026-08-20"
   },
@@ -12035,21 +12035,23 @@
   },
   {
     "id": "amazonia10-desafios-2026",
-    "titulo": "Programa Desafios da Amazônia – 1ª Chamada (Iniciativa Amazônia+10 / BNDES / CONFAP)",
-    "orgao": "CONFAP · Iniciativa Amazônia+10 · BNDES",
+    "titulo": "Programa Desafios da Amazônia — Chamada de Propostas",
+    "orgao": "Iniciativa Amazônia+10 / FAPs participantes",
     "origem": "Nacional",
     "areas": [
-      "Bioeconomia Amazônica",
-      "Desenvolvimento Socioprodutivo",
-      "Agropecuária Sustentável",
-      "Conservação e Uso Sustentável de Recursos Naturais",
-      "Inovação em Cadeias Produtivas da Amazônia"
+      "Sociobioeconomia amazônica",
+      "Açaí",
+      "Castanha",
+      "Cacau",
+      "Babaçu",
+      "Recursos pesqueiros",
+      "Pesquisa, desenvolvimento e inovação"
     ],
-    "publico": "Pesquisadores vinculados às Fundações Estaduais de Amparo à Pesquisa participantes e organizações socioprodutivas (cooperativas e associações comunitárias) da Amazônia Legal",
-    "valor": "Apoio financeiro com recursos do Fundo Amazônia para projetos de pesquisa e inovação; valores por projeto definidos no edital do Programa Desafios da Amazônia",
+    "publico": "Redes de pesquisa e inovação com participação de instituições elegíveis das FAPs participantes",
+    "valor": "R$ 107.000.000 no total",
     "prazo": "2026-12-08",
-    "desc": "Primeira chamada do Programa Desafios da Amazônia, no âmbito da Iniciativa Amazônia+10, voltada ao apoio de projetos de pesquisa e inovação com recursos do Fundo Amazônia. As propostas devem ser submetidas em duas fases pelo sistema SIGCONFAP, contemplando pré-propostas até 01/09/2026 e propostas finais até 08/12/2026. O foco é apoiar pesquisadores e organizações socioprodutivas da Amazônia Legal em temas como bioeconomia, cadeias produtivas agropecuárias sustentáveis e desenvolvimento territorial.[14]",
-    "url": "https://www.amazoniamaisdez.org.br/chamadas-abertas",
+    "desc": "Chamada para projetos voltados a soluções para cadeias produtivas da sociobioeconomia amazônica. O prazo informado refere-se às propostas finais; as pré-propostas tiveram prazo anterior.",
+    "url": "https://fapesp.br/18249",
     "descobertoEm": "2026-09-16"
   },
   {
@@ -12987,21 +12989,20 @@
   },
   {
     "id": "FINEP-FNDCT-AGRI-FAM-ICT-2026",
-    "titulo": "Chamada Pública MCTI/FINEP/FNDCT — Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
       "Agricultura familiar",
-      "Sistemas agroalimentares",
+      "Sistemas agroalimentares sustentáveis",
       "Agropecuária",
-      "Biodiversidade",
-      "Tecnologia e inovação",
-      "Sustentabilidade"
+      "Tecnologias digitais no campo",
+      "Infraestrutura e inovação"
     ],
     "publico": "Instituições Científicas, Tecnológicas e de Inovação (ICTs)",
     "valor": "Até R$ 150.000.000,00 em recursos não reembolsáveis do FNDCT",
-    "prazo": "2026-07-03",
-    "desc": "Apoio a projetos institucionais de pesquisa, desenvolvimento de produtos, processos, tecnologias e serviços voltados a cadeias socioprodutivas da agricultura familiar e sistemas agroalimentares sustentáveis.",
+    "prazo": null,
+    "desc": "Apoio a projetos institucionais de pesquisa, desenvolvimento e inovação para produtos, processos, tecnologias e serviços voltados às cadeias socioprodutivas da agricultura familiar e aos sistemas agroalimentares e florestais sustentáveis.",
     "url": "https://www.finep.gov.br/en/chamadas-publicas/chamadapublica/783",
     "descobertoEm": "2026-09-24"
   },
@@ -13803,21 +13804,21 @@
   },
   {
     "id": "HORIZON-CL6-2026-02",
-    "titulo": "Innovative governance, environmental observations and digital solutions in support of the Green Deal",
-    "orgao": "European Commission – Horizon Europe",
+    "titulo": "Horizon Europe Cluster 6 — Call 02: Food, Bioeconomy, Natural Resources, Agriculture and Environment",
+    "orgao": "Comissão Europeia — Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "inovação agrícola",
-      "inteligência artificial aplicada a alimentos",
-      "agricultura digital",
-      "aprendizagem entre pares",
-      "observação ambiental"
+      "tratamentos fitossanitários",
+      "competitividade agrícola",
+      "uso sustentável de fatores de produção",
+      "políticas climáticas para agricultura e silvicultura",
+      "inovação em áreas rurais"
     ],
-    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e demais entidades elegíveis no Horizon Europe; participação brasileira sujeita às regras do programa.",
-    "valor": "€96,5 milhões",
-    "prazo": "2026-08-25",
-    "desc": "A chamada de 2026 inclui temas sobre soluções de inteligência artificial para alimentos, inovação na agricultura por aprendizagem entre pares e atividades adicionais da European Partnership on Agriculture of Data, com próxima abertura indicada para 2026-08-25.",
-    "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/innovative-governance-environmental-observations-and-digital-solutions-support-green-deal_en",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras de participação do programa",
+    "valor": "Não especificado nos resultados consultados",
+    "prazo": "2026-11-26",
+    "desc": "Chamada com tópicos sobre tratamentos fitossanitários inovadores, competitividade sustentável do setor agrícola, mitigação e adaptação climática na agricultura e silvicultura e competitividade sustentável em áreas rurais.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-10-07"
   },
   {
@@ -15046,20 +15047,22 @@
   },
   {
     "id": "HORIZON-CL6-2026-03",
-    "titulo": "Cluster 6 Call 03 — Food, Bioeconomy, Natural Resources, Agriculture and Environment",
-    "orgao": "European Commission — Horizon Europe",
+    "titulo": "Horizon Europe Cluster 6 — Call 03: Food, Bioeconomy, Natural Resources, Agriculture and Environment",
+    "orgao": "Comissão Europeia — Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "agricultura",
-      "sistemas de conhecimento e inovação agrícola",
-      "tecnologias digitais",
-      "governança ambiental"
+      "agricultura sustentável",
+      "sistemas alimentares",
+      "bioeconomia",
+      "recursos naturais",
+      "ambiente",
+      "pesquisa e inovação agropecuária"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
-    "valor": "EUR 96.500.000",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras de participação do programa",
+    "valor": "€96,5 milhões no conjunto da chamada",
     "prazo": "2026-04-15",
-    "desc": "Chamada de etapa única com dez tópicos, incluindo ações de pesquisa e inovação, ações de coordenação e apoio e ações de inovação relacionadas a agricultura, ambiente e sistemas de conhecimento agrícola.",
-    "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/3a48ab65-6c43-4c83-bdc5-4ce99649cba8/download",
+    "desc": "Chamada com tópicos de pesquisa e inovação, ações de coordenação e suporte e ações de inovação relacionadas a alimentos, bioeconomia, agricultura e ambiente. A primeira etapa de chamadas em duas fases vence em 15 de abril de 2026.",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-10-28"
   },
   {
@@ -15082,19 +15085,19 @@
   },
   {
     "id": "HORIZON-CL6-2026-04",
-    "titulo": "European Partnership of Agriculture of Data",
-    "orgao": "European Commission — Horizon Europe",
+    "titulo": "Horizon Europe Cluster 6 — European Partnership of Agriculture of Data",
+    "orgao": "Comissão Europeia — Horizon Europe",
     "origem": "Internacional",
     "areas": [
       "agricultura de dados",
-      "digitalização agrícola",
-      "dados ambientais",
-      "inovação agropecuária"
+      "digitalização agropecuária",
+      "agricultura de precisão",
+      "dados ambientais"
     ],
-    "publico": "Consórcios e entidades elegíveis ao Horizon Europe conforme as condições específicas da parceria",
-    "valor": "EUR 23.000.000",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras de participação do programa",
+    "valor": "€23 milhões",
     "prazo": "2026-11-26",
-    "desc": "Chamada de etapa única para a parceria europeia de agricultura de dados, com abertura em 25 de agosto de 2026.",
+    "desc": "Chamada de uma etapa para a parceria europeia de agricultura de dados, com foco em soluções e capacidades digitais aplicadas à agricultura.",
     "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/3a48ab65-6c43-4c83-bdc5-4ce99649cba8/download",
     "descobertoEm": "2026-10-28"
   },
@@ -15135,5 +15138,77 @@
     "desc": "Seleção de bolsistas para projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão. Inscrições de 14 a 30 de abril de 2026.",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-10-30"
+  },
+  {
+    "id": "edital-02-2026-chamada-02-embrapa-cnpq",
+    "titulo": "Edital 02/2026 — Chamada 02/2026 — Convênio Embrapa/CNPq",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento e inovação",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
+    ],
+    "publico": "Candidatos a bolsas do Programa Institucional de Bolsas Embrapa/CNPq",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-10-31"
+  },
+  {
+    "id": "edital-selecao-tecnologica-09-2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Cooperação técnica para produção e comercialização de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Cultivares de inverno e verão"
+    ],
+    "publico": "Produtor inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, mediante contrato de cinco anos.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-10-31"
+  },
+  {
+    "id": "HORIZON-CL6-2026-03-two-stage",
+    "titulo": "Horizon Europe Cluster 6 — Call 03: chamada em duas fases",
+    "orgao": "Comissão Europeia — Horizon Europe",
+    "origem": "Internacional",
+    "areas": [
+      "agricultura sustentável",
+      "sistemas alimentares",
+      "bioeconomia",
+      "recursos naturais",
+      "ambiente",
+      "inovação rural"
+    ],
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras de participação do programa",
+    "valor": "Incluído no orçamento de €96,5 milhões da Call 03",
+    "prazo": "2026-04-15",
+    "desc": "Chamada em duas fases para temas do Cluster 6. A primeira fase vence em 15 de abril de 2026 e a segunda fase em 30 de setembro de 2026.",
+    "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/3a48ab65-6c43-4c83-bdc5-4ce99649cba8/download",
+    "descobertoEm": "2026-10-31"
+  },
+  {
+    "id": "HORIZON-MISS-2026-1",
+    "titulo": "Supporting the implementation of the Adaptation to Climate Change Mission",
+    "orgao": "Comissão Europeia — Horizon Europe Missions",
+    "origem": "Internacional",
+    "areas": [
+      "adaptação climática",
+      "agricultura resiliente",
+      "recursos naturais",
+      "soluções baseadas na natureza"
+    ],
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo participantes brasileiros conforme as regras de participação do programa",
+    "valor": "Não especificado nos resultados consultados",
+    "prazo": "2026-09-23",
+    "desc": "Chamada da Missão de Adaptação às Alterações Climáticas, aplicável a projetos de resiliência climática e adaptação de sistemas agrícolas e naturais.",
+    "url": "https://ec.europa.eu/transparency/comitology-register/core/api/integration/ers/480440/107712/2/attachment",
+    "descobertoEm": "2026-10-31"
   }
 ]
