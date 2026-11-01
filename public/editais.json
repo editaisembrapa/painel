@@ -14155,18 +14155,18 @@
   },
   {
     "id": "EDITAL-02-2026-EMBRAPA-CNPQ",
-    "titulo": "Edital 02/2026 — Convênio Embrapa/CNPq",
-    "orgao": "Embrapa/CNPq",
+    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Chamada 2",
+    "orgao": "Embrapa Meio-Norte / CNPq",
     "origem": "Nacional",
     "areas": [
-      "PD&I",
-      "formação de recursos humanos",
-      "pesquisa agropecuária"
+      "Pesquisa",
+      "Desenvolvimento e inovação",
+      "Formação de recursos humanos"
     ],
-    "publico": "Candidatos e instituições elegíveis conforme as regras do edital",
+    "publico": "Bolsistas e candidatos às vagas do Programa Institucional de Bolsas Embrapa/CNPq",
     "valor": null,
     "prazo": "2026-04-30",
-    "desc": "Chamada pública vinculada ao convênio Embrapa/CNPq, com inscrições previstas de 14 a 30 de abril de 2026.",
+    "desc": "Edital para seleção de bolsistas no âmbito do convênio Embrapa/CNPq, com inscrições previstas de 14 a 30 de abril de 2026.",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-10-12"
   },
@@ -14188,18 +14188,18 @@
   },
   {
     "id": "SELECAO-TECNOLOGICA-09-2026-EMBRAPA-TRIGO",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 – Multiplicação de sementes",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026",
     "orgao": "Embrapa Trigo",
-    "origem": "Interno",
+    "origem": "Nacional",
     "areas": [
       "Transferência de tecnologia",
       "Produção de sementes",
       "Melhoramento vegetal"
     ],
-    "publico": "Produtor inscrito no RENASEM, apto à multiplicação e comercialização de sementes",
+    "publico": "Produtor inscrito no RENASEM, apto à cooperação técnica para produção e comercialização de sementes",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de parceiro para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, incluindo sementes genéticas e básicas.",
+    "desc": "Seleção de parceiro para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, incluindo exclusividade para sementes genéticas e básicas.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-10-12"
   },
@@ -14482,21 +14482,21 @@
   },
   {
     "id": "FINEP-COOPERAMAIS-TECNOLOGIA-ICT-2026",
-    "titulo": "Chamada Pública COOPERAMAIS Tecnologia – ICT",
+    "titulo": "COOPERAMAIS Tecnologia – ICT",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
       "Agricultura familiar",
-      "Agricultura",
-      "Agroindústria",
-      "Cooperativismo",
-      "PD&I"
+      "Agropecuária",
+      "Tecnologia",
+      "PD&I",
+      "Cooperativismo"
     ],
-    "publico": "ICTs públicas e privadas, obrigatoriamente em parceria com cooperativas da agricultura familiar",
-    "valor": "Até R$ 100.000.000,00 em recursos não reembolsáveis do FNDCT/CT-Agro",
+    "publico": "ICTs públicas e privadas em parceria com cooperativas da agricultura familiar",
+    "valor": "R$ 100.000.000,00 em recursos não reembolsáveis",
     "prazo": "2026-12-08",
-    "desc": "Apoio a projetos de pesquisa, desenvolvimento e inovação voltados a soluções tecnológicas para a agricultura familiar brasileira, incluindo cadeias produtivas, agroindustrialização, comercialização, mercados e logística cooperativa.",
-    "url": "https://www.finep.gov.br/en/l/1060260",
+    "desc": "Seleção de projetos de pesquisa, desenvolvimento e inovação para soluções tecnológicas voltadas à agricultura familiar brasileira.",
+    "url": "https://www.finep.gov.br/en/e/chamada-publica/222684/1060260",
     "descobertoEm": "2026-10-18"
   },
   {
@@ -15210,5 +15210,22 @@
     "desc": "Chamada da Missão de Adaptação às Alterações Climáticas, aplicável a projetos de resiliência climática e adaptação de sistemas agrícolas e naturais.",
     "url": "https://ec.europa.eu/transparency/comitology-register/core/api/integration/ers/480440/107712/2/attachment",
     "descobertoEm": "2026-10-31"
+  },
+  {
+    "id": "CNPQ-PQ-2026",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade em Pesquisa e Produtividade em Pesquisa Sênior",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "Bolsas de produtividade",
+      "Agropecuária"
+    ],
+    "publico": "Pesquisadores elegíveis conforme requisitos da chamada e critérios dos Comitês Assessores",
+    "valor": null,
+    "prazo": "2027-01-07",
+    "desc": "Chamada para apresentação de propostas às modalidades de Bolsas de Produtividade em Pesquisa, incluindo a modalidade Produtividade em Pesquisa Sênior.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
+    "descobertoEm": "2026-11-01"
   }
 ]
