@@ -8942,18 +8942,18 @@
   {
     "id": "HORIZON-CL6-2026-01-BIODIV-06",
     "titulo": "Boosting agrobiodiversity for food security and sustainable competitiveness",
-    "orgao": "European Commission — Horizon Europe",
+    "orgao": "European Commission",
     "origem": "Internacional",
     "areas": [
       "agrobiodiversidade",
       "segurança alimentar",
-      "competitividade sustentável",
-      "agricultura"
+      "agricultura sustentável",
+      "competitividade agropecuária"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, incluindo instituições brasileiras conforme as regras de participação",
-    "valor": "Contribuição estimada de EUR 6.000.000 por projeto; orçamento indicativo total de EUR 12.000.000",
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação brasileira conforme as regras do programa",
+    "valor": "EUR 12.000.000 de orçamento indicativo total; contribuição estimada de aproximadamente EUR 6.000.000 por projeto",
     "prazo": null,
-    "desc": "Tópico do programa de trabalho 2026–2027 voltado ao fortalecimento da agrobiodiversidade para segurança alimentar e competitividade sustentável; a fonte consultada não informa prazo definitivo.",
+    "desc": "Tópico do programa de trabalho Horizon Europe Cluster 6 sobre práticas favoráveis à biodiversidade na agricultura. O resultado oficial consultado informa o orçamento, mas não apresenta prazo de encerramento verificável no trecho disponível.[2]",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-08-29"
   },
@@ -12915,19 +12915,19 @@
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK",
     "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption",
-    "orgao": "Comissão Europeia — Horizon Europe, Cluster 6",
+    "orgao": "European Commission / REA",
     "origem": "Internacional",
     "areas": [
       "sistemas alimentares sustentáveis",
+      "produção agropecuária",
       "agricultura",
-      "produção primária",
       "bioeconomia",
-      "inovação agropecuária"
+      "ambiente"
     ],
-    "publico": "Consórcios internacionais de instituições de pesquisa, universidades, empresas e organizações elegíveis; participação brasileira sujeita às regras do tópico",
-    "valor": "Não especificado na página oficial do edital",
+    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
+    "valor": "Não informado no resultado oficial consultado",
     "prazo": "2026-04-14",
-    "desc": "Chamada de propostas do Cluster 6 do Horizon Europe para sistemas alimentares justos, saudáveis e ambientalmente sustentáveis; inclui chamada de uma e duas etapas.",
+    "desc": "Chamada Horizon Europe Cluster 6 com propostas de uma ou duas etapas; a chamada é aplicável a pesquisa e inovação em sistemas alimentares e produção primária. O prazo informado para submissão é 14 de abril de 2026.[1]",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-23"
   },
@@ -14448,17 +14448,16 @@
     "origem": "Nacional",
     "areas": [
       "agricultura familiar",
-      "cooperativismo",
-      "pesquisa",
-      "desenvolvimento tecnológico",
-      "extensão tecnológica",
-      "PD&I"
+      "agropecuária",
+      "tecnologia",
+      "PD&I",
+      "cooperativismo"
     ],
-    "publico": "ICTs públicas e privadas em parceria com cooperativas da agricultura familiar",
+    "publico": "ICTs públicas e privadas em parceria obrigatória com cooperativas da agricultura familiar",
     "valor": "R$ 100.000.000,00 em recursos não reembolsáveis do FNDCT/CT-Agro",
     "prazo": "2026-12-08",
-    "desc": "Seleção de projetos de PD&I para soluções tecnológicas voltadas à agricultura familiar brasileira, com reserva mínima de 30% dos recursos para as regiões Norte, Nordeste e Centro-Oeste, condicionada à existência de projetos meritórios.",
-    "url": "https://www.finep.gov.br/e/chamada-publica/222684/1060260",
+    "desc": "Seleção de projetos de pesquisa, desenvolvimento e inovação para soluções tecnológicas voltadas à agricultura familiar brasileira.",
+    "url": "https://www.finep.gov.br/en/e/chamada-publica/222684/1060260",
     "descobertoEm": "2026-10-17"
   },
   {
@@ -15227,5 +15226,39 @@
     "desc": "Chamada para apresentação de propostas às modalidades de Bolsas de Produtividade em Pesquisa, incluindo a modalidade Produtividade em Pesquisa Sênior.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-11-01"
+  },
+  {
+    "id": "CP-12-2026",
+    "titulo": "Chamada Pública nº 12/2026 para concessão de bolsas",
+    "orgao": "Embrapa Agrossilvipastoril",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento e inovação",
+      "Transferência de tecnologia"
+    ],
+    "publico": "Não informado no resultado oficial consultado",
+    "valor": "Bolsas; valor não informado",
+    "prazo": null,
+    "desc": "Chamada pública anunciada pela Embrapa Agrossilvipastoril em parceria com a Monsanto/Bayer e a Fundação Arthur Bernardes (Funarbe). O resultado consultado não informa o prazo final nem o valor das bolsas.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/todos?p_auth=RhvPoPo6&_buscanoticia_WAR_pcebusca6_1portlet_advancedSearch=false&_buscanoticia_WAR_pcebusca6_1portlet_delta=30&_buscanoticia_WAR_pcebusca6_1portlet_resetCur=false&_buscanoticia_WAR_pcebusca6_1portlet_andOperator=true&_buscanoticia_WAR_pcebusca6_1portlet_cur=5",
+    "descobertoEm": "2026-11-02"
+  },
+  {
+    "id": "ET-09-2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — multiplicação de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento vegetal"
+    ],
+    "publico": "Produtor inscrito no RENASEM",
+    "valor": "Não informado",
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares desenvolvidas pela Embrapa Trigo, com previsão de contrato de cinco anos e exclusividade para produção e comercialização de sementes genéticas e básicas.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-11-02"
   }
 ]
