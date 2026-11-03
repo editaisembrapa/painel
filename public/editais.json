@@ -12915,19 +12915,19 @@
   {
     "id": "HORIZON-CL6-2026-02-FARM2FORK",
     "titulo": "Fair, healthy and environmentally friendly food systems from primary production to consumption",
-    "orgao": "European Commission / REA",
+    "orgao": "European Commission — Horizon Europe",
     "origem": "Internacional",
     "areas": [
       "sistemas alimentares sustentáveis",
-      "produção agropecuária",
       "agricultura",
+      "produção primária",
       "bioeconomia",
-      "ambiente"
+      "recursos naturais"
     ],
-    "publico": "Consórcios internacionais elegíveis ao Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
-    "valor": "Não informado no resultado oficial consultado",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, com participação de entidades brasileiras conforme as regras do programa",
+    "valor": "€166,4 milhões para a chamada Cluster 6 de 2026; valor por tópico não especificado na fonte",
     "prazo": "2026-04-14",
-    "desc": "Chamada Horizon Europe Cluster 6 com propostas de uma ou duas etapas; a chamada é aplicável a pesquisa e inovação em sistemas alimentares e produção primária. O prazo informado para submissão é 14 de abril de 2026.[1]",
+    "desc": "Chamada do Cluster 6 para sistemas alimentares justos, saudáveis e ambientalmente sustentáveis. Inclui tópicos em chamada de estágio único e de dois estágios; a primeira etapa da chamada FARM2FORK encerra em 14 de abril de 2026.",
     "url": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-cluster-6-food-bioeconomy-natural-resources-agriculture-and-environment/fair-healthy-and-environmentally-friendly-food-systems-primary-production-consumption_en",
     "descobertoEm": "2026-09-23"
   },
@@ -14481,18 +14481,18 @@
   },
   {
     "id": "FINEP-COOPERAMAIS-TECNOLOGIA-ICT-2026",
-    "titulo": "COOPERAMAIS Tecnologia – ICT",
+    "titulo": "COOPERAMAIS Tecnologia - ICT",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
       "Agricultura familiar",
       "Agropecuária",
-      "Tecnologia",
-      "PD&I",
-      "Cooperativismo"
+      "Agroindustrialização",
+      "Cadeias produtivas",
+      "PD&I"
     ],
     "publico": "ICTs públicas e privadas em parceria com cooperativas da agricultura familiar",
-    "valor": "R$ 100.000.000,00 em recursos não reembolsáveis",
+    "valor": "R$ 100.000.000,00 em recursos não reembolsáveis do FNDCT/CT-Agro",
     "prazo": "2026-12-08",
     "desc": "Seleção de projetos de pesquisa, desenvolvimento e inovação para soluções tecnológicas voltadas à agricultura familiar brasileira.",
     "url": "https://www.finep.gov.br/en/e/chamada-publica/222684/1060260",
@@ -14562,12 +14562,13 @@
       "restauração ecológica",
       "restauração produtiva",
       "agropecuária sustentável",
+      "biodiversidade",
       "recuperação de bacias hidrográficas"
     ],
-    "publico": "Entidades parceiras aglutinadoras para coordenação e execução de projetos na Bacia do Rio Doce, em Minas Gerais e no Espírito Santo",
+    "publico": "Parceiros aglutinadores responsáveis pela coordenação e execução de projetos na Bacia do Rio Doce",
     "valor": "Até R$ 618.750.000,00 no total",
     "prazo": "2026-09-30",
-    "desc": "Chamada pública para selecionar até cinco parceiros aglutinadores para projetos de restauração ecológica e produtiva em 12,5 mil hectares da Bacia do Rio Doce.",
+    "desc": "Seleção de até cinco parceiros aglutinadores para coordenar e executar projetos de restauração ecológica e produtiva em 12,5 mil hectares da Bacia do Rio Doce.",
     "url": "https://www.bndes.gov.br/wps/portal/site/home/transparencia/fundos-governamentais/fundo-rio-doce/edital-restaura-rio-doce",
     "descobertoEm": "2026-10-19"
   },
@@ -15246,19 +15247,36 @@
   },
   {
     "id": "ET-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — multiplicação de sementes",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Cooperação Técnica e Financeira para Produção de Sementes de Genética Vegetal",
     "orgao": "Embrapa Trigo",
-    "origem": "Interno",
+    "origem": "Nacional",
     "areas": [
-      "Transferência de tecnologia",
-      "Produção e comercialização de sementes",
-      "Melhoramento vegetal"
+      "produção de sementes",
+      "melhoramento vegetal",
+      "transferência de tecnologia"
     ],
     "publico": "Produtor inscrito no RENASEM",
-    "valor": "Não informado",
+    "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares desenvolvidas pela Embrapa Trigo, com previsão de contrato de cinco anos e exclusividade para produção e comercialização de sementes genéticas e básicas.",
+    "desc": "Seleção de parceiro para multiplicação, produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, com contrato de cinco anos, área de 48 hectares e comodato de unidade de beneficiamento de sementes.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-11-02"
+  },
+  {
+    "id": "CNPQ-CHAMADA-33-2026",
+    "titulo": "Bolsas de Produtividade do CNPq",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa científica",
+      "Pesquisa tecnológica",
+      "Agropecuária"
+    ],
+    "publico": "Pesquisadores com produção científica e/ou tecnológica destacada e liderança em sua área de atuação",
+    "valor": "Bolsa de produtividade conforme categoria e nível definidos pelo CNPq",
+    "prazo": "2027-01-07",
+    "desc": "Concessão de Bolsas de Produtividade para pesquisadores que se destacam entre seus pares, conforme requisitos e critérios dos Comitês de Assessoramento.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
+    "descobertoEm": "2026-11-03"
   }
 ]
