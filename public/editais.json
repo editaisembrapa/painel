@@ -14005,23 +14005,22 @@
   },
   {
     "id": "FINEP-AGRICULTURA-FAMILIAR-ICT-2026",
-    "titulo": "Chamada Pública MCTI/FINEP/FNDCT Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
+    "titulo": "Chamada Pública MCTI/FINEP/FNDCT — Cadeias Socioprodutivas da Agricultura Familiar e Sistemas Agroalimentares Sustentáveis para ICTs 2026",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
       "agricultura familiar",
-      "sistemas agroalimentares",
-      "biodiversidade brasileira",
+      "sistemas agroalimentares sustentáveis",
+      "biodiversidade",
       "agropecuária",
-      "pesquisa e desenvolvimento tecnológico",
-      "sustentabilidade",
       "florestas",
-      "pesca artesanal"
+      "pesca artesanal",
+      "PD&I"
     ],
-    "publico": "Instituições de Ciência, Tecnologia e Inovação (ICTs)",
-    "valor": "Até R$ 150.000.000,00 em recursos não reembolsáveis do FNDCT; propostas entre R$ 3.000.000,00 e R$ 10.000.000,00",
-    "prazo": "2026-06-26",
-    "desc": "Apoio financeiro a projetos institucionais para desenvolver produtos, processos, tecnologias e serviços voltados ao fortalecimento de cadeias socioprodutivas da agricultura familiar e de sistemas agroalimentares sustentáveis. O prazo informado corresponde ao envio das propostas.",
+    "publico": "ICTs públicas e privadas, conforme regras do edital",
+    "valor": "Até R$ 150.000.000,00 em recursos não reembolsáveis do FNDCT",
+    "prazo": "2026-06-19",
+    "desc": "Apoio a projetos institucionais de pesquisa, desenvolvimento de produtos, processos, tecnologias e serviços voltados ao fortalecimento de cadeias socioprodutivas, sistemas agroalimentares e florestais sustentáveis.",
     "url": "https://www.finep.gov.br/en/chamadas-publicas/chamadapublica/783",
     "descobertoEm": "2026-10-10"
   },
@@ -14297,20 +14296,19 @@
   {
     "id": "HORIZON-CL6-2026-02-CLIMATE-01",
     "titulo": "Towards more effective, fair and coherent policies for climate change mitigation and adaptation in agriculture and forestry",
-    "orgao": "Comissão Europeia — Horizon Europe Cluster 6",
+    "orgao": "European Commission — Horizon Europe",
     "origem": "Internacional",
     "areas": [
-      "mudanças climáticas",
-      "mitigação",
-      "adaptação",
       "agricultura",
       "silvicultura",
+      "mitigação climática",
+      "adaptação climática",
       "políticas públicas"
     ],
-    "publico": "Consórcios internacionais de entidades elegíveis, incluindo organizações brasileiras conforme as regras do Horizon Europe",
+    "publico": "Consórcios internacionais elegíveis no Horizon Europe, incluindo instituições brasileiras conforme as regras de participação e financiamento aplicáveis",
     "valor": null,
     "prazo": null,
-    "desc": "Tópico de pesquisa sobre políticas mais eficazes, justas e coerentes para mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura.",
+    "desc": "Tópico do Cluster 6 do programa de trabalho Horizon Europe 2026–2027, voltado a políticas mais eficazes, justas e coerentes para mitigação e adaptação às mudanças climáticas na agricultura e na silvicultura.",
     "url": "https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf",
     "descobertoEm": "2026-10-13"
   },
@@ -14481,20 +14479,20 @@
   },
   {
     "id": "FINEP-COOPERAMAIS-TECNOLOGIA-ICT-2026",
-    "titulo": "COOPERAMAIS Tecnologia - ICT",
+    "titulo": "COOPERAMAIS Tecnologia — ICT",
     "orgao": "FINEP/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Agricultura familiar",
-      "Agropecuária",
-      "Agroindustrialização",
-      "Cadeias produtivas",
+      "agricultura familiar",
+      "cooperativismo",
+      "agroindustrialização",
+      "cadeias produtivas",
       "PD&I"
     ],
     "publico": "ICTs públicas e privadas em parceria com cooperativas da agricultura familiar",
     "valor": "R$ 100.000.000,00 em recursos não reembolsáveis do FNDCT/CT-Agro",
     "prazo": "2026-12-08",
-    "desc": "Seleção de projetos de pesquisa, desenvolvimento e inovação para soluções tecnológicas voltadas à agricultura familiar brasileira.",
+    "desc": "Seleção de projetos de pesquisa, desenvolvimento e inovação para soluções tecnológicas voltadas à agricultura familiar brasileira, incluindo desenvolvimento de cadeias produtivas e agroindustrialização cooperativa.",
     "url": "https://www.finep.gov.br/en/e/chamada-publica/222684/1060260",
     "descobertoEm": "2026-10-18"
   },
@@ -15278,5 +15276,61 @@
     "desc": "Concessão de Bolsas de Produtividade para pesquisadores que se destacam entre seus pares, conforme requisitos e critérios dos Comitês de Assessoramento.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-11-03"
+  },
+  {
+    "id": "FINEP-MAIS-INOVACAO-AGROINDUSTRIA-2026",
+    "titulo": "Finep Mais Inovação Brasil — Rodada 2 — Cadeias Agroindustriais Sustentáveis",
+    "orgao": "FINEP/FNDCT",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura",
+      "agronegócio",
+      "saúde animal",
+      "foodtech",
+      "cadeias agroindustriais sustentáveis",
+      "PD&I"
+    ],
+    "publico": "Empresas, conforme regras da chamada",
+    "valor": null,
+    "prazo": "2026-09-30",
+    "desc": "Chamada de apoio à inovação em cadeias agroindustriais sustentáveis, abrangendo agricultura, agronegócio, saúde animal e foodtech.",
+    "url": "https://www.finep.gov.br/en/chamadas-publicas",
+    "descobertoEm": "2026-11-04"
+  },
+  {
+    "id": "FAPESP-FAPEAM-03-2026",
+    "titulo": "FAPESP/FAPEAM Call 2026 – Pesquisa em bioeconomia amazônica",
+    "orgao": "FAPESP e FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Bioeconomia amazônica",
+      "Biodiversidade",
+      "Desenvolvimento sustentável",
+      "Agropecuária",
+      "Inovação"
+    ],
+    "publico": "Pesquisadores do Estado de São Paulo e do Estado do Amazonas, conforme as regras da chamada",
+    "valor": null,
+    "prazo": "2026-03-23",
+    "desc": "Financia pesquisa em ciência, tecnologia e inovação na bioeconomia amazônica por meio da colaboração entre pesquisadores de São Paulo e do Amazonas.",
+    "url": "https://fapesp.br/17334/call-for-proposals-2026",
+    "descobertoEm": "2026-11-04"
+  },
+  {
+    "id": "ET-09/2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — multiplicação de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento vegetal"
+    ],
+    "publico": "Produtor rural inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, incluindo uso de infraestrutura de beneficiamento.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-11-04"
   }
 ]
