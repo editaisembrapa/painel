@@ -5053,20 +5053,19 @@
   },
   {
     "id": "CNPq-FNDCT-06-2026",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 — Universal",
     "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Agropecuária",
-      "Agronomia",
-      "Ciências agrárias",
-      "Biotecnologia",
-      "Desenvolvimento tecnológico"
+      "Pesquisa científica",
+      "Desenvolvimento tecnológico",
+      "Inovação",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores vinculados a instituições de ensino, pesquisa, desenvolvimento tecnológico e inovação, conforme requisitos do edital.",
-    "valor": "Recursos para custeio, capital e bolsas nas modalidades IC, ITI, AT e PDJ, conforme faixa e disponibilidade do edital.",
+    "publico": "Pesquisadores e grupos de pesquisa elegíveis conforme as faixas e condições estabelecidas no edital.",
+    "valor": "Recursos financeiros e bolsas conforme faixa de financiamento e modalidades previstas na chamada.",
     "prazo": null,
-    "desc": "Chamada universal para apoio a projetos de pesquisa, desenvolvimento tecnológico e inovação em diversas áreas do conhecimento, incluindo possibilidade de bolsas e aplicação em temas agropecuários.",
+    "desc": "Apoio a projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação em qualquer área do conhecimento, incluindo pesquisas agropecuárias.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-27"
   },
@@ -13986,21 +13985,20 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Ciências Agrárias",
-      "Agropecuária",
       "Pesquisa",
       "Desenvolvimento tecnológico",
-      "Extensão inovadora"
+      "Inovação",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores elegíveis às modalidades Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQSr)",
-    "valor": "Bolsas de produtividade; valores conforme modalidade e normas vigentes do CNPq",
+    "publico": "Pesquisadores doutores com vínculo formal com instituição de execução do projeto, conforme requisitos do edital.",
+    "valor": "Bolsas nas modalidades Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sr).",
     "prazo": "2027-01-07",
-    "desc": "Concede bolsas de produtividade a pesquisadores com produção científica, tecnológica e de inovação de destaque, incluindo propostas relevantes às Ciências Agrárias e à agropecuária.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026",
+    "desc": "Concessão de bolsas para pesquisadores com produção científica, tecnológica e de inovação de destaque; aplicável a pesquisadores da agropecuária e da Embrapa conforme área e requisitos da chamada.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -15332,5 +15330,64 @@
     "desc": "Seleção de produtor para cooperação técnica na produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, incluindo uso de infraestrutura de beneficiamento.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-11-04"
+  },
+  {
+    "id": "CNPq-CT-Biotec-FNDCT-24-2026",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI nº 24/2026 — Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "orgao": "CNPq/CT-Biotec/FNDCT/MCTI",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Bioinsumos",
+      "Biotecnologia ambiental",
+      "Bioinformática",
+      "PD&I"
+    ],
+    "publico": "Pesquisadores, instituições científicas, tecnológicas e de inovação e demais proponentes elegíveis conforme o edital.",
+    "valor": "Recursos para projetos de pesquisa, desenvolvimento e inovação e bolsas nas modalidades previstas na chamada.",
+    "prazo": "2026-09-18",
+    "desc": "Apoio a projetos de biotecnologia, incluindo bioinsumos agropecuários, tecnologias para escalonamento de bioinsumos e ferramentas de bioinformática aplicadas à agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/Chamada_24_2026.pdf",
+    "descobertoEm": "2026-11-05"
+  },
+  {
+    "id": "embrapii-cornet-2026-1",
+    "titulo": "41ª Chamada de Propostas CORNET Network 2026/1",
+    "orgao": "Embrapii / CORNET",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa aplicada",
+      "Desenvolvimento e inovação",
+      "Bioeconomia",
+      "Tecnologias agropecuárias"
+    ],
+    "publico": "Pequenas e médias empresas, instituições de pesquisa, associações e clusters; consórcios com participantes de ao menos dois países ou regiões CORNET.",
+    "valor": null,
+    "prazo": "2026-03-25",
+    "desc": "Chamada internacional para projetos de PD&I voltados ao fortalecimento da capacidade inovadora de pequenas e médias empresas. A proposta pode abranger qualquer área temática, incluindo aplicações agropecuárias, desde que atenda às regras da chamada.",
+    "url": "https://embrapii.org.br/chamada-cornet-network-2026/",
+    "descobertoEm": "2026-11-05"
+  },
+  {
+    "id": "embrapii-bndes-funtec-agroenergia",
+    "titulo": "Parceria Embrapii e BNDES para projetos de PD&I em bioeconomia e agroenergia",
+    "orgao": "Embrapii / BNDES",
+    "origem": "Nacional",
+    "areas": [
+      "Sistemas agroflorestais",
+      "Fruticultura",
+      "Logística e conservação de alimentos",
+      "Novos produtos alimentícios",
+      "Bioeconomia florestal",
+      "Economia circular",
+      "Novos biocombustíveis",
+      "Soluções digitais para agro"
+    ],
+    "publico": "Startups, pequenas empresas e empresas industriais que apresentem desafios tecnológicos a uma Unidade Embrapii habilitada.",
+    "valor": "Recursos não reembolsáveis de até 50% do valor do projeto para empresas com ROB inferior a R$ 90 milhões ou projetos cooperativos elegíveis; até um terço para empresas com ROB superior a R$ 90 milhões.",
+    "prazo": null,
+    "desc": "Acesso em fluxo contínuo, mediante negociação direta com Unidade Embrapii habilitada. Não há prazo único de edital informado.",
+    "url": "https://embrapii.org.br/bndes/",
+    "descobertoEm": "2026-11-05"
   }
 ]
