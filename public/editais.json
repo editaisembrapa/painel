@@ -5053,19 +5053,18 @@
   },
   {
     "id": "CNPq-FNDCT-06-2026",
-    "titulo": "Chamada CNPq/FNDCT nº 06/2026 — Universal",
+    "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
     "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa científica",
-      "Desenvolvimento tecnológico",
-      "Inovação",
-      "Agropecuária"
+      "Ciências agrárias",
+      "Agropecuária",
+      "Pesquisa científica e tecnológica"
     ],
-    "publico": "Pesquisadores e grupos de pesquisa elegíveis conforme as faixas e condições estabelecidas no edital.",
-    "valor": "Recursos financeiros e bolsas conforme faixa de financiamento e modalidades previstas na chamada.",
+    "publico": "Pesquisadores vinculados a instituições de pesquisa, ensino superior ou desenvolvimento científico e tecnológico elegíveis",
+    "valor": "Até R$ 246.720,00 por projeto, conforme composição de bolsas e auxílio instalação",
     "prazo": null,
-    "desc": "Apoio a projetos de pesquisa que contribuam para o desenvolvimento científico, tecnológico e a inovação em qualquer área do conhecimento, incluindo pesquisas agropecuárias.",
+    "desc": "Apoio a projetos de pesquisa, desenvolvimento científico, tecnológico e inovação em qualquer área do conhecimento, com possibilidade de bolsas de pós-doutorado e pós-doutorado sênior.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-27"
   },
@@ -15389,5 +15388,57 @@
     "desc": "Acesso em fluxo contínuo, mediante negociação direta com Unidade Embrapii habilitada. Não há prazo único de edital informado.",
     "url": "https://embrapii.org.br/bndes/",
     "descobertoEm": "2026-11-05"
+  },
+  {
+    "id": "CNPq-33-2026-Produtividade",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Ciências agrárias",
+      "Agropecuária",
+      "Pesquisa científica"
+    ],
+    "publico": "Pesquisadores com produção científica, tecnológica e de inovação compatível com os critérios das bolsas de produtividade do CNPq",
+    "valor": "Bolsa de produtividade conforme modalidade e nível definidos na chamada",
+    "prazo": "2027-01-07",
+    "desc": "Concessão de bolsas de produtividade para pesquisadores de diferentes áreas do conhecimento, incluindo áreas relacionadas à agropecuária.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
+    "descobertoEm": "2026-11-06"
+  },
+  {
+    "id": "EDITAL-09-2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Gestão de produção de sementes de genética vegetal",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento vegetal"
+    ],
+    "publico": "Produtor inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para cooperação técnica na multiplicação, produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, com contrato previsto por cinco anos.",
+    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento/",
+    "descobertoEm": "2026-11-06"
+  },
+  {
+    "id": "fapesq-embrapii-2026",
+    "titulo": "Chamada para propostas de inovação para Unidades EMBRAPII na Paraíba",
+    "orgao": "FAPESQ",
+    "origem": "Nacional",
+    "areas": [
+      "inovação agropecuária",
+      "tecnologias agroindustriais",
+      "desenvolvimento de produtos e processos",
+      "desafios tecnológicos"
+    ],
+    "publico": "Micro e pequenas empresas, MEIs, startups e cooperativas com CNPJ ativo na Paraíba, em parceria com Unidades EMBRAPII da UEPB, UFCG ou IFPB",
+    "valor": "Até R$ 200.000 por empresa; investimento total de até R$ 3.000.000",
+    "prazo": "2026-11-06",
+    "desc": "Edital de fluxo contínuo para desenvolvimento, validação e implantação de soluções tecnológicas e inovadoras. As propostas devem estar alinhadas às áreas de atuação das Unidades EMBRAPII participantes.",
+    "url": "https://embrapii.org.br/fapesq-lanca-chamada-para-propostas-de-inovacao-para-unidades-embrapii-na-paraiba/",
+    "descobertoEm": "2026-11-06"
   }
 ]
