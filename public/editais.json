@@ -13984,7 +13984,7 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
@@ -13993,10 +13993,10 @@
       "Inovação",
       "Agropecuária"
     ],
-    "publico": "Pesquisadores doutores com vínculo formal com instituição de execução do projeto, conforme requisitos do edital.",
-    "valor": "Bolsas nas modalidades Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sr).",
+    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação de destaque, nas modalidades PQ, PQ-Sr e DT",
+    "valor": "R$ 23.525.040,00 para a Linha 1 (Bolsas DT); valores individuais conforme modalidade e nível",
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas para pesquisadores com produção científica, tecnológica e de inovação de destaque; aplicável a pesquisadores da agropecuária e da Embrapa conforme área e requisitos da chamada.",
+    "desc": "Concede bolsas de Produtividade em Pesquisa (PQ), Produtividade em Pesquisa Sênior (PQ-Sr) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT). A chamada contempla projetos em diferentes áreas do conhecimento, incluindo pesquisa agropecuária e desenvolvimento tecnológico.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
     "descobertoEm": "2026-10-10"
   },
@@ -14366,35 +14366,34 @@
     "id": "EMBRAPA-TRIGO-09-2026",
     "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
     "orgao": "Embrapa Trigo",
-    "origem": "Nacional",
+    "origem": "Interno",
     "areas": [
-      "Transferência de tecnologia",
-      "Produção e comercialização de sementes",
-      "Cooperação técnica"
+      "transferência de tecnologia",
+      "produção de sementes",
+      "cooperação técnica"
     ],
-    "publico": "Produtor inscrito no RENASEM",
-    "valor": null,
+    "publico": "Produtores inscritos no RENASEM",
+    "valor": "Não informado",
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes genéticas e básicas de cultivares da Embrapa Trigo, com previsão de parceria exclusiva por cinco anos.",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares desenvolvidas pela Embrapa Trigo, incluindo sementes genéticas e básicas.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-10-15"
   },
   {
     "id": "FAPEG-087-2026",
     "titulo": "Edital nº 087 — Bolsa de estímulo à inovação",
-    "orgao": "FAPEG, com interesse da Embrapa",
+    "orgao": "Embrapa",
     "origem": "Estadual · AM",
     "areas": [
-      "Pesquisa",
-      "Desenvolvimento e inovação",
-      "Extensão tecnológica",
-      "Propriedade intelectual",
-      "Transferência de tecnologia"
+      "PD&I",
+      "extensão tecnológica",
+      "proteção da propriedade intelectual",
+      "transferência de tecnologia"
     ],
     "publico": "Técnicos agrícolas ou florestais",
-    "valor": null,
+    "valor": "Não informado",
     "prazo": "2026-09-30",
-    "desc": "Chamada pública para bolsas destinadas à formação e capacitação de recursos humanos que contribuam com projetos de PD&I, extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologias de interesse da Embrapa.",
+    "desc": "Seleção de bolsista para apoiar projetos de pesquisa, desenvolvimento e inovação, extensão tecnológica, proteção da propriedade intelectual e transferência de tecnologias de interesse da Embrapa.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/147175395/inscricoes-abertas-para-bolsistas-de-tecnico-agricola-ou-florestal-pela-fapeg-ate-30-de-setembro",
     "descobertoEm": "2026-10-15"
   },
@@ -15351,19 +15350,18 @@
   },
   {
     "id": "embrapii-cornet-2026-1",
-    "titulo": "41ª Chamada de Propostas CORNET Network 2026/1",
+    "titulo": "Chamada CORNET Network 2026/1",
     "orgao": "Embrapii / CORNET",
     "origem": "Internacional",
     "areas": [
-      "Pesquisa aplicada",
-      "Desenvolvimento e inovação",
-      "Bioeconomia",
-      "Tecnologias agropecuárias"
+      "pesquisa aplicada",
+      "inovação industrial",
+      "cooperação internacional"
     ],
-    "publico": "Pequenas e médias empresas, instituições de pesquisa, associações e clusters; consórcios com participantes de ao menos dois países ou regiões CORNET.",
+    "publico": "Instituições de pesquisa, associações e clusters de pequenas e médias empresas",
     "valor": null,
     "prazo": "2026-03-25",
-    "desc": "Chamada internacional para projetos de PD&I voltados ao fortalecimento da capacidade inovadora de pequenas e médias empresas. A proposta pode abranger qualquer área temática, incluindo aplicações agropecuárias, desde que atenda às regras da chamada.",
+    "desc": "Chamada internacional para projetos de pesquisa aplicada e cooperação entre instituições de pesquisa e pequenas e médias empresas; aplicabilidade agropecuária depende do enquadramento temático do projeto.",
     "url": "https://embrapii.org.br/chamada-cornet-network-2026/",
     "descobertoEm": "2026-11-05"
   },
@@ -15440,5 +15438,75 @@
     "desc": "Edital de fluxo contínuo para desenvolvimento, validação e implantação de soluções tecnológicas e inovadoras. As propostas devem estar alinhadas às áreas de atuação das Unidades EMBRAPII participantes.",
     "url": "https://embrapii.org.br/fapesq-lanca-chamada-para-propostas-de-inovacao-para-unidades-embrapii-na-paraiba/",
     "descobertoEm": "2026-11-06"
+  },
+  {
+    "id": "FAPEAM-012-2026",
+    "titulo": "Programa de Apoio à Startup Deep Tech para Inovação Científica e Tecnológica – Deep Tech FAPEAM",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Agronegócio sustentável",
+      "Tecnologias para sistemas produtivos amazônicos",
+      "Inovação científica e tecnológica"
+    ],
+    "publico": "Empresas brasileiras elegíveis, especialmente startups deep tech, conforme as regras do edital.",
+    "valor": "Até R$ 250.000,00",
+    "prazo": "2026-03-19",
+    "desc": "Concede subvenção econômica não reembolsável para projetos de pesquisa, desenvolvimento e inovação, incluindo agronegócio sustentável e tecnologias para sistemas produtivos amazônicos.",
+    "url": "https://temporario.fapeam.am.gov.br/editais/edital-no-012-2026-programa-de-apoio-a-startup-deep-tech-para-inovacao-cientifica-e-tecnologica-deep-tech-fapeam/",
+    "descobertoEm": "2026-11-07"
+  },
+  {
+    "id": "EMBRAPA-SOJA-OI-05",
+    "titulo": "5º Edital do Programa Soja Open Innovation",
+    "orgao": "Embrapa Soja",
+    "origem": "Interno",
+    "areas": [
+      "genética avançada",
+      "bioinsumos",
+      "agricultura digital",
+      "biotecnologia",
+      "inteligência artificial",
+      "robótica",
+      "automação"
+    ],
+    "publico": "Startups com tecnologias e soluções aplicáveis à sustentabilidade da produção de soja",
+    "valor": "Não prevê financiamento direto",
+    "prazo": null,
+    "desc": "Seleção pública para desenvolvimento de projetos de inovação aberta, com a Embrapa Soja como parceira técnica no codesenvolvimento ou aperfeiçoamento de soluções e possibilidade de acordo de cooperação técnica.",
+    "url": "https://www.embrapa.br/documents/1355202/63222921/Soja+Open+Innovation+-+Edital+de+Sele%C3%A7%C3%A3o+de+Startups+-+safra+2025-2026/ef831cb3-5641-c4ad-fcf9-9d2b49e5726a?download=true",
+    "descobertoEm": "2026-11-07"
+  },
+  {
+    "id": "EMBRAPA-CERRADOS-CP-01-2026",
+    "titulo": "Chamamento Público nº 1/2026 — Credenciamento de leiloeiros",
+    "orgao": "Embrapa Cerrados",
+    "origem": "Interno",
+    "areas": [
+      "parcerias institucionais"
+    ],
+    "publico": "Leiloeiros rurais",
+    "valor": "Não informado",
+    "prazo": null,
+    "desc": "Credenciamento de leiloeiros rurais para prestação de serviços técnicos profissionais relacionados à organização e condução de leilão público rural eletrônico.",
+    "url": "https://www.embrapa.br/en/web/cerrados/licitacoes",
+    "descobertoEm": "2026-11-07"
+  },
+  {
+    "id": "fapesq-embrapii-inovacao-2026",
+    "titulo": "Edital de Fluxo Contínuo para Projetos de Inovação e Desafio Tecnológico",
+    "orgao": "Fapesq / Unidades Embrapii da Paraíba",
+    "origem": "Estadual · AM",
+    "areas": [
+      "inovação tecnológica",
+      "agropecuária",
+      "desenvolvimento de produtos e processos"
+    ],
+    "publico": "Micro e pequenas empresas, MEIs, startups e cooperativas da Paraíba",
+    "valor": "Até R$ 200.000 por empresa participante; investimento total de até R$ 3.000.000",
+    "prazo": "2026-11-06",
+    "desc": "Financia projetos de desenvolvimento, validação e implantação de soluções tecnológicas, produtos e processos inovadores em parceria com Unidades Embrapii da Paraíba.",
+    "url": "https://embrapii.org.br/fapesq-lanca-chamada-para-propostas-de-inovacao-para-unidades-embrapii-na-paraiba/",
+    "descobertoEm": "2026-11-07"
   }
 ]
