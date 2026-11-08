@@ -13984,20 +13984,19 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 - Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa",
-      "Desenvolvimento tecnológico",
-      "Inovação",
-      "Agropecuária"
+      "Agropecuária",
+      "Ciências Agrárias",
+      "Pesquisa e desenvolvimento"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação de destaque, nas modalidades PQ, PQ-Sr e DT",
-    "valor": "R$ 23.525.040,00 para a Linha 1 (Bolsas DT); valores individuais conforme modalidade e nível",
+    "publico": "Pesquisadores com produção científica, tecnológica e de inovação elegíveis aos critérios da chamada",
+    "valor": "Bolsas de Produtividade; valor conforme modalidade e tabela vigente do CNPq",
     "prazo": "2027-01-07",
-    "desc": "Concede bolsas de Produtividade em Pesquisa (PQ), Produtividade em Pesquisa Sênior (PQ-Sr) e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT). A chamada contempla projetos em diferentes áreas do conhecimento, incluindo pesquisa agropecuária e desenvolvimento tecnológico.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
+    "desc": "Concessão de bolsas de produtividade do CNPq, aplicável a pesquisadores de áreas agropecuárias conforme enquadramento da proposta e da produção do candidato.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -14151,18 +14150,20 @@
   },
   {
     "id": "EDITAL-02-2026-EMBRAPA-CNPQ",
-    "titulo": "Edital 02/2026 – Convênio Embrapa/CNPq – Chamada 2",
+    "titulo": "Edital 02/2026 — Convênio Embrapa/CNPq — Chamada 2",
     "orgao": "Embrapa Meio-Norte / CNPq",
-    "origem": "Nacional",
+    "origem": "Interno",
     "areas": [
       "Pesquisa",
       "Desenvolvimento e inovação",
-      "Formação de recursos humanos"
+      "PIBIC",
+      "PIBITI",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
     ],
-    "publico": "Bolsistas e candidatos às vagas do Programa Institucional de Bolsas Embrapa/CNPq",
+    "publico": "Especialistas sem vínculo empregatício e estudantes de graduação e pós-graduação, conforme o perfil de cada vaga",
     "valor": null,
     "prazo": "2026-04-30",
-    "desc": "Edital para seleção de bolsistas no âmbito do convênio Embrapa/CNPq, com inscrições previstas de 14 a 30 de abril de 2026.",
+    "desc": "Seleção de bolsistas para atividades em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-10-12"
   },
@@ -15508,5 +15509,23 @@
     "desc": "Financia projetos de desenvolvimento, validação e implantação de soluções tecnológicas, produtos e processos inovadores em parceria com Unidades Embrapii da Paraíba.",
     "url": "https://embrapii.org.br/fapesq-lanca-chamada-para-propostas-de-inovacao-para-unidades-embrapii-na-paraiba/",
     "descobertoEm": "2026-11-07"
+  },
+  {
+    "id": "EDITAL-SELECAO-TECNOLOGICA-09-2026",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Multiplicação de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento vegetal",
+      "Cooperação técnica"
+    ],
+    "publico": "Produtor inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, incluindo área de 48 hectares e comodato de unidade de beneficiamento de sementes.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-11-08"
   }
 ]
