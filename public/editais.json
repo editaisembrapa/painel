@@ -5057,15 +5057,16 @@
     "orgao": "CNPq/FNDCT",
     "origem": "Nacional",
     "areas": [
-      "Ciências agrárias",
-      "Agropecuária",
-      "Pesquisa científica e tecnológica"
+      "Pesquisa científica",
+      "Desenvolvimento tecnológico",
+      "Inovação",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores vinculados a instituições de pesquisa, ensino superior ou desenvolvimento científico e tecnológico elegíveis",
-    "valor": "Até R$ 246.720,00 por projeto, conforme composição de bolsas e auxílio instalação",
-    "prazo": null,
-    "desc": "Apoio a projetos de pesquisa, desenvolvimento científico, tecnológico e inovação em qualquer área do conhecimento, com possibilidade de bolsas de pós-doutorado e pós-doutorado sênior.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
+    "publico": "Pesquisadores vinculados a instituições brasileiras de ciência, tecnologia e inovação",
+    "valor": "Não informado nos resultados consultados",
+    "prazo": "2026-08-03",
+    "desc": "Apoio a projetos de pesquisa, em qualquer área do conhecimento, com potencial de contribuição científica, tecnológica e inovadora.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
     "descobertoEm": "2026-07-27"
   },
   {
@@ -13984,18 +13985,19 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 - Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Agropecuária",
-      "Ciências Agrárias",
-      "Pesquisa e desenvolvimento"
+      "Produtividade em Pesquisa (PQ)",
+      "Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT)",
+      "Produtividade em Pesquisa Sênior (PQ-Sr)",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica e de inovação elegíveis aos critérios da chamada",
-    "valor": "Bolsas de Produtividade; valor conforme modalidade e tabela vigente do CNPq",
+    "publico": "Pesquisadores elegíveis às modalidades de bolsas de produtividade do CNPq",
+    "valor": "Bolsas de produtividade; valores não informados nos resultados consultados",
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de produtividade do CNPq, aplicável a pesquisadores de áreas agropecuárias conforme enquadramento da proposta e da produção do candidato.",
+    "desc": "Concessão de bolsas de produtividade nas modalidades PQ, DT e PQ-Sr, abrangendo áreas de pesquisa relevantes à agropecuária e à Embrapa.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-10"
   },
