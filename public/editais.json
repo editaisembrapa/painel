@@ -13985,20 +13985,21 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
+      "Agropecuária",
+      "Ciências Agrárias",
       "Pesquisa",
       "Desenvolvimento tecnológico",
-      "Extensão inovadora",
-      "Agropecuária"
+      "Extensão inovadora"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica e de inovação de destaque, nas modalidades PQ, PQSr e DT",
-    "valor": "Não informado nos resultados consultados",
+    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação destacada, nas modalidades PQ, PQ-Sr e DT.",
+    "valor": "Bolsas de produtividade conforme modalidade e normas do CNPq; valor individual não informado no resultado consultado.",
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
+    "desc": "Concede bolsas de Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -14189,16 +14190,16 @@
     "id": "SELECAO-TECNOLOGICA-09-2026-EMBRAPA-TRIGO",
     "titulo": "Edital de Seleção Tecnológica nº 09/2026",
     "orgao": "Embrapa Trigo",
-    "origem": "Nacional",
+    "origem": "Interno",
     "areas": [
       "Transferência de tecnologia",
       "Produção de sementes",
-      "Melhoramento vegetal"
+      "Cultivares"
     ],
-    "publico": "Produtor inscrito no RENASEM, apto à cooperação técnica para produção e comercialização de sementes",
+    "publico": "Produtor inscrito no RENASEM apto à multiplicação e comercialização de sementes",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de parceiro para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, incluindo exclusividade para sementes genéticas e básicas.",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares desenvolvidas pela Embrapa Trigo.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-10-12"
   },
@@ -15530,5 +15531,41 @@
     "desc": "Seleção de produtor para cooperação técnica na produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, incluindo área de 48 hectares e comodato de unidade de beneficiamento de sementes.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-11-08"
+  },
+  {
+    "id": "CHAMAMENTO-01-2026-EMBRAPA-GADO-DE-LEITE",
+    "titulo": "Edital de Chamamento Público nº 01/2026",
+    "orgao": "Embrapa Gado de Leite",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "Parcerias institucionais"
+    ],
+    "publico": "Instituições públicas ou privadas interessadas em celebrar parceria com a Embrapa Gado de Leite",
+    "valor": null,
+    "prazo": "2026-03-11",
+    "desc": "Chamamento público para apresentação de proposta e plano de trabalho visando à celebração de parceria com a Embrapa Gado de Leite.",
+    "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
+    "descobertoEm": "2026-11-11"
+  },
+  {
+    "id": "EDITAL-02-2026-EMBRAPA-CNPQ-MEIO-NORTE",
+    "titulo": "Edital 02/2026 Convênio Embrapa/CNPq",
+    "orgao": "Embrapa Meio-Norte e CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão"
+    ],
+    "publico": "Especialistas e estudantes de graduação e pós-graduação sem vínculo empregatício com a Embrapa ou outra instituição",
+    "valor": null,
+    "prazo": "2026-03-15",
+    "desc": "Seleção de candidatos a bolsas PIBIC e PIBITI para atuação em atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+Embrapa+CNpQ/f1d6cc73-7ebb-67a4-ec05-168cc38c047d",
+    "descobertoEm": "2026-11-11"
   }
 ]
