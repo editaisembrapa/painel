@@ -13990,17 +13990,16 @@
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Agropecuária",
-      "Ciências agrárias",
-      "Pesquisa",
+      "Pesquisa científica",
       "Desenvolvimento tecnológico",
-      "Inovação"
+      "Extensão inovadora",
+      "Agropecuária"
     ],
-    "publico": "Pesquisadores elegíveis às bolsas Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sr).",
-    "valor": null,
+    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação de destaque, nas modalidades PQ, PQ-Sr e DT",
+    "valor": "Bolsas conforme modalidade e normas do CNPq",
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de produtividade para pesquisadores com produção científica, tecnológica e de inovação de destaque.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026",
+    "desc": "Concessão de bolsas de Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora. Pesquisadores de agropecuária e da Embrapa podem concorrer conforme área, elegibilidade e requisitos da chamada.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -15606,5 +15605,22 @@
     "desc": "Seleção de organização da sociedade civil para apresentação de proposta e plano de trabalho visando à celebração de acordo de cooperação.",
     "url": "https://www.embrapa.br/documents/1355117/1948445/EDITAL+CHAMAMENTO+01-2026.pdf/bfdb442b-5cdd-9b6f-8bd7-b7eb12afbaeb",
     "descobertoEm": "2026-11-13"
+  },
+  {
+    "id": "cornet-41-2026",
+    "titulo": "41ª Chamada Internacional da Rede Cornet para Projetos de Inovação",
+    "orgao": "Embrapii",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento e inovação",
+      "Agropecuária"
+    ],
+    "publico": "Pequenas e médias empresas brasileiras em consórcios com organizações de pelo menos dois países ou regiões participantes",
+    "valor": "Não informado",
+    "prazo": "2026-03-25",
+    "desc": "Chamada internacional para projetos de PD&I em qualquer área temática, aplicável à pesquisa agropecuária brasileira quando fortalecer a capacidade inovadora de pequenas e médias empresas.",
+    "url": "https://embrapii.org.br/esta-aberta-a-41a-chamada-internacional-da-rede-cornet-para-projetos-de-inovacao/",
+    "descobertoEm": "2026-11-14"
   }
 ]
