@@ -5054,19 +5054,19 @@
   {
     "id": "CNPq-FNDCT-06-2026",
     "titulo": "Chamada CNPq/FNDCT nº 06/2026 – Universal",
-    "orgao": "CNPq/FNDCT",
+    "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Pesquisa científica",
+      "Agropecuária",
       "Desenvolvimento tecnológico",
-      "Inovação",
-      "Agropecuária"
+      "Inovação"
     ],
-    "publico": "Pesquisadores vinculados a instituições brasileiras de ciência, tecnologia e inovação",
-    "valor": "Não informado nos resultados consultados",
-    "prazo": "2026-08-03",
-    "desc": "Apoio a projetos de pesquisa, em qualquer área do conhecimento, com potencial de contribuição científica, tecnológica e inovadora.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/chamada-publica-cnpq-N-06-2026",
+    "publico": "Pesquisadores vinculados a instituições de ensino, pesquisa, ciência, tecnologia e inovação",
+    "valor": null,
+    "prazo": null,
+    "desc": "Apoia projetos de pesquisa científica, tecnológica e de inovação em qualquer área do conhecimento, incluindo temas agropecuários. A submissão encerrou-se em 2026; portanto, não está aberta no momento.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-06-2026/ChamadaUniversal062026.pdf",
     "descobertoEm": "2026-07-27"
   },
   {
@@ -14812,16 +14812,16 @@
     "id": "selecao-tecnologica-09-2026-embrapa-trigo",
     "titulo": "Edital de Seleção Tecnológica nº 09/2026",
     "orgao": "Embrapa Trigo",
-    "origem": "Interno",
+    "origem": "Nacional",
     "areas": [
       "Transferência de tecnologia",
-      "Produção e comercialização de sementes",
-      "Melhoramento vegetal"
+      "Produção de sementes",
+      "Comercialização de cultivares"
     ],
-    "publico": "Produtores inscritos no RENASEM",
+    "publico": "Produtor inscrito no RENASEM.",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares de titularidade da Embrapa Trigo.",
+    "desc": "Seleção de parceiro para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, com exclusividade para sementes genéticas e básicas.",
     "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-10-24"
   },
@@ -15622,5 +15622,43 @@
     "desc": "Chamada internacional para projetos de PD&I em qualquer área temática, aplicável à pesquisa agropecuária brasileira quando fortalecer a capacidade inovadora de pequenas e médias empresas.",
     "url": "https://embrapii.org.br/esta-aberta-a-41a-chamada-internacional-da-rede-cornet-para-projetos-de-inovacao/",
     "descobertoEm": "2026-11-14"
+  },
+  {
+    "id": "CNPq-CT-BIOTEC-FNDCT-MCTI-24-2026",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI nº 24/2026 – Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+    "orgao": "CNPq",
+    "origem": "Nacional",
+    "areas": [
+      "Biotecnologia agropecuária",
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial",
+      "Pesquisa e desenvolvimento",
+      "Inovação"
+    ],
+    "publico": "Pesquisadores e instituições de ciência, tecnologia e inovação elegíveis conforme o edital",
+    "valor": "R$ 72.200.000,00",
+    "prazo": "2026-09-18",
+    "desc": "Apoia projetos de pesquisa, desenvolvimento e inovação em biotecnologia, incluindo expressamente a biotecnologia agropecuária. A submissão encerrou-se em 18 de setembro de 2026.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/Chamada_24_2026.pdf",
+    "descobertoEm": "2026-11-15"
+  },
+  {
+    "id": "edital-02-2026-embrapa-cnpq-chamada-2",
+    "titulo": "Edital 02/2026 – Chamada 2 – Bolsas CNPq",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Nacional",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento",
+      "Inovação",
+      "PIBIC",
+      "PIBITI"
+    ],
+    "publico": "Especialistas sem vínculo empregatício e estudantes de graduação e pós-graduação, conforme o perfil de cada vaga.",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de candidatos a bolsas do programa Embrapa/CNPq para atividades em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-11-15"
   }
 ]
