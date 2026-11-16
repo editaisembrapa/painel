@@ -13986,20 +13986,20 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
-      "Pesquisa científica",
+      "Pesquisa",
       "Desenvolvimento tecnológico",
       "Extensão inovadora",
       "Agropecuária"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação de destaque, nas modalidades PQ, PQ-Sr e DT",
-    "valor": "Bolsas conforme modalidade e normas do CNPq",
+    "publico": "Pesquisadores com produção científica, tecnológica e de inovação de destaque, nas modalidades PQ, PQ-Sr e DT.",
+    "valor": "Bolsas conforme modalidade e nível, segundo a chamada.",
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora. Pesquisadores de agropecuária e da Embrapa podem concorrer conforme área, elegibilidade e requisitos da chamada.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
+    "desc": "Concessão de bolsas de Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -15355,20 +15355,18 @@
   },
   {
     "id": "embrapii-cornet-2026-1",
-    "titulo": "Chamada CORNET Network 2026/1",
+    "titulo": "Chamada CORNET NETWORK 2026/1",
     "orgao": "EMBRAPII",
     "origem": "Internacional",
     "areas": [
-      "pesquisa aplicada",
-      "inovação agropecuária",
-      "agricultura",
-      "produção de alimentos",
-      "cooperação internacional"
+      "Pesquisa, desenvolvimento e inovação",
+      "Agricultura",
+      "Produção de alimentos"
     ],
-    "publico": "Instituições de pesquisa, associações e clusters de pequenas e médias empresas, com cooperação internacional e participação brasileira elegível",
+    "publico": "Empresas brasileiras e parceiros internacionais em projetos colaborativos de inovação",
     "valor": null,
     "prazo": "2026-03-25",
-    "desc": "Chamada internacional para projetos de pesquisa aplicada e inovação com impacto no setor produtivo. A página oficial informa inscrições até 25 de março de 2026, mas o valor disponível não é indicado no resultado consultado.",
+    "desc": "Chamada internacional da rede CORNET para projetos colaborativos de pesquisa e inovação, com participação brasileira por meio da EMBRAPII. A fonte consultada confirma a abertura e o prazo, mas não informa valor específico nem detalha a elegibilidade agropecuária na página da chamada.",
     "url": "https://embrapii.org.br/chamada-cornet-network-2026/",
     "descobertoEm": "2026-11-05"
   },
