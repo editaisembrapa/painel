@@ -6147,21 +6147,20 @@
   },
   {
     "id": "CNPq-24-2026",
-    "titulo": "Chamada CNPq nº 24/2026 — Biotecnologia",
+    "titulo": "Chamada CNPq/CT-Biotec/FNDCT/MCTI nº 24/2026 — Apoio à Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
       "Biotecnologia agropecuária",
-      "Bioinsumos",
-      "Mudanças climáticas",
-      "Agricultura",
-      "Pecuária",
-      "Desenvolvimento tecnológico"
+      "Biotecnologia ambiental",
+      "Biotecnologia industrial",
+      "Pesquisa",
+      "Desenvolvimento e inovação"
     ],
-    "publico": "Pesquisadores e equipes de instituições científicas, tecnológicas e de inovação, conforme regras da chamada.",
-    "valor": null,
-    "prazo": "2026-09-18",
-    "desc": "Apoio a projetos de pesquisa e inovação em biotecnologia, incluindo bioinsumos para agropecuária, tecnologias para escalonamento de bioinsumos e diversificação da produção agropecuária para adaptação às mudanças climáticas.",
+    "publico": "Pesquisadores e equipes de instituições elegíveis, individualmente ou em redes de PD&I",
+    "valor": "Financiamento conforme faixas, modalidades e limites definidos no edital",
+    "prazo": null,
+    "desc": "Apoio a projetos de pesquisa, desenvolvimento e inovação em biotecnologia, incluindo biotecnologia agropecuária.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-24-2026/Chamada_24_2026.pdf",
     "descobertoEm": "2026-08-08"
   },
@@ -13986,20 +13985,21 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade",
+    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sr)",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
+      "Agropecuária",
+      "Ciências Agrárias",
       "Pesquisa",
       "Desenvolvimento tecnológico",
-      "Extensão inovadora",
-      "Agropecuária"
+      "Inovação"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica e de inovação de destaque, nas modalidades PQ, PQ-Sr e DT.",
-    "valor": "Bolsas conforme modalidade e nível, segundo a chamada.",
+    "publico": "Pesquisadores com produção científica, tecnológica e de inovação de destaque, conforme requisitos da chamada",
+    "valor": "Bolsas nas modalidades PQ, DT e PQ-Sr; valores conforme modalidade e categoria",
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf",
+    "desc": "Concessão de bolsas de produtividade para pesquisadores com projetos de pesquisa rigorosos e produção científica, tecnológica ou de inovação relevante.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/Chamada_Produtividade_33_2026.pdf/@@download/file",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -15411,19 +15411,19 @@
   },
   {
     "id": "EDITAL-09-2026",
-    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Gestão de produção de sementes de genética vegetal",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — multiplicação de sementes",
     "orgao": "Embrapa Trigo",
     "origem": "Interno",
     "areas": [
-      "Transferência de tecnologia",
-      "Produção e comercialização de sementes",
-      "Melhoramento vegetal"
+      "transferência de tecnologia",
+      "produção e comercialização de sementes",
+      "melhoramento vegetal"
     ],
     "publico": "Produtor inscrito no RENASEM",
     "valor": null,
     "prazo": "2026-08-07",
-    "desc": "Seleção de produtor para cooperação técnica na multiplicação, produção e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, com contrato previsto por cinco anos.",
-    "url": "https://www.embrapa.br/editais-e-ofertas-publicas-para-licenciamento/",
+    "desc": "Seleção de produtor para cooperação técnica na produção e comercialização de sementes de cultivares da Embrapa Trigo, com previsão de exclusividade por cinco anos.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
     "descobertoEm": "2026-11-06"
   },
   {
@@ -15658,5 +15658,39 @@
     "desc": "Seleção de candidatos a bolsas do programa Embrapa/CNPq para atividades em projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-11-15"
+  },
+  {
+    "id": "EDITAL-02-2026-CHAMADA-2",
+    "titulo": "Edital 02/2026 — Chamada 2 — Bolsas CNPq",
+    "orgao": "Embrapa Meio-Norte",
+    "origem": "Nacional",
+    "areas": [
+      "pesquisa",
+      "desenvolvimento e inovação",
+      "projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
+    ],
+    "publico": "Especialistas sem vínculo empregatício e estudantes de graduação e pós-graduação, conforme o perfil das vagas",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para o Programa de Bolsas Embrapa/CNPq, PIBIC e PIBITI, com atividades em projetos de pesquisa, desenvolvimento e inovação aprovados pelo SEG. Inscrições de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-11-17"
+  },
+  {
+    "id": "cornet-network-2026-1",
+    "titulo": "41ª Call for Proposals CORNET Network 2026/1",
+    "orgao": "EMBRAPII / CORNET",
+    "origem": "Internacional",
+    "areas": [
+      "Pesquisa aplicada",
+      "Inovação agropecuária",
+      "Agricultura e produção de alimentos"
+    ],
+    "publico": "Instituições de pesquisa, associações, clusters e pequenas e médias empresas em cooperação internacional",
+    "valor": null,
+    "prazo": "2026-03-25",
+    "desc": "Chamada internacional para projetos de pesquisa aplicada e cooperação entre instituições de pesquisa, associações, clusters e PMEs. Não há restrição temática pré-definida, permitindo propostas relacionadas à agropecuária brasileira.",
+    "url": "https://embrapii.org.br/chamada-cornet-network-2026/",
+    "descobertoEm": "2026-11-17"
   }
 ]
