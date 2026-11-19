@@ -13985,7 +13985,7 @@
   },
   {
     "id": "CNPq-33-2026",
-    "titulo": "Chamada CNPq nº 33/2026 — Bolsas de Produtividade do CNPq",
+    "titulo": "Chamada CNPq nº 33/2026 – Bolsas de Produtividade do CNPq",
     "orgao": "CNPq",
     "origem": "Nacional",
     "areas": [
@@ -13994,10 +13994,10 @@
       "Extensão inovadora",
       "Agropecuária"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica e de inovação de destaque, nas modalidades PQ, PQ-Sênior e DT",
-    "valor": "Não especificado nos resultados consultados",
+    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação de destaque, nas modalidades PQ, PQ-Sr e DT",
+    "valor": "Bolsas nas modalidades PQ, PQ-Sr e DT; valores conforme normas específicas do CNPq",
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de Produtividade em Pesquisa, Produtividade em Pesquisa Sênior e Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora, aplicável a pesquisadores de áreas agropecuárias conforme a área de conhecimento da proposta.[1][2]",
+    "desc": "Concessão de bolsas de produtividade para pesquisadores com produção científica, tecnológica e de inovação relevante.",
     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/",
     "descobertoEm": "2026-10-10"
   },
@@ -15691,5 +15691,22 @@
     "desc": "Chamada internacional para projetos de pesquisa aplicada e cooperação entre instituições de pesquisa, associações, clusters e PMEs. Não há restrição temática pré-definida, permitindo propostas relacionadas à agropecuária brasileira.",
     "url": "https://embrapii.org.br/chamada-cornet-network-2026/",
     "descobertoEm": "2026-11-17"
+  },
+  {
+    "id": "edital-02-2026-chamada-02-embrapa-cnpq-meio-norte",
+    "titulo": "Edital 02/2026 – Chamada 02 – Bolsas CNPq",
+    "orgao": "Embrapa Meio-Norte / CNPq",
+    "origem": "Interno",
+    "areas": [
+      "Pesquisa",
+      "Desenvolvimento e inovação",
+      "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
+    ],
+    "publico": "Candidatos a bolsistas do Programa Institucional de Bolsas Embrapa/CNPq",
+    "valor": null,
+    "prazo": "2026-04-30",
+    "desc": "Seleção de bolsistas para atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
+    "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
+    "descobertoEm": "2026-11-19"
   }
 ]
