@@ -15139,15 +15139,15 @@
   },
   {
     "id": "edital-02-2026-chamada-02-embrapa-cnpq",
-    "titulo": "Edital 02/2026 — Chamada 02/2026 — Convênio Embrapa/CNPq",
-    "orgao": "Embrapa Meio-Norte",
+    "titulo": "Edital nº 02/2026 — Chamada nº 02/2026 — Programa de Bolsas Embrapa/CNPq",
+    "orgao": "Embrapa Meio-Norte e CNPq",
     "origem": "Interno",
     "areas": [
       "Pesquisa",
       "Desenvolvimento e inovação",
       "Projetos aprovados pelo Sistema Embrapa de Gestão (SEG)"
     ],
-    "publico": "Candidatos a bolsas do Programa Institucional de Bolsas Embrapa/CNPq",
+    "publico": "Especialistas sem vínculo empregatício e estudantes de graduação e pós-graduação, conforme o perfil das vagas",
     "valor": null,
     "prazo": "2026-04-30",
     "desc": "Seleção de bolsistas para atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
@@ -15427,19 +15427,19 @@
   },
   {
     "id": "fapesq-embrapii-2026",
-    "titulo": "Chamada para propostas de inovação para Unidades EMBRAPII na Paraíba",
-    "orgao": "FAPESQ",
+    "titulo": "Chamada de Fluxo Contínuo para Propostas de Inovação e Desafio Tecnológico",
+    "orgao": "FAPESQ e Unidades EMBRAPII da Paraíba",
     "origem": "Nacional",
     "areas": [
       "inovação agropecuária",
-      "tecnologias agroindustriais",
-      "desenvolvimento de produtos e processos",
-      "desafios tecnológicos"
+      "pesquisa e desenvolvimento",
+      "tecnologias para agricultura",
+      "sociobioeconomia"
     ],
-    "publico": "Micro e pequenas empresas, MEIs, startups e cooperativas com CNPJ ativo na Paraíba, em parceria com Unidades EMBRAPII da UEPB, UFCG ou IFPB",
-    "valor": "Até R$ 200.000 por empresa; investimento total de até R$ 3.000.000",
+    "publico": "Micro e pequenas empresas, MEIs, startups e cooperativas da Paraíba, em parceria com Unidades EMBRAPII",
+    "valor": "Até R$ 200.000 por empresa participante; investimento total de até R$ 3.000.000",
     "prazo": "2026-11-06",
-    "desc": "Edital de fluxo contínuo para desenvolvimento, validação e implantação de soluções tecnológicas e inovadoras. As propostas devem estar alinhadas às áreas de atuação das Unidades EMBRAPII participantes.",
+    "desc": "Apoio não reembolsável a projetos de PD&I, desenvolvimento, validação e implantação de soluções tecnológicas, produtos e processos inovadores.",
     "url": "https://embrapii.org.br/fapesq-lanca-chamada-para-propostas-de-inovacao-para-unidades-embrapii-na-paraiba/",
     "descobertoEm": "2026-11-06"
   },
@@ -15605,18 +15605,19 @@
   },
   {
     "id": "cornet-41-2026",
-    "titulo": "41ª Chamada Internacional da Rede Cornet para Projetos de Inovação",
-    "orgao": "Embrapii",
+    "titulo": "41ª Chamada Internacional da Rede CORNET",
+    "orgao": "Rede CORNET e EMBRAPII",
     "origem": "Internacional",
     "areas": [
-      "Pesquisa",
-      "Desenvolvimento e inovação",
-      "Agropecuária"
+      "pesquisa aplicada",
+      "desenvolvimento experimental",
+      "inovação para pequenas e médias empresas",
+      "agropecuária"
     ],
-    "publico": "Pequenas e médias empresas brasileiras em consórcios com organizações de pelo menos dois países ou regiões participantes",
-    "valor": "Não informado",
+    "publico": "Pequenas e médias empresas e consórcios de pesquisa envolvendo pelo menos dois países ou regiões participantes",
+    "valor": "Não informado na fonte oficial consultada",
     "prazo": "2026-03-25",
-    "desc": "Chamada internacional para projetos de PD&I em qualquer área temática, aplicável à pesquisa agropecuária brasileira quando fortalecer a capacidade inovadora de pequenas e médias empresas.",
+    "desc": "Chamada internacional para projetos de pesquisa, desenvolvimento e inovação em qualquer área temática voltada ao fortalecimento da capacidade inovadora de pequenas e médias empresas.",
     "url": "https://embrapii.org.br/esta-aberta-a-41a-chamada-internacional-da-rede-cornet-para-projetos-de-inovacao/",
     "descobertoEm": "2026-11-14"
   },
@@ -15708,5 +15709,59 @@
     "desc": "Seleção de bolsistas para atividades de projetos de pesquisa, desenvolvimento e inovação aprovados pelo Sistema Embrapa de Gestão (SEG). Inscrições de 14 a 30 de abril de 2026.",
     "url": "https://www.embrapa.br/documents/1354386/112745051/Edital+02+2026+-+Chamada+2/f5b283b9-1304-156c-704d-1b67bc3ff729",
     "descobertoEm": "2026-11-19"
+  },
+  {
+    "id": "FAPEAM-004-2026",
+    "titulo": "Programa Estratégico de Desenvolvimento do Setor Primário Produtivo Amazonense – PROSPAM/FAPEAM",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Produção e melhoramento vegetal",
+      "Produção e melhoramento animal",
+      "Manejo sustentável de recursos florestais madeireiros e não madeireiros",
+      "Manejo sustentável de recursos pesqueiros",
+      "Recuperação de áreas degradadas para fins produtivos"
+    ],
+    "publico": "Pesquisadores mestres e doutores vinculados a instituições públicas de ensino superior e/ou pesquisa localizadas no Estado do Amazonas",
+    "valor": "R$ 3.000.000,00 no total, para até 20 propostas; vigência de 24 meses",
+    "prazo": "2026-04-17",
+    "desc": "Apoio a pesquisas científicas, tecnológicas, de inovação ou transferência tecnológica voltadas ao desenvolvimento sustentável do setor primário produtivo amazonense.",
+    "url": "https://temporario.fapeam.am.gov.br/editais/edital-no-0042026-programa-estrategico-de-desenvolvimento-do-setor-primario-produtivo-amazonense-prospamfapeam/",
+    "descobertoEm": "2026-11-21"
+  },
+  {
+    "id": "edital-09-2026-embrapa-trigo",
+    "titulo": "Edital de Seleção Tecnológica nº 09/2026 — Cooperação técnica e financeira para produção de sementes",
+    "orgao": "Embrapa Trigo",
+    "origem": "Interno",
+    "areas": [
+      "Transferência de tecnologia",
+      "Produção e comercialização de sementes",
+      "Melhoramento vegetal"
+    ],
+    "publico": "Produtor inscrito no RENASEM",
+    "valor": null,
+    "prazo": "2026-08-07",
+    "desc": "Seleção de parceiro para multiplicação e comercialização exclusiva de sementes genéticas e básicas de cultivares da Embrapa Trigo, incluindo uso de infraestrutura e comodato de unidade de beneficiamento de sementes.",
+    "url": "https://www.embrapa.br/busca-de-noticias/-/noticia/145795360/embrapa-busca-parceiro-para-multiplicacao-de-sementes",
+    "descobertoEm": "2026-11-21"
+  },
+  {
+    "id": "compete-minas-embrapii-2026",
+    "titulo": "Chamada Compete Minas",
+    "orgao": "FAPEMIG, com apoio da EMBRAPII",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura sustentável",
+      "inovação tecnológica",
+      "tecnologias disruptivas",
+      "desenvolvimento tecnológico"
+    ],
+    "publico": "Empresas e cooperativas mineiras; projetos em parceria com empresas e ICTs de Minas Gerais ou conduzidos exclusivamente por empresas e cooperativas",
+    "valor": "R$ 50.000.000 no total; valor por projeto não informado na fonte consultada",
+    "prazo": "2026-07-30",
+    "desc": "Financiamento de projetos de desenvolvimento tecnológico e inovação, incluindo agricultura sustentável e cadeias produtivas tradicionais; projetos da linha Tríplice Hélice podem utilizar Unidades EMBRAPII mineiras.",
+    "url": "https://embrapii.org.br/fapemig-lanca-chamada-com-r-50-milhoes-para-inovacao-em-minas-gerais-com-o-apoio-da-embrapii/",
+    "descobertoEm": "2026-11-21"
   }
 ]
