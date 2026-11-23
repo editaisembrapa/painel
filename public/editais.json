@@ -15831,5 +15831,40 @@
     "desc": "Chamada para selecionar propostas de inovação industrial em sociobioeconomia, com subsídio da contrapartida financeira em projetos desenvolvidos em Unidades EMBRAPII.",
     "url": "https://embrapii.org.br/embrapii-e-conexsus-anunciam-parceria-para-fortalecer-a-inovacao-na-amazonia/",
     "descobertoEm": "2026-11-22"
+  },
+  {
+    "id": "FAPESQ-EMBRAPII-2026",
+    "titulo": "Chamada de Fluxo Contínuo para Propostas de Inovação e Desafio Tecnológico",
+    "orgao": "FAPESQ e Unidades EMBRAPII da Paraíba",
+    "origem": "Estadual · AM",
+    "areas": [
+      "inovação tecnológica",
+      "agricultura",
+      "desenvolvimento de produtos e processos"
+    ],
+    "publico": "Empresas e instituições parceiras das Unidades EMBRAPII sediadas na Paraíba",
+    "valor": "Até R$ 3.000.000",
+    "prazo": "2026-11-06",
+    "desc": "Chamada para desenvolvimento, validação e implantação de soluções tecnológicas, produtos e processos inovadores. A aplicabilidade agropecuária depende do escopo do projeto submetido.",
+    "url": "https://embrapii.org.br/fapesq-lanca-chamada-para-propostas-de-inovacao-para-unidades-embrapii-na-paraiba/",
+    "descobertoEm": "2026-11-23"
+  },
+  {
+    "id": "FAPEMIG-COMPETE-MINAS-2026",
+    "titulo": "Chamada Compete Minas com apoio da EMBRAPII",
+    "orgao": "FAPEMIG",
+    "origem": "Nacional",
+    "areas": [
+      "agricultura sustentável",
+      "tecnologias disruptivas",
+      "indústria 4.0",
+      "desenvolvimento tecnológico"
+    ],
+    "publico": "Empresas e cooperativas mineiras, inclusive em parceria com ICTs de Minas Gerais",
+    "valor": "R$ 50.000.000 no total",
+    "prazo": "2026-07-30",
+    "desc": "Financiamento de projetos empresariais e de parceria entre empresas e instituições científicas, tecnológicas e de inovação, incluindo agricultura sustentável e cadeias produtivas tradicionais.",
+    "url": "https://embrapii.org.br/fapemig-lanca-chamada-com-r-50-milhoes-para-inovacao-em-minas-gerais-com-o-apoio-da-embrapii/",
+    "descobertoEm": "2026-11-23"
   }
 ]
