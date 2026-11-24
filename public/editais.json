@@ -13991,14 +13991,13 @@
     "areas": [
       "Pesquisa",
       "Desenvolvimento tecnológico",
-      "Extensão inovadora",
       "Agropecuária"
     ],
-    "publico": "Pesquisadores com produção científica, tecnológica ou de inovação de destaque, nas modalidades PQ, PQ-Sr e DT",
-    "valor": "Bolsas nas modalidades PQ, PQ-Sr e DT; valores conforme normas específicas do CNPq",
+    "publico": "Pesquisadores elegíveis às bolsas de Produtividade em Pesquisa (PQ), Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT) e Produtividade em Pesquisa Sênior (PQ-Sr).",
+    "valor": null,
     "prazo": "2027-01-07",
-    "desc": "Concessão de bolsas de produtividade para pesquisadores com produção científica, tecnológica e de inovação relevante.",
-    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/",
+    "desc": "Concessão de bolsas de produtividade nas modalidades PQ, DT e PQ-Sr, aplicável a pesquisadores de áreas agropecuárias conforme a área de atuação e os critérios da chamada.",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-33-2026/chamada-publica-cnpq-N-33-2026",
     "descobertoEm": "2026-10-10"
   },
   {
@@ -15427,19 +15426,18 @@
   },
   {
     "id": "fapesq-embrapii-2026",
-    "titulo": "Chamada de Fluxo Contínuo para Propostas de Inovação e Desafio Tecnológico",
-    "orgao": "FAPESQ e Unidades EMBRAPII da Paraíba",
-    "origem": "Nacional",
+    "titulo": "Edital de Fluxo Contínuo para Propostas de Inovação e Desafio Tecnológico",
+    "orgao": "FAPESQ-PB e Unidades EMBRAPII da Paraíba",
+    "origem": "Estadual · AM",
     "areas": [
       "inovação agropecuária",
-      "pesquisa e desenvolvimento",
-      "tecnologias para agricultura",
-      "sociobioeconomia"
+      "desenvolvimento tecnológico",
+      "produtos e processos inovadores"
     ],
-    "publico": "Micro e pequenas empresas, MEIs, startups e cooperativas da Paraíba, em parceria com Unidades EMBRAPII",
-    "valor": "Até R$ 200.000 por empresa participante; investimento total de até R$ 3.000.000",
+    "publico": "Micro e pequenas empresas, MEIs, startups e cooperativas da Paraíba",
+    "valor": "Até R$ 3.000.000 no total",
     "prazo": "2026-11-06",
-    "desc": "Apoio não reembolsável a projetos de PD&I, desenvolvimento, validação e implantação de soluções tecnológicas, produtos e processos inovadores.",
+    "desc": "Chamada de fluxo contínuo para projetos de inovação e desafios tecnológicos em parceria com Unidades EMBRAPII da Paraíba.",
     "url": "https://embrapii.org.br/fapesq-lanca-chamada-para-propostas-de-inovacao-para-unidades-embrapii-na-paraiba/",
     "descobertoEm": "2026-11-06"
   },
@@ -15748,18 +15746,18 @@
   {
     "id": "compete-minas-embrapii-2026",
     "titulo": "Chamada Compete Minas",
-    "orgao": "FAPEMIG, com apoio da EMBRAPII",
+    "orgao": "FAPEMIG",
     "origem": "Nacional",
     "areas": [
       "agricultura sustentável",
-      "inovação tecnológica",
       "tecnologias disruptivas",
-      "desenvolvimento tecnológico"
+      "desenvolvimento tecnológico",
+      "inovação empresarial"
     ],
-    "publico": "Empresas e cooperativas mineiras; projetos em parceria com empresas e ICTs de Minas Gerais ou conduzidos exclusivamente por empresas e cooperativas",
-    "valor": "R$ 50.000.000 no total; valor por projeto não informado na fonte consultada",
+    "publico": "Empresas e cooperativas mineiras; projetos empresariais ou em parceria com ICTs de Minas Gerais",
+    "valor": "R$ 50.000.000 no total",
     "prazo": "2026-07-30",
-    "desc": "Financiamento de projetos de desenvolvimento tecnológico e inovação, incluindo agricultura sustentável e cadeias produtivas tradicionais; projetos da linha Tríplice Hélice podem utilizar Unidades EMBRAPII mineiras.",
+    "desc": "Financiamento de projetos de desenvolvimento tecnológico e inovação, incluindo agricultura sustentável, com apoio da EMBRAPII.",
     "url": "https://embrapii.org.br/fapemig-lanca-chamada-com-r-50-milhoes-para-inovacao-em-minas-gerais-com-o-apoio-da-embrapii/",
     "descobertoEm": "2026-11-21"
   },
