@@ -15864,5 +15864,24 @@
     "desc": "Financiamento de projetos empresariais e de parceria entre empresas e instituições científicas, tecnológicas e de inovação, incluindo agricultura sustentável e cadeias produtivas tradicionais.",
     "url": "https://embrapii.org.br/fapemig-lanca-chamada-com-r-50-milhoes-para-inovacao-em-minas-gerais-com-o-apoio-da-embrapii/",
     "descobertoEm": "2026-11-23"
+  },
+  {
+    "id": "FAPEAM-004-2026-PROSPAM",
+    "titulo": "Programa Estratégico de Desenvolvimento do Setor Primário Produtivo Amazonense – PROSPAM/FAPEAM",
+    "orgao": "FAPEAM",
+    "origem": "Estadual · AM",
+    "areas": [
+      "Produção vegetal",
+      "Melhoramento vegetal",
+      "Produção animal",
+      "Melhoramento animal",
+      "Setor primário produtivo"
+    ],
+    "publico": "Pesquisadores vinculados a instituições públicas de ensino superior e/ou pesquisa localizadas no Estado do Amazonas",
+    "valor": null,
+    "prazo": null,
+    "desc": "Apoia projetos relacionados ao desenvolvimento do setor primário produtivo amazonense, incluindo produção e melhoramento vegetal e produção e melhoramento animal.",
+    "url": "https://temporario.fapeam.am.gov.br/editais/edital-no-0042026-programa-estrategico-de-desenvolvimento-do-setor-primario-produtivo-amazonense-prospamfapeam/",
+    "descobertoEm": "2026-11-25"
   }
 ]
